@@ -1,0 +1,515 @@
+--- PAGE 632 ---
+hen you walk into a restaurant to buy a meal, you get something of value—a 
+full stomach. To pay for this service, you might hand the restaurateur 
+several worn-out pieces of greenish paper decorated with strange symbols, 
+government buildings, and the portraits of famous dead Americans. Or you might 
+hand her a single piece of paper with the name of a bank and your signature. 
+Or you might show her a plastic card and sign a paper slip. Whether you pay 
+by cash, check, or debit card, the restaurateur is happy to work hard to satisfy 
+your gastronomical desires in exchange for these pieces of paper, which, in and of 
+themselves, are worthless.
+Anyone who has lived in a modern economy is familiar with 
+this social custom. Even though paper money has no 
+intrinsic value, the restaurateur is confident 
+--- PAGE 633 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+that, in the future, some third person will accept it in exchange for something 
+that the restaurateur does value. And that third person is confident that some 
+fourth person will accept the money, with the knowledge that yet a fifth person 
+will accept the money . . . and so on. To the restaurateur and to other people in 
+our society, your cash, check, or debit card receipt represents a claim to goods and 
+The social custom of using money for transactions is extraordinarily useful in a 
+large, complex society. Imagine, for a moment, that there was no item in the econ-
+omy widely accepted in exchange for goods and services. People would have to rely 
+on barter—the exchange of one good or service for another—to obtain the things 
+they need. To get your restaurant meal, for instance, you would have to offer the 
+restaurateur something of immediate value. You could offer to wash some dishes, 
+mow her lawn, or give her your family’s secret recipe for meat loaf. An economy 
+that relies on barter will have trouble allocating its scarce resources efficiently. In 
+such an economy, trade is said to require the double coincidence of wants—the  unlikely 
+occurrence that two people each have a good or service that the other wants.
+The existence of money makes trade easier. The restaurateur does not care 
+whether you can produce a valuable good or s
+--- PAGE 634 ---
+CHAPTER 29   THE MONETARY SYSTEM
+29-1a The Functions of Money
+Money has three functions in the economy: It is a medium of exchange, a unit of 
+account, and a store of value. These three functions together distinguish money 
+from other assets in the economy, such as stocks, bonds, real estate, art, and even 
+baseball cards. Let’s examine each of these functions of money.
+A medium of exchange is an item that buyers give to sellers when they purchase 
+goods and services. When you go to a store to buy a shirt, the store gives you the 
+shirt and you give the store your money. This transfer of money from buyer to 
+seller allows the transaction to take place. When you walk into a store, you are 
+confident that the store will accept your money for the items it is selling because 
+money is the commonly accepted medium of exchange. 
+A unit of account is the yardstick people use to post prices and record debts. 
+When you go shopping, you might observe that a shirt costs $50 and a hamburger 
+costs $5. Even though it would be accurate to say that the price of a shirt is 10 
+hamburgers and the price of a hamburger is 1/10  of a shirt, prices are never quoted 
+in this way. Similarly, if you take out a loan from a bank, the size of your future 
+loan repayments will be measured in dollars, not in a quantity of goods and 
+services. When we want to measure and record economic value, we use money 
+--- PAGE 635 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+Another example of commodity money is cigarettes. In prisoner-of-war camps 
+during World War II, prisoners traded goods and services with one another 
+using cigarettes as the store of value, unit of account, and medium of exchange. 
+Similarly, as the Soviet Union was breaking up in the late 1980s, cigarettes started 
+replacing the ruble as the preferred currency in Moscow. In both cases, even 
+nonsmokers were happy to accept cigarettes in an exchange, knowing that they 
+could use the cigarettes to buy other goods and services.
+Money without intrinsic value is called fiat money. A fiat is an order or decree, and 
+fiat money is established as money by government decree. For example, compare the 
+paper dollars in your wallet (printed by the U.S. government) and the paper dollars 
+from a game of Monopoly (printed by the Parker Brothers game company). Why can 
+you use the first to pay your bill at a restaurant but not the second? The answer is that 
+the U.S. government has decreed its dollars to be valid money. Each paper dollar in 
+your wallet reads: “This note is legal tender for all debts, public and private.”
+Although the government is central to establishing and regulating a system 
+of fiat money (by prosecuting counterfeiters, for example), other factors are 
+also required for the success of such a monetary system. To a large extent, t
+--- PAGE 636 ---
+CHAPTER 29   THE MONETARY SYSTEM
+29-1c Money in the U.S. Economy
+As we will see, the quantity of money circulating in the economy, called the money 
+stock, has a powerful influence on many economic variables. But before we consider 
+why that is true, we need to ask a preliminary question: What is the quantity of 
+money? In particular, suppose you were given the task of measuring how much 
+money there is in the U.S. economy. What would you include in your measure?
+The most obvious asset to include is currency—the paper bills and coins in 
+the hands of the public. Currency is clearly the most widely accepted medium of 
+exchange in our economy. There is no doubt that it is part of the money stock.
+Yet currency is not the only asset that you can use to buy goods and services. 
+Many stores also accept personal checks. Wealth held in your checking account is 
+almost as convenient for buying things as wealth held in your wallet. To measure 
+the money stock, therefore, you might want to include demand deposits—balances 
+in bank accounts that depositors can access on demand simply by writing a check 
+or swiping a debit card at a store.
+Once you start to consider balances in checking accounts as part of the money 
+stock, you are led to consider the large variety of other accounts that people hold 
+at banks and other financial institutions. Bank depositors usually cannot write 
+checks aga
+--- PAGE 637 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+In a complex economy such as ours, it is not easy to draw a line between assets 
+that can be called “money” and assets that cannot. The coins in your pocket 
+clearly are part of the money stock, and the Empire State Building clearly is not, 
+but there are many assets in between these extremes for which the choice is less 
+clear. Because different analysts can reasonably disagree about where to draw the 
+dividing line between monetary and nonmonetary assets, various measures of 
+the money stock are available for the U.S. economy. Figure 1 shows the two most 
+commonly used, designated M1 and M2. M2 includes more assets in its measure 
+For our purposes in this book, we need not dwell on the differences between the 
+various measures of money. None of our discussion will hinge on the distinction 
+between M1 and M2. The important point is that the money stock for the U.S. 
+economy includes not only currency but also deposits in banks and other financial 
+institutions that can be readily accessed and used to buy goods and services.
+Two Measures of the Money Stock  
+The two most widely followed measures 
+of the money stock are M1 and M2. 
+This figure shows the size of each 
+,'% $#&'&
+,#"+!%'!('( ("&
+WHERE IS ALL THE CURRENCY?
+One puzzle about the money stock of the U.S. economy concerns 
+the amount of currency. In 
+--- PAGE 638 ---
+CHAPTER 29   THE MONETARY SYSTEM
+Why Credit Cards Aren’t Money
+t might seem natural to include credit cards as part of the economy’s 
+stock of money. After all, people use credit cards to make many of their 
+purchases. Aren’t credit cards, therefore, a medium of exchange?
+At first this argument may seem persuasive, but credit cards are 
+excluded from all measures of the quantity of money. The reason is that 
+credit cards are not really a method of payment but rather a method of 
+deferring payment. When you buy a meal with a credit card, the bank 
+that issued the card pays the restaurant what it is due. At a later date, 
+you will have to repay the bank (perhaps with interest). When the time 
+comes to pay your credit card bill, you will probably do so by writing 
+a check against your checking account. The balance in this checking 
+account is part of the economy’s stock of money.
+Notice that credit cards are different from debit cards, which 
+automatically withdraw funds from a bank account to pay for items 
+bought. Rather than allowing the user to postpone payment for a 
+purchase, a debit card gives the user immediate access to deposits in 
+sense, a debit card is more 
+similar to a check than to 
+a credit card. The account 
+debit cards are included in 
+measures of the quantity of money.
+Even though credit cards are not considered a form of money, they 
+are nonetheless important f
+--- PAGE 639 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+lifetime appointments to insulate them from politics, Fed governors are given 
+long terms to give them independence from short-term political pressures when 
+they formulate monetary policy.
+Among the seven members of the board of governors, the most important is the 
+chair. The chair directs the Fed staff, presides over board meetings, and testifies 
+regularly about Fed policy in front of congressional committees. The president 
+appoints the chair to a 4-year term. As this book was going to press, the chair of 
+the Fed was Janet Yellen, a former economics professor who was appointed to the 
+Fed job by President Barack Obama in 2014.
+The Federal Reserve System is made up of the Federal Reserve Board in 
+Washington, D.C., and twelve regional Federal Reserve Banks located in major 
+cities around the country. The presidents of the regional banks are chosen by each 
+bank’s board of directors, whose members are typically drawn from the region’s 
+banking and business community. 
+The Fed has two related jobs. The first is to regulate banks and ensure the health 
+of the banking system. This task is largely the responsibility of the regional Federal 
+Reserve Banks. In particular, the Fed monitors each bank’s financial condition and 
+facilitates bank transactions by clearing checks. It also acts as a bank’s bank. That 
+is, the Fed makes loans to b
+--- PAGE 640 ---
+CHAPTER 29   THE MONETARY SYSTEM
+government bond is a certificate of indebtedness of the federal government.) If 
+the FOMC decides to increase the money supply, the Fed creates dollars and uses 
+them to buy government bonds from the public in the nation’s bond markets. 
+After the purchase, these dollars are in the hands of the public. Thus, an open-
+market purchase of bonds by the Fed increases the money supply. Conversely, if 
+the FOMC decides to decrease the money supply, the Fed sells government bonds 
+from its portfolio to the public in the nation’s bond markets. After the sale, the 
+dollars the Fed receives for the bonds are out of the hands of the public. Thus, an 
+open-market sale of bonds by the Fed decreases the money supply.
+Central banks are important institutions because changes in the money 
+supply can profoundly affect the economy. One of the Ten Principles of Economics
+introduced in Chapter 1 is that prices rise when the government prints too much 
+money. Another of the Ten Principles of Economics is that society faces a short-run 
+trade-off between inflation and unemployment. The power of the Fed rests on 
+these principles. For reasons we discuss more fully in the coming chapters, the 
+Fed’s policy decisions are key determinants of the economy’s rate of inflation in 
+the long run and the economy’s employment and production in the short run. 
+Indeed, the Fed’s ch
+--- PAGE 641 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+the bank keeps the money in its vault until the depositor withdraws it, writes 
+a check, or uses a debit card to access her balance. Deposits that banks have 
+received but have not loaned out are called reserves. In this imaginary economy, 
+all deposits are held as reserves, so this system is called 100-percent-reserve 
+We can express the financial position of First National Bank with a T-account, 
+which is a simplified accounting statement that shows changes in a bank’s assets 
+and liabilities. Here is the T-account for First National Bank if the economy’s 
+entire $100 of money is deposited in the bank: 
+On the left side of the T-account are the bank’s assets of $100 (the reserves it holds 
+in its vaults). On the right side are the bank’s liabilities of $100 (the amount it 
+owes to its depositors). Because the assets and liabilities exactly balance, this 
+accounting statement is called a balance sheet. 
+Now consider the money supply in this imaginary economy. Before First 
+National Bank opens, the money supply is the $100 of currency that people are 
+holding. After the bank opens and people deposit their currency, the money supply 
+is the $100 of demand deposits. (There is no longer any currency outstanding, 
+since it is all in the bank vault.) Each deposit in the bank reduces currency and 
+raises demand deposits by exactly the same am
+--- PAGE 642 ---
+CHAPTER 29   THE MONETARY SYSTEM
+Let’s suppose that First National has a reserve ratio of 1/10, or 10 percent. This 
+means that it keeps 10 percent of its deposits in reserve and loans out the rest. 
+Now let’s look again at the bank’s T-account:
+First National still has $100 in liabilities because making the loans did not alter the 
+bank’s obligation to its depositors. But now the bank has two kinds of assets: It has $10 
+of reserves in its vault, and it has loans of $90. (These loans are liabilities of the people 
+borrowing from First National, but they are assets of the bank because the borrowers 
+will later repay the loans.) In total, First National’s assets still equal its liabilities.
+Once again consider the supply of money in the economy. Before First National 
+makes any loans, the money supply is the $100 of deposits. Yet when First National 
+lends out some of these deposits, the money supply increases. The depositors still 
+have demand deposits totaling $100, but now the borrowers hold $90 in currency. 
+The money supply (which equals currency plus demand deposits) equals $190. Thus, 
+when banks hold only a fraction of deposits in reserve, the banking system creates money.
+At first, this creation of money by fractional-reserve banking may seem too 
+good to be true: It appears that the bank has created money out of thin air. To 
+make this feat seem less miraculous, note t
+--- PAGE 643 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+10 percent, this bank keeps $8.10 in reserve and makes $72.90 in loans. Here is the 
+T-account for Third National Bank: 
+The process goes on and on. Each time that money is deposited and a bank loan is 
+made, more money is created.
+How much money is eventually created in this economy? Let’s add it up:
+Original deposit                 5 $100.00
+First National lending   5 $ 90.00 (5 .9 3 $100.00)
+Second National lending 5 $ 81.00 (5 .9 × $90.00)
+Third National lending      5 $ 72.90 (5 .9 3 $81.00)
+       ___________________________        
+It turns out that even though this process of money creation can continue forever, 
+it does not create an infinite amount of money. If you laboriously add the infinite 
+sequence of numbers in the preceding example, you find that the $100 of reserves 
+generates $1,000 of money. The amount of money the banking system generates 
+with each dollar of reserves is called the money multiplier. In this imaginary 
+economy, where the $100 of reserves generates $1,000 of money, the money 
+What determines the size of the money multiplier? It turns out that the answer 
+is simple: The money multiplier is the reciprocal of the reserve ratio. If R is the reserve 
+ratio for all banks in the economy, then each dollar of reserves generates 1/R 
+dollars of money. In our example, R = 1/10, so the money multiplier is 10.
+Thi
+--- PAGE 644 ---
+CHAPTER 29   THE MONETARY SYSTEM
+29-3d  Bank Capital, Leverage, and the Financial Crisis  
+In the previous sections, we have seen a simplified explanation of how banks 
+work. But the reality of modern banking is a bit more complicated, and these 
+complications played a key role in the financial crisis of 2008 and 2009. Before 
+looking at that crisis, we need to learn a bit more about how banks actually 
+In the bank balance sheets you have seen so far, a bank accepts deposits 
+and either uses those deposits to make loans or holds them as reserves. More 
+realistically, a bank gets financial resources not only from accepting deposits but 
+also, like other companies, from issuing equity and debt. The resources that a 
+bank obtains from issuing equity to its owners are called bank capital. A bank 
+uses these financial resources in various ways to generate profit for its owners. It 
+not only makes loans and holds reserves but also buys financial securities, such as 
+Here is a more realistic example of a bank’s balance sheet:
+More Realistic National Bank
+Liabilities and Owners’ Equity
+On the right side of this balance sheet are the bank’s liabilities and capital (also 
+called owners’ equity). This bank obtained $50 of resources from its owners. It also 
+took in $800 of deposits and issued $150 of debt. The total of $1,000 was put to use 
+in three ways; these are listed on the left sid
+--- PAGE 645 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+$20 of assets. Of the $20 of assets, $19 are financed with borrowed money—either 
+by taking in deposits or issuing debt.
+You may have learned in a science class that a lever can amplify a force: 
+A boulder that you cannot move with your arms alone will move more easily 
+if you use a lever. A similar result occurs with bank leverage. To see how this 
+amplification works, let’s continue with this numerical example. Suppose that the 
+bank’s assets were to rise in value by 5 percent because, say, some of the securities 
+the bank was holding rose in price. Then the $1,000 of assets would now be 
+worth $1,050. Because the depositors and debt holders are still owed $950, the 
+bank capital rises from $50 to $100. Thus, when the leverage rate is 20, a 5-percent 
+increase in the value of assets increases the owners’ equity by 100 percent.
+The same principle works on the downside, but with troubling consequences. 
+Suppose that some people who borrowed from the bank default on their loans, 
+reducing the value of the bank’s assets by 5 percent, to $950. Because the depositors 
+and debt holders have the legal right to be paid before the bank owners, the value 
+of the owners’ equity falls to zero. Thus, when the leverage ratio is 20, a 5-percent 
+fall in the value of the bank’s assets leads to a 100-percent fall in bank capital. If 
+the value of asset
+--- PAGE 646 ---
+CHAPTER 29   THE MONETARY SYSTEM
+The Fed has various tools in its monetary toolbox. We can group the tools into 
+two groups: those that influence the quantity of reserves and those that influence 
+the reserve ratio and thereby the money multiplier.
+29-4a How the Fed Influences the Quantity of Reserves
+The first way the Fed can change the money supply is by changing the quantity of 
+reserves. The Fed alters the quantity of reserves in the economy either by buying 
+or selling bonds in open-market operations or by making loans to banks (or by 
+some combination of the two). Let’s consider each of these in turn.
+Open-Market Operations  As we noted earlier, the Fed conducts open-market 
+operations when it buys or sells government bonds. To increase the money sup-
+ply, the Fed instructs its bond traders at the New York Fed to buy bonds from 
+the public in the nation’s bond markets. The dollars the Fed pays for the bonds 
+increase the number of dollars in the economy. Some of these new dollars are held 
+as currency, and some are deposited in banks. Each new dollar held as currency 
+increases the money supply by exactly $1. Each new dollar deposited in a bank in-
+creases the money supply by more than a dollar because it increases reserves and, 
+thereby, the amount of money that the banking system can create.
+To reduce the money supply, the Fed does just the opposite: It sells government
+--- PAGE 647 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+At times, the Fed has set up other mechanisms for banks to borrow from it. For 
+example, from 2007 to 2010, under the Term Auction Facility, the Fed set a quantity 
+of funds it wanted to lend to banks, and eligible banks then bid to borrow those 
+funds. The loans went to the highest eligible bidders—that is, to the banks that 
+had acceptable collateral and offered to pay the highest interest rate. Unlike at the 
+discount window, where the Fed sets the price of a loan and the banks determine 
+the quantity of borrowing, at the Term Auction Facility the Fed set the quantity of 
+borrowing and competitive bidding among banks determined the price. The more 
+funds the Fed made available, the greater the quantity of reserves and the larger 
+The Fed lends to banks not only to control the money supply but also to help 
+financial institutions when they are in trouble. For example, when the stock 
+market crashed by 22 percent on October 19, 1987, many Wall Street brokerage 
+firms found themselves temporarily in need of funds to finance the high volume 
+of stock trading. The next morning, before the stock market opened, Fed Chair 
+Alan Greenspan announced the Fed’s “readiness to serve as a source of liquidity 
+to support the economic and financial system.” Many economists believe that 
+Greenspan’s reaction to the stock crash was an important reason 
+--- PAGE 648 ---
+CHAPTER 29   THE MONETARY SYSTEM
+Paying Interest on Reserves  Traditionally, banks did not earn any interest on the 
+reserves they held. In October 2008, however, the Fed began paying interest on 
+reserves. That is, when a bank holds reserves on deposit at the Fed, the Fed now 
+pays the bank interest on those deposits. This change gives the Fed another tool 
+with which to influence the economy. The higher the interest rate on reserves, the 
+more reserves banks will choose to hold. Thus, an increase in the interest rate on 
+reserves will tend to increase the reserve ratio, lower the money multiplier, and 
+29-4c Problems in Controlling the Money Supply
+The Fed’s various tools—open-market operations, bank lending, reserve 
+requirements, and interest on reserves—have powerful effects on the money 
+supply. Yet the Fed’s control of the money supply is not precise. The Fed must 
+wrestle with two problems, each of which arises because much of the money 
+supply is created by our system of fractional-reserve banking. 
+The first problem is that the Fed does not control the amount of money that 
+households choose to hold as deposits in banks. The more money households 
+deposit, the more reserves banks have, and the more money the banking system 
+can create. The less money households deposit, the less reserves banks have, 
+and the less money the banking system can create. To see why this is
+--- PAGE 649 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+requests from all depositors. Even if the bank is solvent (meaning that its assets 
+exceed its liabilities), it will not have enough cash on hand to allow all depositors 
+immediate access to all of their money. When a run occurs, the bank is forced to 
+close its doors until some bank loans are repaid or until some lender of last resort 
+(such as the Fed) provides it with the currency it needs to satisfy depositors.
+Bank runs complicate the control of the money supply. An important example of 
+this problem occurred during the Great Depression in the early 1930s. After a wave 
+of bank runs and bank closings, households and bankers became more cautious. 
+Households withdrew their deposits from banks, preferring to hold their money 
+in the form of currency. This decision reversed the process of money creation, as 
+bankers responded to falling reserves by reducing bank loans. At the same time, 
+bankers increased their reserve ratios so that they would have enough cash on hand 
+to meet their depositors’ demands in any future bank runs. The higher reserve ratio 
+reduced the money multiplier, which further reduced the money supply. From 1929 
+to 1933, the money supply fell by 28 percent, without the Federal Reserve taking 
+any deliberate contractionary action. Many economists point to this massive fall 
+in the money supply to explain the high u
+--- PAGE 650 ---
+CHAPTER 29   THE MONETARY SYSTEM
+Today, bank runs are not a major problem for the U.S. banking system or the Fed. 
+The federal government now guarantees the safety of deposits at most banks, primarily 
+through the Federal Deposit Insurance Corporation (FDIC). Depositors do not make 
+runs on their banks because they are confident that, even if their bank goes bankrupt, 
+the FDIC will make good on the deposits. The policy of government deposit insurance 
+has costs: Bankers whose deposits are guaranteed may have too little incentive to 
+avoid bad risks when making loans. But one benefit of deposit insurance is a more 
+stable banking system. As a result, most people see bank runs only in the movies. ●
+29-4d The Federal Funds Rate
+If you read about U.S. monetary policy in the newspaper, you will find much 
+discussion of the federal funds rate. This raises several questions:
+What is the federal funds rate?
+ The federal funds rate is the short-term interest rate that banks charge one 
+another for loans. If one bank finds itself short of reserves while another 
+bank has excess reserves, the second bank can lend some reserves to the 
+first. The loans are temporary—typically overnight. The price of the loan is 
+the interest rate at which 
+New York. A light snow was falling, muting the 
+hushed, conspiratorial tones of his guests, 
+which is exactly how Aldrich wanted it.
+The reform-minded 
+--- PAGE 651 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+How is the federal funds rate different from the discount rate?
+ The discount rate is the interest rate banks pay to borrow directly from 
+the Federal Reserve through the discount window. Borrowing reserves 
+from  another bank in the federal funds market is an alternative to borrow-
+ing  reserves from the Fed, and a bank short of reserves will typically do 
+ whichever is cheaper. In practice, the discount rate and the federal funds 
+rate move closely together.
+Does the federal funds rate matter only for banks?
+ Not at all. Although only banks borrow directly in the federal funds market, 
+the economic impact of this market is much broader. Because different parts 
+of the financial system are highly interconnected, interest rates on different 
+kinds of loans are strongly correlated with one another. So when the federal 
+funds rate rises or falls, other interest rates often move in the same direction.
+What does the Federal Reserve have to do with the federal funds rate?
+ In recent years, the Federal Reserve has set a target goal for the federal funds 
+rate. When the Federal Open Market Committee meets approximately  every 
+6 weeks, it decides whether to raise or lower that target. 
+How can the Fed make the federal funds rate hit the target it sets?
+ Although the actual federal funds rate is set by supply and demand in the 
+market for loans
+--- PAGE 652 ---
+CHAPTER 29   THE MONETARY SYSTEM
+1. The money supply includes all of the following 
+c. lines of credit accessible with credit cards.
+d. bank balances accessible with debit cards.
+2. Chloe takes $100 of currency from her wallet and 
+deposits it into her checking account. If the bank 
+adds the entire $100 to reserves, the money sup-
+ply ________, but if the bank lends out some of the 
+$100, the money supply ________.
+a. increases, increases even more
+b. increases, increases by less
+c. is unchanged, increases
+d. decreases, decreases by less
+3. If the reserve ratio is ¼ and the central bank  
+increases the quantity of reserves in the banking  
+system by $120, the money supply increases by
+4. A bank has capital of $200 and a leverage ratio of 5. 
+If the value of the bank’s assets declines by 10 per-
+cent, then its capital will be reduced to
+5. Which of the following actions by the Fed would  
+a. an open-market purchase of government bonds
+b. a reduction in banks’ reserve requirements
+c. an increase in the interest rate paid on reserves
+d. a decrease in the discount rate on Fed lending
+6. In a system of fractional-reserve banking, even with-
+out any action by the central bank, the money sup-
+ply declines if households choose to hold ________ 
+currency or if banks choose to hold ________ excess 
+r The term money refers to assets that people regularly 
+use to buy goods and services.
+r
+--- PAGE 653 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+medium of exchange, p. 605
+Federal Reserve (Fed), p. 609
+fractional-reserve banking, p. 612
+capital requirement, p. 616
+open-market operations, p. 617
+reserve requirements, p. 618
+federal funds rate, p. 621
+1. What distinguishes money from other assets in the 
+2. What is commodity money? What is fiat money? 
+3. What are demand deposits and why should they be 
+included in the stock of money?
+4. Who is responsible for setting monetary policy in the 
+United States? How is this group chosen?
+5. If the Fed wants to increase the money supply with 
+open-market operations, what does it do?
+6. Why don’t banks hold 100-percent reserves? How 
+is the amount of reserves banks hold related to the 
+amount of money the banking system creates?
+7. Bank A has a leverage ratio of 10, while Bank B has 
+a leverage ratio of 20. Similar losses on bank loans at 
+the two banks cause the value of their assets to fall by 
+7 percent. Which bank shows a larger change in bank 
+capital? Does either bank remain solvent? Explain.
+8. What is the discount rate? What happens to the 
+money supply when the Fed raises the discount rate?
+9. What are reserve requirements? What happens 
+to the money supply when the Fed raises reserve 
+10. Why can’t the Fed control the money supply 
+1. Which of the following are considered money in the 
+U.S. economy? Which are not? Explain your a
+--- PAGE 654 ---
+CHAPTER 29   THE MONETARY SYSTEM
+3. Your uncle repays a $100 loan from Tenth National 
+Bank (TNB) by writing a $100 check from his TNB 
+checking account. Use T-accounts to show the effect of 
+this transaction on your uncle and on TNB. Has your 
+uncle’s wealth changed? Explain.
+4. Beleaguered State Bank (BSB) holds $250 million in 
+deposits and maintains a reserve ratio of 10 percent.
+a. Show a T-account for BSB.
+b. Now suppose that BSB’s largest depositor 
+withdraws $10 million in cash from her account. If 
+BSB decides to restore its reserve ratio by reducing 
+the amount of loans outstanding, show its new 
+c. Explain what effect BSB’s action will have on 
+d. Why might it be difficult for BSB to take the action 
+described in part (b)? Discuss another way for BSB 
+to return to its original reserve ratio.
+5. You take $100 you had kept under your mattress and 
+deposit it in your bank account. If this $100 stays in 
+the banking system as reserves and if banks hold 
+reserves equal to 10 percent of deposits, by how much 
+does the total amount of deposits in the banking 
+system increase? By how much does the money 
+6. Happy Bank starts with $200 in bank capital. It then 
+accepts $800 in deposits. It keeps 12.5 percent (1/8th) 
+of deposits in reserve. It uses the rest of its assets to 
+a. Show the balance sheet of Happy Bank.
+b. What is Happy Bank’s leverage ratio?
+c. Suppose that 10 pe
+--- PAGE 655 ---
+
+--- PAGE 656 ---
+Money Growth and Inflation
+oday, if you want to buy an ice-cream cone, you need at least a couple of 
+dollars, but that has not always been the case. In the 1930s, my grandmother 
+ran a sweet shop in Trenton, New Jersey, where she sold ice-cream cones in 
+two sizes. A cone with a small scoop of ice cream cost 3 cents. Hungry customers 
+could buy a large scoop for a nickel.
+You may not be surprised at the increase in the price of ice cream. In most 
+modern economies, most prices tend to rise over time. This increase in the overall 
+level of prices is called inflation. Earlier in the book, we examined how economists 

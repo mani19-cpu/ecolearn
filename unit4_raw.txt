@@ -1,0 +1,1353 @@
+--- PAGE 218 ---
+irms that make and sell paper also create, as a by-product of the manufactur-
+ing process, a chemical called dioxin. Scientists believe that once dioxin enters 
+the environment, it raises the population’s risk of cancer, birth defects, and 
+Is the production and release of dioxin a problem for society? In Chapters 4 
+through 9, we examined how markets allocate scarce resources with the forces 
+of supply and demand, and we saw that the equilibrium of supply and demand 
+is typically an efficient allocation of resources. To use Adam Smith’s famous 
+--- PAGE 219 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+metaphor, the “invisible hand” of the marketplace leads self-interested buyers 
+and sellers in a market to maximize the total benefit that society derives from 
+that market. This insight is the basis for one of the Ten Principles of Economics in 
+Chapter 1: Markets are usually a good way to organize economic activity. Should 
+we conclude, therefore, that the invisible hand prevents firms in the paper market 
+from emitting too much dioxin? 
+Markets do many things well, but they do not do everything well. In this 
+chapter, we begin our study of another of the Ten Principles of Economics: 
+Government action can sometimes improve upon market outcomes. We examine 
+why markets sometimes fail to allocate resources efficiently, how government 
+policies can potentially improve the market’s allocation, and what kinds of 
+policies are likely to work best. 
+The market failures examined in this chapter fall under a general category 
+that influences the well-being of a bystander but neither pays nor receives 
+compensation for that effect. If the impact on the bystander is adverse, it is called 
+a negative externality. If it is beneficial, it is called a positive externality. In the 
+presence of externalities, society’s interest in a market outcome extends beyond 
+the well-being of buyers and sellers who participate in the market to include the 
+well-being of bystanders who are affected indirectly. Because buyers and sellers 
+neglect the external effects of their actions when deciding how much to demand 
+or supply, the market equilibrium is not
+--- PAGE 220 ---
+CHAPTER 10   EXTERNALITIES
+universities cannot capture the benefits of their inventions, they will devote 
+too few resources to research. The federal government addresses this prob-
+lem partially through the patent system, which gives inventors exclusive use 
+of their inventions for a limited time.
+In each of these cases, some decision maker fails to take into account the  external 
+effects of his behavior. The government responds by trying to influence this 
+ behavior to protect the interests of bystanders.
+10-1 Externalities and Market Inefficiency
+In this section, we use the tools of welfare economics developed in Chapter 7 to 
+examine how externalities affect economic well-being. The analysis shows pre-
+cisely why externalities cause markets to allocate resources inefficiently. Later in 
+the chapter, we examine various ways private individuals and public policymak-
+ers can remedy this type of market failure.
+10-1a Welfare Economics: A Recap
+We begin by recalling the key lessons of welfare economics from Chapter 7. To 
+make our analysis concrete, we consider a specific market—the market for alumi-
+num. Figure 1 shows the supply and demand curves in the market for aluminum. 
+Recall from Chapter 7 that the supply and demand curves contain important 
+information about costs and benefits. The demand curve for aluminum reflects 
+the value of aluminum to consumers, as measured by the prices they are willing 
+to pay. At any given quantity, the height of the demand curve shows the will-
+ingness to pay of the marginal buyer. In other words, it shows the value to the 
+consumer of 
+--- PAGE 221 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+In the absence of government intervention, the price adjusts to balance the 
+supply and demand for aluminum. The quantity produced and consumed in 
+the market equilibrium, shown as QMARKET in Figure 1, is efficient in the sense 
+that it maximizes the sum of producer and consumer surplus. That is, the market 
+ allocates resources in a way that maximizes the total value to the consumers who 
+buy and use aluminum minus the total costs to the producers who make and sell 
+10-1b Negative Externalities
+Now let’s suppose that aluminum factories emit pollution: For each unit of alu-
+minum produced, a certain amount of smoke enters the atmosphere. Because this 
+smoke creates a health risk for those who breathe the air, it is a negative externality. 
+How does this externality affect the efficiency of the market outcome?
+Because of the externality, the cost to society of producing aluminum is larger 
+than the cost to the aluminum producers. For each unit of aluminum produced, 
+the social cost includes the private costs of the aluminum producers plus the costs 
+to those bystanders affected adversely by the pollution. Figure 2 shows the  social 
+cost of producing aluminum. The social-cost curve is above the supply curve 
+because it takes into account the external costs imposed on society by aluminum 
+production. The difference between these two curves reflects the cost of the pollu-
+What quantity of aluminum should be produced? To answer this question, 
+we once again consider what a benevolent social planner would do. The planner 
+wants to max
+--- PAGE 222 ---
+CHAPTER 10   EXTERNALITIES
+The planner would choose the level of aluminum production at which the 
+ demand curve crosses the social-cost curve. This intersection determines the 
+ optimal amount of aluminum from the standpoint of society as a whole. Below 
+this level of production, the value of the aluminum to consumers (as measured 
+by the height of the demand curve) exceeds the social cost of producing it (as 
+measured by the height of the social-cost curve). Above this level of production, 
+the social cost of producing additional aluminum exceeds the value to consumers.
+Note that the equilibrium quantity of aluminum, QMARKET, is larger than the 
+socially optimal quantity, QOPTIMUM. This inefficiency occurs because the market 
+equilibrium reflects only the private costs of production. In the market equilib-
+rium, the marginal consumer values aluminum at less than the social cost of pro-
+ducing it. That is, at QMARKET, the demand curve lies below the social-cost curve. 
+Thus, reducing aluminum production and consumption below the market equi-
+librium level raises total economic well-being.
+How can the social planner achieve the optimal outcome? One way would be 
+to tax aluminum producers for each ton of aluminum sold. The tax would shift 
+the supply curve for aluminum upward by the size of the tax. If the tax accu-
+rately reflected the external cost of pollutants released into the atmosphere, the 
+new supply curve would coincide with the social-cost curve. In the new market 
+equilibrium, aluminum producers would produce the socially optimal quantity of 
+The use of such a ta
+--- PAGE 223 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Once again, the government can correct the market failure by inducing market 
+participants to internalize the externality. The appropriate response in the case of 
+positive externalities is exactly the opposite to the case of negative externalities. To 
+move the market equilibrium closer to the social optimum, a positive externality 
+requires a subsidy. In fact, that is exactly the policy the government follows: Edu-
+cation is heavily subsidized through public schools and government scholarships.
+To summarize: Negative externalities lead markets to produce a larger quantity than 
+is socially desirable. Positive externalities lead markets to produce a smaller quantity than 
+is socially desirable. To remedy the problem, the government can internalize the exter-
+nality by taxing goods that have negative externalities and subsidizing goods that have 
+TECHNOLOGY SPILLOVERS, INDUSTRIAL POLICY,  
+A potentially important type of positive externality is called a tech-
+nology spillover—the impact of one firm’s research and production 
+efforts on other firms’ access to technological advance. For example, consider the 
+market for industrial robots. Robots are at the frontier of a rapidly changing tech-
+nology. Whenever a firm builds a robot, there is some chance that the firm will 
+discover a new and better design. This new design may benefit not only this firm 
+but also society as a whole because the design will enter society’s pool of tech-
+nological knowledge. That is, the new design may have positive externalities for 
+other producers in
+--- PAGE 224 ---
+CHAPTER 10   EXTERNALITIES
+How large are technology spillovers, and what do they imply for public policy? 
+This is an important question because technological progress is the key to raising 
+living standards over time. Yet it is also a difficult question about which economists 
+Some economists believe that technology spillovers are pervasive and that the 
+government should encourage those industries that yield the largest spillovers. For 
+instance, these economists argue that if making computer chips yields greater spill-
+overs than making potato chips, the government should encourage the production 
+of computer chips relative to the production of potato chips. The U.S. tax code does 
+this in a limited way by offering special tax breaks for expenditures on research 
+and development. Some nations go further by subsidizing specific industries that 
+supposedly yield large technology spillovers. Government intervention that aims 
+to promote technology-enhancing industries is sometimes called industrial policy. 
+Other economists are skeptical about industrial policy. Even if technology spill-
+overs are common, pursuing an industrial policy requires the government to gauge 
+the size of the spillovers from different markets. This measurement problem is 
+difficult at best. Without accurate measurements, the political system may end up 
+subsidizing industries with the most political clout rather than those that yield the 
+largest positive externalities.
+Another way to deal with technology spillovers is patent protection. The pat-
+ent laws protect the rights of inventors by giving th
+--- PAGE 225 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+In most cases of pollution, however, the situation is not this 
+simple. Despite the stated goals of some environmentalists, 
+it would be impossible to prohibit all polluting activity. For 
+example, virtually all forms of transportation—even the horse—
+produce some undesirable polluting by-products. But it would 
+not be sensible for the government to ban all transportation. As a 
+result, instead of trying to eradicate pollution entirely, society has 
+to weigh the costs and benefits to decide the kinds and quantities 
+of pollution it will allow. In the United States, the Environmental 
+Protection Agency (EPA) is the government agency tasked with 
+developing and enforcing regulations aimed at protecting the 
+Environmental regulations can take many forms. Sometimes 
+the EPA dictates a maximum level of pollution that a factory may 
+emit. Other times the EPA requires that firms adopt a particular 
+technology to reduce emissions. In all cases, to design good rules, 
+the government regulators need to know the details about spe-
+cific industries and about the alternative technologies that those 
+industries could adopt. This information is often difficult for gov-
+ernment regulators to obtain.
+10-2b  Market-Based Policy 1: Corrective  
+Instead of regulating behavior in response to an externality, 
+the government can use market-based policies to align private 
+incentives with social efficiency. For instance, as we saw earlier, 
+the government can internalize the externality by taxing activities 
+that have negative externalities and subsidiz
+--- PAGE 226 ---
+CHAPTER 10   EXTERNALITIES
+Most economists prefer the tax. To explain this preference, they would first 
+point out that a tax is just as effective as regulation in reducing the overall level of 
+pollution. The EPA can achieve whatever level of pollution it wants by setting the 
+tax at the appropriate level. The higher the tax, the larger the reduction in pollu-
+tion. If the tax is high enough, the factories will close down altogether, reducing 
+Although regulation and corrective taxes are both capable of reducing pollu-
+tion, the tax accomplishes this goal more efficiently. The regulation requires each 
+factory to reduce pollution by the same amount. An equal reduction, however, 
+is not necessarily the least expensive way to clean up the water. It is possible 
+that the paper mill can reduce pollution at lower cost than the steel mill. If so, 
+the paper mill would respond to the tax by reducing pollution substantially to 
+avoid the tax, whereas the steel mill would respond by reducing pollution less 
+In essence, the corrective tax places a price on the right to pollute. Just as 
+markets allocate goods to those buyers who value them most highly, a correc-
+tive tax allocates pollution to those factories that face the highest cost of reduc-
+ing it. Thus, the EPA can achieve any level of pollution at the lowest total cost by 
+Economists also argue that corrective taxes are better for the environment. 
+Under the command-and-control policy of regulation, the factories have no rea-
+son to reduce emission further once they have reached the target of 300 tons 
+of glop. By contrast, t
+--- PAGE 227 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+people pay when their large, gas-guzzling vehicles impose risk on others. 
+It would induce them to take this risk into account when choosing what 
+r Pollution: Cars cause smog. Moreover, the burning of fossil fuels such as 
+ gasoline is widely believed to be the primary cause of global warming. 
+Experts disagree about how dangerous this threat is, but there is no doubt 
+that the gas tax reduces the threat by discouraging the use of gasoline.
+So the gas tax, rather than causing deadweight losses like most taxes, actually 
+makes the economy work better. It means less traffic congestion, safer roads, and 
+How high should the tax on gasoline be? Most European countries impose gas-
+oline taxes that are much higher than those in the United States. Many observers 
+have suggested that the United States should also tax gasoline more heavily. A 
+2007 study published in the Journal of Economic Literature summarized the research 
+on the size of the various externalities associated with driving. It concluded that 
+the optimal corrective tax on gasoline was $2.28 per gallon in 2005 dollars; af-
+ter adjusting for inflation, that amount is equivalent to about $2.78 per gallon in 
+2015 dollars. By contrast, the actual tax in the United States in 2015 was only about 
+The tax revenue from a gasoline tax could be used to lower taxes that distort 
+incentives and cause deadweight losses, such as income taxes. In addition, some of 
+the burdensome government regulations that require automakers to produce more 
+fuel-efficient cars would prove unnecessar
+--- PAGE 228 ---
+CHAPTER 10   EXTERNALITIES
+Many policy analysts believe that taxing 
+carbon is the best approach to dealing 
+with global climate change.
+The Most Sensible Tax of All
+By Yoram Bauman and Shi-Ling Hsu
+n Sunday, the best climate policy in the 
+world got even better: British Columbia’s 
+carbon tax—a tax on the carbon content of all 
+fossil fuels burned in the province—increased 
+from $25 to $30 per metric ton of carbon diox-
+ide, making it more expensive to pollute. 
+This was good news not only for the 
+ environment but for nearly everyone who pays 
+taxes in British Columbia, because the carbon 
+tax is used to reduce taxes for individuals and 
+businesses. Thanks to this tax swap, British 
+Columbia has lowered its corporate income tax 
+rate to 10 percent from 12 percent, a rate that 
+is among the lowest in the Group of 8 wealthy 
+nations. Personal income taxes for people earn-
+ing less than $119,000 per year are now the low-
+est in Canada, and there are targeted  rebates 
+for low-income and rural households. 
+The only bad news is that this is the last 
+increase scheduled in British Columbia. In our 
+view, the reason is simple: the province is wait-
+ing for the rest of North America to catch up so 
+that its tax system will not become unbalanced 
+or put energy-intensive industries at a competi-
+The United States should jump at the chance 
+to adopt a similar revenue-neutral tax swap. It’s 
+an opportunity to reduce existing taxes, clean up 
+the environment and increase personal freedom 
+Let’s start with the economics. Substituting 
+a carbon tax for some of our current taxes—on 
+payr
+--- PAGE 229 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+10-2c  Market-Based Policy 2: Tradable  
+Returning to our example of the paper mill and the steel mill, 
+let us suppose that, despite the advice of its economists, the EPA 
+adopts the regulation and requires each factory to reduce its pol-
+lution to 300 tons of glop per year. Then one day, after the regu-
+lation is in place and both mills have complied, the two firms go 
+to the EPA with a proposal. The steel mill wants to increase its 
+emission of glop from 300 to 400 tons. The paper mill has agreed 
+to reduce its emission from 300 to 200 tons if the steel mill pays it 
+$5 million. The total emission of glop would remain at 600 tons. 
+Should the EPA allow the two factories to make this deal?
+From the standpoint of economic efficiency, allowing the deal 
+is good policy. The deal must make the owners of the two facto-
+ries better off because they are voluntarily agreeing to it. More-
+over, the deal does not have any external effects because the 
+total amount of pollution stays the same. Thus, social welfare is 
+enhanced by allowing the paper mill to sell its pollution rights to 
+The same logic applies to any voluntary transfer of the right to 
+pollute from one firm to another. If the EPA allows firms to make 
+these deals, it will, in essence, create a new scarce resource: pol-
+lution permits. A market to trade these permits will eventually 
+ develop, and that market will be governed by the forces of supply 
+and demand. The invisible hand will ensure that this new market 
+allocates the right to pollute efficiently. That is, the perm
+--- PAGE 230 ---
+CHAPTER 10   EXTERNALITIES
+This curve shows that the lower the price of polluting, the more firms will choose 
+to pollute. In panel (a), the EPA uses a corrective tax to set a price for pollution. 
+In this case, the supply curve for pollution rights is perfectly elastic (because 
+firms can pollute as much as they want by paying the tax), and the position of the 
+demand curve determines the quantity of pollution. In panel (b), the EPA sets a 
+quantity of pollution by issuing pollution permits. In this case, the supply curve 
+for pollution rights is perfectly inelastic (because the quantity of pollution is fixed 
+by the number of permits), and the position of the demand curve determines the 
+price of pollution. Hence, the EPA can achieve any point on a given demand curve 
+either by setting a price with a corrective tax or by setting a quantity with pollu-
+In some circumstances, however, selling pollution permits may be better than 
+levying a corrective tax. Suppose the EPA wants no more than 600 tons of glop 
+dumped into the river. But because the EPA does not know the demand curve 
+for pollution, it is not sure what size tax would achieve that goal. In this case, it 
+can simply auction off 600 pollution permits. The auction price would yield the 
+appropriate size of the corrective tax.
+The idea of the government auctioning off the right to pollute may at first 
+sound like a creature of some economist’s imagination. And in fact, that is how 
+the idea began. But increasingly, the EPA has used this system as a way to control 
+pollution. A notable success story has been the case
+--- PAGE 231 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+set up a system that allowed plants to trade their SO2 allowances. Initially, both 
+industry representatives and environmentalists were skeptical of the proposal, 
+but over time the system reduced pollution with minimal disruption. Pollution 
+permits, like corrective taxes, are now widely viewed as a cost-effective way to 
+keep the environment clean.
+10-2d Objections to the Economic Analysis of Pollution
+“We cannot give anyone the option of polluting for a fee.” This comment from the 
+late Senator Edmund Muskie reflects the view of some environmentalists. Clean 
+air and clean water, they argue, are fundamental human rights that should not 
+be debased by considering them in economic terms. How can you put a price on 
+clean air and clean water? The environment is so important, they claim, that we 
+should protect it as much as possible, regardless of the cost.
+Economists have little sympathy for this type of argument. To economists, good 
+environmental policy begins by acknowledging the first of the Ten  Principles of 
+Economics in Chapter 1: People face trade-offs. Certainly, clean air and clean  water 
+have value. But their value must be compared to their opportunity cost—that is, 
+to what one must give up to obtain them. Eliminating all pollution is impossi-
+ble. Trying to eliminate all pollution would reverse many of the technological 
+advances that allow us to enjoy a high standard of living. Few people would be 
+willing to accept poor nutrition, inadequate medical care, or shoddy housing to 
+make the environment as clean as po
+--- PAGE 232 ---
+CHAPTER 10   EXTERNALITIES
+Another private solution to externalities involves charities. For example, the 
+Sierra Club, whose goal is to protect the environment, is a nonprofit organiza-
+tion funded with private donations. As another example, colleges and universities 
+receive gifts from alumni, corporations, and foundations in part because educa-
+tion has positive externalities for society. The government encourages this private 
+solution to externalities through the tax system by allowing an income tax deduc-
+tion for charitable donations.
+The private market can often solve the problem of externalities by relying on 
+the self-interest of the relevant parties. Sometimes the solution takes the form of 
+integrating different types of businesses. For example, consider an apple grower 
+and a beekeeper who are located next to each other. Each business confers a posi-
+tive externality on the other: By pollinating the flowers on the trees, the bees help 
+the orchard produce apples, while the bees use the nectar they get from the  apple 
+trees to produce honey. Nonetheless, when the apple grower is deciding how 
+many trees to plant and the beekeeper is deciding how many bees to keep, they 
+neglect the positive externality. As a result, the apple grower plants too few trees 
+and the beekeeper keeps too few bees. These externalities could be internalized 
+if the beekeeper bought the apple orchard or if the apple grower bought the bee-
+hives: Both activities would then take place within the same firm, and this single 
+firm could choose the optimal number of trees and bees. Internaliz
+--- PAGE 233 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+bears an $800 cost from the barking. In this case, Jane can offer Dick $600 to get rid 
+of the dog, and Dick will gladly accept. Both parties are better off than they were 
+before, and the efficient outcome is reached.
+It is possible, of course, that Jane would not be willing to offer any price that 
+Dick would accept. For instance, suppose that Dick gets a $1,000 benefit from the 
+dog and Jane bears an $800 cost from the barking. In this case, Dick would turn 
+down any offer below $1,000, while Jane would not offer any amount above $800. 
+Therefore, Dick ends up keeping the dog. Given these costs and benefits, how-
+ever, this outcome is efficient.
+So far, we have assumed that Dick has the legal right to keep a barking dog. 
+In other words, we have assumed that Dick can keep Spot unless Jane pays him 
+enough to induce him to give up the dog voluntarily. But how different would the 
+outcome be if Jane had the legal right to peace and quiet?
+According to the Coase theorem, the initial distribution of rights does not mat-
+ter for the market’s ability to reach the efficient outcome. For instance, suppose 
+that Jane can legally compel Dick to get rid of the dog. Having this right works to 
+Jane’s advantage, but it probably will not change the outcome. In this case, Dick 
+can offer to pay Jane to allow him to keep the dog. If the benefit of the dog to Dick 
+exceeds the cost of the barking to Jane, then Dick and Jane will strike a bargain in 
+Although Dick and Jane can reach the efficient outcome regardless of how 
+rights are initially 
+--- PAGE 234 ---
+CHAPTER 10   EXTERNALITIES
+Whenever people come in close contact, 
+Don’t Want Me to Recline My  
+Airline Seat? You Can Pay Me
+fly a lot. When I fly, I recline. I don’t feel guilty 
+about it. And I’m going to keep doing it, unless 
+I bring this up because of a dispute you 
+may have heard about: On Sunday, a United 
+Airlines flight from Newark to Denver made an 
+unscheduled stop in Chicago to discharge two 
+passengers who had a dispute over seat reclin-
+ing. According to The Associated Press, a man 
+in a middle seat installed the Knee Defender, a 
+$21.95 device that keeps a seat upright, on the 
+A flight attendant asked him to remove the 
+device. He refused. The woman seated in front of 
+him turned around and threw water at him. The 
+pilot landed the plane and booted both passen-
+Obviously, it’s improper to throw water 
+at another passenger on a flight, even if he 
+ deserves it. But I’ve seen a distressing amount 
+of sympathy for Mr. Knee Defender, who wasn’t 
+just instigating a fight but usurping his fellow 
+passenger’s property rights. When you buy an 
+airline ticket, one of the things you’re buying is 
+the right to use your seat’s reclining function. If 
+this passenger so badly wanted the passenger 
+in front of him not to recline, he should have 
+paid her to give up that right.
+I wrote an article to that effect in 2011, not-
+ing that airline seats are an excellent case study 
+for the Coase Theorem. This is an economic theory 
+holding that it doesn’t matter very much who is ini-
+tially given a property right; so long as you clearly 
+define it and transaction costs are low, 
+--- PAGE 235 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+however, trying to coordinate them all to bargain with the factory may be almost 
+When private bargaining does not work, the government can sometimes play a 
+role. The government is an institution designed for collective action. In this exam-
+ple, the government can act on behalf of the fishermen, even when it is impracti-
+cal for the fishermen to act for themselves.
+Give an example of a private solution to an externality. t What is the 
+Coase theorem? t Why are private economic participants sometimes 
+unable to solve the problems caused by an externality? 
+The invisible hand is powerful but not omnipotent. A market’s equilibrium maxi-
+mizes the sum of producer and consumer surplus. When the buyers and sellers in 
+the market are the only interested parties, this outcome is efficient from the stand-
+point of society as a whole. But when there are external effects, such as pollution, 
+evaluating a market outcome requires taking into account the well-being of third 
+parties as well. In this case, the invisible hand of the marketplace may fail to allo-
+cate resources efficiently.
+In some cases, people can solve the problem of externalities on their own. The 
+Coase theorem suggests that the interested parties can bargain among themselves 
+and agree on an efficient solution. Sometimes, however, an efficient outcome can-
+not be reached, perhaps because the large number of interested parties makes bar-
+When people cannot solve the problem of externalities privately, the govern-
+ment often steps in. Yet even with government intervention, 
+--- PAGE 236 ---
+CHAPTER 10   EXTERNALITIES
+3. When the government levies a tax on a good equal 
+to the external cost associated with the good’s 
+production, it ________ the price paid by consumers 
+and makes the market outcome ________ efficient.
+4. Which of the following statements about corrective 
+taxes is generally NOT true?
+a. Economists prefer them to command-and-control 
+b. They raise government revenue.
+c. They cause deadweight losses.
+d. They reduce the quantity sold in a market.
+5. The government auctions off 500 units of pollution 
+rights. They sell for $50 per unit, raising total revenue 
+of $25,000. This policy is equivalent to a corrective 
+tax of _____ per unit of pollution.
+6. The Coase theorem does NOT apply if
+a. there is a significant externality between two 
+b. the court system vigorously enforces all contracts.
+c. transaction costs make negotiating difficult.
+d. both parties understand the externality fully.
+r When a transaction between a buyer and seller directly 
+affects a third party, the effect is called an external-
+ity. If an activity yields negative externalities, such as 
+pollution, the socially optimal quantity in a market is 
+less than the equilibrium quantity. If an activity yields 
+positive externalities, such as technology spillovers, 
+the  socially optimal quantity is greater than the equi-
+r Governments pursue various policies to remedy the 
+inefficiencies caused by externalities. Sometimes the 
+government prevents socially inefficient activity by 
+regulating behavior. Other times it internalizes an ex-
+ternality using corrective taxes. Another public 
+--- PAGE 237 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+5. List some of the ways that the problems caused by 
+externalities can be solved without government 
+6. Imagine that you are a nonsmoker sharing a room 
+with a smoker. According to the Coase theorem,  
+what determines whether your roommate smokes in 
+the room? Is this outcome efficient? How do you and 
+your roommate reach this solution?
+1. Consider two ways to protect your car from theft. The 
+Club (a steering wheel lock) makes it difficult for a 
+car thief to take your car. Lojack (a tracking system) 
+makes it easier for the police to catch the car thief who 
+has stolen it. Which of these methods conveys a nega-
+tive externality on other car owners? Which conveys a 
+positive externality? Do you think there are any policy 
+implications of your analysis?
+2. Consider the market for fire extinguishers.
+a. Why might fire extinguishers exhibit positive 
+b. Draw a graph of the market for fire extinguishers, 
+labeling the demand curve, the social-value curve, 
+the supply curve, and the social-cost curve.
+c. Indicate the market equilibrium level of output 
+and the efficient level of output. Give an intuitive 
+explanation for why these quantities differ. 
+d. If the external benefit is $10 per extinguisher, 
+ describe a government policy that would yield the 
+3. Greater consumption of alcohol leads to more motor 
+vehicle accidents and, thus, imposes costs on people 
+who do not drink and drive.
+a. Illustrate the market for alcohol, labeling the 
+ demand curve, the social-value curve, the supply 
+curve, the social-cost curve, the market equ
+--- PAGE 238 ---
+CHAPTER 10   EXTERNALITIES
+how might Bruno and Placido reach an efficient 
+outcome on their own? What might prevent them 
+from reaching an efficient outcome?
+7. Figure 4 shows that for any given demand curve 
+for the right to pollute, the government can achieve 
+the same outcome either by setting a price with a 
+corrective tax or by setting a quantity with pollution 
+permits. Suppose there is a sharp improvement in the 
+technology for controlling pollution.
+a. Using graphs similar to those in Figure 4, illus-
+trate the effect of this development on the demand 
+b. What is the effect on the price and quantity of  
+pollution under each regulatory system? Explain.
+8. Suppose that the government decides to issue tradable 
+permits for a certain form of pollution.
+a. Does it matter for economic efficiency whether the 
+government distributes or auctions the permits? 
+b. If the government chooses to distribute the  
+permits, does the allocation of permits among 
+firms matter for efficiency? Explain.
+9. There are three industrial firms in Happy Valley.
+ The government wants to reduce pollution to 60 units, 
+so it gives each firm 20 tradable pollution permits.
+a. Who sells permits and how many do they sell? 
+Who buys permits and how many do they buy? 
+Briefly explain why the sellers and buyers are 
+each willing to do so. What is the total cost of  
+pollution reduction in this situation?
+b. How much higher would the costs of pollution  
+reduction be if the permits could not be traded?
+--- PAGE 239 ---
+
+--- PAGE 240 ---
+n old song lyric maintains that “the best things in life are free.” A moment’s 
+thought reveals a long list of goods that the songwriter could have had in 
+mind. Nature provides some of them, such as rivers, mountains, beaches, 
+lakes, and oceans. The government provides others, such as playgrounds, parks, 
+and parades. In each case, people often do not pay a fee when they choose to 
+ enjoy the benefit of the good.
+Goods without prices provide a special challenge for economic analysis. Most 
+goods in our economy are allocated through markets, in which buyers pay for 
+what they receive and sellers are paid for what they provide. For these goods, 
+--- PAGE 241 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+prices are the signals that guide the decisions of buyers and sellers, and these 
+decisions lead to an efficient allocation of resources. When goods are available 
+free of charge, however, the market forces that normally allocate resources in our 
+In this chapter, we examine the problems that arise for the allocation of 
+ resources when there are goods without market prices. Our analysis will shed 
+light on one of the Ten Principles of Economics in Chapter 1: Governments can some-
+times improve market outcomes. When a good does not have a price attached 
+to it, private markets cannot ensure that the good is produced and consumed in 
+the proper amounts. In such cases, government policy can potentially remedy the 
+market failure and increase economic well-being.
+11-1 The Different Kinds of Goods
+How well do markets work in providing the goods that people want? The  answer 
+to this question depends on the good being considered. As we discussed in 
+ Chapter 7, a market can provide the efficient number of ice-cream cones: The price 
+of ice-cream cones adjusts to balance supply and demand, and this equilibrium 
+maximizes the sum of producer and consumer surplus. Yet as we discussed in 
+Chapter 10, the market cannot be counted on to prevent aluminum manufacturers 
+from polluting the air we breathe: Buyers and sellers in a market typically do not 
+take into account the external effects of their decisions. Thus, markets work well if 
+the good is ice cream, but they don’t if the good is clean air. 
+When thinking about the various goods in 
+--- PAGE 242 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+Goods can be grouped into four 
+categories according to two 
+characteristics: (1) A good is 
+excludable if people can be pre-
+vented from using it. (2) A good 
+is rival in consumption if one 
+person’s use of the good dimin-
+ishes other people’s use of it. 
+This diagram gives examples of 
+• Uncongested nontoll roads
+3. Common resources are rival in consumption but not excludable. For example, 
+fish in the ocean are rival in consumption: When one person catches fish, there are 
+fewer fish for the next person to catch. But these fish are not an excludable good 
+because it is difficult to stop fishermen from taking fish out of a vast ocean.
+ 4. Club goods are excludable but not rival in consumption. For instance, consider 
+fire protection in a small town. It is easy to exclude someone from using this 
+good: The fire department can just let her house burn down. But fire protection 
+is not rival in consumption: Once a town has paid for the fire department, the 
+additional cost of protecting one more house is small. (We discuss club goods 
+again in Chapter 15, where we see that they are one type of a natural monopoly.)
+Although Figure 1 offers a clean separation of goods into four categories, 
+the boundaries between the categories are sometimes fuzzy. Whether goods are 
+ excludable or rival in consumption is often a matter of degree. Fish in an ocean 
+may not be excludable because monitoring fishing is so difficult, but a large 
+enough coast guard could make fish at least partly excludable. Similarly, although 
+fish are generally riv
+--- PAGE 243 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+To understand how public goods differ from other goods and why they present 
+problems for society, let’s consider an example: a fireworks display. This good is 
+not excludable because it is impossible to prevent someone from seeing fireworks, 
+and it is not rival in consumption because one person’s enjoyment of fireworks 
+does not reduce anyone else’s enjoyment of them. 
+11-2a The Free-Rider Problem
+The citizens of Smalltown, U.S.A., like seeing fireworks on the Fourth of July. 
+Each of the town’s 500 residents places a $10 value on the experience for a total 
+benefit of $5,000. The cost of putting on a fireworks display is $1,000. Because the 
+$5,000 benefit exceeds the $1,000 cost, it is efficient for Smalltown to have a fire-
+works display on the Fourth of July.
+Would the private market produce the efficient outcome? Probably not. Imag-
+ine that Ella, a Smalltown entrepreneur, decided to put on a fireworks display. 
+Ella would surely have trouble selling tickets to the event because her potential 
+customers would quickly figure out that they could see the fireworks even with-
+out a ticket. Because fireworks are not excludable, people have an incentive to be 
+free riders. A free rider is a person who receives the benefit of a good but does not 
+pay for it. Because people would have an incentive to be free riders rather than 
+ticket buyers, the market would fail to provide the efficient outcome.
+One way to view this market failure is that it arises because of an externality. If 
+Ella puts on the fireworks display, she confers an
+--- PAGE 244 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+person enjoys the benefit of national defense, she does not reduce the ben-
+efit to anyone else. Thus, national defense is neither excludable nor rival 
+National defense is also one of the most expensive public goods. In 
+2014, the U.S. federal government spent a total of $748 billion on national 
+defense, more than $2,346 per person. People disagree about whether this 
+amount is too small or too large, but almost no one doubts that some gov-
+ernment spending for national defense is necessary. Even economists who 
+advocate small government agree that national defense is a public good 
+the government should provide.
+Basic Research  Knowledge is created through research. In evaluating 
+the appropriate public policy toward knowledge creation, it is important 
+to distinguish general knowledge from specific technological knowledge. Spe-
+cific technological knowledge, such as the invention of a longer-lasting battery, 
+a smaller microchip, or a better digital music player, can be patented. The pat-
+ent gives the inventor the exclusive right to the knowledge she has created for a 
+ period of time. Anyone else who wants to use the patented information must pay 
+the inventor for the right to do so. In other words, the patent makes the knowl-
+edge created by the inventor excludable. 
+By contrast, general knowledge is a public good. For example, a mathema-
+tician cannot patent a theorem. Once a theorem is proven, the knowledge is 
+not excludable: The theorem enters society’s general pool of knowledge that 
+anyone can use without charge. 
+--- PAGE 245 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Economists disagree among themselves about what role the government should 
+play in fighting poverty. We discuss this debate more fully in Chapter 20, but here we 
+note one important argument: Advocates of antipoverty programs claim that fighting 
+poverty is a public good. Even if everyone prefers living in a society without poverty, 
+fighting poverty is not a “good” that private actions will adequately provide.
+To see why, suppose someone tried to organize a group of wealthy individuals 
+to try to eliminate poverty. They would be providing a public good. This good 
+would not be rival in consumption: One person’s enjoyment of living in a society 
+without poverty would not reduce anyone else’s enjoyment of it. The good would 
+not be excludable: Once poverty is eliminated, no one can be prevented from tak-
+ing pleasure in this fact. As a result, there would be a tendency for people to free 
+ride on the generosity of others, enjoying the benefits of poverty elimination with-
+out contributing to the cause.
+Because of the free-rider problem, eliminating poverty through private charity will 
+probably not work. Yet government action can solve this problem. Taxing the wealthy 
+to raise the living standards of the poor can potentially make everyone better off. The 
+poor are better off because they now enjoy a higher standard of living, and those pay-
+ing the taxes are better off because they enjoy living in a society with less poverty.
+ARE LIGHTHOUSES PUBLIC GOODS?
+Some goods can switch between being public goods and being private 
+goods 
+--- PAGE 246 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+first step. The government must then determine what kinds of public goods to 
+provide and in what quantities. 
+Suppose that the government is considering a public project, such as building 
+a new highway. To judge whether to build the highway, it must compare the total 
+benefits for all those who would use it to the costs of building and maintaining it. 
+To make this decision, the government might hire a team of economists and engi-
+neers to conduct a study, called a cost–benefit analysis, to estimate the total costs 
+and benefits of the project to society as a whole.
+Cost–benefit analysts have a tough job. Because the highway will be available 
+to everyone free of charge, there is no price with which to judge the value of the 
+highway. Simply asking people how much they would value the highway is not 
+reliable: Quantifying benefits is difficult using the results from a questionnaire, 
+and respondents have little incentive to tell the truth. Those who would use the 
+highway have an incentive to exaggerate the benefit they receive to get the high-
+way built. Those who would be harmed by the highway have an incentive to 
+ exaggerate the costs to them to prevent the highway from being built.
+The efficient provision of public goods is, therefore, intrinsically more difficult 
+than the efficient provision of private goods. When buyers of a private good  enter 
+a market, they reveal the value they place on it through the prices they are will-
+ing to pay. At the same time, sellers reveal their costs with the prices they are 
+willing 
+--- PAGE 247 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+courts to award damages in wrongful-death suits, is to look at the total amount of 
+money a person would have earned if she had lived. Economists are often critical of 
+this approach because it ignores other opportunity costs of losing one’s life. It thus 
+has the bizarre implication that the life of a retired or disabled person has no value.
+A better way to value human life is to look at the risks that people are volun-
+tarily willing to take and how much they must be paid for taking them. For exam-
+ple, mortality risk varies across jobs. Construction workers in high-rise buildings 
+face greater risk of death on the job than office workers do. By comparing wages in 
+risky and less risky occupations, controlling for education, experience, and other 
+determinants of wages, economists can get some sense about what value people 
+put on their own lives. Studies using this approach conclude that the value of a 
+human life is about $10 million.
+We can now return to our original example and respond to the town engineer. The 
+traffic light reduces the risk of fatality by 0.5 percentage points. Thus, the expected 
+benefit from installing the traffic light is 0.005 3 $10 million, or $50,000. This estimate 
+of the benefit exceeds the cost of $10,000, so you should approve the project. ●
+What is the free-rider problem? Why does the free-rider problem induce 
+the government to provide public goods? • How should the government 
+decide whether to provide a public good?
+Common resources, like public goods, are not excludable: They are available 
+--- PAGE 248 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+What causes the tragedy? Why do the shepherds allow the sheep population 
+to grow so large that it destroys the Town Common? The reason is that social and 
+private incentives differ. Avoiding the destruction of the grazing land depends on 
+the collective action of the shepherds. If the shepherds acted together, they could 
+reduce the sheep population to a size that the Town Common can support. Yet 
+no single family has an incentive to reduce the size of its own flock because each 
+flock represents only a small part of the problem.
+In essence, the Tragedy of the Commons arises because of an externality. When 
+one family’s flock grazes on the common land, it reduces the quality of the land 
+available for other families. Because people neglect this negative externality when 
+deciding how many sheep to own, the result is an excessive number of sheep. 
+If the tragedy had been foreseen, the town could have solved the problem in 
+various ways. It could have regulated the number of sheep in each family’s flock, 
+internalized the externality by taxing sheep, or auctioned off a limited number of 
+sheep-grazing permits. That is, the medieval town could have dealt with the problem 
+of overgrazing in the way that modern society deals with the problem of pollution.
+In the case of land, however, there is a simpler solution. The town can divide 
+the land among town families. Each family can enclose its parcel of land with a 
+fence and then protect it from excessive grazing. In this way, the land becomes 
+a private good rather than a common re
+--- PAGE 249 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Many economists think drivers should 
+be charged more for using roads. Here 
+Why You’ll Love Paying for 
+Roads That Used to Be Free
+o end the scourge of traffic congestion, 
+the streets of Rome during daylight hours. 
+It didn’t work—traffic jams just shifted to 
+dusk. Two thousand years later, we have 
+put a man on the moon and developed gar-
+ments infinitely more practical than the 
+toga, but we seem little nearer to solving 
+If you live in a city, particularly a large 
+one, you probably need little convincing that 
+traffic congestion is frustrating and wasteful. 
+According to the Texas Transportation Insti-
+tute, the average American urban traveler 
+lost 38 hours, nearly one full work week, to 
+congestion in 2005. And congestion is getting 
+worse, not better; urban travelers in 1982 
+were delayed only 14 hours that year. 
+Americans want action, but unfortunately 
+there aren’t too many great ideas about what that 
+action might be. As Anthony Downs’s excellent 
+book Still Stuck in Traffic: Coping With Peak-Hour 
+Traffic  Congestion chronicles, most of the proposed 
+solutions are too difficult to implement, won’t work, 
+Fortunately, there is one remedy which is 
+both doable and largely guaranteed to suc-
+ceed. In the space of a year or two we could 
+have you zipping along the 405 or the LIE 
+at the height of rush hour at a comfortable 
+There’s just one small problem with this 
+silver bullet for congestion: many people 
+seem to prefer the werewolf. Despite its mer-
+its, this policy, which is known as “congestion 
+pricing,” “value p
+--- PAGE 250 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+and time needed to acquire the good. Think of 
+Soviet shoppers spending their lives in end-
+less queues to purchase artificially low-priced 
+but exceedingly scarce goods. Then think of 
+Americans who can fulfill nearly any consum-
+erist fantasy quickly but at a monetary cost. 
+Free but congested roads have left us shiver-
+ing on the streets of Moscow.
+To consider it another way, delay is an 
+externality imposed by drivers on their peers. 
+By driving onto a busy road and contribut-
+ing to congestion, drivers slow the speeds of 
+others—but they never have to pay for it, at 
+least not directly. In the end, of course, every-
+body pays, because as we impose congestion 
+on others, others impose it on us. This degen-
+erates into a game that nobody can win.
+Markets work best when externalities 
+are internalized: i.e., you pay for the hassle 
+you inflict on others…. Using tolls to help 
+internalize the congestion externality would 
+somewhat reduce the number of trips made 
+on the most congested roads at the peak 
+ usage periods; some trips would be moved to 
+less congested times and routes, and others 
+would be foregone entirely. This way we would 
+cut down on the congestion costs we impose 
+Granted, tolls cannot fully cope with 
+ accidents and other incidents, which are 
+ major causes of delay. But pricing can largely 
+eliminate chronic, recurring congestion. No 
+matter how high the demand for a road, there 
+is a level of toll that will keep it flowing freely. 
+To make tolling truly effective, the price 
+must be right. Too high a pric
+--- PAGE 251 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+to maintain the species for the next year. Just as excessive grazing can destroy the 
+Town Common, excessive fishing and whaling can destroy commercially valu-
+Oceans remain one of the least regulated common resources. Two problems 
+prevent an easy solution. First, many countries have access to the oceans, so any 
+solution would require international cooperation among countries that hold dif-
+ferent values. Second, because the oceans are so vast, enforcing any agreement is 
+difficult. As a result, fishing rights have been a frequent source of international 
+tension among normally friendly countries.
+Within the United States, various laws aim to manage the use of fish and other 
+wildlife. For example, the government charges for fishing and hunting licenses, 
+and it restricts the lengths of the fishing and hunting seasons. Fishermen are often 
+required to throw back small fish, and hunters can kill only a limited number of 
+animals. All these laws reduce the use of a common resource and help maintain 
+WHY THE COW IS NOT EXTINCT 
+Throughout history, many species of animals have been threatened 
+with extinction. When Europeans first arrived in North America, 
+more than 60 million buffalo roamed the continent.  Unfortunately, 
+however, hunting the buffalo was so popular during the 19th century that by 1900 
+the animal’s population had fallen to about 400 before the government stepped 
+in to protect the species. In some African countries today, elephants face a similar 
+challenge, as poachers kill them for the ivory in their tusks.
+Yet
+--- PAGE 252 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+11-4  Conclusion: The Importance  
+In this and the previous chapter, we have seen there are some “goods” that 
+the market does not provide adequately. Markets do not ensure that the air we 
+breathe is clean or that our country is defended from foreign aggressors. Instead, 
+societies rely on the government to protect the environment and to provide for the 
+The problems we considered in these chapters arise in many different markets, 
+but they share a common theme. In all cases, the market fails to allocate resources 
+efficiently because property rights are not well established. That is, some item of 
+value does not have an owner with the legal authority to control it. For example, 
+although no one doubts that the “good” of clean air or national defense is valu-
+able, no one has the right to attach a price to it and profit from its use. A factory 
+pollutes too much because no one charges the factory for the pollution it emits. 
+The market does not provide for national defense because no one can charge 
+those who are defended for the benefit they receive.
+When the absence of property rights causes a market failure, the government 
+can potentially solve the problem. Sometimes, as in the sale of pollution permits, 
+the solution is for the government to help define property rights and thereby 
+ unleash market forces. Other times, as in restricted hunting seasons, the solution 
+is for the government to regulate private behavior. Still other times, as in the pro-
+vision of national defense, the solution is for the government to use ta
+--- PAGE 253 ---
+• Goods differ in whether they are excludable and 
+whether they are rival in consumption. A good is 
+ excludable if it is possible to prevent someone from 
+ using it. A good is rival in consumption if one person’s 
+use of the good reduces others’ ability to use the same 
+unit of the good. Markets work best for private goods, 
+which are both excludable and rival in consumption. 
+Markets do not work as well for other types of goods.
+• Public goods are neither rival in consumption nor 
+ excludable. Examples of public goods include 
+ fireworks displays, national defense, and the  discovery 
+of fundamental knowledge. Because people are not 
+charged for their use of the public good, they have 
+an incentive to free ride, making private provision of 
+the good untenable. Therefore, governments provide 
+ public goods, basing their decision about the quantity 
+of each good on cost–benefit analysis.
+• Common resources are rival in consumption but not 
+excludable. Examples include common grazing land, 
+clean air, and congested roads. Because people are not 
+charged for their use of common resources, they tend 
+to use them excessively. Therefore, governments use 
+various methods, such as regulations and corrective 
+taxes, to limit the use of common resources.
+rivalry in consumption, p. 212
+cost–benefit analysis, p. 217
+Tragedy of the Commons, p. 218
+1. Explain what is meant by a good being “excludable.” 
+Explain what is meant by a good being “rival in con-
+sumption.” Is a slice of pizza excludable? Is it rival in 
+2. Define and give an example of a public good. Can the 
+private market pr
+--- PAGE 254 ---
+CHAPTER 11   PUBLIC GOODS AND COMMON RESOURCES 
+4. Wireless, high-speed Internet is provided for free in 
+the airport of the city of Communityville.
+a. At first, only a few people use the service. What 
+type of a good is this and why?
+b. Eventually, as more people find out about the 
+service and start using it, the speed of the connec-
+tion begins to fall. Now what type of a good is the 
+wireless Internet service? 
+c. What problem might result and why? What is one 
+possible way to correct this problem?
+5. Four roommates are planning to spend the weekend 
+in their dorm room watching old movies, and they are 
+debating how many to watch. Here is their willingness 
+a. Within the dorm room, is the showing of a movie 
+a public good? Why or why not?
+b. If it costs $8 to rent a movie, how many movies should 
+the roommates rent to maximize total surplus?
+c. If they choose the optimal number from part (b) 
+and then split the cost of renting the movies 
+equally, how much surplus does each person 
+obtain from watching the movies?
+d. Is there any way to split the cost to ensure that 
+everyone benefits? What practical problems does 
+e. Suppose they agree in advance to choose the ef-
+ficient number and to split the cost of the movies 
+equally. When Steven is asked his willingness to 
+pay, will he have an incentive to tell the truth? If 
+so, why? If not, what will he be tempted to say?
+f. What does this example teach you about the opti-
+mal provision of public goods?
+6. Some economists argue that private firms will not 
+undertake the efficient amount of basic scientific 
+a. Explain why thi
+--- PAGE 255 ---
+
+--- PAGE 256 ---
+The Design of the Tax System
+l “Scarface” Capone, the notorious 1920s gangster and crime boss, was never 
+convicted for his many violent crimes. Yet, eventually, he did go to jail—for 
+tax evasion. He had neglected to heed Ben Franklin’s observation that “in this 
+world nothing is certain but death and taxes.”
+When Franklin made this claim in 1789, the average American paid less than 
+5  percent of his income in taxes, and that remained true for the next hundred years. 
+Over the course of the 20th century, however, taxes became ever more important in 
+the life of the typical U.S. citizen. Today, all taxes taken together—including personal 
+income taxes, corporate income taxes, payroll taxes, sales taxes, and property 
+taxes—use up more than a quarter of the average American’s income. 
+In many European countries, the tax bite is even larger.
+--- PAGE 257 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Taxes are inevitable because citizens expect their governments to provide 
+them with various goods and services. One of the Ten Principles of Economics from 
+ Chapter 1 is that markets are usually a good way to organize economic activity. 
+But market economies rely on property rights and the rule of law, and so the gov-
+ernment provides police and courts. Another of the Ten Principles of Economics is 
+that the government can sometimes improve market outcomes. When the govern-
+ment remedies an externality (such as air pollution), provides a public good (such 
+as national defense), or regulates the use of a common resource (such as fish in a 
+public lake), it can raise economic well-being. But these activities can be costly. 
+For the government to perform these and its many other functions, it needs to 
+raise revenue through taxation.
+We began our study of taxation in earlier chapters, where we saw how a 
+tax on a good affects the supply and demand for that good. In Chapter 6, we 
+saw that a tax reduces the quantity sold in a market, and we examined how 
+the burden of a tax is shared by buyers and sellers depending on the elasticities 
+of supply and demand. In Chapter 8, we examined how taxes affect economic 
+well-being. We learned that taxes can cause deadweight losses: The reduction in 
+consumer and producer surplus resulting from a tax exceeds the revenue raised 
+In this chapter, we build on these lessons to discuss the design of a tax system. 
+We begin with some basic facts about how the U.S. government raises money. We 
+then d
+--- PAGE 258 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+This figure shows revenue of the federal government and of state and local governments as a per-
+centage of gross domestic product (GDP), which measures total income in the economy. It shows 
+that the government plays a large role in the U.S. economy and that its role has grown over time.
+Source: Historical Statistics of the United States; Bureau of Economic Analysis; and author’s calculations.
+The percentage of income that governments take in taxes varies substantially from country to country.
+Source: OECD. Data are for 2013.
+--- PAGE 259 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Source: Bureau of Economic Analysis. 
+Columns may not sum to total due to 
+The Federal Income Tax Rates: 2014
+This table shows the marginal tax rates for 
+an unmarried taxpayer. The taxes owed by 
+a taxpayer depend on all the marginal tax 
+rates up to his income level. For example, 
+a taxpayer with income of $25,000 pays 
+10 percent of the first $9,075 of income, 
+and then 15 percent of the rest.
+Personal Income Taxes  The largest source of revenue for the federal govern-
+ment is the personal income tax. As April 15 approaches each year, almost  every 
+American family fills out a tax form to determine the income tax it owes the 
+ government. Each family is required to report its income from all sources: wages 
+from working, interest on savings, dividends from corporations in which it owns 
+shares, profits from any small businesses it operates, and so on. The family’s tax 
+liability (how much it owes) is based on its total income. 
+A family’s income tax liability is not simply proportional to its income. Instead, 
+the law requires a more complicated calculation. Taxable income is computed as 
+total income minus an amount based on the number of dependents (primarily 
+children) and minus certain expenses that policymakers have deemed “deduct-
+ible” (such as mortgage interest payments, state and local tax payments, and 
+charitable giving). Then the tax liability is calculated from taxable income using a 
+schedule like the one shown in Table 2.
+This table presents the marginal tax rate—the tax rate applied to each additional 
+dollar o
+--- PAGE 260 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+workers. Table 1 calls this revenue social insurance taxes because the revenue from 
+these taxes is mostly earmarked to pay for Social Security and Medicare. Social 
+Security is an income-support program designed primarily to maintain the living 
+standards of the elderly. Medicare is the government health program for the elderly. 
+In 2014, the total payroll tax was 15.3 percent for annual earnings up to $117,000 
+and 2.9 percent of earnings above $117,000, together with an additional 0.9 percent 
+for taxpayers with high income (above $200,000 if single, $250,000 if married). For 
+many middle-income households, the payroll tax is the largest tax they pay.
+Corporate Income Taxes  Next in magnitude, but much smaller than either 
+personal income taxes or social insurance taxes, is the corporate income tax. A 
+corporation is a business set up to have its own legal existence, distinct and sepa-
+rate from its owners. The government taxes each corporation based on its profit—
+the amount the corporation receives for the goods or services it sells minus the 
+costs of producing those goods or services. Notice that corporate profits are, in 
+essence, taxed twice. They are taxed once by the corporate income tax when the 
+corporation earns the profits, and they are taxed again by the personal income tax 
+when the corporation uses its profits to pay dividends to its shareholders. In part 
+to compensate for this double taxation, policymakers have decided to tax divi-
+dend income at lower rates than other types of income: In 2014, the top marginal 
+
+--- PAGE 261 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+at retail stores. Every time a customer buys something, he pays the storekeeper an 
+extra amount that the storekeeper remits to the government. (Some states exclude 
+certain items that are considered necessities, such as food and clothing.) Prop-
+erty taxes are levied on property owners as a percentage of the estimated value of 
+land and structures. Together, these two taxes make up more than 40 percent of all 
+ receipts of state and local governments.
+State and local governments also levy individual and corporate income taxes. 
+In many cases, state and local income taxes are similar to federal income taxes. 
+In other cases, they are quite different. For example, some states tax income from 
+wages less heavily than income earned in the form of interest and dividends. 
+Some states do not tax income at all.
+State and local governments also receive substantial funds from the federal 
+government. To some extent, the federal government’s policy of sharing its rev-
+enue with state governments redistributes funds from high-income states (which 
+pay more taxes) to low-income states (which receive more benefits). Often, these 
+funds are tied to specific programs that the federal government wants to subsidize. 
+For example, Medicaid provides healthcare for the poor; this program is managed 
+by the states but much of the funding comes from the federal government.
+Finally, state and local governments receive receipts from various sources 
+ included in the “other” category in Table 3. These include fees for fishing and hunt-
+ing licenses, tol
+--- PAGE 262 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+cream, people eat less ice cream and more frozen yogurt. If the government taxes 
+housing, people live in smaller houses and spend more of their income on other 
+things. If the government taxes labor earnings, people work less and enjoy more 
+Because taxes distort incentives, they entail deadweight losses. As we first dis-
+cussed in Chapter 8, the deadweight loss of a tax is the reduction in economic 
+well-being of taxpayers in excess of the amount of revenue raised by the govern-
+ment. The deadweight loss is the inefficiency that a tax creates as people allocate 
+resources according to the tax incentive rather than the true costs and benefits of 
+the goods and services that they buy and sell.
+To recall how taxes cause deadweight losses, consider an example. Sup-
+pose that Jake places an $8 value on a pizza and Jane places a $6 value on it. 
+If there is no tax on pizza, the price of pizza will reflect the cost of making 
+it. Let’s suppose that the price of pizza is $5, so both Jake and Jane choose to 
+buy one. Both consumers get some surplus of value over the amount paid. 
+Jake gets consumer surplus of $3, and Jane gets consumer surplus of $1. Total 
+Now suppose that the government levies a $2 tax on pizza and the price of 
+pizza rises to $7. (This occurs if supply is perfectly elastic.) Jake still buys a pizza, 
+but now he has consumer surplus of only $1. Jane now decides not to buy a pizza 
+because its price is higher than its value to her. The government collects tax reve-
+nue of $2 on Jake’s pizza. Total consumer surplus has fal
+--- PAGE 263 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+is later spent. This alternative system, called a consumption tax, would not distort 
+people’s saving decisions. 
+Various provisions of current law already make the tax system a bit like a con-
+sumption tax. Taxpayers can put a limited amount of their income into special 
+savings accounts, such as Individual Retirement Accounts and 401(k) plans, and 
+this income and the accumulated interest it earns escape taxation until the money 
+is withdrawn at retirement. For people who do most of their saving through these 
+retirement accounts, their tax bill is, in effect, based on their consumption rather 
+European countries tend to rely more on consumption taxes than does the 
+United States. Most of them raise a significant amount of government revenue 
+through a value-added tax, or a VAT. A VAT is like the retail sales tax that many 
+U.S. states use. But rather than collecting all of the tax at the retail level when the 
+consumer buys the final good, the government collects the tax in stages as the 
+good is being produced (that is, as value is added by firms along the chain of 
+Various U.S. policymakers have proposed that the tax code move further in 
+the direction of taxing consumption rather than income. In 2005, economist Alan 
+Greenspan, then Chairman of the Federal Reserve, offered this advice to a presi-
+dential commission on tax reform: “As you know, many economists believe that 
+a consumption tax would be best from the perspective of promoting economic 
+growth—particularly if one were designing a tax system from scratch—because 
+
+--- PAGE 264 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+The resources devoted to complying with the tax laws are a type of deadweight 
+loss. The government gets only the amount of taxes paid. By contrast, the tax-
+payer loses not only this amount but also the time and money spent document-
+ing, computing, and avoiding taxes.
+The administrative burden of the tax system could be reduced by simplifying 
+the tax laws. Yet simplification is often politically difficult. Most people are ready 
+to simplify the tax code by eliminating the loopholes that benefit others, but few 
+are eager to give up the loopholes that they benefit from themselves. In the end, 
+the complexity of the tax law results from the political process as various taxpay-
+ers with their own special interests lobby for their causes. 
+12-2c Marginal Tax Rates versus Average Tax Rates
+When discussing the efficiency and equity of income taxes, economists distin-
+guish between two notions of the tax rate: the average and the marginal. The 
+average tax rate is total taxes paid divided by total income. The marginal tax rate 
+is the amount by which taxes increase from an additional dollar of income.
+For example, suppose that the government taxes 20 percent of the first 
+$50,000 of income and 50 percent of all income above $50,000. Under this tax, a 
+person who makes $60,000 pays a tax of $15,000: 20 percent of the first $50,000 
+(0.20 3 $50,000 5 $10,000) plus 50 percent of the remaining $10,000 (0.50 3 $10,000 5 
+$5,000). For this person, the average tax rate is $15,000 / $60,000, or 25 percent. 
+But the marginal tax rate is 50 perce
+--- PAGE 265 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+and accountants, the lump-sum tax imposes a minimal administrative burden 
+If lump-sum taxes are so efficient, why do we rarely observe them in the real 
+world? The reason is that efficiency is only one goal of the tax system. A lump-sum 
+tax would take the same amount from the poor and the rich, an outcome most 
+people would view as unfair. To understand the tax systems that we  observe, we 
+must therefore consider the other major goal of tax policy: equity.
+What is meant by the efficiency of a tax system? • What can make a tax 
+Ever since American colonists dumped imported tea into Boston harbor to protest 
+high British taxes, tax policy has generated some of the most heated debates in 
+American politics. The heat is rarely fueled by questions of efficiency. Instead, it 
+arises from disagreements over how the tax burden should be distributed. Sena-
+tor Russell Long once mimicked the public debate with this ditty:
+Tax that fella behind the tree.
+Of course, if we rely on the government to provide some of the goods and services 
+we want, then someone must pay taxes to fund those goods and services. In this 
+section, we consider the equity of a tax system. How should the burden of taxes 
+be divided among the population? How do we evaluate whether a tax system is 
+fair? Everyone agrees that the tax system should be equitable, but there is much 
+disagreement about how to judge the equity of a tax system.
+12-3a The Benefits Principle
+One principle of taxation, called the benefits principle, states that people should 
+pay taxes based o
+--- PAGE 266 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+The same argument can be used for many other public services, such as fire pro-
+tection, national defense, and the court system.
+It is even possible to use the benefits principle to argue for antipoverty pro-
+grams funded by taxes on the wealthy. As we discussed in Chapter 11, people 
+may prefer living in a society without poverty, suggesting that antipoverty pro-
+grams are a public good. If the wealthy place a greater dollar value on this pub-
+lic good than members of the middle class do, perhaps just because the wealthy 
+have more to spend, then according to the benefits principle, they should be taxed 
+more heavily to pay for these programs.
+12-3b The Ability-to-Pay Principle
+Another way to evaluate the equity of a tax system is called the ability-to-pay 
+principle, which states that taxes should be levied on a person according to how 
+well that person can shoulder the burden. This principle is sometimes justified by 
+the claim that all citizens should make an “equal sacrifice” to support the govern-
+ment. The magnitude of a person’s sacrifice, however, depends not only on the size 
+of his tax payment but also on his income and other circumstances: A $1,000 tax paid 
+by a poor person may require a larger sacrifice than a $10,000 tax paid by a rich one.
+The ability-to-pay principle leads to two corollary notions of equity: vertical 
+equity and horizontal equity. Vertical equity states that taxpayers with a greater 
+ability to pay should contribute a larger amount. Horizontal equity states that 
+taxpayers with similar abilities to 
+--- PAGE 267 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Source: Congressional Budget Office. Figures 
+HOW THE TAX BURDEN IS DISTRIBUTED
+The debate over tax policy often concerns whether the wealthy pay 
+their fair share. There is no objective way to make this judgment. In 
+evaluating the issue for yourself, however, it is useful to know how 
+much families with different incomes pay under the current tax system.
+Table 5 presents some data on how federal taxes are distributed among income 
+classes. These figures are for 2011, the most recent year available as this book was 
+going to press, and were tabulated by the Congressional Budget Office (CBO). 
+They include all federal taxes—personal income taxes, payroll taxes, corporate 
+income taxes, and excise taxes—but not state and local taxes. When calculating a 
+household’s tax burden, the CBO allocates corporate income taxes to the owners 
+of capital and payroll taxes to workers.
+To construct the table, households are ranked according to their income and 
+placed into five groups of equal size, called quintiles. The table also presents data 
+on the richest 1 percent of Americans. The second column of the table shows the 
+average income of each group. Income includes both market income (income that 
+households have earned from their work and savings) and transfer payments 
+from government programs, such as Social Security and welfare. The poorest one-
+fifth of households had average income of $24,600, and the richest one-fifth had 
+average income of $245,700. The richest 1 percent had average income of over $1.4 
+The third column of the tab
+--- PAGE 268 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+The richest quintile of households still pays about one-quarter of its  income to 
+the government, even after transfers are subtracted, and the top 1 percent still 
+pays  almost 30  percent. By contrast, the average tax rate for the poorest quintile 
+ becomes a sizeable negative number. That is, typical households in the bottom 
+of the income distribution receive substantially more in transfers than they pay 
+in taxes. The lesson is clear: To understand fully the progressivity of government 
+policies, one must take into account both what people pay and what they receive.
+Finally, it is worth noting that the numbers in Table 5 are a bit out of date. In 
+late 2012, the U.S. Congress passed and President Obama signed a tax bill that 
+ increased taxes significantly from those that prevailed previously, particularly for 
+taxpayers at the top of the income distribution. As a result, the tax system in place 
+for 2013 and beyond is more progressive than the one shown in the table. The Con-
+gressional Budget Office projects that for the top 1 percent, taxes as a percentage of 
+income increased from 29.0 to 33.3 percent. ●
+Horizontal Equity  If taxes are based on ability to pay, then similar taxpayers 
+should pay similar amounts of taxes. But what determines if two taxpayers are 
+similar? Families differ in many ways. To evaluate whether a tax code is horizon-
+tally equitable, one must determine which differences are relevant for a family’s 
+ability to pay and which differences are not.
+Suppose the Smith and Jones families each have income of
+--- PAGE 269 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+WHO PAYS THE CORPORATE INCOME TAX?
+The corporate income tax provides a good example of the importance 
+of tax incidence for tax policy. The corporate tax is popular among 
+voters. After all, corporations are not people. Voters are  always eager 
+to get a tax cut and let some impersonal corporation pick up the tab.
+But before deciding that the corporate income tax is a good way for the govern-
+ment to raise revenue, we should consider who bears the burden of the  corporate 
+tax. This is a difficult question on which economists disagree, but one thing is 
+certain: People pay all taxes. When the government levies a tax on a corporation, 
+the corporation is more like a tax collector than a taxpayer. The burden of the tax 
+ultimately falls on people—the owners, customers, or workers of the corporation.
+Many economists believe that workers and customers bear much of the burden 
+of the corporate income tax. To see why, consider an example. Suppose that the 
+U.S. government decides to raise the tax on the income earned by car companies. 
+At first, this tax hurts the owners of the car companies, who receive less profit. 
+Tax reformers and deficit hawks of-
+ten suggest reducing the deductions, 
+credits, and exclusions that narrow 
+The Blur between Spending  
+hould the government cut spending or 
+raise taxes to deal with its long-term fis-
+cal imbalance? As President Obama’s deficit 
+commission rolls out its final report in the 
+coming weeks, this issue will most likely 
+ divide the political right and left. But, in many 
+ways, the question
+--- PAGE 270 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+out, tax expenditures disproportionately ben-
+efit those at the top of the economic ladder. 
+According to their figures, tax expenditures 
+increase the after-tax income of those in the 
+bottom quintile by about 6 percent. Those in the 
+top 1 percent of the income distribution  enjoy 
+about twice that gain. Progressives who are 
+concerned about the gap between rich and poor 
+should be eager to scale back tax expenditures. 
+Pundits on the right, meanwhile, are sus-
+picious of anything that increases government 
+revenue. But they should recognize that tax 
+expenditures are best viewed as a hidden form 
+of spending. If we eliminate tax expenditures 
+and reduce marginal tax rates, as Mr. Bowles 
+and Mr. Simpson propose, we are essentially 
+doing what economic conservatives have long 
+advocated: cutting spending and taxes. 
+Yet another political problem is that each 
+tax expenditure has its own political constit-
+uency. If Congressman Blowhard ever got his 
+way, the snipe hunters of the world would 
+surely fight to keep their tax break. 
+One major tax expenditure that the 
+Bowles-Simpson plan would curtail or elim-
+inate is the mortgage interest deduction. 
+Without doubt, many homeowners and the 
+real estate industry will object. But they won’t 
+have the merits on their side. 
+This subsidy to homeownership is neither 
+economically efficient nor particularly equita-
+ble. Economists have long pointed out that tax 
+subsidies to housing, together with the high 
+taxes on corporations, cause too much of the 
+economy’s capital stock to be tied u
+--- PAGE 271 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+Explain the benefits principle and the ability-to-pay principle. • What are 
+vertical equity and horizontal equity? • Why is studying tax incidence 
+ important for determining the equity of a tax system?
+12-4 Conclusion: The Trade-off between Equity and Efficiency
+Almost everyone agrees that equity and efficiency are the two most important 
+goals of a tax system. But these two goals often conflict, especially when equity 
+is judged by the progressivity of the tax system. People often disagree about tax 
+policy because they attach different weights to these goals.
+The recent history of tax policy shows how political leaders differ in their views 
+on equity and efficiency. When Ronald Reagan was elected president in 1980, the 
+marginal tax rate on the earnings of the richest Americans was 50 percent. On 
+ interest income, the marginal tax rate was 70 percent. Reagan argued that such high 
+tax rates greatly distorted economic incentives to work and save. In other words, 
+he claimed that these high tax rates cost too much in terms of economic efficiency. 
+Tax reform was, therefore, a high priority of his administration. Reagan signed into 
+law large cuts in tax rates in 1981 and then again in 1986. When Reagan left office in 
+1989, the richest Americans faced a marginal tax rate of only 28 percent.
+The pendulum of political debate swings both ways. When Bill Clinton ran for 
+president in 1992, he argued that the rich were not paying their fair share of taxes. 
+In other words, the low tax rates on the rich violated his view of vertica
+--- PAGE 272 ---
+CHAPTER 12   THE DESIGN OF THE TAX SYSTEM
+If the tax code exempts the first $20,000 of income 
+from taxation and then taxes 25 percent of all income 
+above that level, then a person who earns $50,000 
+has an average tax rate of _____ percent and a mar-
+ginal tax rate of _____ percent.
+A toll is a tax on citizens who use toll roads. This pol-
+icy can be viewed as an application of
+a. the benefits principle.
+In the United States, taxpayers in the top 1 percent 
+of the income distribution pay about _____ percent of 
+their income in federal taxes.
+If the corporate income tax induces businesses to 
+reduce their capital investment, then
+a. the tax does not have any deadweight loss.
+b. corporate shareholders benefit from the tax.
+c. workers bear some of the burden of the tax.
+d. the tax achieves the goal of vertical equity.
+benefits principle, p. 236
+ability-to-pay principle, p. 237
+• The U.S. government raises revenue using various 
+taxes. The most important taxes for the federal gov-
+ernment are personal income taxes and payroll taxes 
+for social insurance. The most important taxes for 
+state and local governments are sales taxes and prop-
+• The efficiency of a tax system refers to the costs it 
+ imposes on taxpayers. There are two costs of taxes 
+ beyond the transfer of resources from the taxpayer to 
+the government. The first is the deadweight loss that 
+arises as taxes alter incentives and distort the  allocation 
+of resources. The second is the administrative  burden 
+of complying with the tax laws.
+• The equity of a tax system concerns whether the 
+tax burden is distributed
+--- PAGE 273 ---
+PART IV   THE ECONOMICS OF THE PUBLIC SECTOR
+1. The information in many of the tables in this chapter 
+can be found in the Economic Report of the President, 
+which appears annually. Using a recent issue of the 
+report at your library or on the Internet, answer the 
+following questions and provide some numbers 
+to support your answers. (Hint: The website of the 
+ Government Printing Office is http://www.gpo.gov.)
+a. Figure 1 shows that government revenue as a per-
+centage of total income has increased over time. Is 
+this increase primarily attributable to changes in 
+federal government revenue or in state and local 
+b. Looking at the combined revenue of the federal 
+government and state and local governments, 
+how has the composition of total revenue changed 
+over time? Are personal income taxes more or 
+less important? Social insurance taxes? Corporate 
+2. Suppose you are a typical person in the U.S. economy. 
+You pay 4 percent of your income in a state income 
+tax and 15.3 percent of your labor earnings in federal 
+payroll taxes (employer and employee shares com-
+bined). You also pay federal income taxes as in Table 2. 
+How much tax of each type do you pay if you earn 
+$30,000 a year? Taking all taxes into account, what are 
+your average and marginal tax rates? What happens 
+to your tax bill and to your average and marginal tax 
+rates if your income rises to $60,000?
+3. Some states exclude necessities, such as food and 
+clothing, from their sales tax. Other states do not. 
+Discuss the merits of this exclusion. Consider both 
+4. When someone owns an asset (such as a share o
+--- PAGE 274 ---
+ted, in whole or in part.  WCN 02-200-203

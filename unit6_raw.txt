@@ -1,0 +1,1343 @@
+--- PAGE 390 ---
+The Markets for the Factors 
+hen you finish school, your income will be determined largely by what kind 
+of job you take. If you become a computer programmer, you will earn more 
+than if you become a gas station attendant. This fact is not surprising, but it 
+is not obvious why it is true. No law requires that computer programmers be paid 
+more than gas station attendants. No ethical principle says that programmers are 
+more deserving. What then determines which job will pay you the higher wage?
+Your income, of course, is a small piece of a larger economic picture. In 2015, 
+the total income of all U.S. residents (a statistic called national income) was about 
+$16 trillion. People earned this income in various ways. Workers earned 
+about two-thirds of it in the form of wages and fringe benefits. 
+The rest went to landowners and to the owners of 
+--- PAGE 391 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+capital—the economy’s stock of equipment and structures—in the form of rent, 
+profit, and interest. What determines how much goes to  workers? To landown-
+ers? To the owners of capital? Why do some  workers earn higher wages than oth-
+ers, some landowners higher rental income than  others, and some capital owners 
+greater profit than others? Why, in particular, do computer programmers earn 
+more than gas station attendants?
+The answers to these questions, like most in economics, hinge on supply and 
+demand. The supply and demand for labor, land, and capital determine the prices 
+paid to workers, landowners, and capital owners. To understand why some peo-
+ple have higher incomes than others, therefore, we need to look more deeply at 
+the markets for the services they provide. That is our job in this and the next two 
+This chapter provides the basic theory for the analysis of factor markets. As 
+you may recall from Chapter 2, the factors of production are the inputs used to 
+produce goods and services. Labor, land, and capital are the three most important 
+factors of production. When a computer firm produces a new software program, it 
+uses programmers’ time (labor), the physical space on which its offices are  located 
+(land), and an office building and computer equipment (capital). Similarly, when 
+a gas station sells gas, it uses attend
+--- PAGE 392 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+that hire the labor and use it to produce goods for sale. By examining the link be-
+tween the production of goods and the demand for labor to make those goods, we 
+gain insight into the determination of equilibrium wages. 
+18-1a The Competitive Profit-Maximizing Firm
+Let’s look at how a typical firm, such as an apple producer, decides what quantity 
+of labor to demand. The firm owns an apple orchard and each week decides how 
+many apple pickers to hire to harvest its crop. After the firm makes its hiring deci-
+sion, the workers pick as many apples as they can. The firm then sells the apples, 
+pays the workers, and keeps what is left as profit.
+We make two assumptions about our firm. First, we assume that our firm is com-
+petitive both in the market for apples (where the firm is a seller) and in the market 
+for apple pickers (where the firm is a buyer). A competitive firm is a price taker. 
+Because there are many other firms selling apples and hiring apple pickers, a single 
+firm has little influence over the price it gets for apples or the wage it pays apple 
+pickers. The firm takes the price and the wage as given by market conditions. It 
+only has to decide how many apples to sell and how many workers to hire.
+Second, we assume that the firm is profit-maximizing. Thus, the firm does not 
+directly care about the number of w
+--- PAGE 393 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+sell. Table 1 gives a numerical example. Column (1) shows the number of workers. 
+Column (2) shows the quantity of apples the workers harvest each week.
+These two columns of numbers describe the firm’s ability to produce apples. 
+Recall that economists use the term production function to describe the relation-
+ship between the quantity of the inputs used in production and the quantity of 
+output from production. Here the “input” is the apple pickers and the “output” 
+is the apples. The other inputs—the trees themselves, the land, the firm’s trucks 
+and tractors, and so on—are held fixed for now. This firm’s production function 
+shows that if the firm hires 1 worker, that worker will pick 100 bushels of apples 
+per week. If the firm hires 2 workers, the 2 workers together will pick 180 bushels 
+Figure 2 graphs the data on labor and output presented in Table 1. The number 
+of workers is on the horizontal axis, and the amount of output is on the vertical 
+axis. This figure illustrates the production function.
+One of the Ten Principles of Economics introduced in Chapter 1 is that rational 
+people think at the margin. This idea is the key to understanding how firms  decide 
+what quantity of labor to hire. To take a step toward this decision, column (3) 
+in Table 1 shows the marginal product of labor, the increase in the amount of 
+output prod
+--- PAGE 394 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+18-1c  The Value of the Marginal Product  
+Our profit-maximizing firm is concerned not about apples themselves but rather about 
+the money it can make by producing and selling them. As a result, when deciding how 
+many workers to hire to pick apples, the firm considers how much profit each worker 
+will bring in. Because profit is total revenue minus total cost, the profit from an addi-
+tional worker is the worker’s contribution to revenue minus the worker’s wage.
+To find the worker’s contribution to revenue, we must convert the marginal 
+product of labor (which is measured in bushels of apples) into the value of the mar-
+ginal product (which is measured in dollars). We do this using the price of apples. 
+To continue our example, if a bushel of apples sells for $10 and if an additional 
+worker produces 80 bushels of apples, then the worker produces $800 of revenue.
+The value of the marginal product of any input is the marginal product of that 
+input multiplied by the market price of the output. Column (4) in Table 1 shows 
+the value of the marginal product of labor in our example, assuming the price 
+of apples is $10 per bushel. Because the market price is constant for a competi-
+tive firm while the marginal product declines with more workers, the value of the 
+marginal product diminishes as the number of workers rises. Econ
+--- PAGE 395 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+rises. The figure also includes a horizontal line at the market wage. To maximize 
+profit, the firm hires workers up to the point where these two curves cross. Below 
+this level of employment, the value of the marginal product exceeds the wage, so 
+hiring another worker increases profit. Above this level of employment, the value 
+of the marginal product is less than the wage, so the marginal worker is unprofit-
+able. Thus, a competitive, profit-maximizing firm hires workers up to the point at which 
+the value of the marginal product of labor equals the wage.
+Now that we understand the profit-maximizing hiring strategy for a com-
+petitive firm, we can offer a theory of labor demand. Recall that a firm’s labor-
+demand curve tells us the quantity of labor that a firm decides to hire at any given 
+wage. Figure 3 shows that the firm makes that decision by choosing the quan-
+tity of labor at which the value of the marginal product equals the wage. As a 
+result, the value-of-marginal-product curve is the labor-demand curve for a competitive, 
+18-1d What Causes the Labor-Demand Curve to Shift?
+We now understand that the labor-demand curve reflects the value of the mar-
+ginal product of labor. With this insight in mind, let’s consider a few of the things 
+that might cause the labor-demand curve to shift.
+The Output Price  The value of the margina
+--- PAGE 396 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+technological progress: Scientists and engineers are constantly figuring out new 
+and better ways of doing things. This has profound implications for the labor mar-
+ket. Advances in technology typically raise the marginal product of labor, which in 
+turn increases the demand for labor and shifts the labor-demand curve to the right. 
+It is also possible for technological change to reduce labor demand. The inven-
+tion of a cheap industrial robot, for instance, could conceivably reduce the mar-
+ginal product of labor, shifting the labor-demand curve to the left. Economists 
+call this labor-saving technological change. History suggests, however, that most 
+technological progress is instead labor-augmenting. For example, a carpenter 
+with a nail gun is more productive than a carpenter with only a hammer. Labor-
+augmenting technological advance explains persistently rising employment in the 
+face of rising wages: Even though wages (adjusted for inflation) increased by 165 
+percent from 1960 to 2015, firms nonetheless more than doubled the amount of 
+The Supply of Other Factors  The quantity of one factor of production that is 
+available can affect the marginal product of other factors. The productivity of 
+apple pickers depends, for instance, on the availability of ladders. If the supply 
+Input Demand and Output Supply:  
+Two Sid
+--- PAGE 397 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+of ladders declines, the marginal product of apple pickers will decline as well, 
+ reducing the demand for apple pickers. We consider the linkage among the  factors 
+of production more fully later in the chapter.
+Define marginal product of labor and value of the marginal product of labor. • 
+Describe how a competitive, profit-maximizing firm decides how many 
+Having analyzed labor demand in detail, let’s turn to the other side of the market 
+and consider labor supply. A formal model of labor supply is included in Chapter 
+21, where we develop the theory of household decision making. Here we infor-
+mally discuss the decisions that lie behind the labor-supply curve.
+18-2a The Trade-off between Work and Leisure
+One of the Ten Principles of Economics in Chapter 1 is that people face trade-offs. 
+Probably no trade-off in a person’s life is more obvious or more important than 
+the trade-off between work and leisure. The more hours you spend working, 
+the fewer hours you have to watch TV, browse social media, enjoy dinner with 
+friends, or pursue your favorite hobby. The trade-off between labor and leisure 
+lies behind the labor-supply curve.
+Another of the Ten Principles of Economics is that the cost of something is what 
+you give up to get it. What do you give up to get an hour of leisure? You give up 
+an hour of work, which in turn means an 
+--- PAGE 398 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+are many explanations for this development, one of them is changing tastes, or 
+attitudes toward work. Sixty-five years ago, it was the norm for women to stay 
+at home and raise their children. Today, the typical family size 
+is smaller, and more mothers choose to work. The result is an 
+increase in the supply of labor.
+Changes in Alternative Opportunities  The supply of labor 
+in any one labor market depends on the opportunities avail-
+able in other labor markets. If the wage earned by pear pick-
+ers suddenly rises, some apple pickers may choose to switch 
+occupations, causing the supply of labor in the market for apple 
+Immigration  Movement of workers from region to region, 
+or country to country, is another important source of shifts in 
+labor supply. When immigrants come to the United States, for 
+instance, the supply of labor in the United States increases and 
+the supply of labor in the immigrants’ home countries falls. In 
+fact, much of the policy debate about immigration centers on 
+its effect on labor supply and, thereby, equilibrium wages in the 
+Who has a greater opportunity cost of enjoying 
+ leisure—a janitor or a brain surgeon? Explain. Can 
+this help explain why doctors work such long hours?
+18-3  Equilibrium in the Labor 
+So far we have established two facts about how wages are deter-
+mined in competitive l
+--- PAGE 399 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+This brings us to an important lesson: Any event that changes the supply or  demand 
+for labor must change the equilibrium wage and the value of the marginal product by the 
+same amount because these must always be equal. To see how this works, let’s consider 
+some events that shift these curves. 
+18-3a Shifts in Labor Supply
+Suppose that immigration increases the number of workers willing to pick apples. 
+As Figure 5 shows, the supply of labor shifts to the right from S1 to S2. At the ini-
+tial wage W1, the quantity of labor supplied now exceeds the quantity demanded. 
+This surplus of labor puts downward pressure on the wage of apple pickers, and 
+the fall in the wage from W1 to W2 makes it profitable for firms to hire more work-
+ers. As the number of workers employed in each apple orchard rises, the marginal 
+product of a worker falls, and so does the value of the marginal product. In the 
+new equilibrium, both the wage and the value of the marginal product of labor 
+are lower than they were before the influx of new workers.
+An episode from Israel, studied by MIT economist Joshua Angrist, illustrates 
+how a shift in labor supply can alter the equilibrium in a labor market. During 
+most of the 1980s, many thousands of Palestinians regularly commuted from their 
+homes in the Israeli-occupied West Bank and Gaza Strip to jobs in Israel, pr
+--- PAGE 400 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+When labor supply increases from  
+S1 to S2, perhaps because of an 
+ immigration wave of new workers, the 
+equilibrium wage falls from W1 to W2. 
+At this lower wage, firms hire more 
+labor, so employment rises from L1 to 
+L2. The change in the wage reflects a 
+change in the value of the marginal 
+product of labor: With more workers, 
+the added output from an extra worker 
+3. . . . and raises employment.
+different kinds of workers. A wave of immigration may lower wages in those labor 
+markets in which the new immigrants seek work, but it could have the opposite 
+effect in other labor markets. For example, if the new immigrants look for jobs as 
+apple pickers, the supply of apple pickers increases and the wage of apple pickers 
+declines. But suppose the new immigrants are physicians who use some of their 
+income to buy apples. In this case, the wave of immigration increases the supply of 
+physicians but increases the demand for apples and thus apple pickers. As a result, 
+the wages of physicians decline, and the wages of apple pickers rise. The linkages 
+among various markets—sometimes called general equilibrium  effects—make ana-
+lyzing the full effect of immigration more complex than it first appears. 
+18-3b Shifts in Labor Demand
+Now suppose that an increase in the popularity of apples causes their price to rise. 
+This pri
+--- PAGE 401 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+Here is an interview with Pia 
+Orrenius, a senior economist at the 
+Federal Reserve Bank of Dallas who 
+Q: What can you tell us about the size 
+of the immigrant population in the United 
+A: Immigrants make up about 13.3 per-
+cent of the overall population, which means 
+about 42 million foreign-born live in the 
+United States. The commonly accepted 2014 
+estimate for the unauthorized portion of the 
+foreign-born population is 11.3 million. Immi-
+grants come from all parts of the world, but 
+we’ve seen big changes in their origins. In the 
+1950s and 1960s, 75 percent of immigrants 
+were from Europe. Today, over 80 percent are 
+from Latin America and Asia. Inflows are also 
+much larger today, with 1 million to 2 million 
+newcomers entering each year, although lev-
+els were significantly depressed in the after-
+math of the Great Recession of 2007–2009, 
+when the housing bust led to a significant 
+decline in illegal immigration.
+What’s interesting about the United 
+States is how our economy has been able to 
+absorb immigrants and put them to work. 
+U.S. immigrants are much more likely to be 
+working compared with immigrants in other 
+developed countries. This is partly because 
+we don’t set high entry-level wages or have 
+cumbersome hiring and firing rules. In this 
+type of flexible system, there are more job 
+openings. Workers have more oppo
+--- PAGE 402 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+Q: What about the low-skilled immigration?
+A: With low-skilled immigration, the eco-
+nomic benefits of the added labor, such as 
+lower prices for consumers and higher returns 
+to capital, have to be balanced against the 
+fiscal impact, which is likely negative. The 
+fiscal impact is the difference between what 
+families contribute in taxes and what they use 
+up in the form of publicly provided services. 
+What makes the fiscal issue more difficult 
+is the distribution of the burden. The federal 
+government reaps much of the revenue from 
+immigrants who work and pay employment 
+taxes. State and local governments realize 
+less of that benefit and have to pay more 
+of the costs associated with low-skilled 
+ immigration— usually education and health 
+Q: Does it matter whether the immigration 
+A: Illegal immigration has helped fuel the 
+U.S. economy for many years. Five percent of 
+the U.S. workforce is made up of unautho-
+rized workers—the outcome of decades of 
+robust labor demand and, until recently, lax 
+enforcement. Nevertheless, from an economic 
+and fiscal perspective, it makes more sense 
+to differentiate among immigrants of various 
+skill levels than it does to focus on legal 
+The economic benefits of low-skilled im-
+migrants aren’t typically going to depend on 
+how they entered the United States. Unau-
+thorized immigran
+--- PAGE 403 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+productivity experiences. Around 1973, the U.S. economy experienced a signif-
+icant slowdown in productivity growth that lasted until 1995. The cause of this 
+productivity slowdown is yet to be fully explained, but the link between produc-
+tivity and real wages is exactly as standard theory predicts. The slowdown in pro-
+ductivity growth from 2.7 to 1.4 percent per year coincided with a slowdown in 
+real wage growth from 2.7 to 1.2 percent per year. 
+Productivity growth picked up again about 1995, and many observers hailed 
+the arrival of the “new economy.” This productivity acceleration is most often 
+attributed to the spread of computers and information technology. As theory pre-
+dicts, growth in real wages picked up as well. From 1995 to 2015, productivity grew 
+by 2.1 percent per year and real wages grew by 1.8 percent per year.
+The bottom line: Both theory and history confirm the close connection between 
+productivity and real wages. ●
+How does immigration of workers affect labor supply, labor demand, the 
+marginal product of labor, and the equilibrium wage?
+Source: Bureau of Labor Statistics.
+n the preceding pages, we built our analysis of the labor market with 
+the tools of supply and demand. In doing so, we assumed that the 
+labor market was competitive. That is, we assumed that there were many 
+buyers and sellers of labor, so ea
+--- PAGE 404 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+18-4  The Other Factors of Production:  
+We have seen how firms decide how much labor to hire and how these deci-
+sions determine workers’ wages. At the same time that firms are hiring workers, 
+they are also deciding about other inputs to production. For example, our apple-
+producing firm might have to choose the size of its apple orchard and the number 
+of ladders for its apple pickers. We can think of the firm’s factors of production as 
+falling into three categories: labor, land, and capital.
+The meaning of the terms labor and land is clear, but the definition of capital is 
+somewhat tricky. Economists use the term capital to refer to the stock of equip-
+ment and structures used for production. That is, the economy’s capital represents 
+the accumulation of goods produced in the past that are being used in the present 
+to produce new goods and services. For our apple firm, the capital stock includes 
+the ladders used to climb the trees, the trucks used to transport the apples, the 
+buildings used to store the apples, and even the trees themselves.
+18-4a Equilibrium in the Markets for Land and Capital 
+What determines how much the owners of land and capital earn for their contri-
+bution to the production process? Before answering this question, we need to dis-
+tinguish between two prices: the purchase price and the rental
+--- PAGE 405 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+the rental price of land, shown in panel (a), and the rental price of capital, shown 
+in panel (b), are determined by supply and demand. Moreover, the demand for 
+land and capital is determined just like the demand for labor. That is, when our 
+apple-producing firm is deciding how much land and how many ladders to rent, 
+it follows the same logic as when deciding how many workers to hire. For both 
+land and capital, the firm increases the quantity hired until the value of the factor’s 
+marginal product equals the factor’s price. Thus, the demand curve for each factor 
+reflects the marginal productivity of that factor. 
+We can now explain how much income goes to labor, how much goes to land-
+owners, and how much goes to the owners of capital. As long as the firms using 
+the factors of production are competitive and profit-maximizing, each factor’s 
+rental price must equal the value of the marginal product for that factor. Labor, 
+land, and capital each earn the value of their marginal contribution to the production 
+Now consider the purchase price of land and capital. The rental price and the 
+purchase price are related: Buyers are willing to pay more for a piece of land or 
+capital if it produces a valuable stream of rental income. And as we have just seen, 
+the equilibrium rental income at any point in time equals the value of that fact
+--- PAGE 406 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+18-4b Linkages among the Factors of Production
+We have seen that the price paid for any factor of production—labor, land, or 
+ capital—equals the value of the marginal product of that factor. The marginal 
+product of any factor, in turn, depends on the quantity of that factor that is avail-
+able. Because of diminishing marginal product, a factor in abundant supply has 
+a low marginal product and thus a low price, and a factor in scarce supply has a 
+high marginal product and a high price. As a result, when the supply of a factor 
+falls, its equilibrium price rises. 
+When the supply of any factor changes, however, the effects are not limited 
+to the market for that factor. In most situations, factors of production are used 
+together in a way that makes the productivity of each factor depend on the quan-
+tities of the other factors available for use in the production process. Therefore, 
+when some event changes the supply of any one factor of production, it will typi-
+cally affect not only the earnings of that factor but also the earnings of all the other 
+For example, suppose a hurricane destroys many of the ladders that workers 
+use to pick apples from the orchards. What happens to the earnings of the vari-
+ous factors of production? Most obviously, when the supply of ladders falls, the 
+equilibrium rental price of ladders 
+--- PAGE 407 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+The Black Death led to economic prosperity for the peasant classes and reduced 
+incomes for the landed classes. ●
+ What determines the income of the owners of land and capital? • How 
+would an increase in the quantity of capital affect the incomes of 
+those who already own capital? How would it affect the incomes of workers?
+This chapter has explained how labor, land, and capital are compensated for the 
+roles they play in the production process. The theory developed here is called the 
+neoclassical theory of distribution. According to the neoclassical theory, the amount 
+paid to each factor of production depends on the supply and demand for that 
+factor. The demand, in turn, depends on that particular factor’s marginal produc-
+tivity. In equilibrium, each factor of production earns the value of its marginal 
+contribution to the production of goods and services.
+The neoclassical theory of distribution is widely accepted. Most economists 
+begin with the neoclassical theory when trying to explain how the U.S. econo-
+my’s $16 trillion of income is distributed among the economy’s various members. 
+In the following two chapters, we consider the distribution of income in more 
+detail. As you will see, the neoclassical theory provides the framework for this 
+Even at this point, you can use the theory to answer the question that  began 
+this cha
+--- PAGE 408 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+• The economy’s income is distributed in the mar-
+kets for the factors of production. The three most 
+important factors of production are labor, land, and 
+• The demand for factors, such as labor, is a derived 
+ demand that comes from firms that use the factors 
+to produce goods and services. Competitive, profit- 
+maximizing firms hire each factor up to the point 
+at which the value of the factor’s marginal product 
+• The supply of labor arises from individuals’ trade-
+off between work and leisure. An upward-sloping 
+labor-supply curve means that people respond to 
+an increase in the wage by working more hours and 
+• The price paid to each factor adjusts to balance the 
+supply and demand for that factor. Because factor 
+demand reflects the value of the marginal product of 
+that factor, in equilibrium each factor is compensated 
+according to its marginal contribution to the produc-
+tion of goods and services.
+• Because factors of production are used together, the 
+marginal product of any one factor depends on the 
+quantities of all factors that are available. As a result, 
+a change in the supply of one factor alters the equilib-
+rium earnings of all the factors.
+factors of production, p. 362
+production function, p. 364
+marginal product of labor, p. 364
+diminishing marginal product, p. 364
+value of the marginal product, p. 36
+--- PAGE 409 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+1. Suppose that the president proposes a new law 
+aimed at reducing healthcare costs: All Americans are 
+ required to eat one apple daily. 
+a. How would this apple-a-day law affect the 
+ demand and equilibrium price of apples?
+b. How would the law affect the marginal product and 
+the value of the marginal product of apple pickers?
+c. How would the law affect the demand and 
+ equilibrium wage for apple pickers?
+2. Show the effect of each of the following events on 
+the market for labor in the computer manufacturing 
+a. Congress buys personal computers for all U.S. 
+b. More college students major in engineering and 
+c. Computer firms build new manufacturing plants.
+3. Suppose that labor is the only input used by a 
+ perfectly competitive firm. The firm’s production 
+a. Calculate the marginal product for each additional 
+b. Each unit of output sells for $10. Calculate the 
+value of the marginal product of each worker.
+c. Compute the demand schedule showing the num-
+ber of workers hired for all wages from zero to 
+d. Graph the firm’s demand curve.
+e. What happens to this demand curve if the price of 
+output rises from $10 to $12 per unit?
+4. Smiling Cow Dairy can sell all the milk it wants for $4 
+a gallon, and it can rent all the robots it wants to milk 
+the cows at a capital rental price of $100 a day. It faces 
+the following production sc
+--- PAGE 410 ---
+CHAPTER 18   THE MARKETS FOR THE FACTORS OF PRODUCTION
+6. Your enterprising uncle opens a sandwich shop that 
+employs 7 people. The employees are paid $12 per hour, 
+and a sandwich sells for $6. If your uncle is maximizing 
+his profit, what is the value of the marginal product of 
+the last worker he hired? What is that worker’s mar-
+7. Leadbelly Co. sells pencils in a perfectly competitive 
+product market and hires workers in a perfectly compet-
+itive labor market. Assume that the market wage rate for 
+a. What rule should Leadbelly follow to hire the 
+ profit-maximizing amount of labor?
+b. At the profit-maximizing level of output, the mar-
+ginal product of the last worker hired is 30 boxes 
+of pencils per day. Calculate the price of a box of 
+c. Draw a diagram of the labor market for pencil work-
+ers (as in Figure 4 of this chapter) next to a diagram 
+of the labor supply and demand for Leadbelly Co. (as 
+in Figure 3). Label the equilibrium wage and quantity 
+of labor for both the market and the firm. How are 
+d. Suppose some pencil workers switch to jobs in the 
+growing computer industry. On the side-by-side 
+ diagrams from part (c), show how this change  
+affects the equilibrium wage and quantity of labor 
+for both the pencil market and for Leadbelly. How 
+does this change affect the marginal product of labor 
+8. Policymakers sometimes propose laws requiring firms to 
+give wor
+--- PAGE 411 ---
+
+--- PAGE 412 ---
+n the United States today, the typical physician earns about $200,000 a year, the 
+typical police officer about $60,000, and the typical fast-food cook about $20,000. 
+These examples illustrate the large differences in earnings in our economy. 
+These differences explain why some people live in mansions, ride in limousines, 
+and vacation on the French Riviera, while other people live in small apartments, 
+ride the bus, and vacation in their own backyards.
+Why do earnings vary so much from person to person? Chapter 18, which 
+developed the basic neoclassical theory of the labor market, offers an answer to 
+this question. There we saw that wages are governed by labor supply and labor 
+demand. Labor demand, in turn, reflects the marginal productivity of labor. 
+In equilibrium, each worker is paid the value of her marginal 
+contribution to the economy’s production of goods and 
+Earnings and Discrimination
+--- PAGE 413 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+This theory of the labor market, though widely accepted by economists, is only 
+the beginning of the story. To understand the wide variation in earnings that we 
+observe, we must go beyond this general framework and examine more precisely 
+what determines the supply and demand for different types of labor. That is our 
+19-1 Some Determinants of Equilibrium Wages
+Workers differ from one another in many ways, as do jobs. In this section, we 
+consider how the characteristics of workers and jobs affect labor supply, labor 
+ demand, and equilibrium wages. 
+19-1a Compensating Differentials
+When a worker is deciding whether to take a job, the wage is only one of many 
+job attributes that the worker takes into account. Some jobs are easy, fun, and safe, 
+while others are hard, dull, and dangerous. The better the job as gauged by these 
+nonmonetary characteristics, the more people there are who are willing to do the 
+job at any given wage. In other words, the supply of labor for easy, fun, and safe 
+jobs is greater than the supply of labor for hard, dull, and dangerous jobs. As a 
+result, “good” jobs will tend to have lower equilibrium wages than “bad” ones. 
+For example, imagine you are looking for a summer job in a local beach com-
+munity. Two kinds of jobs are available. You can take a job as a beach-badge 
+checker, or you can take a job as a 
+--- PAGE 414 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+As we discussed in the previous chapter, the word capital usually refers to an econ-
+omy’s stock of equipment and structures. The capital stock includes the farmer’s 
+tractor, the manufacturer’s factory, and the teacher’s chalkboard. The essence of 
+capital is that it is a factor of production that itself has been produced.
+There is another type of capital that, while less tangible than physical capital, 
+is just as important to the economy’s production. Human capital is the accumula-
+tion of investments in people. The most important type of human capital is edu-
+cation. Like all forms of capital, education represents an expenditure of resources 
+at one time to raise productivity in the future. But unlike an investment in other 
+forms of capital, an investment in education is tied to a specific person, and this 
+linkage is what makes it human capital.
+Not surprisingly, workers with more human capital earn more on average than 
+those with less human capital. College graduates in the United States, for exam-
+ple, earn almost twice as much as those with only a high school diploma. This 
+large difference has been documented in many countries around the world. It 
+tends to be even larger in less developed countries, where educated workers are 
+From the perspective of supply and demand it is easy to see why educa-
+tion raises wages. Firms—the 
+--- PAGE 415 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+The first hypothesis is that international trade has altered the relative demand 
+for skilled and unskilled labor. In recent years, the amount of trade with other 
+countries has increased substantially. As a percentage of total U.S. production of 
+goods and services, imports have risen from 8 percent in 1974 to 17 percent in 
+2014, and exports have risen from 8 percent in 1974 to 14 percent in 2014. Because 
+ unskilled labor is plentiful and cheap in many foreign countries, 
+the United States tends to import goods produced with unskilled 
+labor and export goods produced with skilled labor. Thus, when 
+international trade expands, the domestic demand for skilled 
+labor rises and the domestic demand for unskilled labor falls.
+The second hypothesis is that changes in technology have 
+ altered the relative demand for skilled and unskilled labor. 
+Consider, for instance, the introduction of computers. Comput-
+ers raise the demand for the skilled workers who can use them 
+and reduce the demand for the unskilled workers whose jobs 
+are replaced by them. For example, many companies now rely 
+more on computer databases, and less on filing cabinets, to keep 
+business records. This change raises the demand for computer 
+programmers and reduces the demand for filing clerks. Thus, as 
+more firms use computers, the demand for skilled labor rises and 
+
+--- PAGE 416 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+An economist makes the case for  
+t’s become almost conventional wisdom that 
+throwing more money at public education 
+doesn’t produce results. But what if conven-
+A new paper from economists C. Kirabo 
+Jackson, Rucker Johnson and Claudia Per-
+sico suggests that it is. To disentangle cor-
+relation from causation, they look at periods 
+from 1955 through 1985 when courts ordered 
+governments to spend more on schools, from 
+kindergarten through 12th grade. They then 
+track how students in those areas did, up 
+through 2011. The result is a very detailed 
+long-term picture of the effect of spending 
+The economists find that spending works. 
+Specifically, they find that a 10 percent 
+increase in spending, on average, leads chil-
+dren to complete 0.27 more years of school, 
+to make wages that are 7.25 percent higher 
+and to have a substantially reduced chance 
+of falling into poverty. These are long-term, 
+durable results. Conclusion: throwing money 
+Here’s the hitch: The authors find that 
+the benefits of increased spending are much 
+stronger for poor kids than for wealthier ones. 
+So if you, like me, are in the upper portion of 
+the U.S. income distribution, you may be read-
+ing this and thinking: “Why should I be paying 
+more for some poor kid to be educated?” After 
+all, why should one person pay the cost while 
+another reaps the benefits?
+
+--- PAGE 417 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+19-1c Ability, Effort, and Chance
+Why do major league baseball players get paid more than minor league players? 
+Certainly, the higher wage is not a compensating differential. Playing in the major 
+leagues is not a less pleasant job than playing in the minor leagues; in fact, the 
+opposite is true. The major leagues do not require more years of schooling or more 
+experience. To a large extent, players in the major leagues earn more because they 
+have greater natural ability. 
+Natural ability is important for workers in all occupations. Because of heredity 
+and upbringing, people differ in their physical and mental attributes. Some peo-
+ple are strong, others weak. Some people are smart, others less so. Some people 
+are outgoing, others awkward in social situations. These and many other personal 
+characteristics determine how productive workers are and, therefore, play a role 
+in determining the wages they earn.
+Closely related to ability is effort. Some people work hard; others are lazy. We 
+should not be surprised to find that those who work hard are more productive 
+and earn higher wages. To some extent, firms reward hard work directly by pay-
+ing people based on what they produce. Salespeople, for instance, are often paid 
+a percentage of the sales they make. At other times, hard work is rewarded less 
+directly in the form of a higher
+--- PAGE 418 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+Hamermesh and Biddle found that beauty pays. People who are deemed more 
+attractive than average earn 5 percent more than people of average looks, and peo-
+ple of average looks earn 5 to 10 percent more than people considered less attrac-
+tive than average. Similar results were found for men and women.
+What explains these differences in wages? There are several ways to interpret 
+One interpretation is that good looks are a type of innate ability determining 
+productivity and wages. Some people are born with the physical attributes of a 
+movie star; other people are not. Good looks are useful in any job in which work-
+ers present themselves to the public—such as acting, sales, and waiting on tables. 
+In this case, an attractive worker is more valuable to the firm than an unattractive 
+worker. The firm’s willingness to pay more to attractive workers reflects its custom-
+A second interpretation is that reported beauty is an indirect measure of other 
+types of ability. How attractive a person appears depends on more than just 
+heredity. It also depends on dress, hairstyle, personal demeanor, and other attri-
+butes that a person can control. Perhaps a person who successfully projects an 
+ attractive image in a survey interview is more likely to be an intelligent person who 
+succeeds at other tasks as well.
+A third interpretation is that the b
+--- PAGE 419 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+the signaling view, education does not enhance productivity, so raising all work-
+ers’ educational levels would not affect wages. 
+Most likely, the truth lies somewhere between these two extremes. The bene-
+fits of education are probably a combination of the productivity-enhancing effects 
+of human capital and the productivity-revealing effects of signaling. The relative 
+size of these two effects is an open question.
+19-1e The Superstar Phenomenon
+Although most actors earn little and often take jobs as waiters to support them-
+selves, Robert Downey, Jr., earns millions of dollars for each film he makes. Simi-
+larly, while most people who play tennis do it as a hobby, Maria Sharapova earns 
+millions on the pro tour. Downey and Sharapova are superstars in their fields, 
+and their great public appeal is reflected in astronomical incomes.
+Why do Downey and Sharapova earn so much? It is not surprising that in-
+comes differ within occupations. Good carpenters earn more than mediocre car-
+penters, and good plumbers earn more than mediocre plumbers. People vary in 
+ability and effort, and these differences lead to differences in income. Yet the best 
+carpenters and plumbers do not earn the many millions that are common among 
+the best actors and athletes. What explains the difference?
+To understand the tremendous incomes of Downey and Sharapova
+--- PAGE 420 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+One reason for above-equilibrium wages is minimum-wage laws, as we first 
+saw in Chapter 6. Most workers in the economy are not affected by these laws 
+because their equilibrium wages are well above the legal minimum. But for some 
+workers, especially the least skilled and experienced, minimum-wage laws raise 
+wages above the level they would earn in an unregulated labor market.
+A second reason that wages might rise above their equilibrium level is the mar-
+ket power of labor unions. A union is a worker association that bargains with 
+employers over wages and working conditions. Unions often raise wages above 
+the level that would prevail in their absence, perhaps because they can threaten to 
+withhold labor from the firm by calling a strike. Studies suggest that union work-
+ers earn about 10 to 20 percent more than similar, nonunion workers.
+A third reason for above-equilibrium wages is based on the theory of efficiency 
+wages. This theory holds that a firm can find it profitable to pay high wages 
+ because doing so increases the productivity of its workers. In particular, high 
+wages may reduce worker turnover, increase worker effort, and raise the quality 
+of workers who apply for jobs at the firm. If this theory is correct, then some firms 
+may choose to pay their workers more than they would normally earn.
+Above-equilibrium wages, w
+--- PAGE 421 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+black man. Taken at face value, these differentials look like evidence that employ-
+ers discriminate against blacks and women.
+Yet there is a potential problem with this inference. Even in a labor market 
+free of discrimination, different people have different wages. People differ in 
+the amount of human capital they have and in the kinds of work they are able 
+and willing to do. The wage differences we observe in an economy are, to some 
+extent, attributable to the determinants of equilibrium wages we discussed in 
+the preceding section. Simply observing differences in wages among broad 
+groups—whites and blacks, men and women—does not prove that employers 
+Consider, for example, the role of human capital. In 2014, among men aged 
+25 and older, 32 percent of the white population had a college degree, compared 
+with 20 percent of the black population. Among women aged 25 and older, 32 
+percent of the white population had a college degree, compared with 24 percent 
+of the black population. Thus, at least some of the difference between the wages 
+of whites and the wages of blacks can be traced to differences in educational 
+Moreover, human capital may be more important in explaining wage differ-
+entials than years of schooling suggest. Historically, public schools in predomi-
+nantly black areas have been of lower quality—as measured by exp
+--- PAGE 422 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+drivers. The relative wages of secretaries and truck drivers depend in part on the 
+working conditions of each job. Because these nonmonetary aspects are hard to 
+measure, it is difficult to gauge the practical importance of compensating differen-
+tials in explaining the wage differences that we observe. 
+In the end, the study of wage differences among groups does not establish any 
+clear conclusion about the prevalence of discrimination in U.S. labor markets. 
+able to discrimination, but there is no consensus about how much. The only con-
+clusion about which economists are in consensus is a negative one: Because the 
+differences in average wages among groups in part reflect differences in human 
+capital and job characteristics, they do not by themselves say anything about how 
+much discrimination there is in the labor market. 
+Of course, differences in human capital among groups of workers may also 
+reflect a kind of discrimination. The less rigorous curriculums historically offered 
+to female students, for instance, can be considered a discriminatory practice. Sim-
+ilarly, the inferior schools historically available to black students may be traced to 
+prejudice on the part of city councils and school boards. But this kind of discrim-
+ination occurs long before the worker enters the labor market. In this case, the 
+disease is political,
+--- PAGE 423 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+economies provide a natural antidote to employer discrimination. That antidote is 
+Imagine an economy in which workers are differentiated by their hair color. 
+Blondes and brunettes have the same skills, experience, and work ethic. Yet 
+ because of discrimination, employers prefer to hire workers with brunette hair. 
+Thus, the demand for blondes is lower than it otherwise would be. As a result, 
+blondes earn a lower wage than brunettes. 
+How long can this wage differential persist? In this economy, there is an easy 
+way for a firm to beat out its competitors: It can hire blonde workers. By hiring 
+blondes, a firm pays lower wages and thus has lower costs than firms that hire 
+brunettes. Over time, more and more “blonde” firms enter the market to take 
+ advantage of this cost advantage. The existing “brunette” firms have higher costs 
+and, therefore, begin to lose money when faced with the new competitors. These 
+losses induce the brunette firms to go out of business. Eventually, the entry of 
+blonde firms and the exit of brunette firms cause the demand for blonde workers 
+to rise and the demand for brunette workers to fall. This process continues until 
+the wage differential disappears. 
+Put simply, business owners who care only about making money are at an 
+ advantage when competing against those who also care about discriminating. As 
+
+--- PAGE 424 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+The story of southern streetcars illustrates a general lesson: Business owners 
+are usually more interested in making profits than in discriminating against a par-
+of the discrimination often lies not with the firms themselves but elsewhere. In 
+this particular case, the streetcar companies segregated whites and blacks because 
+discriminatory laws, which the companies opposed, required them to do so. ●
+19-2c Discrimination by Customers and Governments 
+The profit motive is a strong force acting to eliminate discriminatory wage dif-
+ferentials, but there are limits to its corrective abilities. Two important limiting 
+factors are customer preferences and government policies.
+ To see how customer preferences for discrimination can affect wages, con-
+sider again our imaginary economy with blondes and brunettes. Suppose that 
+restaurant owners discriminate against blondes when hiring waiters. As a result, 
+blonde waiters earn lower wages than brunette waiters. In this case, a restaurant 
+can open up with blonde waiters and charge lower prices. If customers care only 
+about the quality and price of their meals, the discriminatory firms will be driven 
+out of business, and the wage differential will disappear.
+waiters. If this discriminatory preference is strong, the entry of blonde restau-
+rants need not succeed in eliminating the wage differe
+--- PAGE 425 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+difficult to measure a particular worker’s contribution to the production of goods 
+One type of firm in which such measurements are easier is the sports team. 
+Professional teams have many objective measures of productivity. In baseball, for 
+ instance, we can measure a player’s batting average, the frequency of home runs, 
+the number of stolen bases, and so on.
+Studies of sports teams suggest that racial discrimination has, in fact, been com-
+mon and that much of the blame lies with customers. One study, published in the 
+Journal of Labor Economics in 1988, examined the salaries of basketball players and 
+found that black players earned 20 percent less than white players of comparable 
+ability. The study also found that attendance at basketball games was larger for 
+teams with a greater proportion of white players. One interpretation of these facts 
+is that, at least at the time of the study, customer discrimination made black players 
+less profitable than white players for team owners. In the presence of such cus-
+tomer discrimination, a discriminatory wage gap can persist, even if team owners 
+A similar situation once existed for baseball players. A study using data from 
+the late 1960s showed that black players earned less than comparable white play-
+ers. Moreover, fewer fans attended games pitched by blacks than games pitched by 
+wh
+--- PAGE 426 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+1. Ted leaves his job as a high school math teacher and 
+returns to school to study the latest developments 
+in computer programming, after which he takes 
+a  higher-paying job at a software firm. This is an 
+a. a compensating differential.
+2. Marshall and Lily work at a local department store. 
+Marshall, who greets customers as they arrive, is paid 
+less than Lily, who cleans the bathrooms. This is an 
+a. a compensating differential.
+3. Barney runs a small manufacturing company. He 
+pays his employees about twice as much as other 
+firms in the area, even though he could pay less and 
+still  recruit all the workers he wants. He believes 
+that higher wages make his workers more loyal and 
+hard-working. This is an example of
+a. a compensating differential.
+4. A business consulting firm hires Robin because she 
+was a math major in college. Her new job does not  
+require any of the mathematics she learned, but the 
+firm believes that anyone who can graduate with a 
+math degree must be very smart. This is an example of
+a. a compensating differential.
+5. Measuring to what extent discrimination affects labor 
+market outcomes is difficult because
+a. data on wages are crucial but not readily available.
+b. firms misreport the wages they pay to hide dis-
+c. workers differ in their attributes and the types of 
+d. the same minimum-wage law applies to
+--- PAGE 427 ---
+compensating differential, p. 384
+1. Why are coal miners paid more than other workers 
+with similar amounts of education?
+2. In what sense is education a type of capital?
+3. How might education raise a worker’s wage without 
+raising the worker’s productivity?
+4. What conditions lead to highly compensated super-
+stars? Would you expect to see superstars in dentistry? 
+5. Give three reasons a worker’s wage might be above 
+the level that balances supply and demand.
+6. What difficulties arise in deciding whether a group of 
+workers has a lower wage because of discrimination?
+7. Do the forces of economic competition tend to exacer-
+bate or ameliorate discrimination based on race? 
+8. Give an example of how discrimination might persist 
+1. College students sometimes work as summer interns 
+for private firms or the government. Many of these 
+positions pay little or nothing.
+a. What is the opportunity cost of taking such a job?
+b. Explain why students are willing to take these 
+c. If you were to compare the earnings later in life 
+of workers who had worked as interns and those 
+who had taken summer jobs that paid more, what 
+2. As explained in Chapter 6, a minimum-wage law 
+distorts the market for low-wage labor. To reduce this 
+distortion, some economists advocate a two-tiered 
+minimum-wage system, with a regular minimum 
+wage for adult workers and a lower, “subminimum” 
+wage for teen
+--- PAGE 428 ---
+CHAPTER 19   EARNINGS AND DISCRIMINATION
+b. Some other colleges and universities have a policy 
+of paying equal salaries to professors in all fields. 
+At some of these schools, economics professors 
+have lighter teaching loads than professors in 
+some other fields. What role do the differences in 
+5. Imagine that someone offered you a choice: You could 
+spend four years studying at the world’s best uni-
+versity, but you would have to keep your attendance 
+there a secret. Or you could be awarded an official de-
+gree from the world’s best university, but you couldn’t 
+actually attend. Which choice do you think would 
+enhance your future earnings more? What does your 
+answer say about the debate over signaling versus hu-
+man capital in the role of education?
+6. When recording devices were first invented more than 
+100 years ago, musicians could suddenly supply their 
+music to large audiences at low cost. How do you 
+suppose this development affected the income of the 
+best musicians? How do you suppose it affected the 
+income of average musicians?
+7. A current debate in education is whether teachers 
+should be paid on a standard pay scale based solely 
+upon their years of training and teaching experience, 
+or whether part of their salary should be based upon 
+their performance (called “merit pay”).
+a. Why might merit pay be desirable?
+b. Who might be opposed to a system of merit p
+--- PAGE 429 ---
+
+--- PAGE 430 ---
+he great British Prime Minister Winston Churchill once summarized alter-
+native economic systems as follows: “The inherent vice of capitalism is the 
+unequal sharing of blessings. The inherent virtue of socialism is the equal 
+sharing of miseries.” Churchill’s quip draws attention to two important facts. 
+First, nations that use market mechanisms to allocate resources usually achieve 
+greater prosperity than those that do not. This is the result of Adam Smith’s invis-
+ible hand in action. Second, the prosperity that market economies produce is not 
+shared equally. Incomes can differ greatly between those at the top and those at 
+the bottom of the economic ladder. The gap between rich and poor is a fasci-
+nating and important topic of study—for the comfortable rich, for 
+the struggling poor, and for the aspiring and worried 
+--- PAGE 431 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+From the previous two chapters, you should have some understanding about 
+why different people have different incomes. A person’s earnings depend on the 
+supply and demand for that person’s labor, which in turn depend on natural abil-
+ity, human capital, compensating differentials, discrimination, and so on. Because 
+labor earnings make up about two-thirds of the total income in the U.S. economy, 
+the factors that determine wages are also largely responsible for determining how 
+the economy’s total income is distributed among the various members of society. 
+In other words, they determine who is rich and who is poor. 
+In this chapter, we discuss the distribution of income—a topic that raises some 
+fundamental questions about the role of economic policy. One of the Ten Principles 
+of Economics introduced in Chapter 1 is that governments can sometimes improve 
+market outcomes. This possibility is particularly important when considering the 
+distribution of income. The invisible hand of the marketplace allocates resources 
+efficiently but does not necessarily allocate them fairly. As a result, many econo-
+mists—though not all—believe that the government should redistribute income to 
+achieve greater equality. In doing so, however, the government runs into another 
+of the Ten Principles of Economics: People face trade-offs. When the governme
+--- PAGE 432 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+The last column in the table shows the share of total income received by the 
+very richest families. In 2014, the top 5 percent of families received 20.8 percent 
+of all income, which was greater than the total income of the poorest 40 percent.
+Table 2 also shows the distribution of income in various years beginning in 
+1935. At first glance, the distribution of income appears to have been remarkably 
+stable over time. Throughout the past several decades, the bottom quintile has 
+received about 4 to 5 percent of income, while the top quintile has received about 
+40 to 50 percent of income. Closer inspection of the table reveals some trends in 
+the degree of inequality. From 1935 to 1970, the distribution gradually became 
+more equal. The share of the bottom quintile rose from 4.1 to 5.4 percent, and 
+the share of the top quintile fell from 51.7 to 40.9 percent. In more recent years, 
+this trend has reversed itself. From 1970 to 2014, the share of the bottom quintile 
+fell from 5.4 to 3.6 percent, and the share of the top quintile rose from 40.9 to 
+In Chapter 19, we discussed some explanations for this recent rise in inequality. 
+Increases in international trade with low-wage countries and changes in technol-
+ogy have tended to reduce the demand for unskilled labor and raise the demand 
+for skilled labor. As a result, the wages of uns
+--- PAGE 433 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+countries, data are not available. Even when they are, not every country collects 
+data in the same way; for example, some countries collect data on individual 
+incomes, whereas other countries collect data on family incomes, and still oth-
+ers collect data on expenditure and use it as a crude measure of income. As a 
+result, whenever we find a difference between two countries, we can never be 
+sure whether it reflects a true difference in the economies or merely a difference in 
+the way data are collected.
+With this warning in mind, consider Figure 1, which compares inequality in 
+twenty major countries. The inequality measure used here is the quintile ratio, 
+which is the income of the richest quintile divided by the income of the poorest 
+quintile. The most equality is found in Sweden, where the top quintile receives 3.7 
+times as much income as the bottom quintile. The least equality is found in South 
+Africa, where the top group receives 28.5 times as much income as the bottom 
+group. All countries have significant disparities between rich and poor, but the 
+degree of inequality varies substantially around the world.
+When countries are ranked by inequality, the United States ends up with more 
+inequality than the typical country. The United States has substantially greater 
+income disparity than most other economically advanced coun
+--- PAGE 434 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+Source: New York Times, July 20, 2014.
+A global perspective reveals some good 
+Income Inequality Is Not Rising 
+ncome inequality has surged as a political and 
+economic issue, but the numbers don’t show 
+that inequality is rising from a global perspec-
+tive. Yes, the problem has become more acute 
+within most individual nations, yet income 
+ inequality for the world as a whole has been 
+falling for most of the last 20 years. It’s a fact 
+that hasn’t been noted often enough.
+The finding comes from a recent investi-
+gation by Christoph Lakner, a consultant at 
+the World Bank, and Branko Milanovic, senior 
+scholar at the Luxembourg Income Study Center. 
+And while such a framing may sound startling 
+at first, it should be intuitive upon reflection. 
+The economic surges of China, India and some 
+other nations have been among the most egali-
+tarian developments in history.
+Of course, no one should use this obser-
+vation as an excuse to stop helping the less 
+fortunate. But it can help us see that higher 
+income inequality is not always the most rel-
+evant problem, even for strict egalitarians. 
+Policies on immigration and free trade, for 
+ example, sometimes increase inequality within 
+a nation, yet can make the world a better place 
+and often decrease inequality on the planet as 
+International trade has drastically reduced 
+poverty within 
+--- PAGE 435 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+A commonly used gauge of the distribution of income is the poverty rate. The 
+poverty rate is the percentage of the population whose family income falls below 
+an absolute level called the poverty line. The poverty line is set by the federal 
+government at roughly three times the cost of providing an adequate diet. This 
+line depends on family size and is adjusted every year to account for changes in 
+To get some idea about what the poverty rate tells us, consider the data for 2014. 
+In that year, the median family in the United States had an income of $66,632, and 
+the poverty line for a family of four was $24,230. The poverty rate was 14.8 per-
+cent. In other words, 14.8 percent of the U.S. population were members of families 
+with incomes below the poverty line for their family size. 
+Figure 2 shows the poverty rate since 1959, when the official data begin. You 
+can see that the poverty rate fell from 22.4 percent in 1959 to a low of 11.1  percent 
+in 1973. This decline is not surprising, as average income in the economy  (adjusted 
+for inflation) rose more than 50 percent during this period. Because the pov-
+erty line is an absolute rather than a relative standard, more families are pushed 
+above the poverty line as economic growth pushes the entire income distribution 
+Since the early 1970s, however, the economy’s rising tide has le
+--- PAGE 436 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+• Poverty is correlated with age. Children are more likely than average to be 
+members of poor families, and the elderly are less likely than average to be 
+• Poverty is correlated with family composition. Families headed by a single 
+mother are about five times as likely to live in poverty as families headed by 
+These three facts have described American society for many years, and they show 
+which people are most likely to be poor. These effects also work together: Almost 
+half the children in black and Hispanic female-headed households live in poverty.
+20-1d Problems in Measuring Inequality
+Although data on the income distribution and the poverty rate give us some 
+idea about the degree of inequality in our society, interpreting these data is not 
+always straightforward. The data are based on households’ annual incomes. 
+What people care about, however, is not their incomes but their ability to main-
+tain a good standard of living. For at least three reasons, data on the income dis-
+tribution and the poverty rate give an incomplete picture of inequality in living 
+In-Kind Transfers   Measurements of the distribution of income and the poverty 
+rate are based on families’ monetary income. Through various government pro-
+grams, however, the poor receive many nonmonetary items, including free food, 
+housing vouchers, and medical service
+--- PAGE 437 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+Because people can borrow and save to smooth out life cycle changes in 
+ income, their standard of living in any year depends more on lifetime income 
+than on that year’s income. The young often borrow, perhaps to go to school or 
+to buy a house, and then repay these loans later when their incomes rise. People 
+have their highest saving rates when they are middle-aged. Because people can 
+save in anticipation of retirement, the large declines in incomes at retirement need 
+not lead to similar declines in the standard of living. This normal life cycle pattern 
+causes inequality in the distribution of annual income, but it does not necessarily 
+represent true inequality in living standards. 
+Transitory versus Permanent Income  Incomes vary over people’s lives not only 
+because of predictable life cycle variation but also because of random and transi-
+tory forces. One year a frost kills off the Florida orange crop, and Florida orange 
+growers see their incomes fall temporarily. At the same time, the Florida frost 
+drives up the price of oranges, and California orange growers see their incomes 
+temporarily rise. The next year the reverse might happen.
+Just as people can borrow and save to smooth out life cycle variation in income, 
+they can also borrow and save to smooth out transitory variation in income. To the 
+extent that a family saves 
+--- PAGE 438 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+two earners, they are more likely to find themselves near the top of the income 
+distribution. But they also have more mouths to feed. Cox and Alm reported that 
+households in the top fifth had an average of 3.1 people, while those in the bottom 
+fifth had an average of 1.7 people. As a result, consumption per person in the rich-
+est fifth of households was only 2.1 times consumption per person in the poorest 
+These data show that inequality in material standards of living is much smaller 
+than inequality in annual income. ●
+People sometimes speak of “the rich” and “the poor” as if these groups con-
+sisted of the same families year after year. But this is not at all the case. Economic 
+ mobility, the movement of people between income classes, is significant in the 
+U.S. economy. Movements up the income ladder can be due to good luck or hard 
+work, and movements down the ladder can be due to bad luck or laziness. Some 
+of this mobility reflects transitory variation in income, while some reflects more 
+persistent changes in income.
+Because family income changes over time, temporary poverty is more common 
+than the poverty rate suggests, but persistent poverty is less common. In a typical 
+10-year period, about one in four families falls below the poverty line in at least one 
+year. Yet fewer than 3 percent of families are poor for 8 or 
+--- PAGE 439 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+because the government’s role in redistributing income is central to so many 
+ debates over economic policy, let’s digress from economic science to consider a bit 
+A prominent school of thought in political philosophy is utilitarianism. The 
+founders of utilitarianism are the English philosophers Jeremy Bentham (1748–
+1832) and John Stuart Mill (1806–1873). To a large extent, the goal of utilitarians is 
+to apply the logic of individual decision making to questions concerning morality 
+The starting point of utilitarianism is the notion of utility—the level of hap-
+piness or satisfaction that a person receives from his circumstances. Utility is a 
+measure of well-being and, according to utilitarians, is the ultimate objective of 
+all public and private actions. The proper goal of the government, they claim, is to 
+maximize the sum of utility achieved by everyone in society. 
+The utilitarian case for redistributing income is based on the assumption of 
+diminishing marginal utility. It seems reasonable that an extra dollar of  income 
+provides a poor person with more additional utility than an extra dollar 
+would provide to a rich person. In other words, as a person’s income rises, the 
+extra well-being derived from an additional dollar of income falls. This plausible 
+ assumption, together with the utilitarian goal of maximizing total util
+--- PAGE 440 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+the water is lost in transit. In this case, a utilitarian government might still try to 
+move some water from Peter to Paul, depending on the size of Paul’s thirst and 
+the size of the bucket’s leak. But with only a leaky bucket at its disposal, a utilitar-
+ian government will stop short of trying to reach complete equality.
+A second way of thinking about inequality might be called liberalism. Philoso-
+pher John Rawls develops this view in his book A Theory of Justice. This book was 
+first published in 1971, and it quickly became a classic in political philosophy. 
+Rawls begins with the premise that a society’s institutions, laws, and policies 
+should be just. He then takes up the natural question: How can we, the members 
+of society, ever agree on what justice means? It might seem that every person’s 
+point of view is inevitably based on his particular circumstances—whether he 
+is talented or less talented, diligent or lazy, educated or less educated, born to 
+a wealthy family or a poor one. Could we ever objectively determine what a just 
+To answer this question, Rawls proposes the following thought experiment. 
+Imagine that before any of us is born, we all get together in the beforelife (the 
+pre-birth version of the afterlife) for a meeting to design the rules that will govern 
+society. At this point, we are all ignorant about the
+--- PAGE 441 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+perspective of the original position behind the veil of ignorance, income redis-
+tribution is like an insurance policy. Homeowners buy fire insurance to protect 
+themselves from the risk of their house burning down. Similarly, when we as a 
+society choose policies that tax the rich to supplement the incomes of the poor, we 
+are all insuring ourselves against the possibility that we might have been mem-
+bers of poor families. Because people generally dislike risk, we should be happy 
+to have been born into a society that provides us this insurance. 
+It is not at all clear, however, that rational people behind the veil of igno-
+rance would truly be so risk averse that they would follow the maximin crite-
+rion.  Indeed, because a person in the original position might end up anywhere in 
+the distribution of outcomes, he might treat all possible outcomes equally when 
+designing public policies. In this case, the best policy behind the veil of ignorance 
+would be to maximize the average utility of members of society, and the resulting 
+notion of justice would be more utilitarian than Rawlsian.
+A third view of inequality is called libertarianism. The two views we have consid-
+ered so far—utilitarianism and liberalism—both view the total income of society 
+as a shared resource that a social planner can freely redistribute to achieve some 
+social
+--- PAGE 442 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+rights to ensure that everyone has the same opportunity to use his talents and 
+achieve success. Once these rules of the game are established, the government has 
+no reason to alter the resulting distribution of income. 
+Petra earns more than Paula. Someone proposes taxing Petra to supple-
+ment Paula’s income. How would a utilitarian, a liberal, and a libertarian 
+each evaluate this proposal?
+20-3 Policies to Reduce Poverty
+As we have just seen, political philosophers hold various views about what role 
+the government should take in altering the distribution of income. Political debate 
+among the larger population of voters reflects a similar disagreement. Despite these 
+continuing debates, most people believe that, at the very least, the government 
+should try to help those most in need. According to a popular metaphor, the govern-
+ment should provide a “safety net” to prevent any citizen from falling too far. 
+Poverty is one of the most difficult problems that policymakers face. Poor fam-
+ilies are more likely than the overall population to experience homelessness, drug 
+dependence, health problems, teenage pregnancy, illiteracy, unemployment, and 
+low educational attainment. Members of poor families are more likely both to 
+commit crimes and to be victims of crimes. Although it is hard to separate the 
+causes of poverty from the ef
+--- PAGE 443 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+One way for the government to raise the living standards of the poor is to supplement 
+their incomes. The primary way the government does this is through the welfare 
+system. Welfare is a broad term that encompasses various government programs. 
+Temporary Assistance for Needy Families (TANF) is a program that assists families 
+with children and no adult able to support the family. In a typical family receiving 
+such assistance, the father is absent and the mother is at home raising small children. 
+Another welfare program is Supplemental Security Income (SSI), which provides as-
+sistance to the poor who are sick or disabled. Note that for both of these welfare pro-
+grams, a poor person cannot qualify for assistance simply by having a low income. 
+He must also establish some additional “need,” such as small children or a disability. 
+A common criticism of welfare programs is that they create incentives for peo-
+ple to become “needy.” For example, these programs may encourage families to 
+break up, for many families qualify for financial assistance only if the father is 
+absent. The programs may also encourage illegitimate births, for many poor, sin-
+gle women qualify for assistance only if they have children. Because poor, single 
+mothers are such a large part of the poverty problem and because welfare pro-
+grams seem to raise the number 
+--- PAGE 444 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+assistance would be a low income. Depending on one’s point of view, this feature 
+can be either an advantage or a disadvantage. On the one hand, a negative income 
+tax does not encourage illegitimate births and the breakup of families, as critics 
+of the welfare system believe current policy does. On the other hand, a negative 
+ income tax would subsidize not only the unfortunate but also those who are sim-
+ply lazy and, in some people’s eyes, undeserving of government support. 
+One actual tax provision that works much like a negative income tax is the Earned 
+Income Tax Credit (EITC). This credit allows poor working families to receive 
+income tax refunds greater than the taxes they paid during the year. Because the 
+EITC applies only to the working poor, it does not discourage recipients from work-
+ing, as other antipoverty programs may. For the same reason, however, it also does 
+not help alleviate poverty due to unemployment, sickness, or other inability to work. 
+Another way to help the poor is to provide them directly with some of the goods 
+and services they need to raise their living standards. For example, charities 
+provide the needy with food, clothing, shelter, and toys at Christmas. The gov-
+ernment gives poor families food through the Supplemental Nutrition Assis-
+tance Program, or SNAP. This program, which replaced a si
+--- PAGE 445 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+Many nations have more generous 
+social safety nets than the United 
+States, but they also have very different 
+arely have we experienced such a con-
+fluence of arguments in favor of raising 
+taxes on the rich. After a hard-won re- election 
+fought mainly over taxes and spending, 
+ President Obama arguably has a mandate 
+from voters to tap the wealthy to address our 
+[Author’s note: Shortly after this article 
+was written, President Obama did indeed sign 
+into law an increase in taxes on high incomes. 
+These higher tax rates went into effect in 
+Yet while raising more taxes from the win-
+ners in the globalized economy is a start, and 
+may help us dig out of our immediate fiscal 
+hole, it is unlikely to be enough to address 
+our long-term needs. The experience of many 
+other developed countries suggests that pay-
+ing for a government that could help the poor 
+and the middle class cope in our brave new 
+globalized world will require more money from 
+Many Americans may find this hard to 
+believe, but the United States already has one 
+of the most progressive tax systems in the 
+developed world, according to several stud-
+ies, raising proportionately more revenue from 
+the wealthy than other advanced countries 
+do. Taxes on American households do more to 
+redistribute resources and reduce inequality 
+than the tax codes of most other rich nat
+--- PAGE 446 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+Source: New York Times, November 28, 2012.
+The same pattern can be found across a 
+range of government programs. The reason is 
+always the same: their relatively small size. 
+Over all, government cash benefits in the 
+United States—including pensions, disability, 
+unemployment insurance and the like—con-
+tribute about 10 percent to household income, 
+on average, according to the study. The aver-
+age across industrial nations is twice that. 
+Our budget reveals a core philosophical 
+difference with other advanced countries. 
+In the big-government social democracies 
+like those of Western Europe, government is 
+expected to guarantee a set of universal pub-
+lic services—from health care to child care to 
+pensions—that are considered basic rights 
+of citizenry. To pay for this minimum welfare 
+package, everybody is expected to contribute 
+proportionately into the pot. 
+Government in the United States has a 
+different goal. Benefits are narrower. Social 
+Security and Medicare follow a universal service 
+template, but only for older Americans. Other 
+social spending is aimed carefully to benefit the 
+poor. Financed through a more progressive tax 
+code, it looks more like charity than a universal 
+right. On top of that, our philosophical stance 
+virtually ensures a small government. 
+Progressive taxes make it hard to raise 
+money because they
+--- PAGE 447 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+the poor with high effective marginal tax rates and burdening taxpayers with 
+costly programs to reduce poverty.
+There are various other ways to reduce the work disincentive of antipoverty 
+programs. One is to require any person collecting benefits to accept a govern-
+ment-provided job—a system sometimes called workfare. Another possibility is to 
+provide benefits for only a limited period of time. This route was taken in the 1996 
+welfare reform bill, which imposed a 5-year lifetime limit on welfare recipients. 
+When President Clinton signed the bill, he explained his policy as follows: “Wel-
+fare should be a second chance, not a way of life.”
+List three policies aimed at helping the poor, and discuss the pros and 
+People have long reflected on the distribution of income in society. Plato, the 
+ ancient Greek philosopher, concluded that in an ideal society the income of the 
+richest person would be no more than four times the income of the poorest per-
+son. Although the measurement of inequality is difficult, it is clear that our society 
+has much more inequality than Plato recommended.
+One of the Ten Principles of Economics discussed in Chapter 1 is that govern-
+ments can sometimes improve market outcomes. There is little consensus, how-
+ever, about how this principle should be applied to the distribution of income. 
+Philosophers and p
+--- PAGE 448 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+• Data on the distribution of income show a wide dispar-
+ity in U.S. society. The richest fifth of families earns more 
+than twelve times as much income as the poorest fifth.
+• Because in-kind transfers, the economic life cycle, transi-
+tory income, and economic mobility are so important for 
+understanding variation in income, it is difficult to gauge 
+the degree of inequality in our society using data on the 
+distribution of income in a single year. When these other 
+factors are taken into account, they tend to suggest that 
+economic well-being is more equally distributed than is 
+• Political philosophers differ in their views about the role 
+of government in altering the distribution of income. 
+Utilitarians (such as John Stuart Mill) would choose 
+the distribution of income that maximizes the sum of 
+utility of everyone in society. Liberals (such as John 
+Rawls) would determine the distribution of income as if 
+we were behind a “veil of ignorance” that prevented us 
+from knowing our stations in life. Libertarians (such as 
+Robert Nozick) would have the government enforce indi-
+vidual rights to ensure a fair process but then would not 
+be concerned about inequality in the resulting distribu-
+• Various policies aim to help the poor—minimum-wage 
+laws, welfare, negative income taxes, and in-kind trans-
+fers. While these policies help 
+--- PAGE 449 ---
+PART VI   THE ECONOMICS OF LABOR MARKETS
+1. Does the richest fifth of the U.S. population earn closer 
+to three, six, or twelve times the income of the poorest 
+2. What has happened to the income share of the richest 
+fifth of the U.S. population over the past 40 years?
+3. What groups in the U.S. population are most likely to 
+4. When gauging the amount of inequality, why do 
+transitory and life cycle variations in income cause 
+5. How would a utilitarian, a liberal, and a libertar-
+ian each determine how much income inequality is 
+6. What are the pros and cons of in-kind (rather than 
+cash) transfers to the poor?
+7. Describe how antipoverty programs can discourage 
+the poor from working. How might you reduce this 
+disincentive? What are the disadvantages of your 
+1. Table 2 shows that income inequality in the United 
+States has increased since 1970. Some factors contrib-
+uting to this increase were discussed in Chapter 19. 
+2. Table 3 shows that the percentage of children in fam-
+ilies with income below the poverty line far exceeds 
+the percentage of the elderly in such families. How 
+might the allocation of government money across 
+different social programs have contributed to this 
+3. This chapter discusses the importance of economic 
+a. What policies might the government pursue to 
+ increase economic mobility within a generation?
+b. What policies might the government pursue
+--- PAGE 450 ---
+CHAPTER 20   INCOME INEQUALITY AND POVERTY 
+6. Suppose there are two possible income distributions 
+in a society of ten people. In the first distribution, nine 
+people have incomes of $30,000 and one person has an 
+income of $10,000. In the second distribution, all ten 
+people have incomes of $25,000.
+a. If the society had the first income distribution, 
+what would be the utilitarian argument for redis-
+b. Which income distribution would Rawls consider 
+c. Which income distribution would Nozick 
+ consider more equitable? Explain.
+7. The poverty rate would be substantially lower if the 
+market value of in-kind transfers were added to fam-
+ily income. The largest in-kind transfer is Medicaid, 
+the government health program for the poor. Let’s say 
+the program costs $10,000 per recipient family.
+a. If the government gave each recipient family a 
+$10,000 check instead of enrolling them in the 
+Medicaid program, do you think that most of 
+these families would spend that money to pur-
+chase health insurance? Why? (Recall that the 
+poverty level for a family of four is about $23,000.)
+b. How does your answer to part (a) affect your view 
+about whether we should determine the poverty 
+rate by valuing in-kind transfers at the price the 
+government pays for them? Explain.
+c. How does your answer to part (a) affect your 
+view about whether we should provide assistance 
+to the poor in the 
+--- PAGE 451 ---
+
+--- PAGE 452 ---
+

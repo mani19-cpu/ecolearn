@@ -1,0 +1,430 @@
+--- PAGE 524 ---
+n 1931, as the U.S. economy was suffering through the Great Depression, the 
+New York Yankees paid famed baseball player Babe Ruth a salary of $80,000. 
+At the time, this pay was extraordinary, even among the stars of baseball. 
+According to one story, a reporter asked Ruth whether he thought it was right 
+that he made more than President Herbert Hoover, who had a salary of $75,000. 
+Ruth replied, “I had a better year.”
+In 2015, the average salary earned by major league baseball players was about 
+$4 million, and Los Angeles Dodgers pitcher Clayton Kershaw was paid $31 
+million. At first, this fact might lead you to think that baseball has become 
+vastly more lucrative over the past eight decades. But as everyone 
+knows, the prices of goods and services have also risen. 
+Measuring the Cost of Living
+--- PAGE 525 ---
+PART VIII   THE DATA OF MACROECONOMICS
+In 1931, a nickel would buy an ice-cream cone and a quarter would buy a ticket 
+at the local movie theater. Because prices were so much lower in Babe Ruth’s day 
+than they are today, it is not clear whether Ruth enjoyed a higher or lower stan-
+dard of living than today’s players. 
+In the preceding chapter, we looked at how economists use gross domestic 
+product (GDP) to measure the quantity of goods and services that the economy is 
+producing. This chapter examines how economists measure the overall cost of liv-
+ing. To compare Babe Ruth’s salary of $80,000 to salaries from today, we need to 
+find some way of turning dollar figures into meaningful measures of purchasing 
+power. That is exactly the job of a statistic called the consumer price index, or sim-
+ply the CPI. After seeing how the CPI is constructed, we discuss how we can use 
+such a price index to compare dollar figures from different points in time.
+The CPI is used to monitor changes in the cost of living over time. When the 
+CPI rises, the typical family has to spend more money to maintain the same stan-
+dard of living. Economists use the term inflation to describe a situation in which 
+the economy’s overall price level is rising. The inflation rate is the percentage 
+change in the price level from the previous period. The preceding chapter showed 
+how economists can measure inflation using the GDP deflator. The inflation rate 
+you are likely to hear on the nightly news, however, is calculated from the CPI, 
+which better reflects the goods and services bought by consumers.
+
+--- PAGE 526 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+3. Compute the basket’s cost. Use the data on prices to calculate the cost of 
+the basket of goods and services at different times. The table shows this 
+calculation for each of the three years. Notice that only the prices in this 
+calculation change. By keeping the basket of goods the same (4 hot dogs and 
+2 hamburgers), we are isolating the effects of price changes from the effects of 
+any quantity changes that might be occurring at the same time.
+4. Choose a base year and compute the index. Designate one year as the base year, the 
+benchmark against which other years are to be compared. (The choice of base 
+year is arbitrary. The index is used to measure percentage changes in the cost 
+of living, and these changes are the same regardless of the choice of base year.) 
+Once the base year is chosen, the index is calculated as follows:
+Price of basket of goods and services in current year
+Price of basket in base year
+That is, the price of the basket of goods and services in each year is divided by 
+the price of the basket in the base year, and this ratio is then multiplied by 100. 
+The resulting number is the CPI.
+In the example in Table 1, 2016 is the base year. In this year, the basket of 
+hot dogs and hamburgers costs $8. Therefore, to calculate the CPI, the price of 
+the basket in each year is divided by $8 and multiplied by 100. The CPI is 100 
+in 2016. (The index is always 100 in the base year.) The CPI is 175 in 2017. This 
+means that the price of the basket in 2017 is 175 percent of its price in the base 
+year. Put differentl
+--- PAGE 527 ---
+PART VIII   THE DATA OF MACROECONOMICS
+$175 in 2017. Similarly, the CPI is 250 in 2018, indicating that the price level in 
+2018 is 250 percent of the price level in the base year.
+5. Compute the inflation rate. Use the CPI to calculate the inflation rate, which is 
+the percentage change in the price index from the preceding period. That is, 
+the inflation rate between two consecutive years is computed as follows:
+Inflation rate in year 2 5
+CPI in year 2 2 CPI in year 1
+As shown at the bottom of Table 1, the inflation rate in our example is 75 per-
+cent in 2017 and 43 percent in 2018.
+Although this example simplifies the real world by including only two goods, it 
+shows how the BLS computes the CPI and the inflation rate. The BLS collects and 
+processes data on the prices of thousands of goods and services every month and, 
+by following the five foregoing steps, determines how quickly the cost of living for 
+the typical consumer is rising. When the BLS makes its monthly announcement of 
+the CPI, you can usually hear the number on the evening television news or see it 
+in the next day’s newspaper.
+In addition to the CPI for the overall economy, the BLS calculates several 
+other price indexes. It reports the index for some narrow categories of goods and 
+services, such as food, clothing, and energy. It also calculates the CPI for all goods 
+What’s in the CPI’s Basket?
+hen constructing the consumer price index, the Bureau of Labor 
+Statistics tries to include all the goods and services that the typi-
+cal consumer buys. Moreover, it tries to weight these goods and services 
+acc
+--- PAGE 528 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+and services excluding food and energy, a statistic called the core CPI. Because 
+food and energy prices show substantial short-run volatility, the core CPI better 
+reflects ongoing inflation trends. Finally, the BLS also calculates the producer 
+price index (PPI), which measures the cost of a basket of goods and services 
+bought by firms rather than consumers. Because firms eventually pass on their 
+costs to consumers in the form of higher consumer prices, changes in the PPI are 
+often thought to be useful in predicting changes in the CPI. 
+24-1b Problems in Measuring the Cost of Living
+The goal of the consumer price index is to measure changes in the cost of living. 
+In other words, the CPI tries to gauge how much incomes must rise to maintain a 
+constant standard of living. The CPI, however, is not a perfect measure of the cost of 
+living. Three problems with the index are widely acknowledged but difficult to solve.
+The first problem is called substitution bias. When prices change from one year 
+to the next, they do not all change proportionately: Some prices rise more than 
+others. Consumers respond to these differing price changes by buying less of the 
+goods whose prices have risen by relatively large amounts and by buying more 
+of the goods whose prices have risen less or perhaps even have fallen. That is, 
+consumers substitute toward goods that have become relatively less expensive. 
+If a price index is computed assuming a fixed basket of goods, it ignores the 
+possibility of consumer substitution and, therefore, overstates 
+--- PAGE 529 ---
+PART VIII   THE DATA OF MACROECONOMICS
+however, did not decrease in response to the introduction of the iPod. Eventually, 
+the BLS revised the basket of goods to include the iPod, and subsequently, the 
+index reflected changes in iPod prices. But the reduction in the cost of living 
+associated with the initial introduction of the iPod never showed up in the index. 
+The third problem with the CPI is unmeasured quality change. If the quality of a 
+good deteriorates from one year to the next while its price remains the same, the 
+value of a dollar falls, because you are getting a lesser good for the same amount 
+of money. Similarly, if the quality rises from one year to the next, the value of 
+a dollar rises. The BLS does its best to account for quality change. When the 
+quality of a good in the basket changes—for example, when a car model has more 
+horsepower or gets better gas mileage from one year to the next—the Bureau 
+adjusts the price of the good to account for the quality change. It is, in essence, 
+The web is providing alternative ways 
+to collect data on the overall level of 
+Do We Need Google to Measure 
+t some 23,000 retailers and businesses 
+in 90 U.S. cities, hundreds of government 
+workers find and mark down prices on very pre-
+cise products. And I’m not kidding when I say 
+Say the relevant worker is finding the 
+price for a motel room. She might write a 
+report like this: Occupancy—two adults; 
+Type of accommodation—deluxe room; Room 
+classification/location—ocean view, room 306; 
+Time of stay—weekend; Length of stay—one 
+night; Bathroom facilities—one full bat
+--- PAGE 530 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+trying to compute the price of a basket of goods of constant quality. Despite these 
+efforts, changes in quality remain a problem because quality is hard to measure.
+There is still much debate among economists about how severe these 
+measurement problems are and what should be done about them. Several studies 
+written during the 1990s concluded that the CPI overstated inflation by about 1 
+percentage point per year. In response to this criticism, the BLS adopted several 
+technical changes to improve the CPI, and many economists believe that the bias 
+is now only about half as large as it once was. The issue is important because 
+many government programs use the CPI to adjust for changes in the overall 
+level of prices. Recipients of Social Security, for instance, get annual increases in 
+benefits that are tied to the CPI. Some economists have suggested modifying these 
+programs to correct for the measurement problems by, for instance, reducing the 
+magnitude of the automatic benefit increases.
+2007, economists Roberto Rigobon and 
+Alberto Cavallo started tracking prices online 
+and inputting them into a massive database. 
+Then, last month, they unveiled the Billion 
+Prices Project, an inflation measure based on 
+5 million items sold by 300 online retailers in 
+70 countries. (For the United States, the BPP 
+collects about 500,000 prices.) 
+The BPP’s inflation measure is markedly 
+different from the government’s. The economists 
+just average all the prices culled online, 
+meaning the basket of goods is whatever you 
+can buy on the Web
+--- PAGE 531 ---
+PART VIII   THE DATA OF MACROECONOMICS
+24-1c The GDP Deflator versus the Consumer Price Index
+In the preceding chapter, we examined another measure of the overall level of 
+prices in the economy—the GDP deflator. The GDP deflator is the ratio of nominal 
+GDP to real GDP. Because nominal GDP is current output valued at current prices 
+and real GDP is current output valued at base-year prices, the GDP deflator 
+reflects the current level of prices relative to the level of prices in the base year.
+Economists and policymakers monitor both the GDP deflator and the CPI to 
+gauge how quickly prices are rising. Usually, these two statistics tell a similar 
+story. Yet two important differences can cause them to diverge.
+The first difference is that the GDP deflator reflects the prices of all goods and 
+services produced domestically, whereas the CPI reflects the prices of all goods and 
+services bought by consumers. For example, suppose that the price of an airplane 
+produced by Boeing and sold to the Air Force rises. Even though the plane is 
+part of GDP, it is not part of the basket of goods and services bought by a typical 
+consumer. Thus, the price increase shows up in the GDP deflator but not in 
+As another example, suppose that Volvo raises the price of its cars. Because 
+Volvos are made in Sweden, the car is not part of U.S. GDP. But U.S. consumers 
+buy Volvos, so the car is part of the typical consumer’s basket of goods. Hence, a 
+price increase in an imported consumption good, such as a Volvo, shows up in the 
+CPI but not in the GDP deflator.
+This first difference between t
+--- PAGE 532 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+24-2  Correcting Economic Variables for the 
+The purpose of measuring the overall level of prices in the economy is to allow 
+us to compare dollar figures from different times. Now that we know how price 
+indexes are calculated, let’s see how we might use such an index to compare a 
+dollar figure from the past to a dollar figure in the present.
+24-2a Dollar Figures from Different Times
+We first return to the issue of Babe Ruth’s salary. Was his salary of $80,000 in 1931 
+high or low compared to the salaries of today’s players?
+To answer this question, we need to know the level of prices in 1931 and the 
+level of prices today. Part of the increase in baseball salaries compensates players 
+for higher prices today. To compare Ruth’s salary to those of today’s players, we 
+need to inflate Ruth’s salary to turn 1931 dollars into today’s dollars.
+The formula for turning dollar figures from year T into today’s dollars is the 
+Amount in todayrs dollars 5 Amount in year T dollars 3
+A price index such as the CPI measures the price level and thus determines the 
+size of the inflation correction.
+Let’s apply this formula to Ruth’s salary. Government statistics show a CPI of 
+15.2 for 1931 and 237 for 2015. Thus, the overall level of prices has risen by a factor 
+two measures of inflation 
+Source: U.S. Department of Labor;  
+U.S. Department of Commerce.
+--- PAGE 533 ---
+PART VIII   THE DATA OF MACROECONOMICS
+of 15.6 (calculated from 237/15.2). We can use these numbers to measure Ruth’s 
+salary in 2015 dollars, as follows:
+Salary in 2015 dollars 5 Salary in 1931 dollars 3 Price level in 2015
+We find that Babe Ruth’s 1931 salary is equivalent to a salary today of over 
+$1.2 million. That is a good income, but it is only a third of the average player’s 
+salary today and only 4 percent of what the Dodgers pay Clayton Kershaw. 
+Various forces, including overall economic growth and the increasing income 
+shares earned by superstars, have substantially raised the living standards of the 
+Let’s also examine President Hoover’s 1931 salary of $75,000. To translate 
+that figure into 2015 dollars, we again multiply the ratio of the price levels in the 
+two years. We find that Hoover’s salary is equivalent to $75,000 3 (237/15.2), or 
+$1,169,408 in 2015 dollars. This is well above President Barack Obama’s salary of 
+$400,000. It seems that President Hoover did have a pretty good year after all.
+Mr. Index Goes to Hollywood
+hat is the most popular movie of all time? The answer might 
+Movie popularity is usually gauged by box office receipts. By 
+that measure, Star Wars: The Force Awakens is the number-one 
+movie of all time with domestic receipts of $923 million, followed 
+a n d  Ti t a n i c  ( $ 6 5 9 
+million). But this ranking 
+tickets, have been rising 
+over time. Inflation gives an advantage to newer films.
+When we correct box office receipts for the effects of inflation, the 
+story is very different. The number-one movie is now Gone with the Wind 
+--- PAGE 534 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+Regional Variation in the 
+the cost of living in the 
+Source: U.S. Department of Commerce.  
+2013 Regional Price Parities by State (US = 100)
+Cost of Living Relative to U.S. Average
+REGIONAL DIFFERENCES IN THE COST OF LIVING
+When you graduate from college, you may well have several job offers 
+from which to choose. Not surprisingly, some jobs pay more than 
+others. If the jobs are located in different places, however, be careful 
+when comparing them. The cost of living varies not only over time but 
+also over geography. What seems like a larger paycheck might not turn out to be so 
+once you take into account regional differences in the prices of goods and services.
+The Bureau of Economic Analysis has used the data collected for the CPI to 
+compare prices around the United States. The resulting statistic is called regional 
+price parities. Just as the CPI measures variation in the cost of living from year to 
+year, regional price parities measure variation in the cost of living from state to state.
+Figure 3 shows the regional price parities for 2013. For example, living in the 
+state of New York costs 115.3 percent of what it costs to live in the typical place in 
+the United States (that is, New York is 15.3 percent more expensive than average). 
+--- PAGE 535 ---
+PART VIII   THE DATA OF MACROECONOMICS
+Living in Mississippi costs 86.8 percent of what it costs to live in the typical place 
+(that is, Mississippi is 13.2 percent less expensive than average).
+What accounts for these differences? It turns out that the prices of goods, such 
+as food and clothing, explain only a small part of these regional differences. Most 
+goods are tradable: They can be easily transported from one state to another. 
+As a consequence of regional trade, large price disparities are unlikely to persist 
+Services explain a larger part of these regional differences. A haircut, for example, 
+can cost more in one state than another. If barbers were willing to move to where the 
+price of a haircut is high, or if customers were willing to fly across the country in search 
+of cheap haircuts, then the prices of haircuts across regions might well converge. But 
+because transporting haircuts is so costly, large price disparities can persist.
+Housing services are particularly important for understanding regional 
+differences in the cost of living. Such services represent a large share of a typical 
+consumer’s budget. Moreover, once built, a house or apartment building can’t 
+easily be moved, and the land on which it sits is completely immobile. As a result, 
+differences in housing costs can be persistently large. For example, rents in New 
+York are almost twice what they are in Mississippi.
+Keep these facts in mind when it comes time to compare job offers. Look not only 
+at the dollar salaries but also at the local prices of goods and services, especially 
+As we have 
+--- PAGE 536 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+accumulated $100 in interest, she withdraws her $1,100. Is Sally $100 richer than 
+she was when she made the deposit a year earlier?
+The answer depends on what we mean by “richer.” Sally does have $100 more 
+than she had before. In other words, the number of dollars in her possession has 
+risen by 10 percent. But Sally does not care about the amount of money itself: She 
+cares about what she can buy with it. If prices have risen while her money was 
+in the bank, each dollar now buys less than it did a year ago. In this case, her 
+purchasing power—the amount of goods and services she can buy—has not risen 
+To keep things simple, let’s suppose that Sally is a movie fan and buys only 
+DVDs. When Sally made her deposit, a DVD cost $10. Her deposit of $1,000 was 
+equivalent to 100 DVDs. A year later, after getting her 10 percent interest, she has 
+$1,100. How many DVDs can she buy now? It depends on what has happened to 
+the price of a DVD. Here are some examples:
+r Zero inflation: If the price of a DVD remains at $10, the amount she can buy 
+has risen from 100 to 110 DVDs. The 10 percent increase in the number of 
+dollars means a 10 percent increase in her purchasing power.
+r Six percent inflation: If the price of a DVD rises from $10 to $10.60, then the 
+number of DVDs she can buy has risen from 100 to approximately 104. Her 
+purchasing power has increased by about 4 percent. 
+r Ten percent inflation: If the price of a DVD rises from $10 to $11, she can 
+still buy only 100 DVDs. Even though Sally’s dollar wealth has risen, her 
+purc
+--- PAGE 537 ---
+PART VIII   THE DATA OF MACROECONOMICS
+nominal and real interest 
+real interest rate is the 
+real interest rates often 
+Source: U.S. Department of Labor;  
+U.S. Department of Treasury.
+INTEREST RATES IN THE U.S. ECONOMY
+Figure 4 shows real and nominal interest rates in the U.S. economy 
+since 1965. The nominal interest rate in this figure is the rate on three-
+month Treasury bills (although data on other interest rates would be 
+similar). The real interest rate is computed by subtracting the rate of 
+inflation from this nominal interest rate. Here the inflation rate is measured as the 
+percentage change in the CPI.
+One feature of this figure is that the nominal interest rate almost always exceeds 
+the real interest rate. This reflects the fact that the U.S. economy has experienced 
+rising consumer prices in almost every year during this period. By contrast, if you 
+look at data for the U.S. economy during the late 19th century or for the Japanese 
+economy in some recent years, you will find periods of deflation. During deflation, 
+the real interest rate exceeds the nominal interest rate. 
+The figure also shows that because inflation is variable, real and nominal interest 
+rates do not always move together. For example, in the late 1970s, nominal interest 
+rates were high. But because inflation was very high, real interest rates were low. 
+Indeed, during much of the 1970s, real interest rates were negative, for inflation 
+eroded people’s savings more quickly than nominal interest payments increased 
+them. By contrast, in the late 1990s, nominal interest rates were lower than
+--- PAGE 538 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+overall level of prices have been the norm. Such inflation reduces the purchasing 
+power of each unit of money over time. When comparing dollar figures from 
+different times, it is important to keep in mind that a dollar today is not the same 
+as a dollar 20 years ago or, most likely, 20 years from now.
+This chapter has discussed how economists measure the overall level of prices 
+in the economy and how they use price indexes to correct economic variables 
+for the effects of inflation. Price indexes allow us to compare dollar figures from 
+different points in time and, therefore, get a better sense of how the economy is 
+The discussion of price indexes in this chapter, together with the preceding 
+chapter’s discussion of GDP, is only the first step in the study of macroeconomics. 
+We have not yet examined what determines a nation’s GDP or the causes and 
+effects of inflation. To do that, we need to go beyond issues of measurement. 
+Indeed, that is our next task. Having explained how economists measure 
+macroeconomic quantities and prices in the past two chapters, we are now ready 
+to develop the models that explain movements in these variables.
+Here is our strategy in the upcoming chapters. First, we look at the long-run 
+determinants of real GDP and related variables, such as saving, investment, real 
+interest rates, and unemployment. Second, we look at the long-run determinants 
+of the price level and related variables, such as the money supply, inflation, and 
+nominal interest rates. Last of all, having seen how these variables a
+--- PAGE 539 ---
+PART VIII   THE DATA OF MACROECONOMICS
+r The consumer price index (CPI) shows the cost of 
+a basket of goods and services relative to the cost of 
+the same basket in the base year. The index is used 
+to measure the overall level of prices in the economy. 
+The percentage change in the CPI measures the 
+r The CPI is an imperfect measure of the cost of living 
+for three reasons. First, it does not take into account 
+consumers’ ability to substitute toward goods that 
+become relatively cheaper over time. Second, it does 
+not take into account increases in the purchasing 
+power of the dollar due to the introduction of new 
+goods. Third, it is distorted by unmeasured changes 
+in the quality of goods and services. Because of these 
+measurement problems, the CPI overstates true 
+r Like the CPI, the GDP deflator measures the overall 
+level of prices in the economy. The two price indexes 
+usually move together, but there are important 
+differences. The GDP deflator differs from the CPI 
+because it includes goods and services produced 
+rather than goods and services consumed. As a result, 
+imported goods affect the CPI but not the GDP deflator. 
+In addition, while the CPI uses a fixed basket of goods, 
+the GDP deflator automatically changes the group of 
+goods and services over time as the composition of 
+r Dollar figures from different times do not represent a 
+valid comparison of purchasing power. To compare a 
+dollar figure from the past to a dollar figure today, the 
+older figure should be inflated using a price index. 
+r Various laws and private contracts use price indexes 
+
+--- PAGE 540 ---
+CHAPTER 24   MEASURING THE COST OF LIVING
+1. Suppose that the year you were born someone bought 
+$100 of goods and services for your baby shower. How 
+much would you guess it would cost today to buy a 
+similar amount of goods and services? Now find data 
+on the CPI and compute the answer based on it. (You 
+can find the BLS’s inflation calculator here: http://
+www.bls.gov/data/inflation_calculator.htm).
+2. The residents of Vegopia spend all of their income on 
+cauliflower, broccoli, and carrots. In 2016, they spend 
+a total of $200 for 100 heads of cauliflower, $75 for 50 
+bunches of broccoli, and $50 for 500 carrots. In 2017, 
+they spend a total of $225 for 75 heads of cauliflower, 
+$120 for 80 bunches of broccoli, and $100 for  
+a. Calculate the price of one unit of each vegetable in 
+b. Using 2016 as the base year, calculate the CPI for 
+c. What is the inflation rate in 2017?
+3. Suppose that people consume only three goods, as 
+a. What is the percentage change in the price of each 
+b. Using a method similar to the CPI, compute the 
+percentage change in the overall price level.
+c. If you were to learn that a bottle of Gatorade 
+increased in size from 2017 to 2018, should that 
+information affect your calculation of the inflation 
+d. If you were to learn that Gatorade introduced new 
+flavors in 2018, should that information affect 
+your calculation of the inflation rate? If so, how?
+4. Go to the website of the Bureau of Labor Statistics 
+(http://www.bls.gov) and find data on the CPI. By 
+how much has the index including all items risen over 
+the past year? For which categor
+--- PAGE 541 ---
+9. Suppose that a borrower and a lender agree on the 
+nominal interest rate to be paid on a loan. Then infla-
+tion turns out to be higher than they both expected.
+a. Is the real interest rate on this loan higher or lower 
+b. Does the lender gain or lose from this 
+unexpectedly high inflation? Does the borrower 
+c. Inflation during the 1970s was much higher 
+than most people had expected when the decade 
+began. How did this affect homeowners who 
+obtained fixed-rate mortgages during the 1960s? 
+How did it affect the banks that lent the money?
+PART VIII   THE DATA OF MACROECONOMICS
+--- PAGE 542 ---
+

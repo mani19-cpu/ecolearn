@@ -1,0 +1,514 @@
+--- PAGE 606 ---
+osing a job can be the most distressing economic event in a person’s life. Most 
+people rely on their labor earnings to maintain their standard of living, and 
+many people also get a sense of personal accomplishment from working. A job 
+loss means a lower living standard in the present, anxiety about the future, and 
+reduced self-esteem. It is not surprising, therefore, that politicians campaigning 
+for office often speak about how their proposed policies will help create jobs.
+In previous chapters, we have seen some of the forces that determine the level 
+and growth of a country’s standard of living. A country that saves and invests a 
+high fraction of its income, for instance, enjoys more rapid growth in its cap-
+ital stock and GDP than a similar country that saves and  invests 
+less. An even more obvious determinant of a country’s 
+--- PAGE 607 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+standard of living is the amount of unemployment it typically experiences. People 
+who would like to work but cannot find a job are not contributing to the econo-
+my’s production of goods and services. Although some degree of unemployment 
+is inevitable in a complex economy with thousands of firms and millions of work-
+ers, the amount of unemployment varies substantially over time and across coun-
+tries. When a country keeps its workers as fully employed as possible, it achieves 
+a higher level of GDP than it would if it left many of its workers idle.
+This chapter begins our study of unemployment. The problem of unemploy-
+ment can be divided into two categories: the long-run problem and the short-
+run problem. The economy’s natural rate of unemployment refers to the amount of 
+unemployment that the economy normally experiences. Cyclical unemployment
+refers to the year-to-year fluctuations in unemployment around its natural rate, 
+and it is closely associated with the short-run ups and downs of economic activity. 
+Cyclical unemployment has its own explanation, which we defer until we study 
+short-run economic fluctuations later in this book. In this chapter, we discuss the 
+determinants of an economy’s natural rate of unemployment. As we will see, the 
+designation natural does not imply that this rate of unemployment is desirable. 
+Nor 
+--- PAGE 608 ---
+member’s business. Both full-time and part-time workers are counted. This 
+category also includes those who were not working but who had jobs from 
+which they were temporarily absent because of, for example, vacation,  
+r Unemployed: This category includes those who were not employed, were 
+available for work, and had tried to find employment during the previous 
+four weeks. It also includes those waiting to be recalled to a job from which 
+r Not in the labor force: This category includes those who fit neither of the first 
+two categories, such as full-time students, homemakers, and retirees.
+Figure 1 shows the breakdown into these categories for January 2016.
+Once the BLS has placed all the individuals covered by the survey in a cate-
+gory, it computes various statistics to summarize the state of the labor market. 
+The BLS defines the labor force as the sum of the employed and the unemployed: 
+Labor force 5 Number of employed 1 Number of unemployed.
+The BLS defines the unemployment rate as the percentage of the labor force that 
+The BLS computes unemployment rates for the entire adult population and for 
+specific groups defined by race, gender, and so on.
+The Breakdown of the Population in  
+The Bureau of Labor Statistics divides the 
+adult population into three categories: 
+employed, unemployed, and not in the 
+Source: Bureau of Labor Statistics.
+--- PAGE 609 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+The BLS uses the same survey to produce data on labor-force participation. The 
+labor-force participation rate measures the percentage of the total adult popula-
+tion of the United States that is in the labor force:
+Labor-force participation rate 5
+This statistic tells us the fraction of the population that has chosen to participate 
+in the labor market. The labor-force participation rate, like the unemployment 
+rate, is computed for both the entire adult population and more specific groups.
+To see how these data are computed, consider the figures for January 2016. At 
+that time, 150.5 million people were employed, and 7.8 million people were un-
+employed. The labor force was
+Labor force 5 150.5 1 7.8 5 158.3 million.
+Unemployment rate 5 (7.8/158.3) 3 100 5 4.9 percent.
+Because the adult population was 252.4 million, the labor-force participation rate 
+Labor-force participation rate 5 (158.3/252.4) 3 100 5 62.7 percent.
+Hence, in January 2016, almost two-thirds of the U.S. adult population were par-
+ticipating in the labor market, and 4.9 percent of those labor-market participants 
+Table 1 shows the statistics on unemployment and labor-force participation for 
+various groups within the U.S. population. Three comparisons are most appar-
+ent. First, women of prime working age (25 to 54 years old) have lower rates of 
+labor-force particip
+--- PAGE 610 ---
+of unemployment. Third, teenagers have much lower rates of labor-force partic-
+ipation and much higher rates of unemployment than older workers. More gen-
+erally, these data show that labor-market experiences vary widely among groups 
+The BLS data on the labor market also allow economists and policymakers to 
+monitor changes in the economy over time. Figure 2 shows the unemployment rate 
+in the United States since 1960. The figure shows that the economy always has some 
+unemployment and that the amount changes from year to year. The normal rate 
+of unemployment around which the unemployment rate fluctuates is called the 
+natural rate of unemployment, and the deviation of unemployment from its natu-
+ral rate is called cyclical unemployment. The natural rate of unemployment shown 
+in the figure is a series estimated by economists at the Congressional Budget Office. 
+For 2015, they estimated a natural rate of 4.9 percent, close to the actual unemploy-
+ment rate of 5.3 percent. Later in this book, we discuss short-run economic fluctua-
+tions, including the year-to-year fluctuations in unemployment around its natural 
+rate. In the rest of this chapter, however, we ignore the short-run fluctuations and 
+examine why there is always some unemployment in market economies.
+LABOR-FORCE PARTICIPATION OF MEN AND WOMEN IN THE U.S. 
+Women’s role in American society has changed dramatically ov
+--- PAGE 611 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+is attributable to improved birth control, which has reduced the number of children 
+born to the typical family. This change in women’s role is also partly attributable to 
+changing political and social attitudes, which in turn may have been facilitated by 
+the advances in technology and birth control. Together these developments have 
+had a profound impact on society in general and on the economy in particular.
+Nowhere is that impact more obvious than in data on labor-force participation. 
+Figure 3 shows the labor-force participation rates of men and women in the United 
+States since 1950. Just after World War II, men and women had very different roles 
+in society. Only 33 percent of women were working or looking for work, in contrast 
+to 87 percent of men. Since then, this difference in participation rates has gradually 
+diminished, as growing numbers of women have entered the labor force and some 
+men have left it. Data for 2015 show that 57 percent of women were in the labor 
+force, in contrast to 69 percent of men. As measured by labor-force participation, 
+men and women are now playing a more equal role in the economy.
+The increase in women’s labor-force participation is easy to understand, but the 
+fall in men’s may seem puzzling. There are several reasons for this decline. First, 
+young men now stay in school longer than their 
+--- PAGE 612 ---
+Source: U.S. Department of Labor.
+Persons unemployed 15 weeks or longer, as a percent of the civilian 
+labor force (includes only very long-term unemployed)
+Job losers and persons who have completed temporary jobs, as a  
+percent of the civilian labor force (excludes job leavers)
+Total unemployed, as a percent of the civilian labor force (official 
+Total unemployed, plus discouraged workers, as a percent of the  
+civilian labor force plus discouraged workers
+Total unemployed plus all marginally attached workers, as a percent of 
+the civilian labor force plus all marginally attached workers
+Total unemployed, plus all marginally attached workers, plus total 
+employed part-time for economic reasons, as a percent of the civilian 
+labor force plus all marginally attached workers
+Note: The Bureau of Labor Statistics defines terms as follows: 
+t Marginally attached workers are persons who currently are neither working nor looking 
+for work but indicate that they want and are available for a job and have looked for work 
+sometime in the recent past. 
+t Discouraged workers are marginally attached workers who have given a job-market-
+related reason for not currently looking for a job. 
+t Persons employed part-time for economic reasons are those who want and are available 
+for full-time work but have had to settle for a part-time schedule.
+Movements into and out of the labor force a
+--- PAGE 613 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+28-1c How Long Are the Unemployed without Work?
+In judging how serious the problem of unemployment is, one question to con-
+sider is whether unemployment is typically a short-term or long-term condition. 
+If unemployment is short-term, one might conclude that it is not a big problem. 
+Workers may require a few weeks between jobs to find the openings that best suit 
+their tastes and skills. Yet if unemployment is long-term, one might conclude that 
+it is a serious problem. Workers unemployed for many months are more likely to 
+suffer economic and psychological hardship. 
+Because the duration of unemployment can affect our view about how big a 
+problem unemployment is, economists have devoted much energy to studying 
+data on the duration of unemployment spells. In this work, they have uncov-
+ered a result that is important, subtle, and seemingly contradictory: Most spells of 
+To see how this statement can be true, consider an example. Suppose that you 
+visited the government’s unemployment office every week for a year to survey 
+the unemployed. Each week you find that there are four unemployed workers. 
+Three of these workers are the same individuals for the whole year, while the 
+fourth person changes every week. Based on this experience, would you say that 
+unemployment is typically short-term or long-term?
+Some simple calculations hel
+--- PAGE 614 ---
+hen the Bureau of Labor Statistics announces the unemployment 
+rate at the beginning of every month, it also announces the num-
+ber of jobs the economy has gained or lost. As an indicator of short-run 
+economic trends, the jobs number gets as much attention as the unem-
+Where does the jobs number come from? You might guess that 
+it comes from the same survey of 60,000 households that yields the 
+unemployment rate. And indeed the household survey does produce data 
+on total employment. The jobs number that gets the most attention, how-
+ever, comes from a separate survey of 160,000 business establishments, 
+which have over 40 million workers on their payrolls. The results from 
+the establishment survey are announced at the same time as the results 
+from the household survey.
+Both surveys yield information about total employment, but the 
+results are not always the same. One reason is that the establishment 
+survey has a larger sample, which makes it more reliable. Another 
+reason is that the surveys 
+are not measuring exactly 
+ple, a person who has two 
+part-time jobs at different 
+companies would be counted 
+as one employed person in the house-
+hold survey but as two jobs in the establishment survey. As another 
+example, a person running his own small business would be counted 
+as employed in the household survey but would not show up at all in 
+the establishment survey, because
+--- PAGE 615 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+One reason economies always experience some unemployment is job search. Job 
+search is the process of matching workers with appropriate jobs. If all workers 
+and all jobs were the same, so that all workers were equally well suited for all 
+jobs, job search would not be a problem. Laid-off workers would quickly find new 
+jobs that were well suited for them. But in fact, workers differ in their tastes and 
+skills, jobs differ in their attributes, and information about job candidates and job 
+vacancies is disseminated slowly among the many firms and households in the 
+28-2a Why Some Frictional Unemployment Is Inevitable
+Frictional unemployment is often the result of changes in the demand for labor 
+among different firms. When consumers decide that they prefer Ford to General 
+Motors cars, Ford increases employment and General Motors lays off workers. 
+The former General Motors workers must now search for new jobs, and Ford 
+must decide which new workers to hire for the various jobs that have opened up. 
+The result of this transition is a period of unemployment.
+Similarly, because different regions of the country produce different goods, 
+employment can rise in one region while it falls in another. Consider, for 
+instance, what happens when the world price of oil falls. Oil-producing firms in 
+Texas and North Dakota respond to the lower pr
+--- PAGE 616 ---
+help facilitate job search and reduce frictional unemployment. In addition, public 
+policy may play a role. If policy can reduce the time it takes unemployed workers 
+to find new jobs, it can reduce the economy’s natural rate of unemployment.
+Government programs try to facilitate job search in various ways. One way 
+is through government-run employment agencies, which give out information 
+about job vacancies. Another way is through public training programs, which 
+aim to ease workers’ transition from declining to growing industries and to help 
+disadvantaged groups escape poverty. Advocates of these programs believe that 
+they make the economy operate more efficiently by keeping the labor force more 
+fully employed and that they reduce the inequities inherent in a constantly chang-
+Critics of these programs question whether the government should get 
+involved with the process of job search. They argue that it is better to let the pri-
+vate market match workers and jobs. In fact, most job search in our economy takes 
+place without intervention by the government. Newspaper ads, online job sites, 
+college career offices, headhunters, and word of mouth all help spread informa-
+tion about job openings and job candidates. Similarly, much worker education is 
+done privately, either through schools or through on-the-job training. These critics 
+contend that the government is no better
+--- PAGE 617 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+run out after 6 months or 1 year. These studies found that when the unemployed 
+become ineligible for benefits, the probability of their finding a new job rises 
+markedly. Thus, receiving unemployment insurance benefits does reduce the 
+search effort of the unemployed.
+Even though unemployment insurance reduces search effort and raises unem-
+ployment, we should not necessarily conclude that the policy is bad. The program 
+does achieve its primary goal of reducing the income uncertainty that workers 
+face. In addition, when workers turn down unattractive job offers, they have the 
+opportunity to look for jobs that better suit their tastes and skills. Some econo-
+mists argue that unemployment insurance improves the ability of the economy to 
+match each worker with the most appropriate job.
+The study of unemployment insurance shows that the unemployment rate is 
+an imperfect measure of a nation’s overall level of economic well-being. Most 
+economists agree that eliminating unemployment insurance would reduce the 
+amount of unemployment in the economy. Yet economists disagree on whether 
+economic well-being would be enhanced or diminished by this change in policy.
+How would an increase in the world price of oil affect the amount of 
+frictional unemployment? Is this unemployment undesirable? What public 
+policies might affect the amount of 
+--- PAGE 618 ---
+may be “too high.” In the remaining two sections of this chapter, we consider two 
+other reasons wages may be kept above the equilibrium level: unions and effi-
+ciency wages. The basic economics of unemployment in these cases is the same 
+as that shown in Figure 4, but these explanations of unemployment can apply to 
+many more of the economy’s workers.
+At this point, however, we should stop and notice that the structural unem-
+ployment that arises from an above-equilibrium wage is, in an important sense, 
+different from the frictional unemployment that arises from the process of job 
+search. The need for job search is not due to the failure of wages to balance labor 
+supply and labor demand. When job search is the explanation for unemployment, 
+workers are searching for the jobs that best suit their tastes and skills. By contrast, 
+when the wage is above the equilibrium level, the quantity of labor supplied 
+exceeds the quantity of labor demanded, and workers are unemployed because 
+they are waiting for jobs to open up. 
+Draw the supply curve and the demand curve for a labor market in which 
+the wage is fixed above the equilibrium level. Show the quantity of labor 
+supplied, the quantity demanded, and the amount of unemployment.
+Unemployment from a Wage above the 
+In this labor market, supply and demand 
+are balanced at the wage WE. At this 
+equilibrium wage, the quantity of la
+--- PAGE 619 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+hourly paid workers, about 4 percent reported wages at or below the prevail-
+ing federal minimum. Thus, the minimum wage directly affects about  
+r Minimum-wage workers are more likely to be female. Among hourly paid 
+workers, 5 percent of women had wages at or below the minimum wage, 
+compared with 3 percent of men.
+r Minimum-wage workers tend to be young. Among employed teenagers 
+(ages 16 to 19) paid by the hour, about 15 percent earned the minimum wage 
+or less, compared with 3 percent of hourly paid workers age 25 and older.  
+r Minimum-wage workers tend to be less educated. Among hourly paid work-
+ers age 16 and older, about 7 percent of those without a high school diploma 
+earned the minimum wage or less, compared with about 4 percent of those 
+who completed a high school diploma (but did not attend college) and about 
+2 percent for those who had obtained a college degree.
+An economist who studies the minimum 
+wage says there are better ways to help 
+Why Market Forces Will Over-
+whelm a Higher Minimum Wage
+he slogans are everywhere: Fight for 15; 
+ People Not Profits; One Job Should Be 
+Enough. Worsening income inequality and the 
+persistence of poverty have spurred a movement 
+to raise the minimum wage, at both the national 
+and state levels. Some West Coast cities have 
+already voted to boost their minimum wage to 
+$15, or 
+--- PAGE 620 ---
+r Minimum-wage workers are more likely to be working part-time. Among 
+part-time workers (those who usually work less than 35 hours per week),  
+10 percent were paid the minimum wage or less, compared to 2 percent of 
+r The industry with the highest proportion of workers with reported hourly 
+wages at or below the minimum wage was leisure and hospitality  
+(18 percent). Over half of all workers paid at or below the minimum wage 
+were employed in this industry, primarily in food services and drinking  
+establishments. For many of these workers, tips supplement the hourly 
+r The proportion of hourly paid workers earning the prevailing federal  
+minimum wage or less has changed substantially over time. It trended 
+downward from 13 percent in 1979, when data collection first began on a 
+regular basis, to 2 percent in 2006. It then increased to 4 percent in 2014. This 
+recent increase is in part attributable to a legislated increase in the minimum 
+wage from $5.15 per hour in 2006 to $7.25 per hour in 2014. ●
+some teenagers currently focused on their edu-
+cation to take part-time jobs at the new, higher 
+minimum, and displace low-skilled workers 
+from the jobs they now hold. That seems like a 
+If we really want to help low-skilled workers, 
+we need to recognize that the solutions that 
+actually work are expensive, difficult to achieve 
+Guaranteeing a minimally acceptable 
+standar
+--- PAGE 621 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+28-4 Unions and Collective Bargaining
+A union is a worker association that bargains with employers over wages, ben-
+efits, and working conditions. Only 11 percent of U.S. workers now belong to 
+unions, but unions played a much larger role in the U.S. labor market in the past. 
+In the 1940s and 1950s, when union membership was at its peak, about a third of 
+the U.S. labor force was unionized.
+Moreover, for a variety of historical reasons, unions continue to play a large role 
+in many European countries. In Belgium, Norway, and Sweden, for instance, more 
+than half of workers belong to unions. In France and Germany, a majority of work-
+ers have wages set by collective bargaining by law, even though only some of these 
+workers are themselves union members. In these cases, wages are not determined 
+by the equilibrium of supply and demand in competitive labor markets.
+28-4a The Economics of Unions
+A union is a type of cartel. Like any cartel, a union is a group of sellers acting 
+together in the hope of exerting their joint market power. Most workers in the 
+U.S. economy discuss their wages, benefits, and working conditions with their 
+employers as individuals. By contrast, workers in a union do so as a group. The 
+process by which unions and firms agree on the terms of employment is called 
+When a union bargains with a firm, it asks for hi
+--- PAGE 622 ---
+encourage the formation of unions. In particular, the Wagner Act of 1935 prevents 
+employers from interfering when workers try to organize unions and requires 
+employers to bargain with unions in good faith. The National Labor Relations 
+Board (NLRB) is the government agency that enforces workers’ right to unionize.
+Legislation affecting the market power of unions is a perennial topic of political 
+debate. State lawmakers sometimes debate right-to-work laws, which give workers 
+in a unionized firm the right to choose whether to join the union. In the absence 
+of such laws, unions can insist during collective bargaining that firms make union 
+membership a requirement for employment. At times, lawmakers in Washington 
+have debated a proposed law that would prevent firms from hiring permanent 
+replacements for workers who are on strike. This law would make strikes more 
+costly for firms, thereby increasing the market power of unions. These and similar 
+policy decisions will help determine the future of the union movement.
+28-4b Are Unions Good or Bad for the Economy?
+Economists disagree about whether unions are good or bad for the economy as a 
+whole. Let’s consider both sides of the debate.
+Critics argue that unions are merely a type of cartel. When unions raise wages 
+above the level that would prevail in competitive markets, they reduce the quan-
+tity of labor demanded, cause s
+--- PAGE 623 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+28-5 The Theory of Efficiency Wages
+A fourth reason economies always experience some unemployment—in addition 
+to job search, minimum-wage laws, and unions—is suggested by the theory of 
+efficiency wages. According to this theory, firms operate more efficiently if wages 
+are above the equilibrium level. Therefore, it may be profitable for firms to keep 
+wages high even in the presence of a surplus of labor.
+In some ways, the unemployment that arises from efficiency wages is similar 
+to the unemployment that arises from minimum-wage laws and unions. In all 
+three cases, unemployment is the result of wages above the level that balances the 
+quantity of labor supplied and the quantity of labor demanded. Yet there is also 
+an important difference. Minimum-wage laws and unions prevent firms from 
+lowering wages in the presence of a surplus of workers. Efficiency-wage theory 
+states that such a constraint on firms is unnecessary in many cases because firms 
+may be better off keeping wages above the equilibrium level.
+Why should firms want to keep wages high? This decision may seem odd at 
+first, for wages are a large part of firms’ costs. Normally, we expect profit-maxi-
+mizing firms to want to keep costs—and therefore wages—as low as possible. The 
+novel insight of efficiency-wage theory is that paying high wages might be profit-
+able becau
+--- PAGE 624 ---
+therefore, will tend to have higher production costs. Firms may find it profitable 
+to pay wages above the equilibrium level to reduce worker turnover. 
+A third type of efficiency-wage theory emphasizes the link between wages and 
+worker quality. All firms want workers who are talented, and they strive to pick 
+the best applicants to fill job openings. But because firms cannot perfectly gauge 
+the quality of applicants, hiring has a degree of randomness to it. When a firm 
+pays a high wage, it attracts a better pool of workers to apply for its jobs and 
+thereby increases the quality of its workforce. If the firm responded to a surplus 
+of labor by reducing the wage, the most competent applicants—who are more 
+likely to have better alternative opportunities than less competent applicants—
+may choose not to apply. If this influence of the wage on worker quality is strong 
+enough, it may be profitable for the firm to pay a wage above the level that bal-
+A fourth and final type of efficiency-wage theory emphasizes the link between 
+wages and worker effort. In many jobs, workers have some discretion over how 
+hard to work. As a result, firms monitor the efforts of their workers, and workers 
+caught shirking their responsibilities are fired. But because monitoring is costly 
+and imperfect, not all shirkers are caught immediately. A firm in such a circum-
+stance is always looking for 
+--- PAGE 625 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+In 1914, Ford introduced another innovation: the $5 workday. This might not 
+seem like much today, but back then $5 was about twice the going wage. It was 
+also far above the wage that balanced supply and demand. When the new $5-a-day 
+wage was announced, long lines of job seekers formed outside the Ford factories. 
+The number of workers willing to work at this wage far exceeded the number of 
+Ford’s high-wage policy had many of the effects predicted by efficiency-wage 
+theory. Turnover fell, absenteeism fell, and productivity rose. Workers were so 
+much more efficient that Ford’s production costs were lower despite higher wages. 
+Thus, paying a wage above the equilibrium level was profitable for the firm. An 
+historian of the early Ford Motor Company wrote, “Ford and his associates freely 
+declared on many occasions that the high-wage policy turned out to be good busi-
+ness. By this they meant that it had improved the discipline of the workers, given 
+them a more loyal interest in the institution, and raised their personal efficiency.” 
+Henry Ford himself called the $5-a-day wage “one of the finest cost-cutting moves 
+Why did it take a Henry Ford to introduce this efficiency wage? Why were other 
+firms not already taking advantage of this seemingly profitable business strategy? 
+According to some analysts, Ford’s decision was closely 
+--- PAGE 626 ---
+1. The population of Ectenia is 100 people: 40 work 
+full-time, 20 work half-time but would prefer to work 
+full-time, 10 are looking for a job, 10 would like to 
+work but are so discouraged they have given up look-
+ing, 10 are not interested in working because they 
+are full-time students, and 10 are retired. What is the 
+2. Using the numbers in the preceding question, what is 
+the size of Ectenia’s labor force?
+3. The main policy goal of the unemployment insurance 
+a. search effort of the unemployed.
+b. income uncertainty that workers face.
+c. role of unions in wage setting.
+d. amount of frictional unemployment.
+4. In a competitive labor market, when the government 
+increases the minimum wage, the result is a(n) 
+__________ in the quantity of labor supplied and a(n) 
+__________ in the quantity of labor demanded.
+5. Unionized workers are paid about _____ percent more 
+than similar nonunion workers.
+6. According to the theory of efficiency wages,
+a. firms may find it profitable to pay above- 
+b. an excess supply of labor puts downward pressure 
+c. sectoral shifts are the main source of frictional 
+d. right-to-work laws reduce the bargaining power of 
+r The unemployment rate is the percentage of those who 
+would like to work who do not have jobs. The Bureau 
+of Labor Statistics calculates this statistic monthly 
+based on a survey of thousands of households.
+r The unemployment 
+--- PAGE 627 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+labor-force participation rate, p. 580
+natural rate of unemployment, p. 581
+cyclical unemployment, p. 581
+discouraged workers, p. 583
+frictional unemployment, p. 585
+structural unemployment, p. 585
+unemployment insurance, p. 587
+collective bargaining, p. 592
+1. What are the three categories into which the Bureau of 
+Labor Statistics divides everyone? How does the BLS 
+compute the labor force, the unemployment rate, and 
+the labor-force participation rate?
+2. Is unemployment typically short-term or long-term? 
+3. Why is frictional unemployment inevitable? How 
+might the government reduce the amount of frictional 
+4. Are minimum-wage laws a better explanation for 
+structural unemployment among teenagers or among 
+5. How do unions affect the natural rate of 
+6. What claims do advocates of unions make to argue 
+that unions are good for the economy?
+7. Explain four ways in which a firm might increase its 
+profits by raising the wages it pays.
+1. In June 2009, at the trough of the Great Recession, the 
+Bureau of Labor Statistics announced that of all adult 
+Americans, 140,196,000 were employed, 14,729,000 
+were unemployed, and 80,729,000 were not in the  
+labor force. Use this information to calculate:
+c. the labor-force participation rate
+2. Explain whether each of the following events  
+increases, decreases, or has no effect on the unemplo
+--- PAGE 628 ---
+which statistic is the more meaningful gauge of how 
+well the economy is doing?
+a. An auto company goes bankrupt and lays off its 
+workers, who immediately start looking for new 
+b. After an unsuccessful search, some of the laid-off 
+workers quit looking for new jobs.
+c. Numerous students graduate from college but 
+d. Numerous students graduate from college and 
+immediately begin new jobs.
+e. A stock market boom induces newly enriched 
+60-year-old workers to take early retirement.
+f. Advances in healthcare prolong the life of many 
+6. Are the following workers more likely to experience 
+short-term or long-term unemployment? Explain.
+a. a construction worker who is laid off because of 
+b. a manufacturing worker who loses his job at a 
+c. a stagecoach-industry worker who is laid off  
+because of competition from railroads
+d. a short-order cook who loses his job when a new 
+restaurant opens across the street
+e. an expert welder with little formal education who 
+loses his job when the company installs automatic 
+7. Using a diagram of the labor market, show the effect 
+of an increase in the minimum wage on the wage 
+paid to workers, the number of workers supplied, the 
+number of workers demanded, and the amount of 
+8. Consider an economy with two labor markets—one 
+for manufacturing workers and one for service work-
+ers. Suppose initially that neither is unionized. 
+a. If manufactur
+--- PAGE 629 ---
+
+--- PAGE 630 ---
+

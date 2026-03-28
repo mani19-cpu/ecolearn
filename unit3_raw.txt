@@ -1,0 +1,1349 @@
+--- PAGE 162 ---
+Consumers, Producers, and 
+hen consumers go to grocery stores to buy food for Thanksgiving dinner, 
+they may be disappointed see the high price of turkey. At the same time, 
+when farmers bring to market the turkeys they have raised, they probably 
+wish that the price of turkey were even higher. These views are not surprising: 
+Buyers always want to pay less, and sellers always want to be paid more. But is 
+there a “right price” for turkey from the standpoint of society as a whole?
+In previous chapters, we saw how, in market economies, the forces of supply 
+and demand determine the prices of goods and services and the quantities sold. 
+--- PAGE 163 ---
+PART III   MARKETS AND WELFARE
+So far, however, we have described the way markets allocate scarce resources 
+without directly addressing the question of whether these market allocations are 
+desirable. In other words, our analysis has been positive (what is) rather than nor-
+mative (what should be). We know that the price of turkey adjusts to ensure that 
+the quantity of turkey supplied equals the quantity of turkey demanded. But at 
+this equilibrium, is the quantity of turkey produced and consumed too small, too 
+In this chapter, we take up the topic of welfare economics, the study of how 
+the allocation of resources affects economic well-being. We begin by examining 
+We then examine how society can make these benefits as large as possible. This 
+analysis leads to a profound conclusion: In any market, the equilibrium of sup-
+ply and demand maximizes the total benefits received by all buyers and sellers 
+As you may recall from Chapter 1, one of the Ten Principles of Economics is that 
+markets are usually a good way to organize economic activity. The study of wel-
+fare economics explains this principle more fully. It also answers our question 
+about the right price of turkey: The price that balances the supply and demand for 
+turkey is, in a particular sense, the best one because it maximizes the total welfare 
+of turkey consumers and turkey producers. No consumer or producer of turkeys 
+aims to achieve this goal, but their joint action directed by market prices moves 
+them toward a welfare-maximizing outcome, as if led by an invisible hand.
+We begin our study of welfare eco
+--- PAGE 164 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+equal to her willingness to pay, the buyer would be indifferent about buying the 
+good: If the price is exactly the same as the value she places on the album, she 
+would be equally happy buying it or keeping her money.
+To sell your album, you begin the bidding process at a low price, say, $10. 
+Because all four buyers are willing to pay much more, the price rises quickly. 
+The bidding stops when Taylor bids $80 (or slightly more). At this point, Carrie, 
+Rihanna, and Gaga have all dropped out of the bidding because they are unwill-
+ing to bid any more than $80. Taylor pays you $80 and gets the album. Note that 
+the album has gone to the buyer who values it most highly.
+What benefit does Taylor receive from buying the Elvis Presley album? In a 
+sense, Taylor has found a real bargain: She is willing to pay $100 for the album 
+but pays only $80. We say that Taylor receives consumer surplus of $20. Consumer 
+surplus is the amount a buyer is willing to pay for a good minus the amount the 
+buyer actually pays for it.
+Consumer surplus measures the benefit buyers receive from participating in 
+a market. In this example, Taylor receives a $20 benefit from participating in the 
+auction because she pays only $80 for a good she values at $100. Carrie, Rihanna, 
+and Gaga get no consumer surplus from participating in the auction because they 
+left without the album and without paying anything.
+Now consider a somewhat different example. Suppose that you had two iden-
+tical Elvis Presley albums to sell. Again, you auction them
+--- PAGE 165 ---
+PART III   MARKETS AND WELFARE
+(the marginal buyer) is willing to pay for an album. At a quantity of 3 albums, 
+the demand curve has a height of $70, the price that Rihanna (who is now the 
+marginal buyer) is willing to pay.
+Because the demand curve reflects buyers’ willingness to pay, we can also 
+use it to measure consumer surplus. Figure 2 uses the demand curve to compute 
+consumer surplus in our two examples. In panel (a), the price is $80 (or slightly 
+above) and the quantity demanded is 1. Note that the area above the price and 
+below the demand curve equals $20. This amount is exactly the consumer surplus 
+we computed earlier when only 1 album is sold.
+Panel (b) of Figure 2 shows consumer surplus when the price is $70 (or slightly 
+above). In this case, the area above the price and below the demand curve equals 
+the total area of the two rectangles: Taylor’s consumer surplus at this price is $30 
+and Carrie’s is $10. This area equals a total of $40. Once again, this amount is the 
+consumer surplus we computed earlier.
+The lesson from this example holds for all demand curves: The area below the 
+demand curve and above the price measures the consumer surplus in a market. This is 
+true because the height of the demand curve represents the value buyers place on 
+the good, as measured by their willingness to pay for it. The difference between 
+this willingness to pay and the market price is each buyer’s consumer surplus. 
+Thus, the total area below the demand curve and above the price is the sum of the 
+consumer surplus of all buyers in the market for a good or service.
+7
+--- PAGE 166 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+Figure 3 shows a typical demand curve. You may notice that this curve grad-
+ually slopes downward instead of taking discrete steps as in the previous two 
+ figures. In a market with many buyers, the resulting steps from each buyer drop-
+ping out are so small that they form a smooth curve. Although this curve has a 
+different shape, the ideas we have just developed still apply: Consumer surplus 
+is the area above the price and below the demand curve. In panel (a), consumer 
+surplus at a price of P1 is the area of triangle ABC.
+Now suppose that the price falls from P1 to P2, as shown in panel (b). The con-
+sumer surplus now equals area ADF. The increase in consumer surplus attribut-
+able to the lower price is the area BCFD.
+This increase in consumer surplus is composed of two parts. First, those buy-
+ers who were already buying Q1 of the good at the higher price P1 are better off 
+because now they pay less. The increase in consumer surplus of existing buy-
+ers is the reduction in the amount they pay; it equals the area of the rectangle 
+BCED. Second, some new buyers enter the market because they are willing to 
+buy the good at the lower price. As a result, the quantity demanded in the market 
+increases from Q1 to Q2. The consumer surplus these newcomers receive is the 
+7-1d What Does Consumer Surplus Measure?
+Our goal in developing the concept of consumer surplus is to make judgments 
+about the desirability of market outcomes. Now that you have seen what con-
+sumer surplus is, let’s consider whether it is a good 
+--- PAGE 167 ---
+PART III   MARKETS AND WELFARE
+surplus, the amount that buyers are willing to pay for a good minus the 
+amount they actually pay for it, measures the benefit that buyers receive from 
+a good as the buyers themselves perceive it. Thus, consumer surplus is a good 
+measure of economic well- being if policymakers want to satisfy the prefer-
+In some circumstances, policymakers might choose to disregard consumer sur-
+plus because they do not respect the preferences that drive buyer behavior. For 
+example, drug addicts are willing to pay a high price for heroin. Yet we would not 
+say that addicts get a large benefit from being able to buy heroin at a low price 
+(even though addicts might say they do). From the standpoint of society, will-
+ingness to pay in this instance is not a good measure of the buyers’ benefit, and 
+consumer surplus is not a good measure of economic well-being, because addicts 
+are not looking after their own best interests.
+In most markets, however, consumer surplus does reflect economic well-
+being. Economists normally assume that buyers are rational when they make 
+decisions. Rational people do the best they can to achieve their objectives, given their 
+opportunities. Economists also normally assume that people’s preferences should 
+be respected. In this case, consumers are the best judges of how much benefit they 
+receive from the goods they buy.
+Draw a demand curve for turkey. In your diagram, show a price of turkey 
+and the consumer surplus at that price. Explain in words what this con-
+(a) Consumer Surplus at Price   1
+(b) Consumer Surplus at Price   2
+
+--- PAGE 168 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+We now turn to the other side of the market and consider the benefits sellers 
+receive from participating in a market. As you will see, our analysis of sellers’ 
+welfare is similar to our analysis of buyers’ welfare.
+7-2a Cost and the Willingness to Sell
+Imagine now that you are a homeowner and want to get your house painted. You 
+turn to four sellers of painting services: Vincent, Claude, Pablo, and Andy. Each 
+painter is willing to do the work for you if the price is right. You decide to take 
+bids from the four painters and auction off the job to the painter who will do the 
+work for the lowest price.
+Each painter is willing to take the job if the price he would receive exceeds his 
+cost of doing the work. Here the term cost should be interpreted as the paint-
+ers’ opportunity cost: It includes the painters’ out-of-pocket expenses (for paint, 
+brushes, and so on) as well as the value that the painters place on their own time. 
+Table 2 shows each painter’s cost. Because a painter’s cost is the lowest price he 
+would accept for his work, cost is a measure of his willingness to sell his services. 
+Each painter would be eager to sell his services at a price greater than his cost 
+and would refuse to sell his services at a price less than his cost. At a price exactly 
+equal to his cost, he would be indifferent about selling his services: He would be 
+equally happy getting the job or using his time and energy for another purpose.
+When you take bids from the painters, the price might start high, but it quickly 
+fal
+--- PAGE 169 ---
+PART III   MARKETS AND WELFARE
+$800, Andy receives producer surplus of $300 and Pablo receives producer sur-
+plus of $200. The total producer surplus in the market is $500.
+7-2b Using the Supply Curve to Measure Producer Surplus
+Just as consumer surplus is closely related to the demand curve, producer surplus 
+is closely related to the supply curve. To see how, let’s continue with our example. 
+We begin by using the costs of the four painters to find the supply sched-
+ule for painting services. The table in Figure 4 shows the supply schedule that 
+corresponds to the costs in Table 2. If the price is below $500, none of the four 
+painters is willing to do the job, so the quantity supplied is zero. If the price is 
+between $500 and $600, only Andy is willing to do the job, so the quantity sup-
+plied is 1. If the price is between $600 and $800, Andy and Pablo are willing to 
+do the job, so the quantity supplied is 2, and so on. Thus, the supply schedule is 
+derived from the costs of the four painters.
+The graph in Figure 4 shows the supply curve that corresponds to this supply 
+schedule. Note that the height of the supply curve is related to the sellers’ costs. 
+At any quantity, the price given by the supply curve shows the cost of the marginal 
+seller, the seller who would leave the market first if the price were any lower. At 
+a quantity of 4 houses, for instance, the supply curve has a height of $900, the 
+cost that Vincent (the marginal seller) incurs to provide his painting services. At 
+a quantity of 3 houses, the supply curve has a height of $800, the cost that Claude 
+
+--- PAGE 170 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+the supply curve equals $100. This amount is exactly the producer surplus we 
+computed earlier for Andy.
+Panel (b) of Figure 5 shows producer surplus at a price of $800 (or slightly less). 
+In this case, the area below the price and above the supply curve equals the total 
+area of the two rectangles. This area equals $500, the producer surplus we com-
+puted earlier for Pablo and Andy when two houses needed painting.
+The lesson from this example applies to all supply curves: The area below the 
+price and above the supply curve measures the producer surplus in a market. The logic 
+is straightforward: The height of the supply curve measures sellers’ costs, and the 
+difference between the price and the cost of production is each seller’s producer 
+surplus. Thus, the total area is the sum of the producer surplus of all sellers.
+7-2c How a Higher Price Raises Producer Surplus 
+You will not be surprised to hear that sellers always want to receive a higher 
+price for the goods they sell. But how much does sellers’ well-being rise in 
+response to a higher price? The concept of producer surplus offers a precise 
+Figure 6 shows a typical upward-sloping supply curve that would arise in a 
+market with many sellers. Although this supply curve differs in shape from the 
+previous figure, we measure producer surplus in the same way: Producer surplus 
+is the area below the price and above the supply curve. In panel (a), the price is P1
+and producer surplus is the area of triangle ABC.
+Measuring Producer Surplus  
+In panel (a), t
+--- PAGE 171 ---
+PART III   MARKETS AND WELFARE
+Panel (b) shows what happens when the price rises from P1 to P2. Producer sur-
+plus now equals area ADF. This increase in producer surplus has two parts. First, 
+those sellers who were already selling Q1 of the good at the lower price P1 are 
+better off because they now get more for what they sell. The increase in producer 
+surplus for existing sellers equals the area of the rectangle BCED. Second, some 
+new sellers enter the market because they are willing to produce the good at the 
+higher price, resulting in an increase in the quantity supplied from Q1 to Q2. The 
+producer surplus of these newcomers is the area of the triangle CEF.
+As this analysis shows, we use producer surplus to measure the well-being of 
+sellers in much the same way as we use consumer surplus to measure the well- 
+being of buyers. Because these two measures of economic welfare are so similar, it is 
+natural to use them together. Indeed, that is exactly what we do in the next section.
+Draw a supply curve for turkey. In your diagram, show a price of turkey 
+and the producer surplus at that price. Explain in words what this pro-
+How Price Affects Producer 
+(b) Producer Surplus at Price   2 
+(a)  Producer Surplus at Price   1 
+In panel (a), the price is P1, the quantity supplied is Q1, and producer surplus equals  
+the area of the triangle ABC. When the price rises from P1 to P2, as in panel (b), the 
+quantity supplied rises from Q1 to Q2 and the producer surplus rises to the area of the  
+triangle ADF. The increase in producer surplus (area BCFD) occurs in part because  
+e
+--- PAGE 172 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+7-3a The Benevolent Social Planner
+To evaluate market outcomes, we introduce into our analysis a new, hypothetical 
+character called the benevolent social planner. The benevolent social planner is an 
+all-knowing, all-powerful, well-intentioned dictator. The planner wants to max-
+imize the economic well-being of everyone in society. What should this planner 
+do? Should she just leave buyers and sellers at the equilibrium that they reach 
+naturally on their own? Or can she increase economic well-being by altering the 
+market outcome in some way?
+To answer this question, the planner must first decide how to measure the eco-
+nomic well-being of a society. One possible measure is the sum of consumer and 
+producer surplus, which we call total surplus. Consumer surplus is the benefit that 
+buyers receive from participating in a market, and producer surplus is the benefit 
+that sellers receive. It is therefore natural to use total surplus as a measure of soci-
+ety’s economic well-being.
+To better understand this measure of economic well-being, recall how we mea-
+sure consumer and producer surplus. We define consumer surplus as
+Consumer surplus 5 Value to buyers 2 Amount paid by buyers.
+Similarly, we define producer surplus as
+Producer surplus 5 Amount received by sellers 2 Cost to sellers.
+When we add consumer and producer surplus together, we obtain
+Total surplus 5 (Value to buyers 2 Amount paid by buyers) 
+1 (Amount received by sellers 2 Cost to sellers).
+The amount paid by buyers equals the amount received by selle
+--- PAGE 173 ---
+PART III   MARKETS AND WELFARE
+the pie is sliced and how the portions are distributed among members of society. 
+In this chapter, we concentrate on efficiency as the social planner’s goal. Keep in 
+mind, however, that real policymakers often care about equality as well.
+7-3b Evaluating the Market Equilibrium 
+Figure 7 shows consumer and producer surplus when a market reaches the equi-
+librium of supply and demand. Recall that consumer surplus equals the area 
+above the price and under the demand curve and producer surplus equals the 
+area below the price and above the supply curve. Thus, the total area between 
+the supply and demand curves up to the point of equilibrium represents the total 
+Is this equilibrium allocation of resources efficient? That is, does it maximize 
+total surplus? To answer this question, recall that when a market is in equilibrium, 
+the price determines which buyers and sellers participate in the market. Those 
+buyers who value the good more than the price (represented by the segment 
+AE on the demand curve) choose to buy the good; buyers who value it less than 
+the price (represented by the segment EB) do not. Similarly, those sellers whose 
+costs are less than the price (represented by the segment CE on the supply curve) 
+choose to produce and sell the good; sellers whose costs are greater than the price 
+(represented by the segment ED) do not.
+These observations lead to two insights about market outcomes:
+1. Free markets allocate the supply of goods to the buyers who value them most 
+highly, as measured by their willingness to pay.
+2. Free markets
+--- PAGE 174 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+Thus, given the quantity produced and sold in a market equilibrium, the social 
+planner cannot increase economic well-being by changing the allocation of con-
+sumption among buyers or the allocation of production among sellers.
+But can the social planner raise total economic well-being by increasing or 
+decreasing the quantity of the good? The answer is no, as stated in this third 
+insight about market outcomes: 
+3. Free markets produce the quantity of goods that maximizes the sum of 
+consumer and producer surplus.
+Figure 8 illustrates why this is true. To interpret this figure, keep in mind that the 
+demand curve reflects the value to buyers and the supply curve reflects the cost 
+to sellers. At any quantity below the equilibrium level, such as Q1, the value to the 
+marginal buyer exceeds the cost to the marginal seller. As a result, increasing the 
+quantity produced and consumed raises total surplus. This continues to be true 
+until the quantity reaches the equilibrium level. Similarly, at any quantity beyond 
+the equilibrium level, such as Q2, the value to the marginal buyer is less than the 
+cost to the marginal seller. In this case, decreasing the quantity raises total sur-
+plus, and this continues to be true until quantity falls to the equilibrium level. To 
+maximize total surplus, the social planner would choose the quantity where the 
+supply and demand curves intersect.
+Together, these three insights tell us that the market outcome makes the sum of 
+consumer and producer surplus as large as it can be. I
+--- PAGE 175 ---
+PART III   MARKETS AND WELFARE
+Society is lucky that the planner doesn’t need to intervene. Although it has been 
+a useful exercise imagining what an all-knowing, all-powerful, well- intentioned 
+dictator would do, let’s face it: Such characters are hard to come by. Dictators are 
+rarely benevolent, and even if we found someone so virtuous, she would lack 
+ Suppose our social planner tried to choose an efficient allocation of resources 
+on her own, instead of relying on market forces. To do so, she would need to know 
+the value of a particular good to every potential consumer in the market and the 
+cost for every potential producer. And she would need this information not only 
+for this market but for every one of the many thousands of markets in the econ-
+economies never work very well.
+The planner’s job becomes easy, however, once she takes on a partner: Adam 
+Smith’s invisible hand of the marketplace. The invisible hand takes all the infor-
+mation about buyers and sellers into account and guides everyone in the market 
+to the best outcome as judged by the standard of economic efficiency. It is a truly 
+remarkable feat. That is why economists so often advocate free markets as the 
+best way to organize economic activity.
+In many cities, finding an available 
+parking spot on the street seems about 
+as likely as winning the lottery. But 
+if local governments relied more on 
+the price system, they might be able to 
+achieve a more efficient allocation of 
+AN FRANCISCO—The maddening quest 
+for street parking is not just a tribulation 
+for drivers, but a trial for cities. As muc
+--- PAGE 176 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+SHOULD THERE BE A MARKET FOR ORGANS?
+Some years ago, the front page of The Boston Globe ran the head-
+line “How a Mother’s Love Helped Save Two Lives.” The newspa-
+per told the story of Susan Stephens, a woman whose son needed 
+a kidney transplant. When the doctor learned that the mother’s kidney was 
+not compatible, he proposed a novel solution: If Stephens donated one of her 
+kidneys to a stranger, her son would move to the top of the kidney waiting list. 
+The mother accepted the deal, and soon two patients had the transplants they 
+The ingenuity of the doctor’s proposal and the nobility of the mother’s act can-
+not be doubted. But the story raises some intriguing questions. If the mother could 
+trade a kidney for a kidney, would the hospital allow her to trade a kidney for an 
+expensive, experimental cancer treatment that she could not otherwise afford? 
+Should she be allowed to exchange her kidney for free tuition for her son at the 
+hospital’s medical school? Should she be able to sell her kidney and use the cash to 
+trade in her old Chevy for a new Lexus?
+As a matter of public policy, our society makes it illegal for people to sell their 
+organs. In essence, in the market for organs, the government has imposed a price 
+Source: New York Times, March 15, 2012.
+summer, the city began tweaking its prices 
+every two months—giving it the option of 
+raising them 25 cents an hour, or lowering 
+them by as much as 50 cents—in the hope of 
+leaving each block with at least one available 
+spot. The city also has cut p
+--- PAGE 177 ---
+PART III   MARKETS AND WELFARE
+ceiling of zero. The result, as with any binding price ceiling, is a 
+shortage of the good. The deal in the Stephens case did not fall 
+under this prohibition because no cash changed hands.
+Many economists believe that there would be large 
+ benefits to allowing a free market for organs. People are born 
+with two kidneys, but they usually need only one. Mean-
+while, some people suffer from illnesses that leave them 
+without any working kidney. Despite the obvious gains from 
+trade, the current situation is dire: The typical patient has to 
+wait several years for a kidney transplant, and every year 
+thousands of people die because a compatible kidney can-
+not be found. If those needing a kidney were allowed to buy 
+one from those who have two, the price would rise to bal-
+ance supply and demand. Sellers would be better off with 
+the  extra cash in their pockets. Buyers would be better off 
+with the organ they need to save their lives. The shortage of 
+Such a market would lead to an efficient allocation 
+of resources, but critics of this plan worry about fairness. 
+A market for organs, they argue, would benefit the rich 
+at the expense of the poor because organs would then be 
+allocated to those most willing and able to pay. But you can also 
+question the fairness of the current system. Now, most of us walk 
+around with an extra organ that we don’t really need, while some 
+of our fellow citizens are dying to get one. Is that fair? ●
+Draw the supply and demand curves for turkey. In the equilibrium, show 
+producer and consumer surplus. Explain why
+--- PAGE 178 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+buyers and sellers affect people who are not participants in the market at all. Pol-
+lution is the classic example. The use of agricultural pesticides, for instance, affects 
+not only the manufacturers who make them and the farmers who use them but 
+also many others who breathe the air or drink the water contaminated by these 
+pesticides. When a market exhibits such side effects, called externalities, the welfare 
+implications of market activity depend on more than just the value obtained by the 
+buyers and the cost incurred by the sellers. Because buyers and sellers may ignore 
+these side effects when deciding how much to consume and produce, the equilib-
+rium in a market can be inefficient from the standpoint of society as a whole. 
+Market power and externalities are examples of a general phenomenon called 
+market failure—the inability of some unregulated markets to allocate resources 
+efficiently. When markets fail, public policy can potentially remedy the problem 
+and increase economic efficiency. Microeconomists devote much effort to study-
+ing when market failures are likely and how they are best corrected. As you con-
+tinue your study of economics, you will see that the tools of welfare economics 
+developed here are readily adapted to that endeavor.
+Despite the possibility of market failure, the invisible hand of the marketplace 
+is extraordinarily important. In many markets, the assumptions we made in this 
+chapter work well and the conclusion of market efficiency applies directly. More-
+over, we can us
+--- PAGE 179 ---
+PART III   MARKETS AND WELFARE
+r Consumer surplus equals buyers’ willingness to pay 
+for a good minus the amount they actually pay, and 
+it measures the benefit buyers get from participating 
+in a market. Consumer surplus can be computed by 
+finding the area below the demand curve and above 
+r Producer surplus equals the amount sellers receive 
+for their goods minus their costs of production, and 
+it measures the benefit sellers get from participat-
+ing in a market. Producer surplus can be computed 
+by finding the area below the price and above the 
+r An allocation of resources that maximizes total sur-
+plus (the sum of consumer and producer surplus) is 
+said to be efficient. Policymakers are often concerned 
+with the efficiency, as well as the equality, of economic 
+r The equilibrium of supply and demand maximizes 
+total surplus. That is, the invisible hand of the mar-
+ketplace leads buyers and sellers to allocate resources 
+r Markets do not allocate resources efficiently in the 
+presence of market failures such as market power or 
+willingness to pay, p. 134
+1. Explain how buyers’ willingness to pay, consumer 
+surplus, and the demand curve are related.
+2. Explain how sellers’ costs, producer surplus, and the 
+3. In a supply-and-demand diagram, show producer and 
+consumer surplus at the market equilibrium.
+4. What is efficiency? Is it the only goal of economic 
+5. Name two types of market failure. Explain why each 
+may cause market outcomes to be inefficient.
+1. Melissa buys an iPhone for $240 and gets consumer 
+a. What is her willingness to pay?
+b. If she had bought t
+--- PAGE 180 ---
+CHAPTER 7   CONSUMERS, PRODUCERS, AND THE EFFICIENCY OF MARKETS
+a. From this information, derive Bert’s demand 
+schedule. Graph his demand curve for bottled 
+b. If the price of a bottle of water is $4, how many 
+bottles does Bert buy? How much consumer 
+surplus does Bert get from his purchases? Show 
+Bert’s consumer surplus in your graph.
+c. If the price falls to $2, how does quantity 
+ demanded change? How does Bert’s consumer 
+surplus change? Show these changes in  
+5. Ernie owns a water pump. Because pumping large 
+amounts of water is harder than pumping small 
+amounts, the cost of producing a bottle of water 
+rises as he pumps more. Here is the cost he incurs to 
+ produce each bottle of water:
+a. From this information, derive Ernie’s supply 
+schedule. Graph his supply curve for bottled 
+b. If the price of a bottle of water is $4, how many 
+bottles does Ernie produce and sell? How much 
+producer surplus does Ernie get from these sales? 
+Show Ernie’s producer surplus in your graph.
+c. If the price rises to $6, how does quantity sup-
+plied change? How does Ernie’s producer surplus 
+change? Show these changes in your graph.
+6. Consider a market in which Bert from problem 4 is the 
+buyer and Ernie from problem 5 is the seller. 
+a. Use Ernie’s supply schedule and Bert’s demand 
+schedule to find the quantity supplied and quan-
+tity demanded at prices of $2, $4, and $6. Which 
+of these prices brings supply and demand into 
+b. What are consumer surplus, producer surplus, 
+and total surplus in this equilibrium?
+c. If Ernie produced and Bert consumed one fewer 
+bottle of water, wh
+--- PAGE 181 ---
+PART III   MARKETS AND WELFARE
+monthly demand for minutes of calling is given  
+by the equation QD 5 150 2 50P, where P is the  
+a. With each provider, what is the cost to your friend 
+of an extra minute on the phone?
+b. In light of your answer to (a), how many minutes 
+with each provider would your friend talk on the 
+c. How much would she end up paying each pro-
+d. How much consumer surplus would she obtain 
+with each provider? (Hint: Graph the demand 
+curve and recall the formula for the area of a 
+e. Which provider would you recommend that your 
+11. Consider how health insurance affects the quantity 
+of healthcare services performed. Suppose that the 
+typical medical procedure has a cost of $100, yet a 
+person with health insurance pays only $20 out of 
+pocket. Her insurance company pays the remaining 
+$80. (The insurance company recoups the $80 through 
+premiums, but the premium a person pays does not 
+depend on how many procedures that person chooses 
+a. Draw the demand curve in the market for medical 
+care. (In your diagram, the horizontal axis should 
+represent the number of medical procedures.) 
+Show the quantity of procedures demanded if 
+each procedure has a price of $100. 
+b. On your diagram, show the quantity of proce-
+dures demanded if consumers pay only $20 per 
+procedure. If the cost of each procedure to society 
+is truly $100, and if individuals have health in-
+surance as described above, will the number of 
+procedures performed maximize total surplus? 
+c. Economists often blame the health insurance sys-
+tem for excessive use of medical care. Given your 
+an
+--- PAGE 182 ---
+axes are often a source of heated political debate. In 1776, the anger of the 
+American colonists over British taxes sparked the American Revolution. More 
+than two centuries later, the American political parties still debate the proper 
+size and shape of the tax system. Yet no one would deny that some level of tax-
+ation is necessary. As Oliver Wendell Holmes, Jr., once said, “Taxes are what we 
+pay for civilized society.”
+Because taxation has such a major impact on the modern economy, we return to 
+the topic several times throughout this book as we expand the set of tools we have 
+--- PAGE 183 ---
+PART III   MARKETS AND WELFARE
+at our disposal. We began our study of taxes in Chapter 6. There we saw how a 
+tax on a good affects its price and quantity sold and how the forces of supply and 
+demand divide the burden of a tax between buyers and sellers. In this chapter, we 
+extend this analysis and look at how taxes affect welfare, the economic well-being 
+of participants in a market. In other words, we see how high the price of civilized 
+The effects of taxes on welfare might at first seem obvious. The government 
+enacts taxes to raise revenue, and this revenue must come out of someone’s 
+pocket. As we saw in Chapter 6, both buyers and sellers are worse off when a 
+good is taxed: A tax raises the price buyers pay and lowers the price sellers 
+receive. Yet to fully understand how taxes affect economic well-being, we must 
+compare the reduced welfare of buyers and sellers to the amount of revenue the 
+government raises. The tools of consumer and producer surplus allow us to make 
+this comparison. Our analysis will show that the cost of taxes to buyers and sell-
+ers typically exceeds the revenue raised by the government.
+8-1 The Deadweight Loss of Taxation
+We begin by recalling one of the surprising lessons from Chapter 6: The impact of 
+a tax on a market outcome is the same whether the tax is levied on buyers or sell-
+ers of a good. When a tax is levied on buyers, the demand curve shifts downward 
+by the size of the tax; when it is levied on sellers, the supply curve shifts upward 
+by that amount. In either case, when the tax is enacted, the price paid by buyers 
+rises, an
+--- PAGE 184 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+curve shifts) or buyers (the demand curve shifts). In this chapter, we keep the 
+analysis general and simplify the graphs by not showing the shift. For our pur-
+poses here, the key result is that the tax places a wedge between the price buyers 
+pay and the price sellers receive. Because of this tax wedge, the quantity sold falls 
+below the level that would be sold without a tax. In other words, a tax on a good 
+causes the size of the market for the good to shrink. These results should be famil-
+8-1a How a Tax Affects Market Participants
+Let’s use the tools of welfare economics to measure the gains and losses from a 
+tax on a good. To do this, we must take into account how the tax affects buyers, 
+sellers, and the government. The benefit received by buyers in a market is mea-
+sured by consumer surplus—the amount buyers are willing to pay for the good 
+minus the amount they actually pay for it. The benefit received by sellers in a 
+market is measured by producer surplus—the amount sellers receive for the good 
+minus their costs. These are precisely the measures of economic welfare we used 
+What about the third interested party, the government? If T is the size of the tax 
+and Q is the quantity of the good sold, then the government gets total tax revenue 
+of T 3 Q. It can use this tax revenue to provide services, such as roads, police, 
+and public education, or to help the needy. Therefore, to analyze how taxes affect 
+economic well-being, we use the government’s tax revenue to measure the public 
+benefit from the tax. Keep in mi
+--- PAGE 185 ---
+PART III   MARKETS AND WELFARE
+Welfare without a Tax   To see how a tax affects welfare, we begin by consider-
+ing welfare before the government imposes a tax. Figure 3 shows the supply-and- 
+demand diagram with the key areas marked by the letters A through F. 
+Without a tax, the equilibrium price and quantity are found at the intersection 
+of the supply and demand curves. The price is P1, and the quantity sold is Q1. 
+ Because the demand curve reflects buyers’ willingness to pay, consumer surplus 
+is the area between the demand curve and the price, A 1 B 1 C. Similarly, because 
+the supply curve reflects sellers’ costs, producer surplus is the area between the 
+supply curve and the price, D 1 E 1 F. In this case, because there is no tax, tax 
+Total surplus, the sum of consumer and producer surplus, equals the area 
+A 1 B 1 C 1 D 1 E 1 F. In other words, as we saw in Chapter 7, total surplus is 
+the area between the supply and demand curves up to the equilibrium quantity. 
+The first column of the table in Figure 3 summarizes these conclusions.
+Welfare with a Tax   Now consider welfare after the tax is enacted. The price paid 
+by buyers rises from P1 to PB, so consumer surplus now equals only area A (the 
+A tax on a good reduces consumer surplus (by the area B 1 C) and producer surplus (by 
+the area D 1 E). Because the fall in producer and consumer surplus exceeds tax revenue 
+(area B 1 D), the tax is said to impose a deadweight loss (area C 1 E).
+The area C 1 E shows the fall in total surplus and is the deadweight loss of the tax.
+--- PAGE 186 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+area below the demand curve and above the buyers’ price). The price received by 
+sellers falls from P1 to PS, so producer surplus now equals only area F (the area 
+above the supply curve and below the sellers’ price). The quantity sold falls from 
+Q1 to Q2, and the government collects tax revenue equal to the area B 1 D.
+To compute total surplus with the tax, we add consumer surplus, producer sur-
+plus, and tax revenue. Thus, we find that total surplus is area A 1 B 1 D 1 F. The 
+second column of the table summarizes these results.
+Changes in Welfare  We can now see the effects of the tax by comparing welfare 
+before and after the tax is enacted. The third column of the table in Figure 3 shows 
+the changes. Consumer surplus falls by the area B 1 C, and producer surplus falls 
+by the area D 1 E. Tax revenue rises by the area B 1 D. Not surprisingly, the tax 
+makes buyers and sellers worse off and the government better off. 
+The change in total welfare includes the change in consumer surplus (which is 
+negative), the change in producer surplus (which is also negative), and the change 
+in tax revenue (which is positive). When we add these three pieces together, we 
+find that total surplus in the market falls by the area C 1 E. Thus, the losses to buy-
+ers and sellers from a tax exceed the revenue raised by the government. The fall in total 
+surplus that results when a tax (or some other policy) distorts a market outcome is 
+called a deadweight loss. The area C 1 E measures the size of the deadweight loss. 
+To understand why taxes
+--- PAGE 187 ---
+PART III   MARKETS AND WELFARE
+The area of the triangle between the supply and demand curves created by the 
+tax wedge (area C 1 E in Figure 3) measures these losses. This conclusion can be 
+seen more easily in Figure 4 by recalling that the demand curve reflects the value 
+of the good to consumers and that the supply curve reflects the costs of producers. 
+When the tax raises the price buyers pay to PB and lowers the price sellers receive 
+to PS, the marginal buyers and sellers leave the market, so the quantity sold falls 
+from Q1 to Q2. Yet as the figure shows, the value of the good to these buyers still 
+exceeds the cost to these sellers. At every quantity between Q1 and Q2, the situation 
+is the same as in our example with Mike and Mei. The gains from trade—the dif-
+ference between buyers’ value and sellers’ cost—are less than the tax. As a result, 
+these trades are not made once the tax is imposed. The deadweight loss is the sur-
+plus that is lost because the tax discourages these mutually advantageous trades.
+Draw the supply and demand curves for cookies. If the government im-
+poses a tax on cookies, show what happens to the price paid by buyers, 
+the price received by sellers, and the quantity of cookies sold. In your diagram, show the 
+deadweight loss from the tax. Explain the meaning of the deadweight loss.
+When the government  imposes 
+a tax on a good, the  quantity 
+sold falls from Q1 to Q2. 
+At  every quantity between 
+Q1 and Q2, the potential gains 
+from trade among buyers and 
+sellers are not realized. These 
+lost gains from trade create the 
+Reduction in quan
+--- PAGE 188 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+Tax Distortions and Elasticities
+In panels (a) and (b), the demand curve and the size of the tax are the same, but the price 
+elasticity of supply is different. Notice that the more elastic the supply curve, the larger the 
+deadweight loss of the tax. In panels (c) and (d), the supply curve and the size of the tax 
+are the same, but the price elasticity of demand is different. Notice that the more elastic the 
+demand curve, the larger the deadweight loss of the tax.
+price. Notice that the deadweight loss, the area of the triangle between the supply 
+and demand curves, is larger when the supply curve is more elastic.
+Similarly, the bottom two panels of Figure 5 show how the elasticity of demand 
+affects the size of the deadweight loss. Here the supply curve and the size of the 
+tax are held constant. In panel (c), the demand curve is relatively inelastic, and 
+the deadweight loss is small. In panel (d), the demand curve is more elastic, and 
+the deadweight loss from the tax is larger. 
+The lesson from this figure is apparent. A tax has a deadweight loss because 
+it induces buyers and sellers to change their behavior. The tax raises the price 
+--- PAGE 189 ---
+PART III   MARKETS AND WELFARE
+paid by buyers, so they consume less. At the same time, the tax lowers the price 
+received by sellers, so they produce less. Because of these changes in behavior, the 
+equilibrium quantity in the market shrinks below the optimal quantity. The more 
+responsive buyers and sellers are to changes in the price, the more the equilibrium 
+quantity shrinks. Hence, the greater the elasticities of supply and demand, the greater 
+the deadweight loss of a tax.
+THE DEADWEIGHT LOSS DEBATE
+Supply, demand, elasticity, deadweight loss—all this economic the-
+ory is enough to make your head spin. But believe it or not, these 
+ideas are at the heart of a profound political question: How big 
+should the government be? The debate hinges on these concepts because the larger 
+the deadweight loss of taxation, the larger the cost of any government program. If 
+taxation entails large deadweight losses, then these losses are a strong  argument 
+for a leaner government that does less and taxes less. But if taxes  impose small 
+deadweight losses, then government programs are less costly than they otherwise 
+might be, which in turn argues for a more expansive government.
+So how big are the deadweight losses of taxation? Economists disagree on the 
+answer to this question. To see the nature of this disagreement, consider the most 
+important tax in the U.S. economy: the tax on labor. The Social Security tax, the 
+Medicare tax, and much of the federal income tax are labor taxes. Many state gov-
+ernments also tax labor earnings through state income taxes. A labor tax places a 
+
+--- PAGE 190 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+trade, or working at jobs that pay “under the table” to evade taxes. Economists 
+call this the underground economy. In deciding whether to work in the under-
+ground economy or at a legitimate job, these potential criminals compare what 
+they can earn by breaking the law with the wage they can earn legally.
+In each of these cases, the quantity of labor supplied responds to the wage (the 
+price of labor). Thus, these workers’ decisions are distorted when their labor earn-
+ings are taxed. Labor taxes encourage workers to work fewer hours, second earn-
+ers to stay at home, the elderly to retire early, and the unscrupulous to enter the 
+The debate over the distortionary effects of labor taxation persists to this day. 
+Indeed, whenever you see two political candidates debating whether the govern-
+ment should provide more services or reduce the tax burden, keep in mind that 
+part of the disagreement may rest on different views about the elasticity of labor 
+supply and the deadweight loss of taxation. ●
+The demand for beer is more elastic than the demand for milk. Would a 
+tax on beer or a tax on milk have a larger deadweight loss? Why? 
+on the elasticity of labor 
+EPA EUROPEAN PRESSPHOTO AGENCY B.V. / ALAMY
+8-3 Deadweight Loss and Tax Revenue as Taxes Vary
+Taxes rarely stay the same for long periods of time. Policymakers in local, state, 
+and federal governments are always considering raising one tax or lowering 
+another. Here we consider what happens to the deadweight loss and tax revenue 
+when the size of a tax changes.
+Figure 6 sh
+--- PAGE 191 ---
+PART III   MARKETS AND WELFARE
+The deadweight loss is the reduction in total surplus due to the tax. Tax revenue is the 
+amount of the tax multiplied by the amount of the good sold. In panel (a), a small tax has a 
+small deadweight loss and raises a small amount of revenue. In panel (b), a somewhat larger 
+tax has a larger deadweight loss and raises a larger amount of revenue. In panel (c), a very 
+large tax has a very large deadweight loss, but because it has reduced the size of the market 
+so much, the tax raises only a small amount of revenue. Panels (d) and (e) summarize these 
+conclusions. Panel (d) shows that as the size of a tax grows larger, the deadweight loss grows 
+larger. Panel (e) shows that tax revenue first rises and then falls. This relationship is called 
+(d) From panel (a) to panel (c), 
+deadweight loss continually increases.
+(e) From panel (a) to panel (c), tax 
+revenue first increases, then decreases.
+THE LAFFER CURVE AND SUPPLY-SIDE ECONOMICS
+One day in 1974, economist Arthur Laffer sat in a Washington restau-
+rant with some prominent journalists and politicians. He took out a 
+napkin and drew a figure on it to show how tax rates affect tax rev-
+enue. It looked much like panel (e) of our Figure 6. Laffer then suggested that the 
+United States was on the downward-sloping side of this curve. Tax rates were so 
+high, he argued, that reducing them might actually increase tax revenue.
+Most economists were skeptical of Laffer’s suggestion. They accepted the idea 
+that a cut in tax rates could increase tax revenue as a matter of economic theory, 
+--- PAGE 192 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+“A cut in federal income tax rates in the United States right now 
+would lead to higher national income within five years than with-
+“A cut in federal income tax rates in the United States right now 
+would raise taxable income enough so that the annual total tax rev-
+enue would be higher within five years than without the tax cut.”
+but they doubted whether it would do so in practice. There was scant evidence for 
+Laffer’s view that U.S. tax rates had in fact reached such extreme levels. 
+Nonetheless, the Laffer curve (as it became known) captured the imagination of 
+Ronald Reagan. David Stockman, budget director in the first Reagan administra-
+tion, offers the following story:
+[Reagan] had once been on the Laffer curve himself. “I came into the Big Money 
+making pictures during World War II,” he would always say. At that time the 
+wartime income surtax hit 90 percent. “You could only make four pictures and 
+then you were in the top bracket,” he would continue. “So we all quit work-
+ing after four pictures and went off to the country.” High tax rates caused less 
+work. Low tax rates caused more. His experience proved it.
+When Reagan ran for president in 1980, he made cutting taxes part of his platform. 
+Reagan argued that taxes were so high that they were discouraging hard work and 
+thereby depressing incomes. He argued that lower taxes would give people more 
+incentive to work, which in turn would raise economic well-being. He suggested 
+that incomes could rise by so much that tax revenue might increase, despite the 
+lower tax
+--- PAGE 193 ---
+PART III   MARKETS AND WELFARE
+In this chapter, we have used the tools developed in the previous chapter to fur-
+ther our understanding of taxes. One of the Ten Principles of Economics discussed in 
+Chapter 1 is that markets are usually a good way to organize economic activity. In 
+Chapter 7, we used the concepts of producer and consumer surplus to make this 
+principle more precise. Here we have seen that when the government imposes 
+taxes on buyers or sellers of a good, society loses some of the benefits of market 
+efficiency. Taxes are costly to market participants not only because taxes transfer 
+resources from those participants to the government but also because they alter 
+incentives and distort market outcomes.
+The analysis presented here and in Chapter 6 should give you a good basis for 
+understanding the economic impact of taxes, but this is not the end of the story. 
+Microeconomists study how best to design a tax system, including how to strike 
+the right balance between equality and efficiency. Macroeconomists study how 
+taxes influence the overall economy and how policymakers can use the tax system 
+to stabilize economic activity and to achieve more rapid economic growth. So as 
+you continue your study of economics, don’t be surprised when the subject of 
+taxation comes up yet again.
+1. A tax on a good has a deadweight loss if
+a. the reduction in consumer and producer surplus is 
+greater than the tax revenue.
+b. the tax revenue is greater than the reduction in 
+consumer and producer surplus.
+c. the reduction in consumer surplus is greater than 
+the reduction in 
+--- PAGE 194 ---
+CHAPTER 8   APPLICATION: THE COSTS OF TAXATION 
+r A tax on a good reduces the welfare of buyers and sell-
+ers of the good, and the reduction in consumer and 
+producer surplus usually exceeds the revenue raised 
+by the government. The fall in total surplus—the 
+sum of consumer surplus, producer surplus, and tax 
+ revenue—is called the deadweight loss of the tax.
+r Taxes have deadweight losses because they cause buy-
+ers to consume less and sellers to produce less, and 
+these changes in behavior shrink the size of the market 
+below the level that maximizes total surplus. Because 
+the elasticities of supply and demand measure how 
+much market participants respond to market condi-
+tions, larger elasticities imply larger deadweight losses.
+r As a tax grows larger, it distorts incentives more, and its 
+deadweight loss grows larger. Because a tax reduces the 
+size of the market, however, tax revenue does not con-
+tinually increase. It first rises with the size of a tax, but 
+if the tax gets large enough, tax revenue starts to fall. 
+1. What happens to consumer and producer surplus 
+when the sale of a good is taxed? How does the 
+change in consumer and producer surplus compare to 
+2. Draw a supply-and-demand diagram with a tax on 
+the sale of a good. Show the deadweight loss. Show 
+3. How do the elasticities of supply and demand affect 
+the deadweight loss of a tax? Why do they have this 
+4. Why do experts disagree about whether labor taxes 
+have small or large deadweight losses? 
+5. What happens to the deadweight loss and tax revenue 
+1. The market for pizza is characterized by
+--- PAGE 195 ---
+PART III   MARKETS AND WELFARE
+4. Suppose that the government imposes a tax on heat-
+a. Would the deadweight loss from this tax likely be 
+greater in the first year after it is imposed or in the 
+b. Would the revenue collected from this tax likely 
+be greater in the first year after it is imposed or in 
+5. After economics class one day, your friend suggests 
+that taxing food would be a good way to raise revenue 
+because the demand for food is quite inelastic. In what 
+sense is taxing food a “good” way to raise revenue? In 
+what sense is it not a “good” way to raise revenue?
+6. Daniel Patrick Moynihan, the late senator from 
+New York, once introduced a bill that would levy a 
+10,000 percent tax on certain hollow-tipped bullets.
+a. Do you expect that this tax would raise much 
+b. Even if the tax would raise no revenue, why 
+might Senator Moynihan have proposed it?
+7. The government places a tax on the purchase of socks.
+a. Illustrate the effect of this tax on equilibrium price 
+and quantity in the sock market. Identify the fol-
+lowing areas both before and after the imposition 
+of the tax: total spending by consumers, total reve-
+nue for producers, and government tax revenue.
+b. Does the price received by producers rise or fall? 
+Can you tell whether total receipts for producers 
+c. Does the price paid by consumers rise or fall? Can 
+you tell whether total spending by consumers 
+rises or falls? Explain carefully. (Hint: Think about 
+elasticity.) If total consumer spending falls, does 
+consumer surplus rise? Explain.
+8. This chapter analyzed the welfare effects of a tax on a 
+
+--- PAGE 196 ---
+f you check the labels on the clothes you are wearing, you will probably find 
+that some were made in another country. A century ago, the textile and clothing 
+industry was a major part of the U.S. economy, but that is no longer the case. 
+Faced with foreign competitors that can produce quality goods at low cost, many 
+U.S. firms found it increasingly difficult to produce and sell textiles and clothing 
+at a profit. As a result, they laid off their workers and shut down their factories. 
+Today, most of the textiles and clothing that Americans consume are imported.
+The story of the textile industry raises important questions for economic pol-
+icy: How does international trade affect economic well-being? Who gains 
+and who loses from free trade among countries, and how do the 
+gains compare to the losses? 
+--- PAGE 197 ---
+PART III   MARKETS AND WELFARE
+Chapter 3 introduced the study of international trade by applying the principle 
+of comparative advantage. According to this principle, all countries can benefit 
+from trading with one another because trade allows each country to specialize in 
+doing what it does best. But the analysis in Chapter 3 was incomplete. It did not 
+explain how the international marketplace achieves these gains from trade or how 
+the gains are distributed among the various economic participants.
+We now return to the study of international trade to tackle these questions. 
+Over the past several chapters, we have developed many tools for analyzing 
+how markets work: supply, demand, equilibrium, consumer surplus, producer 
+surplus, and so on. With these tools, we can learn more about how international 
+trade affects economic well-being.
+9-1 The Determinants of Trade
+Consider the market for textiles. The textile market is well suited to studying the 
+gains and losses from international trade: Textiles are made in many countries 
+around the world, and there is much world trade in textiles. Moreover, the textile 
+market is one in which policymakers often consider (and sometimes implement) 
+trade restrictions to protect domestic producers from foreign competitors. Here 
+we examine the textile market in the imaginary country of Isoland. 
+9-1a The Equilibrium without Trade
+As our story begins, the Isolandian textile market is isolated from the rest of the 
+world. By government decree, no one in Isoland is allowed to import or export 
+textiles, and the penalty for violating th
+--- PAGE 198 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+Now suppose that, in a political upset, Isoland elects a new president. The 
+president campaigned on a platform of “change” and promised the voters bold 
+new ideas. Her first act is to assemble a team of economists to evaluate Isolandian 
+trade policy. She asks them to report on three questions:
+r If the government allows Isolandians to import and export textiles, what will 
+happen to the price of textiles and the quantity of textiles sold in the domes-
+r Who will gain from free trade in textiles and who will lose, and will the gains 
+r Should a tariff (a tax on textile imports) be part of the new trade policy?
+After reviewing supply and demand in their favorite textbook (this one, of 
+course), the Isolandian economics team begins its analysis. 
+9-1b The World Price and Comparative Advantage
+The first issue our economists take up is whether Isoland is likely to become a 
+textile importer or a textile exporter. In other words, if free trade is allowed, will 
+Isolandians end up buying or selling textiles in world markets?
+To answer this question, the economists compare the current Isolandian 
+price of textiles to the price of textiles in other countries. We call the price 
+prevailing in world markets the world price. If the world price of textiles is 
+higher than the domestic price, then Isoland will export textiles once trade 
+is permitted. Isolandian textile producers will be eager to receive the higher 
+prices available abroad and will start selling their textiles to buyers in other 
+countries. Conversely, if the world price 
+--- PAGE 199 ---
+PART III   MARKETS AND WELFARE
+To analyze the welfare effects of free trade, the Isolandian economists begin with 
+the assumption that Isoland is a small economy compared to the rest of the world. 
+This small-economy assumption means that Isoland’s actions have little effect on 
+world markets. Specifically, any change in Isoland’s trade policy will not affect 
+the world price of textiles. The Isolandians are said to be price takers in the world 
+economy. That is, they take the world price of textiles as given. Isoland can be an 
+exporting country by selling textiles at this price or an importing country by buy-
+ing textiles at this price. 
+The small-economy assumption is not necessary to analyze the gains and losses 
+from international trade. But the Isolandian economists know from experience 
+(and from reading Chapter 2 of this book) that making simplifying assumptions is 
+a key part of building a useful economic model. The assumption that Isoland is a 
+small economy simplifies the analysis, and the basic lessons do not change in the 
+more complicated case of a large economy.
+9-2a The Gains and Losses of an Exporting Country
+Figure 2 shows the Isolandian textile market when the domestic equilibrium price 
+before trade is below the world price. Once trade is allowed, the domestic price 
+rises to equal the world price. No seller of textiles would accept less than the 
+world price, and no buyer would pay more than the world price.
+9-2 The Winners and Losers from Trade
+International Trade in an 
+Once trade is allowed, the 
+domestic price rises to equal 
+the world price. The su
+--- PAGE 200 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+After the domestic price has risen to equal the world price, the domestic 
+ quantity supplied differs from the domestic quantity demanded. The supply 
+curve shows the quantity of textiles supplied by Isolandian sellers. The demand 
+curve shows the quantity of textiles demanded by Isolandian buyers. Because 
+the domestic quantity supplied is greater than the domestic quantity demanded, 
+ Isoland sells textiles to other countries. Thus, Isoland becomes a textile exporter.
+Although domestic quantity supplied and domestic quantity demanded differ, 
+the textile market is still in equilibrium because there is now another participant 
+in the market: the rest of the world. One can view the horizontal line at the world 
+price as representing the rest of the world’s demand for textiles. This demand 
+curve is perfectly elastic because Isoland, as a small economy, can sell as many 
+textiles as it wants at the world price.
+Consider the gains and losses from opening up trade. Clearly, not everyone 
+benefits. Trade forces the domestic price to rise to the world price. Domestic pro-
+ducers of textiles are better off because they can now sell textiles at a higher price, 
+but domestic consumers of textiles are worse off because they now have to buy 
+textiles at a higher price.
+To measure these gains and losses, we look at the changes in consumer and 
+producer surplus. Before trade is allowed, the price of textiles adjusts to balance 
+domestic supply and domestic demand. Consumer surplus, the area between the 
+demand curve and the before-trade pric
+--- PAGE 201 ---
+PART III   MARKETS AND WELFARE
+Once again, consider the gains and losses from trade. As in the previous case, 
+not everyone benefits, but here the winners and losers are reversed. When trade 
+forces the domestic price to fall, domestic consumers are better off (they can now 
+buy textiles at a lower price), and domestic producers are worse off (they now 
+have to sell textiles at a lower price). Changes in consumer and producer surplus 
+measure the size of the gains and losses. Before trade, consumer surplus is area A, 
+producer surplus is area B 1 C, and total surplus is area A 1 B 1 C. After trade is 
+allowed, consumer surplus is area A 1 B 1 D, producer surplus is area C, and total 
+surplus is area A 1 B 1 C 1 D. 
+These welfare calculations show who wins and who loses from trade in an 
+importing country. Buyers benefit because consumer surplus increases by the area 
+B 1 D. Sellers are worse off because producer surplus falls by the area B. The gains 
+of buyers exceed the losses of sellers, and total surplus increases by the area D.
+This analysis of an importing country yields two conclusions parallel to those 
+r When a country allows trade and becomes an importer of a good, domestic 
+consumers of the good are better off, and domestic producers of the good are 
+r Trade raises the economic well-being of a nation in the sense that the gains of 
+the winners exceed the losses of the losers.
+International Trade in an 
+Once trade is allowed, the do-
+mestic price falls to equal the 
+world price. The supply curve 
+shows the amount produced 
+domestically, and the demand 
+curve sho
+--- PAGE 202 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+Having completed our analysis of trade, we can better understand one of the 
+Ten Principles of Economics in Chapter 1: Trade can make everyone better off. If 
+Isoland opens its textile market to international trade, the change creates winners 
+and losers, regardless of whether Isoland ends up exporting or importing textiles. 
+In either case, however, the gains of the winners exceed the losses of the losers, so 
+the winners could compensate the losers and still be better off. In this sense, trade 
+can make everyone better off. But will trade make everyone better off? Probably 
+not. In practice, compensation for the losers from international trade is rare. With-
+out such compensation, opening an economy to international trade is a policy that 
+expands the size of the economic pie, but it can leave some participants in the 
+economy with a smaller slice.
+We can now see why the debate over trade policy is often contentious. When-
+ever a policy creates winners and losers, the stage is set for a political battle. 
+Nations sometimes fail to enjoy the gains from trade because the losers from free 
+trade are better organized than the winners. The losers may turn their cohesiveness 
+into political clout and lobby for trade restrictions such as tariffs or import quotas.
+The Isolandian economists next consider the effects of a tariff—a tax on imported 
+goods. The economists quickly realize that a tariff on textiles will have no effect if 
+Isoland becomes a textile exporter. If no one in Isoland is interested in importing 
+textiles, a tax on t
+--- PAGE 203 ---
+PART III   MARKETS AND WELFARE
+A tariff, a tax on imports, reduces the quantity of imports and moves a market closer to 
+the equilibrium that would exist without trade. Total surplus falls by an amount equal to 
+area D 1 F. These two triangles represent the deadweight loss from the tariff. 
+The area D 1 F shows the fall in total surplus and represents the deadweight loss of the tariff.
+To determine the total welfare effects of the tariff, we add the change in con-
+sumer surplus (which is negative), the change in producer surplus (positive), and 
+the change in government revenue (positive). We find that total surplus in the 
+market decreases by the area D 1 F. This fall in total surplus is called the dead-
+weight loss of the tariff.
+A tariff causes a deadweight loss because a tariff is a type of tax. Like most 
+taxes, it distorts incentives and pushes the allocation of scarce resources away 
+from the optimum. In this case, we can identify two effects. First, when the tariff 
+raises the domestic price of textiles above the world price, it encourages domestic 
+producers to increase production from Q1
+S. Even though the cost of making 
+these incremental units exceeds the cost of buying them at the world price, the 
+tariff makes it profitable for domestic producers to manufacture them nonethe-
+less. Second, when the tariff raises the price that domestic textile consumers have 
+--- PAGE 204 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+to pay, it encourages them to reduce their consumption of textiles from Q1
+Even though domestic consumers value these incremental units at more than the 
+world price, the tariff induces them to cut back their purchases. Area D represents 
+the deadweight loss from the overproduction of textiles, and area F represents 
+the deadweight loss from the underconsumption of textiles. The total deadweight 
+loss of the tariff is the sum of these two triangles.
+9-2d The Lessons for Trade Policy
+The team of Isolandian economists can now write to the new president:
+You asked us three questions about opening up trade. After much hard work, 
+Question: If the government allows Isolandians to import and export textiles, 
+what will happen to the price of textiles and the quantity of textiles sold in the 
+Answer: Once trade is allowed, the Isolandian price of textiles will be driven to 
+equal the price prevailing around the world.
+If the world price is now higher than the Isolandian price, our price will rise. 
+The higher price will reduce the amount of textiles Isolandians consume and 
+raise the amount of textiles that Isolandians produce. Isoland will, therefore, 
+become a textile exporter. This occurs because, in this case, Isoland has a com-
+parative advantage in producing textiles. 
+Import Quotas: Another Way to Restrict Trade
+eyond tariffs, another way that nations sometimes restrict inter-
+national trade is by putting limits on how much of a good can be 
+imported. In this book, we will not analyze such a policy, other than to 
+point out the c
+--- PAGE 205 ---
+PART III   MARKETS AND WELFARE
+Conversely, if the world price is now lower than the Isolandian price, our 
+price will fall. The lower price will raise the amount of textiles that Isolandians 
+consume and lower the amount of textiles that Isolandians produce.  Isoland 
+will, therefore, become a textile importer. This occurs because, in this case, 
+other countries have a comparative advantage in producing textiles. 
+Question: Who will gain from free trade in textiles and who will lose, and will 
+the gains exceed the losses?
+Answer: The answer depends on whether the price rises or falls when trade 
+is allowed. If the price rises, producers of textiles gain, and consumers of tex-
+tiles lose. If the price falls, consumers gain, and producers lose. In both cases, 
+the gains are larger than the losses. Thus, free trade raises the total welfare of 
+Question: Should a tariff be part of the new trade policy?
+Answer: A tariff has an impact only if Isoland becomes a textile importer. In 
+this case, a tariff moves the economy closer to the no-trade equilibrium and, 
+like most taxes, causes deadweight losses. A tariff improves the welfare of 
+domestic producers and raises revenue for the government, but these gains are 
+more than offset by the losses suffered by consumers. The best policy, from the 
+standpoint of economic efficiency, would be to allow trade without a tariff.
+We hope you find these answers helpful as you decide on your new policy. 
+9-2e Other Benefits of International Trade
+The conclusions of the Isolandian economics team are based on the standard anal-
+ysis of internatio
+--- PAGE 206 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+Free international trade can help the 
+Andy Warhol’s Guide to Public 
+often ask people in my business — public pol-
+icy — where they get their inspiration. Liberals 
+usually cite Ronald Reagan.  Personally, I prefer 
+the artist Andy Warhol, who famously declared, 
+“I like boring things.” He was referring to art, of 
+course. But the sentiment provides solid public 
+Warhol’s work exalted the everyday “bor-
+ing” items that display the transcendental 
+beauty of life itself. The canonical example is 
+his famous paintings of Campbell Soup cans. 
+Some people sneered, but those willing to look 
+closely could see what he was doing. It is the 
+same idea expressed in an old Zen saying, 
+often attributed to the eighth-century Chinese 
+Buddhist philosopher Layman Pang: “How 
+wondrously supernatural and miraculous! I 
+draw water and I carry wood!”
+Warhol’s critical insight is usually lost on 
+most of the world. This is not because people 
+are stupid, but because our brains are wired to 
+filter out the mundane and focus on the novel. 
+This turns out to be an important survival adap-
+tation. To discern a predator, you must filter out 
+the constant rustling of leaves and notice the 
+Warhol believed that defeating this cognitive 
+bias led to greater appreciation of beauty. It also 
+leads to better public policy, especially in reliev-
+ing poverty. For example, while our attention is 
+naturally drawn to the latest fascinating and 
+expensive innovations in tropical public health, 
+many experts insist it is cheap, boring mosquito 
+bed nets that best p
+--- PAGE 207 ---
+PART III   MARKETS AND WELFARE
+r Enhanced flow of ideas. The transfer of technological advances around the 
+world is often thought to be linked to the trading of the goods that embody 
+those advances. The best way for a poor agricultural nation to learn about 
+the computer revolution, for instance, is to buy some computers from abroad 
+rather than trying to make them domestically. 
+Thus, free international trade increases variety for consumers, allows firms to 
+take advantage of economies of scale, makes markets more competitive, and 
+ facilitates the spread of technology. If the Isolandian economists also took these 
+effects into account, their advice to the president would be even more forceful.
+Draw a supply-and-demand diagram for wool suits in the country of 
+ Autarka. When trade is allowed, the price of a suit falls from 3 to 2 ounces 
+of gold. In your diagram, show the change in consumer surplus, the change in producer sur-
+plus, and the change in total surplus. How would a tariff on suit imports alter these effects?
+9-3 The Arguments for Restricting Trade
+The letter from the economics team starts to persuade the new president of 
+ Isoland to consider allowing trade in textiles. She notes that the domestic price 
+is now high compared to the world price. Free trade would, therefore, cause the 
+price of textiles to fall and hurt domestic textile producers. Before implementing 
+the new policy, she asks Isolandian textile companies to comment on the econo-
+Not surprisingly, the textile companies oppose free trade in textiles. They 
+believe that the government should prot
+--- PAGE 208 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+Politicians and pundits often say that 
+the government should help workers 
+made worse off by international trade 
+by, for example, paying for their retrain-
+ing. In this opinion piece, an economist 
+What to Expect When You’re Free 
+ll economists know that when American jobs 
+are outsourced, Americans as a group are 
+net winners. What we lose through lower wages 
+is more than offset by what we gain through 
+lower prices. In other words, the winners can 
+more than afford to compensate the losers. Does 
+that mean they ought to? Does it create a moral 
+mandate for taxpayer- subsidized retraining pro-
+Um, no. Even if you’ve just lost your job, 
+there’s something fundamentally churlish about 
+blaming the very phenomenon that’s elevated 
+you above the subsistence level since the day 
+you were born. If the world owes you compensa-
+tion for enduring the downside of trade, what do 
+you owe the world for enjoying the upside?
+I doubt there’s a human being on earth 
+who hasn’t benefited from the opportunity to 
+trade freely with his neighbors. Imagine what 
+your life would be like if you had to grow your 
+own food, make your own clothes and rely on 
+your grandmother’s home remedies for health 
+care. Access to a trained physician might 
+reduce the demand for grandma’s home reme-
+dies, but—especially at her age—she’s still 
+got plenty of reason to be thankful for having a 
+Some people suggest, however, that it makes 
+sense to isolate the moral effects of a single 
+new trading opportunity or free trade agreement. 
+Surely we have fellow citizens
+--- PAGE 209 ---
+PART III   MARKETS AND WELFARE
+industry to those industries in which Isoland has a comparative advantage. The 
+transition may impose hardship on some workers in the short run, but it allows 
+Isolandians as a whole to enjoy a higher standard of living.
+Opponents of trade are often skeptical that trade creates jobs. They might 
+respond that everything can be produced more cheaply abroad. Under free trade, 
+they might argue, Isolandians could not be profitably employed in any industry. 
+As Chapter 3 explains, however, the gains from trade are based on comparative 
+advantage, not absolute advantage. Even if one country is better than another 
+country at producing everything, each country can still gain from trading with the 
+other. Workers in each country will eventually find jobs in an industry in which 
+that country has a comparative advantage.
+9-3b The National-Security Argument
+When an industry is threatened with competition from other countries, oppo-
+nents of free trade often argue that the industry is vital to national security. For 
+example, if Isoland were considering free trade in steel, domestic steel companies 
+might point out that steel is used to make guns and tanks. Free trade would allow 
+Isoland to become dependent on foreign countries to supply steel. If a war later 
+broke out and the foreign supply was interrupted, Isoland might be unable to 
+produce enough steel and weapons to defend itself.
+Economists acknowledge that protecting key industries may be appropriate 
+when there are legitimate concerns over national security. Yet they fear that this 
+argument ma
+--- PAGE 210 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+willing to incur temporary losses to obtain the eventual profits. Protection is not 
+necessary for an infant industry to grow. History shows that start-up firms often 
+incur temporary losses and succeed in the long run, even without protection from 
+9-3d The Unfair-Competition Argument
+A common argument is that free trade is desirable only if all countries play by 
+the same rules. If firms in different countries are subject to different laws and 
+regulations, then it is unfair (the argument goes) to expect the firms to compete 
+in the international marketplace. For instance, suppose that the government of 
+Neighborland subsidizes its textile industry by giving textile companies large tax 
+breaks. The Isolandian textile industry might argue that it should be protected 
+from this foreign competition because Neighborland is not competing fairly.
+Would it, in fact, hurt Isoland to buy textiles from another country at a subsi-
+dized price? Certainly, Isolandian textile producers would suffer, but Isolandian 
+textile consumers would benefit from the low price. The case for free trade is the 
+same as before: The gains of the consumers from buying at the low price would 
+exceed the losses of the producers. Neighborland’s subsidy to its textile indus-
+try may be a bad policy, but it is the taxpayers of Neighborland who bear the 
+burden. Isoland can benefit from the opportunity to buy textiles at a subsidized 
+price. Rather than objecting to the foreign subsidies, perhaps Isoland should send 
+Neighborland a thank-you note.
+9-3e The Protect
+--- PAGE 211 ---
+PART III   MARKETS AND WELFARE
+to found GATT after World War II in response to the high tar-
+iffs imposed during the Great Depression of the 1930s. Many 
+economists believe that the high tariffs contributed to the world-
+wide economic hardship of that period. GATT has successfully 
+reduced the average tariff among member countries from about 
+40 percent after World War II to about 5 percent today.
+The rules established under GATT are now enforced by an 
+international institution called the World Trade Organization 
+(WTO). The WTO was established in 1995 and has its headquar-
+ters in Geneva, Switzerland. As of 2015, 162 countries have joined 
+the organization, accounting for more than 97 percent of world 
+trade. The functions of the WTO are to administer trade agree-
+ments, provide a forum for negotiations, and handle disputes 
+What are the pros and cons of the multilateral approach to 
+free trade? One advantage is that the multilateral approach has 
+the potential to result in freer trade than a unilateral approach 
+because it can reduce trade restrictions abroad as well as at home. If 
+international negotiations fail, however, the result could be more 
+restricted trade than under a unilateral approach.
+In addition, the multilateral approach may have a political 
+advantage. In most markets, producers are fewer and better 
+ organized than consumers—and thus wield greater political 
+ influence. Reducing the Isolandian tariff on textiles, for example, 
+may be politically difficult if considered by itself. The textile com-
+panies would oppose free trade, and the buyers of textil
+--- PAGE 212 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+Economists view the United States as an ongoing experiment that confirms the 
+virtues of free trade. Throughout its history, the United States has allowed unre-
+stricted trade among the states, and the country as a whole has benefited from 
+the specialization that trade allows. Florida grows oranges, Alaska pumps oil, 
+California makes wine, and so on. Americans would not enjoy the high standard 
+of living they do today if people could consume only those goods and services 
+produced in their own states. The world could similarly benefit from free trade 
+To better understand economists’ view of trade, let’s continue our parable. 
+Suppose that the president of Isoland, after reading the latest poll results, ignores 
+the advice of her economics team and decides not to allow free trade in textiles. 
+The country remains in the equilibrium without international trade.
+Then, one day, some Isolandian inventor discovers a new way to make tex-
+tiles at very low cost. The process is quite mysterious, however, and the inventor 
+insists on keeping it a secret. What is odd is that the inventor doesn’t need tradi-
+tional inputs such as cotton or wool. The only material input he needs is wheat. 
+And even more oddly, to manufacture textiles from wheat, he hardly needs any 
+The inventor is hailed as a genius. Because everyone buys clothing, the lower 
+cost of textiles allows all Isolandians to enjoy a higher standard of living. Work-
+ers who had previously produced textiles experience some hardship when their 
+factories close, but they eventually 
+--- PAGE 213 ---
+PART III   MARKETS AND WELFARE
+2. When the nation of Ectenia opens itself to world trade 
+in coffee beans, the domestic price of coffee beans 
+falls. Which of the following describes the situation?
+a. Domestic production of coffee rises, and Ectenia 
+becomes a coffee importer.
+b. Domestic production of coffee rises, and Ectenia 
+becomes a coffee exporter.
+c. Domestic production of coffee falls, and Ectenia 
+becomes a coffee importer.
+d. Domestic production of coffee falls, and Ectenia 
+becomes a coffee exporter.
+3. When a nation opens itself to trade in a good and be-
+a. producer surplus decreases, but consumer surplus 
+and total surplus both increase.
+b. producer surplus decreases, consumer surplus 
+increases, and so the impact on total surplus is 
+c. producer surplus and total surplus increase, but 
+consumer surplus decreases.
+d. producer surplus, consumer surplus, and total sur-
+4. If a nation that imports a good imposes a tariff, it will 
+a. the domestic quantity demanded.
+b. the domestic quantity supplied.
+c. the quantity imported from abroad.
+5. Which of the following trade policies would benefit 
+producers, hurt consumers, and increase the amount 
+a. the increase of a tariff in an importing country
+b. the reduction of a tariff in an importing country
+c. starting to allow trade when the world price is 
+greater than the domestic price
+d. starting to allow trade when the world price is less 
+6. The main difference between imposing a tariff and 
+handing out licenses under an import quota is that a 
+r The effects of free trade can be determined by com-
+paring the domesti
+--- PAGE 214 ---
+CHAPTER 9   APPLICATION: INTERNATIONAL TRADE
+3. Draw the supply-and-demand diagram for an import-
+ing country. Identify consumer surplus and producer 
+surplus before trade is allowed. Identify consumer 
+surplus and producer surplus with free trade. What is 
+the change in total surplus?
+4. Describe what a tariff is and its economic effects.
+5. List five arguments often given to support trade 
+restrictions. How do economists respond to these 
+6. What is the difference between the unilateral and mul-
+tilateral approaches to achieving free trade? Give an 
+1. The world price of wine is below the price that would 
+prevail in Canada in the absence of trade.
+a. Assuming that Canadian imports of wine are a 
+small part of total world wine production, draw 
+a graph for the Canadian market for wine under 
+free trade. Identify consumer surplus, producer 
+surplus, and total surplus in an appropriate table.
+b. Now suppose that an unusual shift of the Gulf 
+Stream leads to an unseasonably cold summer 
+in Europe, destroying much of the grape har-
+vest there. What effect does this shock have on 
+the world price of wine? Using your graph and 
+table from part (a), show the effect on consumer 
+surplus, producer surplus, and total surplus 
+in  Canada. Who are the winners and losers? 
+Is  Canada as a whole better or worse off?
+2. Suppose that Congress imposes a tariff on imported 
+automobiles to protect the U.S. auto industry from 
+foreign competition. Assuming that the United States 
+is a price taker in the world auto market, show the 
+following on a diagram: the change in the quantity of 
+impor
+--- PAGE 215 ---
+PART III   MARKETS AND WELFARE
+c. How does it affect the welfare of domestic con-
+sumers, the welfare of domestic producers, and 
+d. What happens to total welfare in China, as mea-
+sured by the sum of consumer surplus, producer 
+7. Consider a country that imports a good from abroad. 
+For each of following statements, state whether it is 
+true or false. Explain your answer.
+a. “The greater the elasticity of demand, the greater 
+b. “If demand is perfectly inelastic, there are no 
+c. “If demand is perfectly inelastic, consumers do 
+8. Having rejected a tariff on textiles (a tax on imports), 
+the president of Isoland is now considering the same-
+sized tax on textile consumption (including both  
+imported and domestically produced textiles).
+a. Using Figure 4, identify the quantity consumed 
+and the quantity produced in Isoland under a tex-
+b. Construct a table similar to that in Figure 4 for the 
+c. Which raises more revenue for the government—
+the consumption tax or the tariff?  Which has a 
+smaller deadweight loss? Explain.
+9. Assume the United States is an importer of televisions 
+and there are no trade restrictions. U.S. consumers 
+buy 1 million televisions per year, of which 400,000 are 
+produced domestically and 600,000 are imported. 
+a. Suppose that a technological advance among 
+ Japanese television manufacturers causes the 
+world price of televisions to fall by $100. Draw a 
+graph to show how this change affects the welfare 
+of U.S. consumers and U.S. producers and how it 
+affects total surplus in the United States.
+b. After the fall in price, consumers buy 1.2 million
+--- PAGE 216 ---
+

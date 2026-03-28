@@ -1,0 +1,625 @@
+--- PAGE 502 ---
+hen you finish school and start looking for a full-time job, your experience 
+will, to a large extent, be shaped by prevailing economic conditions. In 
+some years, firms throughout the economy are expanding their production 
+of goods and services, employment is rising, and jobs are easy to find. In other 
+years, firms are cutting back production, employment is declining, and finding a 
+good job takes a long time. Not surprisingly, any college graduate would rather 
+enter the labor force in a year of economic expansion than in a year of economic 
+Because the health of the overall economy profoundly affects all of us, 
+changes in economic conditions are widely reported by the 
+--- PAGE 503 ---
+PART VIII   THE DATA OF MACROECONOMICS
+media. Indeed, it is hard to pick up a newspaper, check an online news service, 
+or turn on the TV without seeing some newly reported statistic about the econ-
+omy. The statistic might measure the total income of everyone in the economy 
+(gross domestic product, or GDP), the rate at which average prices are rising or 
+falling (inflation/deflation), the percentage of the labor force that is out of work 
+(unemployment), total spending at stores (retail sales), or the imbalance of trade 
+between the United States and the rest of the world (the trade deficit). All these 
+statistics are macroeconomic. Rather than telling us about a particular household, 
+firm, or market, they tell us something about the entire economy. 
+As you may recall from Chapter 2, economics is divided into two branches: 
+ microeconomics and macroeconomics. Microeconomics is the study of how 
+ individual households and firms make decisions and how they interact with one 
+another in markets. Macroeconomics is the study of the economy as a whole. 
+The goal of macroeconomics is to explain the economic changes that affect many 
+households, firms, and markets simultaneously. Macroeconomists address a broad 
+variety of questions: Why is average income high in some countries and low in 
+others? Why do prices sometimes rise rapidly while at other times they are more 
+stable? Why do production and employment expand in some years and contract 
+in others? What, if anything, can the government do to promote rapid growth in 
+incomes, low inflation, and stable employment? These ques
+--- PAGE 504 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+transaction contributes equally to the economy’s income and to its expenditure. 
+GDP, whether measured as total income or total expenditure, rises by $100.
+Another way to see the equality of income and expenditure is with the circu-
+lar-flow diagram in Figure 1. As you may recall from Chapter 2, this diagram 
+describes all the transactions between households and firms in a simple econ-
+omy. It simplifies matters by assuming that all goods and services are bought by 
+households and that households spend all of their income. In this economy, when 
+households buy goods and services from firms, these expenditures flow through 
+the markets for goods and services. When the firms use the money they receive 
+from sales to pay workers’ wages, landowners’ rent, and firm owners’ profit, this 
+income flows through the markets for the factors of production. Money continu-
+ously flows from households to firms and then back to households.
+GDP measures this flow of money. We can compute it for this economy in one of 
+two ways: by adding up the total expenditure by households or by adding up the total 
+income (wages, rent, and profit) paid by firms. Because all expenditure in the economy 
+ends up as someone’s income, GDP is the same regardless of how we compute it.
+The actual economy is, of course, more complicated than the one illustrated 
+in Figure 1. Households do not spend all of their income; they pay some of it to 
+the government in taxes, and they save some for use in the future. In addition, 
+households do not buy all goods and services prod
+--- PAGE 505 ---
+PART VIII   THE DATA OF MACROECONOMICS
+Having discussed the meaning of gross domestic product in general terms, let’s 
+be more precise about how this statistic is measured. Here is a definition of GDP 
+that focuses on GDP as a measure of total expenditure: 
+r (SPTTEPNFTUJDQSPEVDU	(%1
+ is the market value of all final goods and ser-
+vices produced within a country in a given period of time.
+This definition might seem simple enough. But in fact, many subtle issues arise 
+when computing an economy’s GDP. Let’s therefore consider each phrase in this 
+definition with some care.
+23-2a “GDP Is the Market Value . . .”
+You have probably heard the adage “You can’t compare apples and oranges.” Yet 
+GDP does exactly that. GDP adds together many different kinds of products into a 
+single measure of the value of economic activity. To do this, it uses market prices. 
+Because market prices measure the amount people are willing to pay for different 
+goods, they reflect the value of those goods. If the price of an apple is twice the 
+price of an orange, then an apple contributes twice as much to GDP as does an 
+23-2b “. . . of All . . .”
+GDP tries to be comprehensive. It includes all items produced in the economy and 
+sold legally in markets. GDP measures the market value of not just apples and 
+oranges but also pears and grapefruit, books and movies, haircuts and healthcare, 
+GDP also includes the market value of the housing services provided by the 
+economy’s stock of housing. For rental housing, this value is easy to calculate—
+the rent equals both the tenant’s expenditure and the lan
+--- PAGE 506 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+of intermediate goods is already included in the prices of the final goods. Adding 
+the market value of the paper to the market value of the card would be double 
+counting. That is, it would (incorrectly) count the paper twice. 
+An important exception to this principle arises when an intermediate good is 
+produced and, rather than being used, is added to a firm’s inventory of goods for 
+use or sale at a later date. In this case, the intermediate good is taken to be “final” 
+for the moment, and its value as inventory investment is included as part of GDP. 
+Thus, additions to inventory add to GDP, and when the goods in inventory are 
+later used or sold, the reductions in inventory subtract from GDP. 
+23-2d “. . . Goods and Services . . .”
+GDP includes both tangible goods (food, clothing, cars) and intangible services 
+(haircuts, housecleaning, doctor visits). When you buy a CD by your favorite 
+band, you are buying a good, and the purchase price is part of GDP. When you 
+pay to hear a concert by the same band, you are buying a service, and the ticket 
+price is also part of GDP.
+23-2e “. . . Produced . . .”
+GDP includes goods and services currently produced. It does not include transac-
+tions involving items produced in the past. When Ford produces and sells a new 
+car, the value of the car is included in GDP. But when one person sells a used car 
+to another person, the value of the used car is not included in GDP.
+23-2f “. . . Within a Country . . .”
+GDP measures the value of production within the geographic confines of a coun-
+try. W
+--- PAGE 507 ---
+PART VIII   THE DATA OF MACROECONOMICS
+hen the U.S. Department of Commerce computes the nation’s GDP, 
+it also computes various other measures of income to get a more 
+complete picture of what’s happening in the economy. These other mea-
+sures differ from GDP by excluding or including certain categories of 
+income. What follows is a brief description of five of these income mea-
+sures, ordered from largest to smallest.
+t Gross national product (GNP) is the total income earned by a 
+nation’s permanent residents (called nationals). It differs from 
+GDP in that it includes income that our citizens earn abroad and 
+excludes income that foreigners earn here. For example, when a 
+Canadian citizen works temporarily in the United States, her pro-
+duction is part of U.S. GDP, but it is not part of U.S. GNP. (It is part 
+of Canada’s GNP.) For most countries, including the United States, 
+domestic residents are responsible for most domestic production, 
+so GDP and GNP are quite close.
+t Net national product (NNP) is the total income of a nation’s residents 
+(GNP) minus losses from depreciation. Depreciation is the wear and 
+tear on the economy’s stock of equipment and structures, such as 
+trucks rusting and old computer models becoming obsolete. In the 
+national income accounts prepared by the Department of Commerce, 
+depreciation is called the “consumption of fixed capital.”
+t National income is the total income earned by a nation’s resi-
+dents in the production of goods and services. It is almost iden-
+tical to net national product. These two measures differ because 
+of the st
+--- PAGE 508 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+23-3 The Components of GDP
+Spending in an economy takes many forms. At any moment, the Smith family 
+may be having lunch at Burger King; Ford may be building a car factory; the 
+U.S. Navy may be procuring a submarine; and British Airways may be buying 
+an airplane from Boeing. GDP includes all of these various forms of spending on 
+domestically produced goods and services.
+To understand how the economy is using its scarce resources, economists 
+study the composition of GDP among various types of spending. To do this, GDP 
+(which we denote as Y) is divided into four components: consumption (C), invest-
+ment (I), government purchases (G), and net exports (NX):
+This equation is an identity—an equation that must be true because of how the 
+variables in the equation are defined. In this case, because each dollar of expendi-
+ture included in GDP is placed into one of the four components of GDP, the total 
+of the four components must be equal to GDP. Let’s look at each of these four 
+$POTVNQUJPO is spending by households on goods and services, with the excep-
+tion of purchases of new housing. Goods include durable goods, such as automo-
+biles and appliances, and nondurable goods, such as food and clothing. Services 
+include such intangible items as haircuts and medical care. Household spending 
+on education is also included in consumption of services (although one might 
+argue that it would fit better in the next component). 
+*OWFTUNFOU is the purchase of goods (called capital goods) that will be used in the 
+future to produce more goods a
+--- PAGE 509 ---
+PART VIII   THE DATA OF MACROECONOMICS
+Some nations are debating what 
+to include in their national income 
+No Sex, Please, We’re French
+he government of France has just made 
+what on the face of it appears to be a 
+nonannouncement announcement: It will 
+not include illegal drugs and prostitution in 
+its official calculation of the country’s gross 
+What made the announcement odd was 
+that it never has included such activities, nor 
+have most countries. Nor do most governments 
+announce what they do not plan to do. (“The 
+U.S. government has no intention of sending 
+a man to Venus.”) Yet the French decision 
+comes in the wake of significant pressure from 
+neighboring countries and from the European 
+Union to integrate these activities into national 
+accounts and economic output. That raises a 
+host of questions: Should these activities be 
+included, and if those are, why not others? And 
+what exactly are we measuring—and why?
+Few numbers shape our world today more 
+than GDP. It has become the alpha and omega 
+of national success, used by politicians and 
+pundits as the primary gauge of national 
+strength and treated as a numerical proxy for 
+greatness or the lack thereof.
+Yet GDP is only a statistic, replete with 
+the limitations of all statistics. Created as 
+an outgrowth of national accounts that were 
+themselves only devised in the 1930s, GDP 
+was never an all-inclusive measure, even as it 
+is treated as such. Multiple areas of economic 
+life were left out, including volunteer work and 
+Now Eurostat, the official statistical 
+agency of the European Union, is leading the 
+
+--- PAGE 510 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+countries have different laws: In the Nether-
+lands, for instance, prostitution is legal, as 
+is marijuana. Those commercial transactions 
+(or at least those that are recorded and taxed) 
+are already part of Dutch GDP. Not including 
+them in Italy’s or Spain’s GDPs can thus make 
+it challenging to compare national numbers.
+That is why Spain, Italy, Belgium, and the 
+U.K. have in recent months moved to include 
+illegal drugs and nonlicensed sex trade in their 
+national accounts. The U.K. Office for National 
+Statistics in particular approached its mandate 
+with wonkish seriousness, publishing a 20-
+page précis of its methodology that explained 
+how it would, say, calculate the dollar amount 
+of prostitution (police records help) or deal with 
+domestically produced drugs versus imported 
+drugs. The result, which will be formally an-
+nounced in September, will be an additional 10 
+billion pounds added to Great Britain’s GDP.
+France, however, has demurred. A nation 
+with a clichéd reputation for a certain savoir 
+faire when it comes to sex and other nocturnal 
+activities has decided (or at least its bureau-
+crats have) that in spite of an EU directive, 
+it will not calculate the effects of illegal 
+activities that are often nonconsensual or 
+nonvoluntary. That is clearly the case for some 
+prostitution—one French minister stated that 
+“street prostitution” is largely controlled by 
+the Mafia—and the same could be reason-
+ably said of the use of some hard drugs, given 
+There is undeniably a strong moralistic 
+component in the French deci
+--- PAGE 511 ---
+PART VIII   THE DATA OF MACROECONOMICS
+23-4 Real versus Nominal GDP
+As we have seen, GDP measures the total spending on goods and services in all 
+markets in the economy. If total spending rises from one year to the next, at least 
+one of two things must be true: (1) the economy is producing a larger output of 
+goods and services, or (2) goods and services are being sold at higher prices. When 
+studying changes in the economy over time, economists want to separate these 
+two effects. In particular, they want a measure of the total quantity of goods and 
+services the economy is producing that is not affected by changes in the prices of 
+those goods and services. 
+To do this, economists use a measure called real GDP. Real GDP answers a 
+hypothetical question: What would be the value of the goods and services pro-
+duced this year if we valued these goods and services at the prices that prevailed 
+in some specific year in the past? By evaluating current production using prices 
+that are fixed at past levels, real GDP shows how the economy’s overall produc-
+tion of goods and services changes over time.
+To see more precisely how real GDP is constructed, let’s consider an example.
+Table 2 shows some data for an economy that produces only two goods: hot dogs 
+and hamburgers. The table shows the prices and quantities produced of the two 
+goods in the years 2016, 2017, and 2018.
+To compute total spending in this economy, we would multiply the quantities 
+of hot dogs and hamburgers by their prices. In the year 2016, 100 hot dogs are sold 
+at a price of $1 per hot dog, so expenditure o
+--- PAGE 512 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+The table shows the calculation of nominal GDP for these 3 years. Total spend-
+ing rises from $200 in 2016 to $600 in 2017 and then to $1,200 in 2018. Part of this 
+rise is attributable to the increase in the quantities of hot dogs and hamburgers, 
+and part is attributable to the increase in the prices of hot dogs and hamburgers.
+To obtain a measure of the amount produced that is not affected by changes in 
+prices, we use SFBM(%1, which is the production of goods and services valued at 
+constant prices. We calculate real GDP by first designating 1 year as a base year. We 
+then use the prices of hot dogs and hamburgers in the base year to compute the 
+value of goods and services in all the years. In other words, the prices in the base 
+year provide the basis for comparing quantities in different years.
+Suppose that we choose 2016 to be the base year in our example. We can then 
+use the prices of hot dogs and hamburgers in 2016 to compute the value of goods 
+and services produced in 2016, 2017, and 2018. Table 2 shows these calculations. 
+To compute real GDP for 2016, we use the prices of hot dogs and hamburgers in 
+2016 (the base year) and the quantities of hot dogs and hamburgers produced in 
+2016. (Thus, for the base year, real GDP always equals nominal GDP.) To com-
+pute real GDP for 2017, we use the prices of hot dogs and hamburgers in 2016 
+(the base year) and the quantities of hot dogs and hamburgers produced in 2017. 
+Similarly, to compute real GDP for 2018, we use the prices in 2016 and the quan-
+tities in 2018. When we find
+--- PAGE 513 ---
+PART VIII   THE DATA OF MACROECONOMICS
+To sum up: Nominal GDP uses current prices to place a value on the economy’s produc-
+tion of goods and services. Real GDP uses constant base-year prices to place a value on the 
+economy’s production of goods and services. Because real GDP is not affected by changes 
+in prices, changes in real GDP reflect only changes in the amounts being produced. 
+Thus, real GDP is a measure of the economy’s production of goods and services. 
+Our goal in computing GDP is to gauge how well the overall economy is per-
+forming. Because real GDP measures the economy’s production of goods and ser-
+vices, it reflects the economy’s ability to satisfy people’s needs and desires. Thus, 
+real GDP is a better gauge of economic well-being than is nominal GDP. When 
+economists talk about the economy’s GDP, they usually mean real GDP rather 
+than nominal GDP. And when they talk about growth in the economy, they mea-
+sure that growth as the percentage change in real GDP from one period to another.
+As we have just seen, nominal GDP reflects both the quantities of goods and ser-
+vices the economy is producing and the prices of those goods and services. By 
+contrast, by holding prices constant at base-year levels, real GDP reflects only the 
+quantities produced. From these two statistics, we can compute a third, called the 
+GDP deflator, which reflects only the prices of goods and services.
+The (%1EFGMBUPS is calculated as follows:
+GDP deflator 5 Nominal GDP
+Because nominal GDP and real GDP must be the same in the base year, the GDP 
+deflator for the base year always 
+--- PAGE 514 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+A HALF CENTURY OF REAL GDP
+Now that we know how real GDP is defined and measured, let’s look 
+at what this macroeconomic variable tells us about the recent history 
+of the United States. Figure 2 shows quarterly data on real GDP for 
+the U.S. economy since 1965. 
+The most obvious feature of these data is that real GDP grows over time. The real 
+GDP of the U.S. economy in 2015 was more than four times its 1965 level. Put differently, 
+the output of goods and services produced in the United States has grown on average 
+about 3 percent per year. This continued growth in real GDP enables most Americans to 
+enjoy greater economic prosperity than their parents and grandparents did.
+A second feature of the GDP data is that growth is not steady. The upward climb 
+of real GDP is occasionally interrupted by periods during which GDP declines, 
+called recessions. Figure 2 marks recessions with shaded vertical bars. (There is no 
+ironclad rule for when the official business cycle dating committee will declare 
+that a recession has occurred, but an old rule of thumb is two consecutive quar-
+ters of falling real GDP.) Recessions are associated not only with lower incomes but 
+also with other forms of economic distress: rising unemployment, falling profits, 
+increased bankruptcies, and so on.
+Much of macroeconomics is aimed at explaining the long-run growth and short-
+run fluctuations in real GDP. As we will see in the coming chapters, we need dif-
+ferent models for these two purposes. Because the short-run fluctuations represent 
+deviations from t
+--- PAGE 515 ---
+PART VIII   THE DATA OF MACROECONOMICS
+GDP measures the economy’s total 
+output. Labor productivity measures 
+output per unit of labor input. If 
+GDP is incorrectly measured, so is 
+Silicon Valley Doesn’t Believe 
+OUNTAIN VIEW, Calif.—Google Inc. chief 
+economist Hal Varian is an evangelist for 
+Silicon Valley’s contrarian take on America’s 
+Swiveling to a large screen on the desk 
+behind him, Mr. Varian types in a search 
+for the most commonly asked question 
+on the subject economists elsewhere are 
+wringing their hands over. Up pops, “What is 
+See, he says, vindicated: “Most people 
+don’t know what it even means.”
+To Mr. Varian and other wealthy brains 
+in the world’s most innovative neighborhood, 
+productivity means giving people and com-
+panies tools to do things better and faster. 
+By that measure, there is an explosion under 
+way, thanks to the shiny gadgets, apps and 
+digital geegaws spewing out of Silicon Valley.
+Official U.S. figures tell a different story. 
+For a decade, economic output per hour 
+worked—the federal government’s formula 
+for productivity—has barely budged…. Pro-
+ductivity matters, economists point out, be-
+cause at a 2% annual growth rate, it takes 35 
+years to double the standard of living; at 1%, 
+it takes 70. Low productivity growth slows the 
+economy and holds down wages.
+The 68-year-old Mr. Varian, dressed in a 
+purple hoodie and khaki pants, says the U.S. 
+doesn’t have a productivity problem, it has a 
+measurement problem, a sound bite shaping 
+up as the gospel according to Silicon Valley.
+“There is a lack of appreciation for what’s 
+happenin
+--- PAGE 516 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+arranged with friends. To find each other in 
+the sprawling park nearby, he and his pals 
+used an app that tracked their location, 
+allowing them to meet up quickly. The same 
+tool can track the movement of workers in a 
+warehouse, office or shopping mall.
+“Obviously that’s a productivity enhance-
+ment,” Mr. Varian says. “But I doubt that gets 
+Consider the efficiency of hailing a taxi 
+with an app on your mobile phone, or finding 
+someone who will meet you at the airport and 
+rent your car while you’re away, a new service 
+in San Francisco. Add in online tools that 
+instantly translate conversations or help 
+locate organ donors—the list goes on and on. 
+Surely, Mr. Varian says, they also make the 
+One problem with the government’s pro-
+ductivity measure, Mr. Varian says, is that it 
+is based on gross domestic product, the tally 
+of goods and services produced by the U.S. 
+economy. GDP was conceived in the 1930s, 
+when economists worried mostly about how 
+much, for example, steel and grain were pro-
+duced—output easy to measure compared 
+with digital goods and services.
+Technological improvements and time-
+saving apps are trickier. For one thing, it is 
+tough to capture the full impact of quality 
+improvements. For example, if a newer model 
+car breaks down less often than older models 
+but costs the same, the consumers’ gain can 
+The U.S. Labor Department has sought 
+to update its GDP measure over the years to 
+include more intangibles, such as adjusting 
+for higher quality. Productivity measures of 
+computer chips, for example, ar
+--- PAGE 517 ---
+PART VIII   THE DATA OF MACROECONOMICS
+omits the value of goods and services produced at home. When a chef prepares a 
+delicious meal and sells it at her restaurant, the value of that meal is part of GDP. 
+But if the chef prepares the same meal for her family, the value she has added to 
+the raw ingredients is left out of GDP. Similarly, child care provided in day-care 
+centers is part of GDP, whereas child care by parents at home is not. Volunteer 
+work also contributes to the well-being of those in society, but GDP does not re-
+flect these contributions. 
+Another thing that GDP excludes is the quality of the environment. Imag-
+ine that the government eliminated all environmental regulations. Firms could 
+then produce goods and services without considering the pollution they create, 
+Can we do better than using gross  
+Nations Seek Success Beyond 
+oney isn’t everything. But in measuring 
+the success of nations, it isn’t easy to 
+Political leaders are increasingly  expressing 
+dissatisfaction with gross domestic  product—a 
+monetary measure of all the goods and services 
+a country produces—as a gauge of a nation’s 
+success in raising living standards. 
+In November, British Prime Minister David 
+Cameron announced plans to build measures 
+of national well-being that would take into 
+account factors such as peoples’ life satis-
+faction, following a similar effort by French 
+President Nicolas Sarkozy.
+Their efforts cut to the core of what eco-
+nomics is supposed to be about: What makes 
+us better off? How can we all have more of it? 
+Anyone hoping for a clear-cut answer, though
+--- PAGE 518 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+and GDP might rise. Yet well-being would most likely fall. The deterioration 
+in the quality of air and water would more than offset the gains from greater 
+GDP also says nothing about the distribution of income. A society in which 
+100 people have annual incomes of $50,000 has GDP of $5 million and, not sur-
+prisingly, GDP per person of $50,000. So does a society in which 10 people earn 
+$500,000 and 90 suffer with nothing at all. Few people would look at those two 
+situations and call them equivalent. GDP per person tells us what happens 
+to the average person, but behind the average lies a large variety of personal 
+Source: Peter Klenow and Charles Jones, Stanford University. Data are for 2000.
+For the purpose of comparing well-being 
+across countries, asking people how they feel 
+might be better than monetary measures. 
+Angus Deaton, an economist at Princeton 
+University, notes that placing values on the 
+extremely different goods and services con-
+sumed in the U.S. and, say, Tajikistan, can 
+be impossible to do in a comparable way. Just 
+asking people about their situation could be 
+much easier and no less accurate.
+Surveys already play a meaningful role in 
+the way many countries assess their perfor-
+mance, from consumer confidence in the U.S. 
+to the Netherlands’s Life Situation Index, which 
+accounts for factors such as relationships 
+and community involvement. 
+As part of its effort to gauge well-being, 
+the U.K. plans to add more subjective ques-
+tions to its household surveys.
+But surveys can also send misleading policy 
+
+--- PAGE 519 ---
+PART VIII   THE DATA OF MACROECONOMICS
+Source: Human Development Report 2015, 
+United Nations. Real GDP is for 2014, 
+expressed in 2011 dollars. Average years 
+of schooling is among adults 25 years 
+In the end, we can conclude that GDP is a good measure of economic well-
+being for most—but not all—purposes. It is important to keep in mind what GDP 
+includes and what it leaves out.
+INTERNATIONAL DIFFERENCES IN GDP AND THE QUALITY OF LIFE
+One way to gauge the usefulness of GDP as a measure of economic 
+well-being is to examine international data. Rich and poor countries 
+have vastly different levels of GDP per person. If a large GDP leads 
+to a higher standard of living, then we should observe GDP to be strongly cor-
+related with various measures of the quality of life. And, in fact, we do. 
+Table 3 shows twelve large nations ranked in order of GDP per person. The table 
+also shows life expectancy at birth, the average years of schooling among adults, 
+and an index of life satisfaction based on asking people to gauge how they feel 
+about their lives on a scale of 0 to 10 (with 10 being the best). These data show 
+a clear pattern. In rich countries, such as the United States and Germany, people 
+can expect to live to about 80, have about 13 years of schooling, and rate their life 
+satisfaction at about 7. In poor countries, such as Bangladesh and Pakistan, people 
+typically die about 10 years earlier, have less than half as much schooling, and rate 
+their life satisfaction about 2 points lower on the 10-point scale. 
+Data on other aspects of the quality of life tell a similar 
+--- PAGE 520 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+In this chapter we learned how economists measure the total income of a nation. 
+Measurement is, of course, only a starting point. Much of macroeconomics is 
+aimed at revealing the long-run and short-run determinants of a nation’s gross 
+domestic product. Why, for example, is GDP higher in the United States and 
+ Japan than in India and Nigeria? What can the governments of the poorest coun-
+tries do to promote more rapid GDP growth? Why does GDP in the United States 
+rise rapidly in some years and fall in others? What can U.S. policymakers do to 
+reduce the severity of these fluctuations in GDP? These are the questions we will 
+At this point, it is important to acknowledge the significance of just measur-
+ing GDP. We all get some sense of how the economy is doing as we go about our 
+lives. But the economists who study changes in the economy and the policymak-
+ers who formulate economic policies need more than this vague sense—they need 
+concrete data on which to base their judgments. Quantifying the behavior of the 
+economy with statistics such as GDP is, therefore, the first step to developing a 
+science of macroeconomics.
+1. If the price of a hot dog is $2 and the price of a ham-
+burger is $4, then 30 hot dogs contribute as much to 
+2. Angus the sheep farmer sells wool to Barnaby the 
+knitter for $20. Barnaby makes two sweaters, each of 
+which has a market price of $40. Collette buys one of 
+them, while the other remains on the shelf of Barna-
+by’s store to be sold later. What is GDP here?
+3. Which of the following does NOT add to
+--- PAGE 521 ---
+PART VIII   THE DATA OF MACROECONOMICS
+1. Explain why an economy’s income must equal its 
+2. Which contributes more to GDP—the production of 
+an economy car or the production of a luxury car? 
+3. A farmer sells wheat to a baker for $2. The baker uses 
+the wheat to make bread, which is sold for $3. What is 
+the total contribution of these transactions to GDP?
+4. Many years ago, Peggy paid $500 to put together a re-
+cord collection. Today, she sold her albums at a garage 
+sale for $100. How does this sale affect current GDP?
+5. List the four components of GDP. Give an example of 
+6. Why do economists use real GDP rather than nominal 
+GDP to gauge economic well-being?
+7. In the year 2017, the economy produces 100 loaves of 
+bread that sell for $2 each. In the year 2018, the econ-
+omy produces 200 loaves of bread that sell for $3 each. 
+Calculate nominal GDP, real GDP, and the GDP defla-
+tor for each year. (Use 2017 as the base year.) By what 
+percentage does each of these three statistics rise from 
+8. Why is it desirable for a country to have a large GDP? 
+Give an example of something that would raise GDP 
+r Because every transaction has a buyer and a seller, the 
+total expenditure in the economy must equal the total 
+r Gross domestic product (GDP) measures an econo-
+my’s total expenditure on newly produced goods and 
+services and the total income earned from the produc-
+tion of these goods and services. More precisely, GDP 
+is the market value of all final goods and services pro-
+duced within a country in a given period of time.
+r GDP is divided among four components of e
+--- PAGE 522 ---
+CHAPTER 23   MEASURING A NATION’S INCOME 
+1. What components of GDP (if any) would each of the 
+following transactions affect? Explain.
+a. Uncle Henry buys a new refrigerator from a  
+b. Aunt Jane buys a new house from a local builder.
+c. The Jackson family buys an old Victorian house 
+d. You pay a hairdresser for a haircut.
+e. Ford sells a Mustang from its inventory to the 
+f. Ford manufactures a Focus and sells it to Avis, the 
+g. California hires workers to repave Highway 101.
+h. The federal government sends your grandmother 
+i. Your parents buy a bottle of French wine.
+j.  Honda expands its factory in Ohio.
+3. The government purchases component of GDP does 
+not include spending on transfer payments such as 
+Social Security. Thinking about the definition of GDP, 
+explain why transfer payments are excluded. 
+4. As the chapter states, GDP does not include the value 
+of used goods that are resold. Why would including 
+such transactions make GDP a less informative mea-
+sure of economic well-being?
+5. Below are some data from the land of milk and honey. 
+a. Compute nominal GDP, real GDP, and the GDP 
+deflator for each year, using 2016 as the base year.
+b. Compute the percentage change in nominal GDP, 
+real GDP, and the GDP deflator in 2017 and 2018 
+from the preceding year. For each year, identify 
+the variable that does not change. Explain why 
+c. Did economic well-being increase more in 2017 or 
+6. Consider an economy that produces only chocolate 
+bars. In year 1, the quantity produced is 3 bars and the 
+price is $4. In year 2, the quantity produced is 4 bars 
+and the price
+--- PAGE 523 ---
+PART VIII   THE DATA OF MACROECONOMICS
+into bread, which she sells to consumers for $180. Con-
+a. What is GDP in this economy? Explain.
+b. Value added is defined as the value of a producer’s 
+output minus the value of the intermediate goods 
+that the producer buys to make the output. Assum-
+ing there are no intermediate goods beyond those 
+described above, calculate the value added of each of 
+c. What is total value added of the three producers in 
+this economy? How does it compare to the econo-
+my’s GDP? Does this example suggest another way 
+10. Goods and services that are not sold in markets, such 
+as food produced and consumed at home, are generally 
+not included in GDP. Can you think of how this might 
+cause the numbers in the second column of Table 3 to be 
+misleading in a comparison of the economic well-being of 
+the United States and India? Explain.
+11. The participation of women in the U.S. labor force has 
+risen dramatically since 1970.
+a. How do you think this rise affected GDP?
+b. Now imagine a measure of well-being that includes 
+time spent working in the home and taking leisure. 
+How would the change in this measure of well-being 
+compare to the change in GDP?
+c. Can you think of other aspects of well-being  
+that are associated with the rise in women’s  
+labor-force participation? Would it be practical to 
+construct a measure of well-being that includes 
+12. One day, Barry the Barber, Inc., collects $400 for hair-
+cuts. Over this day, his equipment depreciates in value 
+by $50. Of the remaining $350, Barry sends $30 to the 
+government in sales taxes, takes ho
+--- PAGE 524 ---
+n 1931, as the U.S. economy was suffering through the Great Depression, the 
+New York Yankees paid famed baseball player Babe Ruth a salary of $80,000. 
+At the time, this pay was extraordinary, even among the stars of baseball. 
+According to one story, a reporter asked Ruth whether he thought it was right 
+that he made more than President Herbert Hoover, who had a salary of $75,000. 
+Ruth replied, “I had a better year.”
+In 2015, the average salary earned by major league baseball players was about 
+$4 million, and Los Angeles Dodgers pitcher Clayton Kershaw was paid $31 
+million. At first, this fact might lead you to think that baseball has become 
+vastly more lucrative over the past eight decades. But as everyone 
+knows, the prices of goods and services have also risen. 
+Measuring the Cost of Living

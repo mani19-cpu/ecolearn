@@ -1,0 +1,478 @@
+--- PAGE 480 ---
+conomics is a study of the choices that people make and the resulting interac-
+tions they have with one another. As the preceding chapters demonstrate, the 
+field has many facets. Yet it would be a mistake to think that all the facets we 
+have seen make up a finished jewel, perfect and unchanging. Like all scientists, 
+economists are always looking for new areas to study and new phenomena to 
+explain. This final chapter on microeconomics offers an assortment of three top-
+ics at the discipline’s frontier to show how economists are trying to expand their 
+ understanding of human behavior and society. 
+The first topic is the economics of asymmetric information. In many  different 
+situations, some people are better informed than others, and 
+the imbalance in information affects the choices they 
+make and how they deal with one another. 
+Frontiers of Microeconomics
+--- PAGE 481 ---
+PART VII   TOPICS FOR FURTHER STUDY
+Thinking about this asymmetry can shed light on many aspects of the world, from 
+the market for used cars to the custom of gift giving.
+The second topic we examine in this chapter is political economy. Throughout 
+this book, we have seen many examples in which markets fail and government 
+policy can potentially improve matters. But “potentially” is a necessary qualifier: 
+Whether this potential is realized depends on how well our political institutions 
+work. The field of political economy uses the tools of economics to understand 
+the functioning of government.
+The third topic in this chapter is behavioral economics. This field brings some 
+insights from psychology into the study of economic issues. It offers a view of 
+ human behavior that is more subtle and complex than the one found in conven-
+tional economic theory, a view that may be more realistic.
+This chapter covers a lot of ground. To do so, it offers not full helpings of these 
+three topics but, instead, a taste of each. One goal of this chapter is to show a few of 
+the directions economists are heading in their effort to expand knowledge of how 
+the economy works. Another is to whet your appetite for more courses in economics.
+22-1 Asymmetric Information 
+“I know something you don’t know.” This statement is a common taunt among 
+children, but it also conveys a deep truth about how people sometimes interact 
+with one another. Many times in life, one person knows more about what is going 
+on than another. A difference in access to knowledge that is relevant to an interac-
+tion i
+--- PAGE 482 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+High wages. According to efficiency-wage theories (discussed in Chapter 19), 
+some employers may choose to pay their workers a wage above the level 
+that balances supply and demand in the labor market. A worker who earns 
+an above-equilibrium wage is less likely to shirk because if he is caught and 
+fired, he might not be able to find another high-paying job.
+Delayed payment. Firms can delay part of a worker’s compensation, so if 
+the worker is caught shirking and is fired, he suffers a larger penalty. One 
+example of delayed compensation is the year-end bonus. Similarly, a firm 
+may choose to pay its workers more later in their lives. Thus, the wage 
+increases that workers get as they age may reflect not just the benefits of  
+experience but also a response to moral hazard.
+Employers can use any combination of these various mechanisms to reduce the 
+uch production in the modern economy takes place within corpo-
+rations. Like other firms, corporations buy inputs in markets for 
+the factors of production and sell their output in markets for goods and 
+services. Also like other firms, they are guided in their decisions by the 
+objective of profit maximization. But a large corporation has to deal with 
+some issues that do not arise in, say, a small family-owned business.
+What is distinctive about a corporation? From a legal standpoint, a 
+corporation is an organization that is granted a charter recognizing it as 
+a separate legal entity, with its own rights and responsibilities distinct 
+from those of its owners and employees. From an e
+--- PAGE 483 ---
+PART VII   TOPICS FOR FURTHER STUDY
+There are also many examples of moral hazard beyond the workplace. A home-
+owner with fire insurance will likely buy too few fire extinguishers because the home-
+owner bears the cost of the extinguisher while the insurance company receives much 
+of the benefit. A family may live near a river with a high risk of flooding because the 
+family enjoys the scenic views, while the government bears the cost of disaster relief 
+after a flood. Many regulations are aimed at addressing the problem: An insurance 
+company may require homeowners to buy fire extinguishers, and the government 
+may prohibit building homes on land with high risk of flooding. But the insurance 
+company does not have perfect information about how cautious homeowners are, and 
+the government does not have perfect information about the risk that families under-
+take when choosing where to live. As a result, the problem of moral hazard persists.
+22-1b  Hidden Characteristics: Adverse Selection and  
+Adverse selection is a problem that arises in markets in which the seller knows 
+more about the attributes of the good being sold than the buyer does. In such 
+a situation, the buyer runs the risk of being sold a good of low quality. That is, 
+the “selection” of goods sold may be “adverse” from the standpoint of the unin-
+The classic example of adverse selection is the market for used cars. Sellers of 
+used cars know their vehicles’ defects while buyers often do not. Because owners 
+of the worst cars are more likely to sell them than are the owners of the best cars, 
+buyers are worri
+--- PAGE 484 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+22-1c Signaling to Convey Private Information
+Although asymmetric information is sometimes a motivation for public policy, it 
+also motivates some individual behavior that otherwise might be hard to explain. 
+Markets respond to problems of asymmetric information in many ways. One of 
+them is signaling, which refers to actions taken by an informed party for the sole 
+purpose of credibly revealing his private information. 
+We have seen examples of signaling in previous chapters. As we saw in 
+ Chapter 16, firms may spend money on advertising to signal to potential cus-
+tomers that they have high-quality products. As we saw in Chapter 19, students 
+may earn college degrees merely to signal to potential employers that they are 
+high-ability individuals, rather than to increase their productivity. These two 
+ examples of signaling (advertising, education) may seem very different, but 
+below the surface, they are much the same: In both cases, the informed party (the 
+firm, the student) uses the signal to convince the uninformed party (the customer, 
+the employer) that the informed party is offering something of high quality.
+What does it take for an action to be an effective signal? Obviously, it must be 
+costly. If a signal were free, everyone would use it and it would convey no infor-
+mation. For the same reason, there is another requirement: The signal must be less 
+costly, or more beneficial, to the person with the higher-quality product. Other-
+wise, everyone would have the same incentive to use the signal, and the signal 
+Consider ag
+--- PAGE 485 ---
+PART VII   TOPICS FOR FURTHER STUDY
+One interpretation of gift giving is that it reflects asymmetric information and 
+signaling. The man in our story has private information that the girlfriend would 
+like to know: Does he really love her? Choosing a good gift for her is a signal of 
+his love. Certainly, the act of picking out a gift, rather than giving cash, has the 
+right characteristics to be a signal. It is costly (it takes time), and its cost depends 
+on private information (how much he loves her). If he really loves her, choosing a 
+good gift is easy because he is thinking about her all the time. If he doesn’t love her, 
+finding the right gift is more difficult. Thus, giving a gift that suits his girlfriend is 
+one way for him to convey the private information of his love for her. Giving cash 
+shows that he isn’t even bothering to try.
+The signaling theory of gift giving is consistent with another observation: Peo-
+ple care most about the custom when the strength of affection is most in question. 
+Thus, giving cash to a girlfriend or boyfriend is usually a bad move. But when col-
+lege students receive a check from their parents, they are less often offended. The 
+parents’ love is less likely to be in doubt, so the recipient probably won’t interpret 
+the cash gift as a signal of insufficient affection. ●
+22-1d Screening to Uncover Private Information
+When an informed party takes actions to reveal private information, the phenom-
+enon is called signaling. When an uninformed party takes actions to induce the 
+ informed party to reveal private information, the phenomenon 
+--- PAGE 486 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+The tension between market success and market failure is central in microeco-
+nomics. We learned in Chapter 7 that the equilibrium of supply and demand is 
+efficient in the sense that it maximizes the total surplus that society can obtain 
+in a market. Adam Smith’s invisible hand seemed to reign supreme. This con-
+clusion was then tempered with the study of externalities (Chapter 10), public 
+goods (Chapter 11), imperfect competition (Chapters 15 through 17), and poverty 
+(Chapter 20). In those chapters, we saw that government can sometimes improve 
+The study of asymmetric information gives us a new reason to be wary of 
+markets. When some people know more than others, the market may fail to put 
+resources to their best use. People with high-quality used cars may have trou-
+ble selling them because buyers will be afraid of getting a lemon. People with 
+few health problems may have trouble getting low-cost health insurance because 
+insurance companies lump them together with those who have significant (but 
+Asymmetric information may call for government action in some cases, but 
+three facts complicate the issue. First, as we have seen, the private market can 
+sometimes deal with information asymmetries on its own using a combination 
+of signaling and screening. Second, the government rarely has more information 
+than the private parties. Even if the market’s allocation of resources is not ideal, it 
+may be the best that can be achieved. That is, when there are information asym-
+metries, policymakers may find it hard to improve upon t
+--- PAGE 487 ---
+PART VII   TOPICS FOR FURTHER STUDY
+For example, suppose there are three possible outcomes, labeled A, B, and C, 
+and there are three voter types with the preferences shown in Table 1. The mayor 
+of our town wants to aggregate these individual preferences into preferences for 
+society as a whole. How should he do it?
+At first, he might try some pairwise votes. If he asks voters to choose first 
+between B and C, voter types 1 and 2 will vote for B, giving B the majority. If he 
+then asks voters to choose between A and B, voter types 1 and 3 will vote for A, 
+giving A the majority. Observing that A beats B, and B beats C, the mayor might 
+conclude that A is the voters’ clear choice.
+But wait: Suppose the mayor then asks voters to choose between A and C. In 
+this case, voter types 2 and 3 vote for C, giving C the majority. That is, under pair-
+wise majority voting, A beats B, B beats C, and C beats A. Normally, we expect 
+preferences to exhibit a property called transitivity: If A is preferred to B, and B 
+is preferred to C, then we would expect A to be preferred to C. The Condorcet 
+paradox is that democratic outcomes do not always obey this property. Pairwise 
+voting might produce transitive preferences for society in some cases, but as our 
+example in the table shows, it cannot be counted on to do so.
+One implication of the Condorcet paradox is that the order in which things are 
+voted on can affect the result. If the mayor suggests choosing first between A and 
+B and then comparing the winner to C, the town ends up choosing C. But if the 
+voters choose first between B and 
+--- PAGE 488 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+theorist, Jean-Charles de Borda, who devised it. It is often used in polls that rank 
+Is there a perfect voting system? Economist Kenneth Arrow took up this ques-
+tion in his 1951 book Social Choice and Individual Values. Arrow started by defining 
+what a perfect voting system would be. He assumes that individuals in society 
+have preferences over the various possible outcomes: A, B, C, and so on. He then 
+assumes that society wants a voting system to choose among these outcomes that 
+satisfies several properties:
+• Unanimity: If everyone prefers A to B, then A should beat B.
+• Transitivity: If A beats B, and B beats C, then A should beat C.
+• Independence of irrelevant alternatives: The ranking between any two out-
+comes A and B should not depend on whether some third outcome C is also 
+• No dictators: There is no person who always gets his way, regardless of every-
+These all seem like desirable properties of a voting system. Yet Arrow proved, 
+mathematically and incontrovertibly, that no voting system can satisfy all these prop-
+erties. This amazing result is called Arrow’s impossibility theorem.
+The mathematics needed to prove Arrow’s theorem is beyond the scope of this 
+book, but we can get some sense of why the theorem is true from a couple of 
+examples. We have already seen the problem with the method of majority rule. 
+The Condorcet paradox shows that majority rule fails to produce a ranking of out-
+comes that always satisfies transitivity. 
+As another example, the Borda count fails to satisfy the independence of irrel-
+evant 
+--- PAGE 489 ---
+PART VII   TOPICS FOR FURTHER STUDY
+billion. Given these preferences, what outcome would you expect democracy to 
+According to a famous result called the median voter theorem, majority rule 
+will produce the outcome most preferred by the median voter. The median voter is 
+the voter exactly in the middle of the distribution. In this example, if you take the 
+line of voters ordered by their preferred budgets and count 50 voters from either 
+end of the line, you will find that the median voter wants a budget of $10 billion. 
+By contrast, the average preferred outcome (calculated by adding the preferred 
+outcomes and dividing by the number of voters) is $9 billion, and the modal out-
+come (the one preferred by the greatest number of voters) is $15 billion.
+The median voter rules the day because his preferred outcome beats any other 
+proposal in a two-way race. In our example, more than half the voters want $10 
+billion or more, and more than half want $10 billion or less. If someone proposes, 
+say, $8 billion instead of $10 billion, everyone who prefers $10 billion or more 
+will vote with the median voter. Similarly, if someone proposes $12 billion instead 
+of $10 billion, everyone who wants $10 billion or less will vote with the median 
+voter. In either case, the median voter has more than half the voters on his side.
+What about the Condorcet voting paradox? It turns out that when the voters 
+are picking a point along a line and each voter aims for his own most preferred 
+point, the Condorcet paradox cannot arise. The median voter’s most preferred 
+outcome beats all challenger
+--- PAGE 490 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+If the Democrats want to win, they will move their platform toward the median 
+voter. Thus, this theory can explain why the parties in a two-party system are sim-
+ilar to each other: They are both moving toward the median voter.
+Another implication of the median voter theorem is that minority views are 
+not given much weight. Imagine that 40 percent of the population want a lot of 
+money spent on the national parks and 60 percent want nothing spent. In this 
+case, the median voter’s preference is zero, regardless of the intensity of the mi-
+nority’s view. Rather than reaching a compromise that takes everyone’s prefer-
+ences into account, majority rule looks only to the person in the exact middle of 
+the distribution. Such is the logic of democracy.
+22-2d Politicians Are People Too
+When economists study consumer behavior, they assume that consumers buy the 
+bundle of goods and services that gives them the greatest level of satisfaction. 
+When economists study firm behavior, they assume that firms produce the quan-
+tity of goods and services that yields the greatest level of profits. What should 
+they assume when they study people involved in the practice of politics?
+Politicians also have objectives. It would be nice to assume that political lead-
+ers are always looking out for the well-being of society as a whole, that they are 
+aiming for an optimal combination of efficiency and equality. Nice, perhaps, but 
+not realistic. Self-interest is as powerful a motive for political actors as it is for 
+consumers and firm owners. Some politi
+--- PAGE 491 ---
+PART VII   TOPICS FOR FURTHER STUDY
+22-3a People Aren’t Always Rational
+Economic theory is populated by a particular species of organism, sometimes called 
+Homo economicus. Members of this species are always rational. As firm owners, they 
+maximize profits. As consumers, they maximize utility (or equivalently, pick the point 
+on the highest indifference curve). Given the constraints they face, they rationally 
+weigh all the costs and benefits and always choose the best possible course of action.
+Real people, however, are Homo sapiens. Although in many ways they resemble 
+the rational, calculating people assumed in economic theory, they are far more 
+complex. They can be forgetful, impulsive, confused, emotional, and shortsighted. 
+These imperfections of human reasoning are the bread and butter of psycholo-
+gists, but until recently, economists have neglected them.
+Herbert Simon, one of the first social scientists to work at the boundary of eco-
+nomics and psychology, suggested that humans should be viewed not as ratio-
+nal maximizers but as satisficers. Instead of always choosing the best course of 
+action, they make decisions that are merely good enough. Similarly, other econ-
+omists have suggested that humans are only “near rational” or that they exhibit 
+Studies of human decision making have tried to detect systematic mistakes 
+that people make. Here are a few of the findings:
+• People are overconfident. Imagine that you were asked some numerical ques-
+tions, such as the number of African countries in the United Nations, the 
+height of the tallest mountain in North Ameri
+--- PAGE 492 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+offer their workers. In some firms, workers can choose to participate in the plan 
+by filling out a simple form. In other firms, workers are automatically enrolled 
+and can opt out of the plan by filling out a simple form. It turns out many more 
+workers participate in the second case than in the first. If workers were perfectly 
+rational maximizers, they would choose the optimal amount of retirement sav-
+ing, regardless of the default offered by their employer. In fact, workers’ behavior 
+appears to exhibit substantial inertia. Understanding their behavior seems easier 
+once we abandon the model of rational man.
+Why, you might ask, is economics built on the rationality assumption when 
+psychology and common sense cast doubt on it? One answer is that the assump-
+tion, even if not exactly true, may be true enough that it yields reasonably accu-
+rate models of behavior. For example, when we studied the differences between 
+competitive and monopoly firms, the assumption that firms rationally maximize 
+profit yielded many important and valid insights. Incorporating complex psycho-
+logical deviations from rationality into the story might have added realism, but 
+it also would have muddied the waters and made those insights harder to find. 
+Recall from Chapter 2 that economic models are not meant to replicate reality but 
+are supposed to show the essence of the problem at hand.
+Another reason economists often assume rationality may be that economists 
+are themselves not rational maximizers. Like most people, they are overconfident 
+and rel
+--- PAGE 493 ---
+PART VII   TOPICS FOR FURTHER STUDY
+to propose giving player B an amount such as $30 or $40, keeping the larger share 
+for himself. In this case, player B usually accepts the proposal.
+What’s going on here? The natural interpretation is that people are driven in part 
+by some innate sense of fairness. A 99–1 split seems so wildly unfair to many people 
+that they reject it, even to their own detriment. By contrast, a 70–30 split is still unfair, 
+but it is not so unfair that it induces people to abandon their normal self-interest.
+Throughout our study of household and firm behavior, the innate sense of fair-
+ness has not played any role. But the results of the ultimatum game suggest that 
+A leading behavioral economist makes 
+The Importance of Irrelevance
+arly in my teaching career I managed to get 
+most of the students in my class mad at me. 
+A midterm exam caused the problem.
+I wanted the exam to sort out the stars, 
+the average Joes and the duds, so it had to be 
+hard and have a wide dispersion of scores. I 
+succeeded in writing such an exam, but when 
+the students got their results they were in an 
+uproar. Their principal complaint was that the 
+average score was only 72 points out of 100.
+What was odd about this reaction was that I 
+had already explained that the average numer-
+ical score on the exam had absolutely no effect 
+on the distribution of letter grades. We employed 
+a curve in which the average grade was a B+, 
+and only a tiny number of students received 
+grades below a C. I told the class this, but it 
+had no effect on the students’ mood. They still 
+hated my
+--- PAGE 494 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+perhaps it should. For example, in Chapters 18 and 19, we discussed how wages 
+were determined by labor supply and labor demand. Some economists have sug-
+gested that the perceived fairness of what a firm pays its workers should also 
+enter the picture. Thus, when a firm has an especially profitable year, workers 
+(like player B) may expect to be paid a fair share of the prize, even if the standard 
+equilibrium does not dictate it. The firm (like player A) might well decide to give 
+workers more than the equilibrium wage for fear that the workers might other-
+wise try to punish the firm with reduced effort, strikes, or even vandalism.
+markets. To defenders of economics orthodoxy, mar-
+kets are thought to have magic powers.
+There is a version of this magic market argu-
+ment that I call the invisible hand wave. It goes 
+something like this. “Yes, it is true that my spouse 
+and my students and members of Congress don’t 
+understand anything about economics, but when 
+they have to interact with markets . . . .” It is at 
+this point that the hand waving comes in. Words 
+and phrases such as high stakes, learning and 
+arbitrage are thrown around to suggest some of 
+the ways that markets can do their magic, but it 
+is my claim that no one has ever finished making 
+the argument with both hands remaining still.
+Hand waving is required because there is 
+nothing in the workings of markets that turns 
+otherwise normal human beings into Econs. For 
+example, if you choose the wrong career, select 
+the wrong mortgage or fail to save for retire-
+ment,
+--- PAGE 495 ---
+PART VII   TOPICS FOR FURTHER STUDY
+22-3c People Are Inconsistent over Time
+Imagine some dreary task, such as doing your laundry, shoveling snow off your 
+driveway, or filling out your income tax forms. Now consider the following 
+ 1. Would you prefer (A) to spend 50 minutes doing the task right now or (B) to 
+spend 60 minutes doing the task tomorrow?
+ 2. Would you prefer (A) to spend 50 minutes doing the task in 90 days or (B) to 
+spend 60 minutes doing the task in 91 days?
+When asked questions like these, many people choose B for question 1 and A for 
+question 2. When looking ahead to the future (as in question 2), they minimize the 
+amount of time spent on the dreary task. But faced with the prospect of doing the 
+task immediately (as in question 1), they choose to put it off.
+In some ways, this behavior is not surprising: Everyone procrastinates from 
+time to time. But from the standpoint of the theory of rational man, it is puzzling. 
+Suppose that in response to question 2, a person chooses to spend 50 minutes in 
+90 days. Then, when the 90th day arrives, we allow him to change his mind. In 
+effect, he then faces question 1, so he opts for doing the task the next day. But why 
+should the mere passage of time affect the choices he makes?
+Many times in life, people make plans for themselves, but then they fail to 
+follow through. A smoker promises himself that he will quit, but within a few 
+hours of smoking his last cigarette, he craves another and breaks his promise. 
+A person trying to lose weight promises that he will stop eating dessert, but 
+when the waiter brings 
+--- PAGE 496 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+1. Because Elaine has a family history of significant 
+medical problems, she buys health insurance, 
+whereas her friend Jerry, who has a healthier family, 
+goes without. This is an example of
+2. George has a life insurance policy that pays his family 
+$1 million if he dies. As a result, he does not hesitate 
+to enjoy his favorite hobby of bungee jumping. This is 
+3. Before selling anyone a health insurance policy, the 
+Kramer Insurance Company requires that applicants 
+undergo a medical examination. Those with signifi-
+cant preexisting medical problems are charged more. 
+4. The Condorcet paradox illustrates Arrow’s impossibil-
+ity theorem by showing that pairwise majority voting
+a. is inconsistent with the principle of unanimity.
+b. leads to social preferences that are not transitive.
+c. violates the independence of irrelevant 
+d. makes one person in effect a dictator.
+5. Two political candidates are vying for town mayor, and 
+the key issue is how much to spend on the annual 
+Fourth of July fireworks. Among the 100 voters, 40 
+want to spend $30,000, 30 want to spend $10,000, 
+and 30 want to spend nothing at all. What is the win-
+ning position on this issue?
+6. The experiment called the ultimatum game illustrates 
+a. are overconfident in their own abilities.
+b. play the Nash equilibrium in strategic situations.
+c. care about fairness, even to their own detriment.
+d. make inconsistent decisions over time.
+This chapter examined the frontier of microeconomics. You may have noticed that 
+we sketched out ideas rather than fully developing 
+--- PAGE 497 ---
+PART VII   TOPICS FOR FURTHER STUDY
+• In many economic transactions, information is asym-
+metric. When there are hidden actions, principals may 
+be concerned that agents suffer from the problem of 
+moral hazard. When there are hidden characteris-
+tics, buyers may be concerned about the problem of 
+adverse selection among the sellers. Private markets 
+sometimes deal with asymmetric information with sig-
+• Although government policy can sometimes improve 
+market outcomes, governments are themselves imper-
+fect institutions. The Condorcet paradox shows that 
+majority rule fails to produce transitive preferences for 
+society, and Arrow’s impossibility theorem shows that 
+no voting system will be perfect. In many situations, 
+democratic institutions will produce the outcome 
+desired by the median voter, regardless of the prefer-
+ences of the rest of the electorate. Moreover, the indi-
+viduals who set government policy may be motivated 
+by self-interest rather than the national interest.
+• The study of psychology and economics reveals that 
+human decision making is more complex than is 
+assumed in conventional economic theory. People are 
+not always rational, they care about the fairness of eco-
+nomic outcomes (even to their own detriment), and 
+they can be inconsistent over time.
+Arrow’s impossibility theorem, p. 459
+median voter theorem, p. 460
+behavioral economics, p. 461
+1. What is moral hazard? List three things an employer 
+might do to reduce the severity of this problem.
+2. What is adverse selection? Give an example of a mar-
+ket in which adverse selection might be a probl
+--- PAGE 498 ---
+CHAPTER 22   FRONTIERS OF MICROECONOMICS
+4. The health insurance reform signed into law by President 
+Obama in 2010 included the following two provisions:
+i. Insurance companies must offer health insur-
+ance to everyone who applies and charge them 
+the same price regardless of a person’s preex-
+ii. Everyone must buy health insurance or pay a 
+a. Which of these policies taken on its own makes 
+the problem of adverse selection worse? Explain.
+b. Why do you think the policy you identified in 
+part (a) was included in the law?
+c. Why do you think the other policy was included 
+5. Ken walks into an ice-cream parlor. 
+Waiter: “We have vanilla and chocolate today.” 
+Waiter: “I almost forgot. We also have strawberry.”
+Ken: “In that case, I’ll take chocolate.”
+What standard property of decision making is Ken 
+ violating? (Hint: Reread the section on Arrow’s 
+6. Three friends are choosing a restaurant for dinner. 
+Here are their preferences:
+a. If the three friends use a Borda count to make 
+their decision, where do they go to eat?
+b. On their way to their chosen restaurant, they 
+see that the Mexican and French restaurants are 
+closed, so they use a Borda count again to decide 
+between the remaining two restaurants. Where do 
+c. How do your answers to parts (a) and (b) relate to 
+Arrow’s impossibility theorem?
+7. Three friends are choosing a TV show to watch. Here 
+a. If the three friends try using a Borda count to 
+make their choice, what would happen?
+b. Monica suggests a vote by majority rule. She pro-
+poses that first they choose between Empire and 
+Supergirl, and then they choo
+--- PAGE 499 ---
+
+--- PAGE 500 ---
+

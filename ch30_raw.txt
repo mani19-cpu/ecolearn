@@ -1,0 +1,496 @@
+--- PAGE 656 ---
+Money Growth and Inflation
+oday, if you want to buy an ice-cream cone, you need at least a couple of 
+dollars, but that has not always been the case. In the 1930s, my grandmother 
+ran a sweet shop in Trenton, New Jersey, where she sold ice-cream cones in 
+two sizes. A cone with a small scoop of ice cream cost 3 cents. Hungry customers 
+could buy a large scoop for a nickel.
+You may not be surprised at the increase in the price of ice cream. In most 
+modern economies, most prices tend to rise over time. This increase in the overall 
+level of prices is called inflation. Earlier in the book, we examined how economists 
+--- PAGE 657 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+measure the inflation rate as the percentage change in the consumer price 
+index (CPI), the GDP deflator, or some other index of the overall price level. 
+These price indexes show that, in the United States over the past 80 years, prices 
+have risen on average 3.6 percent per year. Accumulated over so many years, a 3.6 
+percent annual inflation rate leads to a seventeenfold increase in the price level. 
+Inflation may seem natural and inevitable to a person who grew up in 
+the United States during recent decades, but in fact, it is not inevitable at all. 
+There were long periods in the 19th century during which most prices fell—a 
+ phenomenon called deflation. The average level of prices in the U.S. economy was 
+23 percent lower in 1896 than in 1880, and this deflation was a major issue in 
+the presidential election of 1896. Farmers, who had accumulated large debts, suf-
+fered when declines in crop prices reduced their incomes and thus their ability to 
+pay off their debts. They advocated government policies to reverse the deflation.
+Although inflation has been the norm in more recent history, there has been 
+substantial variation in the rate at which prices rise. From 2005 to 2015, prices 
+rose at an average rate of 1.2 percent per year. By contrast, in the 1970s, prices rose 
+by 7.8 percent per year, which meant the price level more th
+--- PAGE 658 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+30-1 The Classical Theory of Inflation
+We begin our study of inflation by developing the quantity theory of money. This 
+theory is often called “classical” because it was developed by some of the earliest 
+economic thinkers. Most economists today rely on this theory to explain the long-
+run determinants of the price level and the inflation rate.
+30-1a The Level of Prices and the Value of Money
+Suppose we observe that over some period of time the price of an ice-cream cone 
+rises from a nickel to a dollar. What conclusion should we draw from the fact 
+that people are willing to give up so much more money in exchange for a cone? 
+It is possible that people have come to enjoy ice cream more (perhaps because 
+some chemist has developed a miraculous new flavor). But that is probably not 
+the case. It is more likely that people’s enjoyment of ice cream has stayed roughly 
+the same and that, over time, the money used to buy ice cream has become less 
+valuable. Indeed, the first insight about inflation is that it is more about the value 
+of money than about the value of goods. 
+This insight helps point the way toward a theory of inflation. When the 
+consumer price index and other measures of the price level rise, commentators 
+are often tempted to look at the many individual prices that make up these price 
+indexes: “The CPI rose by 3 percent las
+--- PAGE 659 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+30-1b Money Supply, Money Demand, and Monetary Equilibrium
+What determines the value of money? The answer to this question, like many in 
+economics, is supply and demand. Just as the supply and demand for bananas 
+determines the price of bananas, the supply and demand for money determines 
+the value of money. Thus, our next step in developing the quantity theory of 
+money is to consider the determinants of money supply and money demand.
+First consider money supply. In the preceding chapter, we discussed how the 
+Federal Reserve, together with the banking system, determines the supply of 
+money. When the Fed sells bonds in open-market operations, it receives dollars in 
+exchange and contracts the money supply. When the Fed buys government bonds, 
+it pays out dollars and expands the money supply. In addition, if any of these 
+dollars are deposited in banks, which hold some as reserves and loan out the rest, 
+the money multiplier swings into action, and these open-market operations can 
+have an even greater effect on the money supply. For our purposes in this chapter, 
+we ignore the complications introduced by the banking system and simply take 
+the quantity of money supplied as a policy variable that the Fed controls.
+Now consider money demand. Most fundamentally, the demand for money 
+reflects how much wealth people want to hold in liqui
+--- PAGE 660 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+The two curves in this figure are the supply and demand curves for money. The 
+supply curve is vertical because the Fed has fixed the quantity of money available. 
+The demand curve for money slopes downward, indicating that when the value 
+of money is low (and the price level is high), people demand a larger quantity of 
+it to buy goods and services. At the equilibrium, shown in the figure as point A, 
+the quantity of money demanded balances the quantity of money supplied. This 
+equilibrium of money supply and money demand determines the value of money 
+30-1c The Effects of a Monetary Injection
+Let’s now consider the effects of a change in monetary policy. To do so, imagine 
+that the economy is in equilibrium and then, suddenly, the Fed doubles the supply 
+of money by printing some dollar bills and dropping them around the country 
+from helicopters. (Or, less dramatically and more realistically, the Fed could inject 
+money into the economy by buying some government bonds from the public in 
+open-market operations.) What happens after such a monetary injection? How 
+does the new equilibrium compare to the old one?
+Figure 2 shows what happens. The monetary injection shifts the supply curve 
+to the right from MS1 to MS2, and the equilibrium moves from point A to point B. 
+As a result, the value of money (shown on the left axis) decreases fro
+--- PAGE 661 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+30-1d A Brief Look at the Adjustment Process
+So far, we have compared the old equilibrium and the new equilibrium after 
+an injection of money. How does the economy move from the old to the new 
+equilibrium? A complete answer to this question requires an understanding 
+of short-run fluctuations in the economy, which we examine later in this book. 
+Here, we briefly consider the adjustment process that occurs after a change in the 
+The immediate effect of a monetary injection is to create an excess supply of 
+money. Before the injection, the economy was in equilibrium (point A in Figure 2). 
+At the prevailing price level, people had exactly as much money as they wanted. 
+But after the helicopters drop the new money and people pick it up off the streets, 
+people have more dollars in their wallets than they want. At the prevailing price 
+level, the quantity of money supplied now exceeds the quantity demanded.
+People try to get rid of this excess supply of money in various ways. They 
+might use it to buy goods and services. Or they might use this excess money 
+to make loans to others by buying bonds or by depositing the money in a bank 
+savings account. These loans allow other people to buy goods and services. In 
+either case, the injection of money increases the demand for goods and services.
+The economy’s ability to supply goods and servic
+--- PAGE 662 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+In this way, the overall price level for goods and services adjusts to bring money 
+supply and money demand into balance.
+30-1e The Classical Dichotomy and Monetary Neutrality
+We have seen how changes in the money supply lead to changes in the average 
+level of prices of goods and services. How do monetary changes affect other 
+economic variables, such as production, employment, real wages, and real interest 
+rates? This question has long intrigued economists, including David Hume in the 
+Hume and his contemporaries suggested that economic variables should be 
+divided into two groups. The first group consists of nominal variables—variables 
+measured in monetary units. The second group consists of real variables—
+variables measured in physical units. For example, the income of corn farmers 
+is a nominal variable because it is measured in dollars, whereas the quantity of 
+corn they produce is a real variable because it is measured in bushels. Nominal 
+GDP is a nominal variable because it measures the dollar value of the economy’s 
+output of goods and services; real GDP is a real variable because it measures the 
+total quantity of goods and services produced and is not influenced by the current 
+prices of those goods and services. The separation of real and nominal variables 
+is now called the classical dichotomy. (A dichotomy is a division 
+--- PAGE 663 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+price level doubles, the dollar wage doubles, and all other dollar values double. 
+Real variables, such as production, employment, real wages, and real interest 
+rates, are unchanged. The irrelevance of monetary changes for real variables is 
+called monetary neutrality. 
+An analogy helps explain monetary neutrality. As the unit of account, money 
+is the yardstick we use to measure economic transactions. When a central bank 
+doubles the money supply, all prices double, and the value of the unit of account 
+falls by half. A similar change would occur if the government were to reduce 
+the length of the yard from 36 to 18 inches: With the new, shorter yardstick, all 
+measured distances (nominal variables) would double, but the actual distances 
+(real variables) would remain the same. The dollar, like the yard, is merely a unit 
+of measurement, so a change in its value should not have real effects.
+Is monetary neutrality realistic? Not completely. A change in the length of the 
+yard from 36 to 18 inches would not matter in the long run, but in the short run, it 
+would lead to confusion and mistakes. Similarly, most economists today believe 
+that over short periods of time—within the span of a year or two—monetary 
+changes affect real variables. Hume himself also doubted that monetary neutrality 
+would apply in the short run. (We will study s
+--- PAGE 664 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+With slight algebraic rearrangement, this equation can be rewritten as
+This equation states that the quantity of money (M) times the velocity of money 
+(V) equals the price of output (P) times the amount of output (Y). It is called the 
+quantity equation because it relates the quantity of money (M) to the nominal 
+value of output (P 3 Y). The quantity equation shows that an increase in the 
+quantity of money in an economy must be reflected in one of the other three 
+variables: The price level must rise, the quantity of output must rise, or the 
+velocity of money must fall.
+In many cases, it turns out that the velocity of money is relatively stable. For 
+example, Figure 3 shows nominal GDP, the quantity of money (as measured by 
+M2), and the velocity of money for the U.S. economy since 1960. During this 
+period, the money supply and nominal GDP both increased more than thirtyfold. 
+By contrast, the velocity of money, although not exactly constant, has not changed 
+Nominal GDP, the Quantity 
+of Money, and the Velocity 
+This figure shows the nominal value of output as measured by nominal GDP, the quantity 
+of money as measured by M2, and the velocity of money as measured by their ratio. For 
+comparability, all three series have been scaled to equal 100 in 1960. Notice that nominal 
+GDP and the quantity of money have grown dramatically over t
+--- PAGE 665 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+dramatically. Thus, for some purposes, the assumption of constant velocity is a 
+We now have all the elements necessary to explain the equilibrium price level 
+and inflation rate. They are as follows:
+1. The velocity of money is relatively stable over time.
+2. Because velocity is stable, when the central bank changes the quantity of 
+money (M), it causes proportionate changes in the nominal value of output  
+ 3. The economy’s output of goods and services (Y) is primarily determined by 
+factor supplies (labor, physical capital, human capital, and natural resources) 
+and the available production technology. In particular, because money is  
+neutral, money does not affect output.
+ 4. With output (Y) determined by factor supplies and technology, when the  
+central bank alters the money supply (M) and induces proportional changes in 
+the nominal value of output (P 3 Y), these changes are reflected in changes in 
+ 5. Therefore, when the central bank increases the money supply rapidly, the  
+result is a high rate of inflation.
+These five steps are the essence of the quantity theory of money. 
+MONEY AND PRICES DURING FOUR HYPERINFLATIONS
+Although earthquakes can wreak havoc on a society, they have 
+the beneficial by-product of providing much useful data for 
+seismologists. These data can shed light on alternative theories and, 
+thereby, help so
+--- PAGE 666 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+If inflation is so easy to explain, why do countries experience hyperinflation? That 
+is, why do the central banks of these countries choose to print so much money 
+that its value is certain to fall rapidly over time?
+The answer is that the governments of these countries are using money creation 
+as a way to pay for their spending. When the government wants to build roads, 
+pay salaries to its soldiers, or give transfer payments to the poor or elderly, it first 
+has to raise the necessary funds. Normally, the government does this by levying 
+taxes, such as income and sales taxes, and by borrowing from the public by selling 
+government bonds. Yet the government can also pay for spending simply by 
+printing the money it needs. 
+When the government raises revenue by printing money, it is said to levy an 
+inflation tax. The inflation tax is not exactly like other taxes, however, because no 
+one receives a bill from the government for this tax. Instead, the inflation tax is 
+This figure shows the quantity of money and the price level during four hyperinflations. 
+(Note that these variables are graphed on logarithmic scales. This means that equal vertical 
+distances on the graph represent equal percentage changes in the variable.) In each case, the 
+quantity of money and the price level move closely together. The strong association between 
+the
+--- PAGE 667 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+subtler. When the government prints money, the price level rises, and the dollars 
+in your wallet become less valuable. Thus, the inflation tax is like a tax on everyone 
+The importance of the inflation tax varies from country to country and over time. 
+In the United States in recent years, the inflation tax has been a trivial source of 
+revenue: It has accounted for less than 3 percent of government revenue. During 
+the 1770s, however, the Continental Congress of the fledgling United States 
+relied heavily on the inflation tax to pay for military spending. Because the new 
+government had a limited ability to raise funds through regular taxes or borrowing, 
+printing dollars was the easiest way to pay the American soldiers. As the quantity 
+theory predicts, the result was a high rate of inflation: Prices measured in terms of 
+the continental dollar rose more than a 100-fold over a few years.
+Almost all hyperinflations follow the same pattern as the hyperinflation during 
+the American Revolution. The government has high spending, inadequate tax 
+revenue, and limited ability to borrow. As a result, it turns to the printing press to 
+pay for its spending. The massive increases in the quantity of money lead to massive 
+inflation. The inflation ends when the government institutes fiscal reforms—such as 
+cuts in government spending—that elimin
+--- PAGE 668 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+According to the principle of monetary neutrality, an increase in the rate of 
+money growth raises the rate of inflation but does not affect any real variable. An 
+important application of this principle concerns the effect of money on interest 
+rates. Interest rates are important variables for macroeconomists to understand 
+because they link the economy of the present and the economy of the future 
+through their effects on saving and investment.
+To understand the relationship between money, inflation, and interest rates, 
+recall the distinction between the nominal interest rate and the real interest rate. 
+The nominal interest rate is the interest rate you hear about at your bank. If you 
+have a savings account, for instance, the nominal interest rate tells you how fast 
+the number of dollars in your account will rise over time. The real interest rate
+corrects the nominal interest rate for the effect of inflation to tell you how fast the 
+purchasing power of your savings account will rise over time. The real interest 
+rate is the nominal interest rate minus the inflation rate:
+Real interest rate 5 Nominal interest rate 2 Inflation rate.
+For example, if the bank posts a nominal interest rate of 7 percent per year and the 
+inflation rate is 3 percent per year, then the real value of the deposits grows by 4 
+We can rewrite this equation to 
+--- PAGE 669 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+the U.S. economy since 1960. The close association between these two variables 
+is clear. The nominal interest rate rose from the early 1960s through the 1970s 
+because inflation was also rising during this time. Similarly, the nominal interest 
+rate fell from the early 1980s through the 1990s because the Fed got inflation 
+under control. In recent years, both the nominal interest rate and the inflation rate 
+have been low by historical standards. 
+The government of a country increases the growth rate of the money 
+supply from 5 percent per year to 50 percent per year. What happens to 
+prices? What happens to nominal interest rates? Why might the government be doing this?
+The Nominal Interest Rate 
+This figure uses annual data since 1960 to show the nominal interest rate on three-month 
+Treasury bills and the inflation rate as measured by the consumer price index. The close 
+association between these two variables is evidence for the Fisher effect: When the inflation 
+rate rises, so does the nominal interest rate.
+Source: U.S. Department of Treasury; U.S. Department of Labor.
+30-2 The Costs of Inflation
+In the late 1970s, when the U.S. inflation rate reached about 10 percent per year, 
+inflation dominated debates over economic policy. And even though inflation 
+has been low over the past 20 years, it remains a closely watched macroecono
+--- PAGE 670 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+30-2a A Fall in Purchasing Power? The Inflation Fallacy
+If you ask the typical person why inflation is bad, he will tell you that the answer 
+is obvious: Inflation robs him of the purchasing power of his hard-earned dollars. 
+When prices rise, each dollar of income buys fewer goods and services. Thus, it 
+might seem that inflation directly lowers living standards. 
+Yet further thought reveals a fallacy in this answer. When prices rise, buyers of goods 
+and services pay more for what they buy. At the same time, however, sellers of goods 
+and services get more for what they sell. Because most people earn their incomes by 
+selling their services, such as their labor, inflation in incomes goes hand in hand with 
+inflation in prices. Thus, inflation does not in itself reduce people’s real purchasing power.
+People believe the inflation fallacy because they do not appreciate the principle 
+of monetary neutrality. A worker who receives an annual raise of 10 percent tends 
+to view that raise as a reward for his own talent and effort. When an inflation rate of 
+6 percent reduces the real value of that raise to only 4 percent, the worker might feel 
+that he has been cheated of what is rightfully his due. In fact, as we discussed in the 
+chapter on production and growth, real incomes are determined by real variables, 
+such as physical capital, human 
+--- PAGE 671 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+person’s experience in Bolivia during its hyperinflation (as reported in the August 
+13, 1985, issue of The Wall Street Journal):
+When Edgar Miranda gets his monthly teacher’s pay of 25 million pesos, he 
+hasn’t a moment to lose. Every hour, pesos drop in value. So, while his wife 
+rushes to market to lay in a month’s supply of rice and noodles, he is off 
+with the rest of the pesos to change them into black-market dollars.
+Mr. Miranda is practicing the First Rule of Survival amid the most 
+out-of-control inflation in the world today. Bolivia is a case study of how 
+runaway inflation undermines a society. Price increases are so huge that 
+the figures build up almost beyond comprehension. In one six-month 
+period, for example, prices soared at an annual rate of 38,000 percent. By 
+official count, however, last year’s inflation reached 2,000 percent, and this 
+year’s is expected to hit 8,000 percent—though other estimates range many 
+times higher. In any event, Bolivia’s rate dwarfs Israel’s 370 percent and 
+Argentina’s 1,100 percent—two other cases of severe inflation.
+It is easier to comprehend what happens to the thirty-eight-year-old 
+Mr. Miranda’s pay if he doesn’t quickly change it into dollars. The day he 
+was paid 25 million pesos, a dollar cost 500,000 pesos. So he received $50. 
+Just days later, with the rate at 900,000 pesos, h
+--- PAGE 672 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+economy—would be constant over the course of the year. By contrast, if the 
+inflation rate is 12 percent per year, Eatabit’s relative prices will automatically 
+fall by 1 percent each month. The restaurant’s relative prices will be high in the 
+early months of the year, just after it has printed a new menu, and low in the later 
+months. And the higher the inflation rate, the greater is this automatic variability. 
+Thus, because prices change only once in a while, inflation causes relative prices 
+to vary more than they otherwise would.
+Why does this matter? The reason is that market economies rely on relative 
+prices to allocate scarce resources. Consumers decide what to buy by comparing 
+the quality and prices of various goods and services. Through these decisions, 
+they determine how the scarce factors of production are allocated among 
+industries and firms. When inflation distorts relative prices, consumer decisions 
+are distorted and markets are less able to allocate resources to their best use.
+30-2e Inflation-Induced Tax Distortions
+Almost all taxes distort incentives, cause people to alter their behavior, and lead 
+to a less efficient allocation of the economy’s resources. Many taxes, however, 
+become even more problematic in the presence of inflation. The reason is that 
+lawmakers often fail to take inflation into account when wri
+--- PAGE 673 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+discourage people from saving. Recall that the economy’s saving provides the 
+resources for investment, which in turn is a key ingredient to long-run economic 
+growth. Thus, when inflation raises the tax burden on saving, it tends to depress 
+the economy’s long-run growth rate. There is, however, no consensus among 
+economists about the size of this effect.
+One solution to this problem, other than eliminating inflation, is to index the 
+tax system. That is, the tax laws could be rewritten to take account of the effects 
+of inflation. In the case of capital gains, for example, the tax code could adjust 
+the purchase price using a price index and assess the tax only on the real gain. In 
+the case of interest income, the government could tax only real interest income 
+by excluding that portion of the interest income that merely compensates for 
+inflation. To some extent, the tax laws have moved in the direction of indexation. 
+For example, the income levels at which income tax rates change are adjusted 
+automatically each year based on changes in the consumer price index. Yet many 
+other aspects of the tax laws—such as the tax treatment of capital gains and 
+interest income—are not indexed.
+In an ideal world, the tax laws would be written so that inflation would not 
+alter anyone’s real tax liability. In the real world, however, tax laws a
+--- PAGE 674 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+Standards—to ensure the reliability of a commonly used unit of measurement. 
+When the Fed increases the money supply and creates inflation, it erodes the real 
+value of the unit of account.
+It is difficult to judge the costs of the confusion and inconvenience that arise 
+from inflation. Earlier, we discussed how the tax code incorrectly measures real 
+incomes in the presence of inflation. Similarly, accountants incorrectly measure 
+firms’ earnings when prices are rising over time. Because inflation causes dollars 
+at different times to have different real values, computing a firm’s profit—the 
+difference between its revenue and costs—is more complicated in an economy 
+with inflation. Therefore, to some extent, inflation makes investors less able to 
+sort successful from unsuccessful firms, which in turn impedes financial markets 
+in their role of allocating the economy’s saving to alternative types of investment. 
+30-2g  A Special Cost of Unexpected Inflation: Arbitrary 
+So far, the costs of inflation we have discussed occur even if inflation is steady and 
+predictable. Inflation has an additional cost, however, when it comes as a surprise. 
+Unexpected inflation redistributes wealth among the population in a way that 
+has nothing to do with either merit or need. These redistributions occur because 
+many loans in the economy are specified 
+--- PAGE 675 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+30-2h Inflation Is Bad, but Deflation May Be Worse
+In recent U.S. history, inflation has been the norm. But the level of prices has fallen 
+at times, such as during the late 19th century and early 1930s. From 1998 to 2012, 
+Japan experienced a 4-percent decline in its overall price level. So as we conclude 
+our discussion of the costs of inflation, we should briefly consider the costs of 
+Some economists have suggested that a small and predictable amount of 
+deflation may be desirable. Milton Friedman pointed out that deflation would 
+lower the nominal interest rate (via the Fisher effect) and that a lower nominal 
+interest rate would reduce the cost of holding money. The shoeleather costs of 
+holding money would, he argued, be minimized by a nominal interest rate close 
+to zero, which in turn would require deflation equal to the real interest rate. This 
+prescription for moderate deflation is called the Friedman rule.
+Yet there are also costs of deflation. Some of these mirror the costs of inflation. 
+For example, just as a rising price level induces menu costs and relative-price 
+variability, so does a falling price level. Moreover, in practice, deflation is rarely 
+as steady and predictable as Friedman recommended. More often, it comes as 
+a surprise, resulting in the redistribution of wealth toward creditors and away 
+from debtors. 
+--- PAGE 676 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+the Democratic nominee for president in 1896. He is remembered in part for a 
+speech at the Democratic Party’s nominating convention in which he said, “You 
+shall not press down upon the brow of labor this crown of thorns. You shall not 
+crucify mankind upon a cross of gold.” Rarely since then have politicians waxed so 
+poetic about alternative approaches to monetary policy. Nonetheless, Bryan lost the 
+election to Republican William McKinley, and the United States remained on the 
+L. Frank Baum, author of the book The Wonderful Wizard of Oz, was a midwestern 
+journalist. When he sat down to write a story for children, he made the characters 
+represent protagonists in the major political battle of his time. Here is how economic 
+historian Hugh Rockoff, writing in the Journal of Political Economy in 1990, interprets 
+Traditional American values
+Prohibitionist party, also called the Teetotalers
+Wicked Witch of the East: 
+ Wicked Witch of the West: 
+ Marcus Alonzo Hanna, chairman of the  
+Abbreviation for ounce of gold
+At the end of Baum’s story, Dorothy does find her way home, but it is not by 
+just following the yellow brick road. After a long and perilous journey, she learns 
+that the wizard is incapable of helping her or her friends. Instead, Dorothy finally 
+discovers the magical power of her silver slippers. (When the book was made 
+in
+--- PAGE 677 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+The costs of inflation are more subtle. They include shoeleather costs, menu 
+costs, increased variability of relative prices, unintended changes in tax liabilities, 
+confusion and inconvenience, and arbitrary redistributions of wealth. Are these 
+costs, in total, large or small? All economists agree that they become huge during 
+hyperinflation. But during periods of moderate inflation—when prices rise by 
+less than 10 percent per year—the size of these costs is more open to debate.
+This chapter presented many of the most important lessons about inflation, 
+but the analysis is incomplete. When the central bank reduces the rate of money 
+growth, prices rise less rapidly, as the quantity theory suggests. Yet as the economy 
+makes the transition to the lower inflation rate, the change in monetary policy will 
+likely disrupt production and employment. That is, even though monetary policy 
+is neutral in the long run, it has profound effects on real variables in the short 
+run. Later in this book we will examine the reasons for short-run monetary non-
+neutrality to enhance our understanding of the causes and effects of inflation. 
+1. The classical principle of monetary neutrality states 
+that changes in the money supply do not influence 
+________ variables and is thought most applicable in 
+2. If nominal GDP is $400, real GDP is $200, and the
+--- PAGE 678 ---
+CHAPTER 30   MONEY GROWTH AND INFLATION
+r The overall level of prices in an economy adjusts to 
+bring money supply and money demand into balance. 
+When the central bank increases the supply of money, 
+it causes the price level to rise. Persistent growth in 
+the quantity of money supplied leads to continuing 
+r The principle of monetary neutrality asserts that 
+changes in the quantity of money influence nominal 
+variables but not real variables. Most economists 
+believe that monetary neutrality approximately 
+describes the behavior of the economy in the long run.
+r A government can pay for some of its spending simply 
+by printing money. When countries rely heavily on this 
+“inflation tax,” the result is hyperinflation.
+r One application of the principle of monetary neutrality 
+is the Fisher effect. According to the Fisher effect, when 
+the inflation rate rises, the nominal interest rate rises by 
+the same amount so that the real interest rate remains 
+r Many people think that inflation makes them poorer 
+because it raises the cost of what they buy. This view 
+is a fallacy, however, because inflation also raises 
+r Economists have identified six costs of inflation: 
+shoeleather costs associated with reduced money 
+holdings, menu costs associated with more frequent 
+adjustment of prices, increased variability of relative 
+prices, unintended changes in tax liabilities due 
+to
+--- PAGE 679 ---
+PART X   MONEY AND PRICES IN THE LONG RUN
+2. Suppose that changes in bank regulations expand the 
+availability of credit cards so that people need to hold 
+a. How does this event affect the demand for 
+b. If the Fed does not respond to this event, what 
+will happen to the price level?
+c. If the Fed wants to keep the price level stable, 
+3. It is sometimes suggested that the Federal Reserve 
+should try to achieve zero inflation. If we assume 
+that velocity is constant, does this zero-inflation goal 
+require that the rate of money growth equal zero? If 
+yes, explain why. If no, explain what the rate of money 
+4. Suppose that a country’s inflation rate increases 
+sharply. What happens to the inflation tax on the 
+holders of money? Why is wealth that is held in 
+savings accounts not subject to a change in the 
+inflation tax? Can you think of any way holders 
+of savings accounts are hurt by the increase in the 
+5. Let’s consider the effects of inflation in an economy 
+composed of only two people: Bob, a bean farmer, and 
+Rita, a rice farmer. Bob and Rita both always consume 
+equal amounts of rice and beans. In 2016, the price of 
+beans was $1 and the price of rice was $3.
+a. Suppose that in 2017 the price of beans was $2 
+and the price of rice was $6. What was inflation? 
+Was Bob better off, worse off, or unaffected by the 
+changes in prices? What about Rita?
+b. Now suppose that in 
+--- PAGE 680 ---
+

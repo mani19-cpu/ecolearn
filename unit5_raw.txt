@@ -1,0 +1,2377 @@
+--- PAGE 276 ---
+he economy is made up of thousands of firms that produce the goods and 
+services you enjoy every day: General Motors produces automobiles, General 
+Electric produces lightbulbs, and General Mills produces breakfast cereals. 
+Some firms, such as these three, are large; they employ thousands of workers and 
+have thousands of stockholders who share the firms’ profits. Other firms, such as 
+the local barbershop or café, are small; they employ only a few workers and are 
+owned by a single person or family.
+In previous chapters, we used the supply curve to summarize firms’ produc-
+tion decisions. According to the law of supply, firms are willing to produce 
+--- PAGE 277 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+and sell a greater quantity of a good when the price of the good is higher. This 
+response leads to a supply curve that slopes upward. For analyzing many ques-
+tions, the law of supply is all you need to know about firm behavior.
+In this chapter and the ones that follow, we examine firm behavior in more 
+detail. This topic will give you a better understanding of the decisions behind 
+the supply curve. In addition, it will introduce you to a part of economics called 
+industrial organization—the study of how firms’ decisions about prices and quan-
+tities depend on the market conditions they face. The town in which you live, for 
+instance, may have several pizzerias but only one cable television company. This 
+raises a key question: How does the number of firms affect the prices in a  market 
+and the efficiency of the market outcome? The field of industrial organization 
+ addresses exactly this question.
+Before turning to these issues, we need to discuss the costs of production. All 
+firms, from Delta Air Lines to your local deli, incur costs while making the goods 
+and services that they sell. As we will see in the coming chapters, a firm’s costs 
+are a key determinant of its production and pricing decisions. In this chapter, we 
+define some of the variables that economists use to measure a firm’s costs, and we 
+consider the
+--- PAGE 278 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+output. If Caroline produces 10,000 cookies and sells them at $2 a cookie, her total 
+revenue is $20,000. The measurement of a firm’s total cost, however, is more subtle.
+13-1b Costs as Opportunity Costs
+When measuring costs at Caroline’s Cookie Factory or any other firm, it is import-
+ant to keep in mind one of the Ten Principles of Economics from Chapter 1: The cost 
+of something is what you give up to get it. Recall that the opportunity cost of an 
+item refers to all the things that must be forgone to acquire that item. When econ-
+omists speak of a firm’s cost of production, they include all the opportunity costs 
+of making its output of goods and services.
+While some of a firm’s opportunity costs of production are obvious, others are 
+less so. When Caroline pays $1,000 for flour, that $1,000 is an opportunity cost 
+because Caroline can no longer use that $1,000 to buy something else. Similarly, 
+when Caroline hires workers to make the cookies, the wages she pays are part of 
+the firm’s costs. Because these opportunity costs require the firm to pay out some 
+money, they are called explicit costs. By contrast, some of a firm’s opportunity 
+costs, called implicit costs, do not require a cash outlay. Imagine that Caroline 
+is skilled with computers and could earn $100 per hour working as a program-
+mer. For every hour that Caroline works at 
+--- PAGE 279 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+implicit cost of her business. Caroline’s accountant, however, will not show this 
+$15,000 as a cost because no money flows out of the business to pay for it.
+To further explore the difference between the methods of economists and 
+accountants, let’s change the example slightly. Suppose now that Caroline did 
+not have the entire $300,000 to buy the factory but, instead, used $100,000 of her 
+own savings and borrowed $200,000 from a bank at an interest rate of 5 percent. 
+Caroline’s accountant, who only measures explicit costs, will now count the 
+$10,000 interest paid on the bank loan every year as a cost because this amount 
+of money now flows out of the firm. By contrast, according to an economist, the 
+opportunity cost of owning the business is still $15,000. The opportunity cost 
+equals the interest on the bank loan (an explicit cost of $10,000) plus the forgone 
+interest on savings (an implicit cost of $5,000). 
+13-1d Economic Profit versus Accounting Profit
+Now let’s return to the firm’s objective: profit. Because economists and accoun-
+tants measure costs differently, they also measure profit differently. An econo-
+mist measures a firm’s economic profit as the firm’s total revenue minus all the 
+opportunity costs (explicit and implicit) of producing the goods and services sold. 
+An accountant measures the firm’s acc
+--- PAGE 280 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+the firm owners will eventually close down the business and exit the industry. To 
+understand business decisions, we need to keep an eye on economic profit.
+Farmer McDonald gives banjo lessons for $20 an hour. One day, he spends 
+10 hours planting $100 worth of seeds on his farm. What opportunity 
+cost has he incurred? What cost would his accountant measure? If these seeds yield $200 
+worth of crops, does McDonald earn an accounting profit? Does he earn an economic profit? 
+13-2 Production and Costs 
+Firms incur costs when they buy inputs to produce the goods and services that 
+they plan to sell. In this section, we examine the link between a firm’s production 
+process and its total cost. Once again, we consider Caroline’s Cookie Factory.
+In the analysis that follows, we make an important simplifying assumption: 
+We assume that the size of Caroline’s factory is fixed and that Caroline can vary 
+the quantity of cookies produced only by changing the number of workers she 
+employs. This assumption is realistic in the short run but not in the long run. That 
+is, Caroline cannot build a larger factory overnight, but she could do so over the 
+next year or two. This analysis, therefore, describes the production decisions that 
+Caroline faces in the short run. We examine the relationship between costs and 
+time horizon more fully later in the chapte
+--- PAGE 281 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+When there is 1 worker, she produces 50 cookies. When there are 2 workers, 
+she produces 90 cookies and so on. Panel (a) of Figure 2 presents a graph of 
+these two columns of numbers. The number of workers is on the horizontal 
+axis, and the number of cookies produced is on the vertical axis. This relation-
+ship between the quantity of inputs (workers) and quantity of output (cookies) 
+is called the  production function.
+One of the Ten Principles of Economics introduced in Chapter 1 is that ratio-
+nal people think at the margin. As we will see in future chapters, this idea is 
+the key to understanding the decisions a firm makes about how many workers 
+to hire and how much output to produce. To take a step toward understanding 
+these decisions, column (3) in the table gives the marginal product of a worker. 
+The marginal product of any input in the production process is the increase in 
+the quantity of output obtained from one additional unit of that input. When the 
+number of workers goes from 1 to 2, cookie production increases from 50 to 90, so 
+the marginal product of the second worker is 40 cookies. And when the number of 
+the quantity of output of 
+The production function in panel (a) shows the relationship between the number of workers 
+hired and the quantity of output produced. Here the number of workers hired (on t
+--- PAGE 282 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+workers goes from 2 to 3, cookie production increases from 90 to 120, so the mar-
+ginal product of the third worker is 30 cookies. In the table, the marginal product 
+is shown halfway between two rows because it represents the change in output as 
+the number of workers increases from one level to another.
+Notice that as the number of workers increases, the marginal product declines. 
+The second worker has a marginal product of 40 cookies, the third worker has 
+a marginal product of 30 cookies, and the fourth worker has a marginal prod-
+uct of 20 cookies. This property is called diminishing marginal product. At first, 
+when only a few workers are hired, they have easy access to Caroline’s kitchen 
+equipment. As the number of workers increases, additional workers have to 
+share equipment and work in more crowded conditions. Eventually, the kitchen 
+ becomes so overcrowded that workers often get in each other’s way. Hence, as 
+more workers are hired, each additional worker contributes fewer additional 
+cookies to total production. 
+Diminishing marginal product is also apparent in Figure 2. The produc-
+tion function’s slope (“rise over run”) tells us the change in Caroline’s output 
+of cookies (“rise”) for each additional input of labor (“run”). That is, the slope 
+of the production function measures the marginal product. As the number of 
+worke
+--- PAGE 283 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Our analysis of Caroline’s Cookie Factory demonstrated how a firm’s total cost 
+reflects its production function. From data on a firm’s total cost, we can derive 
+several related measures of cost, which will turn out to be useful when we ana-
+lyze production and pricing decisions in future chapters. To see how these related 
+measures are derived, we consider the example in Table 2. This table presents cost 
+data on Caroline’s neighbor—Conrad’s Coffee Shop.
+Column (1) in the table shows the number of cups of coffee that Conrad might 
+produce, ranging from 0 to 10 cups per hour. Column (2) shows Conrad’s total 
+cost of producing coffee. Figure 3 plots Conrad’s total-cost curve. The quantity of 
+coffee [from column (1)] is on the horizontal axis, and total cost [from column (2)] 
+is on the vertical axis. Conrad’s total-cost curve has a shape similar to Caroline’s. 
+In particular, it becomes steeper as the quantity produced rises, which (as we have 
+discussed) reflects diminishing marginal product.
+13-3 The Various Measures of Cost
+Cost: Conrad’s Coffee Shop
+--- PAGE 284 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+13-3a Fixed and Variable Costs
+Conrad’s total cost can be divided into two types. Some costs, called fixed costs, 
+do not vary with the quantity of output produced. They are incurred even if 
+the firm produces nothing at all. Conrad’s fixed costs include any rent he pays 
+because this cost is the same regardless of how much coffee he produces. Sim-
+ilarly, if Conrad needs to hire a full-time bookkeeper to pay bills, regardless of 
+the quantity of coffee produced, the bookkeeper’s salary is a fixed cost. The third 
+column in Table 2 shows Conrad’s fixed cost, which in this example is $3.00.
+Some of the firm’s costs, called variable costs, change as the firm alters the quan-
+tity of output produced. Conrad’s variable costs include the cost of coffee beans, 
+milk, sugar, and paper cups: The more cups of coffee Conrad makes, the more of 
+these items he needs to buy. Similarly, if Conrad has to hire more workers to make 
+more cups of coffee, the salaries of these workers are variable costs. Column (4) in 
+the table shows Conrad’s variable cost. The variable cost is 0 if he produces noth-
+ing, $0.30 if he produces 1 cup of coffee, $0.80 if he produces 2 cups, and so on.
+A firm’s total cost is the sum of fixed and variable costs. In Table 2, total cost in 
+column (2) equals fixed cost in column (3) plus variable cost in column (4).
+13-3b Average an
+--- PAGE 285 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+These two questions might seem to have the same answer, but they do not. Both 
+answers are important for understanding how firms make production decisions.
+To find the cost of the typical unit produced, we divide the firm’s costs by the 
+quantity of output it produces. For example, if the firm produces 2 cups of coffee 
+per hour, its total cost is $3.80, and the cost of the typical cup is $3.80/2, or $1.90. 
+Total cost divided by the quantity of output is called average total cost. Because 
+total cost is the sum of fixed and variable costs, average total cost can be expressed 
+as the sum of average fixed cost and average variable cost. Average fixed cost is 
+the fixed cost divided by the quantity of output, and average variable cost is the 
+variable cost divided by the quantity of output.
+Average total cost tells us the cost of the typical unit, but it does not tell us how 
+much total cost will change as the firm alters its level of production. Column (8) in 
+Table 2 shows the amount that total cost rises when the firm increases production 
+by 1 unit of output. This number is called marginal cost. For example, if Conrad 
+increases production from 2 to 3 cups, total cost rises from $3.80 to $4.50, so the 
+marginal cost of the third cup of coffee is $4.50 minus $3.80, or $0.70. In the table, 
+the marginal cost appears halfwa
+--- PAGE 286 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+Rising Marginal Cost  Conrad’s marginal cost rises as the quantity of output pro-
+duced increases. This upward slope reflects the property of diminishing marginal 
+product. When Conrad produces a small quantity of coffee, he has few  workers, 
+and much of his equipment is not used. Because he can easily put these idle 
+ resources to use, the marginal product of an extra worker is large, and the mar-
+ginal cost of an extra cup of coffee is small. By contrast, when Conrad produces 
+a large quantity of coffee, his shop is crowded with workers, and most of his 
+ equipment is fully utilized. Conrad can produce more coffee by adding workers, 
+but these new workers have to work in crowded conditions and may have to wait 
+to use the equipment. Therefore, when the quantity of coffee produced is already 
+high, the marginal product of an extra worker is low, and the marginal cost of an 
+extra cup of coffee is large.
+U-Shaped Average Total Cost  Conrad’s average-total-cost curve is U-shaped, as 
+shown in Figure 4. To understand why, remember that average total cost is the 
+sum of average fixed cost and average variable cost. Average fixed cost always 
+declines as output rises because the fixed cost is getting spread over a larger num-
+ber of units. Average variable cost usually rises as output increases because of 
+diminishing marginal product. 
+Average
+--- PAGE 287 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+increases, the fixed cost is spread over more units. Average fixed cost declines, 
+rapidly at first and then more slowly. As a result, average total cost also declines 
+until the firm’s output reaches 5 cups of coffee per hour, when average total cost 
+is $1.30 per cup. When the firm produces more than 6 cups per hour, however, the 
+increase in average variable cost becomes the dominant force, and average total 
+cost starts rising. The tug of war between average fixed cost and average variable 
+cost generates the U-shape in average total cost.
+The bottom of the U-shape occurs at the quantity that minimizes average total 
+cost. This quantity is sometimes called the efficient scale of the firm. For Conrad, 
+the efficient scale is 5 or 6 cups of coffee per hour. If he produces more or less than 
+this amount, his average total cost rises above the minimum of $1.30. At lower 
+levels of output, average total cost is higher than $1.30 because the fixed cost is 
+spread over so few units. At higher levels of output, average total cost is higher 
+than $1.30 because the marginal product of inputs has diminished significantly. 
+At the efficient scale, these two forces are balanced to yield the lowest average 
+The Relationship between Marginal Cost and Average Total Cost  If you look at 
+Figure 4 (or back at Table 2), you will see some
+--- PAGE 288 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+Figure 5 shows the cost curves for such a firm, including average total 
+cost (ATC), average fixed cost (AFC), average variable cost (AVC), and marginal 
+cost (MC). At low levels of output, the firm experiences increasing marginal prod-
+uct, and the marginal-cost curve falls. Eventually, the firm starts to experience 
+diminishing marginal product, and the marginal-cost curve starts to rise. This 
+combination of increasing then diminishing marginal product also makes the 
+average-variable-cost curve U-shaped. 
+Despite these differences from our previous example, the cost curves in Figure 5 
+share the three properties that are most important to remember:
+• Marginal cost eventually rises with the quantity of output. 
+• The average-total-cost curve is U-shaped.
+• The marginal-cost curve crosses the average-total-cost curve at the minimum 
+Suppose Honda’s total cost of producing 4 cars is $225,000 and its total 
+cost of producing 5 cars is $250,000. What is the average total cost of 
+producing 5 cars? What is the marginal cost of the fifth car? • Draw the marginal-cost curve 
+and the average-total-cost curve for a typical firm, and explain why these curves cross where 
+13-4 Costs in the Short Run and in the Long Run
+We noted earlier in this chapter that a firm’s costs might depend on the time 
+horizon under consideration. Let’s examine more preci
+--- PAGE 289 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+13-4a  The Relationship between Short-Run  
+and Long-Run Average Total Cost 
+For many firms, the division of total costs between fixed and variable costs 
+depends on the time horizon. Consider, for instance, a car manufacturer such as 
+Ford Motor Company. Over a period of only a few months, Ford cannot adjust the 
+number or sizes of its car factories. The only way it can produce additional cars 
+is to hire more workers at the factories it already has. The cost of these factories 
+is, therefore, a fixed cost in the short run. By contrast, over a period of several 
+years, Ford can expand the size of its factories, build new factories, or close old 
+ones. Thus, the cost of its factories is a variable cost in the long run.
+Because many decisions are fixed in the short run but variable in the long run, 
+a firm’s long-run cost curves differ from its short-run cost curves. Figure 6 shows 
+an example. The figure presents three short-run average-total-cost curves—for a 
+small, medium, and large factory. It also presents the long-run average-total-cost 
+curve. As the firm moves along the long-run curve, it is adjusting the size of the 
+factory to the quantity of production.
+This graph shows how short-run and long-run costs are related. The long-run 
+average-total-cost curve has a much flatter U-shape than the short-run average-
+tota
+--- PAGE 290 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+How long does it take a firm to get to the long run? The answer depends on 
+the firm. It can take a year or more for a major manufacturing firm, such as a car 
+company, to build a larger factory. By contrast, a person running a coffee shop can 
+buy another coffee maker within a few days. There is, therefore, no single answer 
+to the question of how long it takes a firm to adjust its production facilities.
+13-4b Economies and Diseconomies of Scale
+The shape of the long-run average-total-cost curve conveys important informa-
+tion about the production processes that a firm has available for manufacturing a 
+good. In particular, it tells us how costs vary with the scale—that is, the size—of a 
+firm’s operations. When long-run average total cost declines as output increases, 
+there are said to be economies of scale. When long-run average total cost rises as 
+output increases, there are said to be diseconomies of scale. When long-run aver-
+age total cost does not vary with the level of output, there are said to be constant 
+returns to scale. As we can see in Figure 6, Ford has economies of scale at low 
+levels of output, constant returns to scale at intermediate levels of output, and 
+diseconomies of scale at high levels of output. 
+What might cause economies or diseconomies of scale? Economies of scale 
+often arise because higher production level
+--- PAGE 291 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+This analysis shows why long-run average-total-cost curves are often 
+U-shaped. At low levels of production, the firm benefits from increased size 
+because it can take advantage of greater specialization. Coordination problems, 
+meanwhile, are not yet acute. By contrast, at high levels of production, the benefits 
+of specialization have already been realized, and coordination problems become 
+more severe as the firm grows larger. Thus, long-run average total cost is falling 
+at low levels of production because of increasing specialization and rising at high 
+levels of production because of growing coordination problems.
+If Boeing produces 9 jets per month, its long-run total cost is $9.0 million 
+per month. If it produces 10 jets per month, its long-run total cost is 
+$9.5 million per month. Does Boeing exhibit economies or diseconomies of scale?
+Costs that require an outlay 
+Costs that do not require an outlay 
+Costs that do not vary with the 
+quantity of output produced
+Costs that vary with the quantity 
+The market value of all the inputs 
+that a firm uses in production
+Fixed cost divided by the quantity 
+Variable cost divided by the quantity 
+Total cost divided by the quantity of 
+The increase in total cost that arises 
+from an extra unit of production
+The purpose of this chapter has been to develop some tools to study 
+--- PAGE 292 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+• The goal of firms is to maximize profit, which equals 
+total revenue minus total cost. 
+• When analyzing a firm’s behavior, it is important to 
+ include all the opportunity costs of production. Some of 
+the opportunity costs, such as the wages a firm pays its 
+workers, are explicit. Other opportunity costs, such as the 
+wages the firm owner gives up by working at the firm 
+rather than taking another job, are implicit. Economic 
+profit takes both explicit and implicit costs into account, 
+whereas accounting profit considers only explicit costs.
+• A firm’s costs reflect its production process. A typical 
+firm’s production function gets flatter as the quantity 
+of an input increases, displaying the property of dimin-
+ishing marginal product. As a result, a firm’s total-cost 
+curve gets steeper as the quantity produced rises.
+• A firm’s total costs can be divided into fixed costs and 
+variable costs. Fixed costs are costs that do not change 
+when the firm alters the quantity of output produced. 
+Variable costs are costs that change when the firm 
+ alters the quantity of output produced. 
+• From a firm’s total cost, two related measures of cost 
+are derived. Average total cost is total cost divided by 
+the quantity of output. Marginal cost is the amount by 
+which total cost rises if output increases by 1 unit.
+• When analyzing firm behavior, it
+--- PAGE 293 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+1. What is the relationship between a firm’s total  
+revenue, profit, and total cost?
+2. Give an example of an opportunity cost that an  
+accountant would not count as a cost. Why would the 
+accountant ignore this cost?
+3. What is marginal product, and what does it mean if it 
+4. Draw a production function that exhibits diminishing 
+marginal product of labor. Draw the associated  
+total-cost curve. (In both cases, be sure to label the axes.) 
+Explain the shapes of the two curves you have drawn.
+5. Define total cost, average total cost, and marginal cost. 
+6. Draw the marginal-cost and average-total-cost  
+curves for a typical firm. Explain why the curves have 
+the shapes that they do and why they intersect where 
+7. How and why does a firm’s average-total-cost curve 
+differ in the short run compared with the long run? 
+8. Define economies of scale and explain why they might 
+arise. Define diseconomies of scale and explain why they 
+production function, p. 252
+diminishing marginal product, p. 253
+average total cost, p. 256
+average fixed cost, p. 256
+average variable cost, p. 256
+economies of scale, p. 261
+diseconomies of scale, p. 261
+constant returns to scale, p. 261
+1. This chapter discusses many types of costs: 
+ opportunity cost, total cost, fixed cost, variable cost, 
+average total cost, and marginal cost. Fill in the 
+--- PAGE 294 ---
+CHAPTER 13   THE COSTS OF PRODUCTION
+b. Use these data to graph the fisherman’s  
+production function. Explain its shape.
+c. The fisherman has a fixed cost of $10 (his pole). 
+The opportunity cost of his time is $5 per hour. 
+Graph the fisherman’s total-cost curve. Explain  
+4. Nimbus, Inc., makes brooms and then sells them door-
+to-door. Here is the relationship between the number 
+of workers and Nimbus’s output during a given day:
+a. Fill in the column of marginal products. What  
+pattern do you see? How might you explain it?
+b. A worker costs $100 a day, and the firm has fixed 
+costs of $200. Use this information to fill in the  
+c. Fill in the column for average total cost. (Recall 
+that ATC 5 TC/Q.) What pattern do you see? 
+d. Now fill in the column for marginal cost. (Recall 
+that MC 5 ΔTC/ΔQ.) What pattern do you see? 
+e. Compare the column for marginal product 
+with the column for marginal cost. Explain the 
+f. Compare the column for average total cost 
+with the column for marginal cost. Explain the 
+5. You are the chief financial officer for a firm that sells 
+digital music players. Your firm has the following  
+average-total-cost schedule:
+ Your current level of production is 600 devices,  
+all of which have been sold. Someone calls, desperate 
+to buy one of your music players. The caller offers  
+you $550 for it. Should you accept the offer?  
+6. Consider the follow
+--- PAGE 295 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+9. Jane’s Juice Bar has the following cost schedules:
+a. Calculate average variable cost, average total  
+cost, and marginal cost for each quantity.
+b. Graph all three curves. What is the relationship 
+between the marginal-cost curve and the  
+average-total-cost curve? Between the  
+marginal-cost curve and the average-variable- 
+10. Consider the following table of long-run total costs for 
+   Does each of these firms experience economies of scale 
+--- PAGE 296 ---
+f your local gas station raised its price for gasoline by 20 percent, it would see a 
+large drop in the amount of gasoline it sold. Its customers would quickly switch 
+to buying their gasoline at other gas stations. By contrast, if your local water com-
+pany raised the price of water by 20 percent, it would see only a small decrease in 
+the amount of water it sold. People might water their lawns less often and buy more 
+water-efficient showerheads, but they would be hard-pressed to reduce  water con-
+sumption greatly or to find another supplier. The difference between the gasoline 
+market and the water market is that many firms supply gasoline to the local mar-
+ket, but only one firm supplies water. As you might expect, this difference in 
+ market structure shapes the pricing and production decisions of the firms 
+that operate in these markets.
+--- PAGE 297 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+In this chapter, we examine the behavior of competitive firms, such as your 
+local gas station. You may recall that a market is competitive if each buyer and 
+seller is small compared to the size of the market and, therefore, has little ability 
+to influence market prices. By contrast, if a firm can influence the market price of 
+the good it sells, it is said to have market power. Later in the book, we examine the 
+behavior of firms with market power, such as your local water company.
+Our analysis of competitive firms in this chapter sheds light on the decisions 
+that lie behind the supply curve in a competitive market. Not surprisingly, we 
+find that a market supply curve is tightly linked to firms’ costs of production. 
+Less obvious, however, is the question of which among a firm’s many types of 
+cost—fixed, variable, average, and marginal—are most relevant for its supply 
+decisions. We see that all these measures of cost play important and interre-
+14-1 What Is a Competitive Market?
+Our goal in this chapter is to examine how firms make production decisions in 
+competitive markets. As a background for this analysis, we begin by reviewing 
+what a competitive market is.
+14-1a The Meaning of Competition
+A competitive market, sometimes called a perfectly competitive market, has two 
+• There are many buyers and many sellers i
+--- PAGE 298 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+14-1b The Revenue of a Competitive Firm
+A firm in a competitive market, like most other firms in the economy, tries to max-
+imize profit (total revenue minus total cost). To see how it does this, we first con-
+sider the revenue of a competitive firm. To keep matters concrete, let’s consider a 
+specific firm: the Vaca Family Dairy Farm.
+The Vaca Farm produces a quantity of milk, Q, and sells each unit at the market 
+price, P. The farm’s total revenue is P 3 Q. For example, if a gallon of milk sells 
+for $6 and the farm sells 1,000 gallons, its total revenue is $6,000.
+Because the Vaca Farm is small compared to the world market for milk, it takes 
+the price as given by market conditions. This means, in particular, that the price 
+of milk does not depend on the number of gallons that the Vaca Farm produces 
+and sells. If the Vacas double the amount of milk they produce to 2,000 gallons, 
+the price of milk remains the same, and their total revenue doubles to $12,000. As 
+a result, total revenue is proportional to the amount of output.
+Table 1 shows the revenue for the Vaca Family Dairy Farm. Columns (1) and (2) 
+show the amount of output the farm produces and the price at which it sells its 
+output. Column (3) is the farm’s total revenue. The table assumes that the price of 
+milk is $6 a gallon, so total revenue is $6 times the number of ga
+--- PAGE 299 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Column (4) in the table shows average revenue, which is total revenue [from 
+column (3)] divided by the amount of output [from column (1)]. Average revenue 
+tells us how much revenue a firm receives for the typical unit sold. In Table 1, you 
+can see that average revenue equals $6, the price of a gallon of milk. This illus-
+trates a general lesson that applies not only to competitive firms but to other firms 
+as well. Average revenue is total revenue (P 3 Q) divided by the quantity (Q). 
+Therefore, for all types of firms, average revenue equals the price of the good.
+Column (5) shows marginal revenue, which is the change in total revenue from 
+the sale of each additional unit of output. In Table 1, marginal revenue equals $6, 
+the price of a gallon of milk. This result illustrates a lesson that applies only to 
+competitive firms. Total revenue is P 3 Q, and P is fixed for a competitive firm. 
+Therefore, when Q rises by 1 unit, total revenue rises by P dollars. For competitive 
+firms, marginal revenue equals the price of the good.
+When a competitive firm doubles the amount it sells, what happens to the 
+price of its output and its total revenue?
+14-2  Profit Maximization and the Competitive Firm’s 
+The goal of a firm is to maximize profit, which equals total revenue minus 
+total cost. We have just discussed the competitive 
+--- PAGE 300 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+revenue exceeds marginal cost, increasing the quantity produced raises profit. 
+Once the Vaca Farm has reached 5 gallons of milk, however, the situation changes. 
+The sixth gallon would have a marginal revenue of $6 and a marginal cost of $7, 
+so producing it would reduce profit by $1 (from $7 to $6). As a result, the Vacas 
+would not produce beyond 5 gallons.
+One of the Ten Principles of Economics in Chapter 1 is that rational people think 
+at the margin. We now see how the Vaca Family Dairy Farm can apply this prin-
+ciple. If marginal revenue is greater than marginal cost—as it is at 1, 2, and 3 
+ gallons—the Vacas should increase the production of milk because it will put 
+more money in their pockets (marginal revenue) than it takes out (marginal cost). 
+If marginal revenue is less than marginal cost—as it is at 6, 7, and 8 gallons—
+the Vacas should decrease production. If the Vacas think at the margin and make 
+incremental adjustments to the level of production, they end up producing the 
+ profit-maximizing quantity.
+14-2b The Marginal-Cost Curve and the Firm’s Supply Decision
+To extend this analysis of profit maximization, consider the cost curves in 
+Figure 1. These cost curves have the three features that, as we discussed in the 
+previous chapter, are thought to describe most firms: The marginal-cost curve 
+(MC) is upward-sloping
+--- PAGE 301 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+This figure shows the marginal-cost curve (MC), the average-total-cost curve (ATC), and 
+the average-variable-cost curve (AVC). It also shows the market price (P), which for a 
+competitive firm equals both marginal revenue (MR) and average revenue (AR). At the 
+ quantity Q1, marginal revenue MR1 exceeds marginal cost MC1, so raising production 
+ increases profit. At the quantity Q2, marginal cost MC2 is above marginal revenue MR2, so 
+reducing production increases profit. The profit-maximizing quantity QMAX is found where 
+the horizontal line representing the price intersects the marginal-cost curve.
+of the firm’s output is the same regardless of the quantity that the firm decides 
+to produce. Keep in mind that, for a competitive firm, the price equals both the 
+firm’s average revenue (AR) and its marginal revenue (MR). 
+We can use Figure 1 to find the quantity of output that maximizes profit. Imag-
+ine that the firm is producing at Q1. At this level of output, the marginal-revenue 
+curve is above the marginal-cost curve, showing that marginal revenue is greater 
+than marginal cost. This means that if the firm were to raise production by 1 unit, 
+the additional revenue (MR1) would exceed the additional cost (MC1). Profit, 
+which equals total revenue minus total cost, would increase. Hence, if marginal 
+revenue is greater t
+--- PAGE 302 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+quantity produced reaches QMAX. This analysis yields three general rules for 
+• If marginal revenue is greater than marginal cost, the firm should increase its 
+• If marginal cost is greater than marginal revenue, the firm should decrease its 
+• At the profit-maximizing level of output, marginal revenue and marginal 
+These rules are the key to rational decision making by any profit-maximizing 
+firm. They apply not only to competitive firms but, as we will see in the next 
+chapter, to other types of firms as well.
+We can now see how the competitive firm decides what quantity of its good 
+to supply to the market. Because a competitive firm is a price taker, its marginal 
+revenue equals the market price. For any given price, the competitive firm’s 
+ profit-maximizing quantity of output is found by looking at the intersection of the 
+price with the marginal-cost curve. In Figure 1, that quantity of output is QMAX.
+Suppose that the price prevailing in this market rises, perhaps because of an 
+increase in market demand. Figure 2 shows how a competitive firm responds to 
+the price increase. When the price is P1, the firm produces quantity Q1, the quan-
+tity that equates marginal cost to the price. When the price rises to P2, the firm 
+finds that marginal revenue is now higher than marginal cost at the previous level 
+of output, so the firm inc
+--- PAGE 303 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Here we need to distinguish between a temporary shutdown of a firm and 
+the permanent exit of a firm from the market. A shutdown refers to a short-run 
+ decision not to produce anything during a specific period of time because of cur-
+rent market conditions. Exit refers to a long-run decision to leave the market. The 
+short-run and long-run decisions differ because most firms cannot avoid their 
+fixed costs in the short run but can do so in the long run. That is, a firm that shuts 
+down temporarily still has to pay its fixed costs, whereas a firm that exits the mar-
+ket does not have to pay any costs at all, fixed or variable.
+For example, consider the production decision that a farmer faces. The cost of 
+the land is one of the farmer’s fixed costs. If the farmer decides not to produce any 
+crops one season, the land lies fallow, and he cannot recover this cost. When making 
+the short-run decision of whether to shut down for a season, the fixed cost of land is 
+said to be a sunk cost. By contrast, if the farmer decides to leave farming altogether, 
+he can sell the land. When making the long-run decision of whether to exit the mar-
+ket, the cost of land is not sunk. (We return to the issue of sunk costs shortly.)
+Now let’s consider what determines a firm’s shutdown decision. If the firm 
+shuts down, it loses all revenue fro
+--- PAGE 304 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+competitive firm’s supply 
+curve is its marginal-cost 
+variable cost (AVC). If the 
+price falls below average 
+variable cost, the firm is 
+1. In the short run, the firm 
+14-2d Spilt Milk and Other Sunk Costs
+Sometime in your life you may have been told, “Don’t cry over spilt milk,” or 
+“Let bygones be bygones.” These adages hold a deep truth about rational decision 
+making. Economists say that a cost is a sunk cost when it has already been com-
+mitted and cannot be recovered. Because nothing can be done about sunk costs, 
+you should ignore them when making decisions about various aspects of life, 
+ including business strategy.
+Our analysis of the firm’s shutdown decision is one example of the irrelevance 
+of sunk costs. We assume that the firm cannot recover its fixed costs by tempo-
+rarily stopping production. That is, regardless of the quantity of output supplied 
+(even if it is zero), the firm still has to pay its fixed costs. As a result, the fixed 
+costs are sunk in the short run, and the firm should ignore them when decid-
+ing how much to produce. The firm’s short-run supply curve is the part of the 
+ marginal-cost curve that lies above average variable cost, and the size of the fixed 
+cost does not matter for this supply decision.
+The irrelevance of sunk costs is also important when making personal deci-
+sions. Imagine, for insta
+--- PAGE 305 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+a restaurant’s costs—the rent, kitchen equipment, tables, plates, silverware, and 
+so on—are fixed. Shutting down during lunch would not reduce these costs. In 
+other words, these costs are sunk in the short run. When the owner is deciding 
+whether to serve lunch, only the variable costs—the price of the additional food 
+and the wages of the extra staff—are relevant. The owner shuts down the restau-
+rant at lunchtime only if the revenue from the few lunchtime customers would fail 
+to cover the restaurant’s variable costs.
+An operator of a miniature-golf course in a summer resort community faces 
+a similar decision. Because revenue varies substantially from season to season, 
+the firm must decide when to open and when to close. Once again, the fixed 
+costs—the costs of buying the land and building the course—are irrelevant in 
+making this short-run decision. The miniature-golf course should be open for 
+business only during those times of year when its revenue exceeds its variable 
+14-2e The Firm’s Long-Run Decision to Exit or Enter a Market
+A firm’s long-run decision to exit a market is similar to its shutdown decision. If 
+the firm exits, it will again lose all revenue from the sale of its product, but now 
+it will save not only its variable costs of production but also its fixed costs. Thus, 
+the firm exits the market if
+--- PAGE 306 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+curve is its marginal-cost 
+price falls below average 
+total cost, the firm is better 
+1. In the long run, the firm 
+The firm exits if total revenue is less than total cost. By dividing both sides of this 
+inequality by quantity Q, we can write it as 
+We can simplify this further by noting that TR/Q is average revenue, which 
+equals the price P, and that TC/Q is average total cost, ATC. Therefore, the firm’s 
+That is, a firm chooses to exit if the price of its good is less than the average total 
+A parallel analysis applies to an entrepreneur who is considering starting 
+a firm. He will enter the market if starting the firm would be profitable, which 
+occurs if the price of the good exceeds the average total cost of production. The 
+The rule for entry is exactly the opposite of the rule for exit. 
+We can now describe a competitive firm’s long-run profit-maximizing strat-
+egy. If the firm produces anything, it chooses the quantity at which marginal cost 
+equals the price of the good. Yet if the price is less than the average total cost at 
+that quantity, the firm chooses to exit (or not enter) the market. These results are 
+illustrated in Figure 4. The competitive firm’s long-run supply curve is the portion of its 
+marginal-cost curve that lies above average total cost. 
+14-2f Measuring Profit in Our Graph for the Competitive Firm
+As we 
+--- PAGE 307 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+The area of the shaded box between price and average total cost represents the firm’s 
+profit. The height of this box is price minus average total cost (P 2 ATC), and the 
+width of the box is the quantity of output (Q). In panel (a), price is above average total 
+cost, so the firm has positive profit. In panel (b), price is less than average total cost, 
+so the firm incurs a loss.
+Profit as the Area between 
+(profit-maximizing quantity)
+(loss-minimizing quantity)
+We can rewrite this definition by multiplying and dividing the right side by Q:
+Profit 5 (TR/Q 2 TC/Q) 3 Q.
+Note that TR/Q is average revenue, which is the price, P, and TC/Q is average 
+total cost, ATC. Therefore,
+This way of expressing the firm’s profit allows us to measure profit in our graphs. 
+Panel (a) of Figure 5 shows a firm earning positive profit. As we have already 
+discussed, the firm maximizes profit by producing the quantity at which price 
+equals marginal cost. Now look at the shaded rectangle. The height of the rectan-
+gle is P 2 ATC, the difference between price and average total cost. The width of 
+the rectangle is Q, the quantity produced. Therefore, the area of the rectangle is 
+(P 2 ATC) 3 Q, which is the firm’s profit. 
+Similarly, panel (b) of this figure shows a firm with losses (negative profit). In 
+this case, maximizing profit means minim
+--- PAGE 308 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+14-3 The Supply Curve in a Competitive Market
+Now that we have examined the supply decision of a single firm, we can discuss 
+the supply curve for a market. There are two cases to consider. First, we examine 
+a market with a fixed number of firms. Second, we examine a market in which 
+the number of firms can change as old firms exit the market and new firms enter. 
+Both cases are important, for each applies to a specific time horizon. Over short 
+periods of time, it is often difficult for firms to enter and exit, so the assumption of 
+a fixed number of firms is appropriate. But over long periods of time, the number 
+of firms can adjust to changing market conditions.
+14-3a The Short Run: Market Supply with a Fixed Number of Firms
+Consider a market with 1,000 identical firms. For any given price, each firm sup-
+plies a quantity of output so that its marginal cost equals the price, as shown in 
+panel (a) of Figure 6. That is, as long as price is above average variable cost, each 
+firm’s marginal-cost curve is its supply curve. The quantity of output supplied to 
+the market equals the sum of the quantities supplied by each of the 1,000 individ-
+ual firms. Thus, to derive the market supply curve, we add the quantity supplied 
+by each firm in the market. As panel (b) of Figure 6 shows, because the firms are 
+identical, the quantity supplied t
+--- PAGE 309 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+and access to the same markets to buy the inputs for production. Therefore, all 
+current and potential firms have the same cost curves.
+Decisions about entry and exit in a market of this type depend on the incen-
+tives facing the owners of existing firms and the entrepreneurs who could start 
+new firms. If firms already in the market are profitable, then new firms will have 
+an incentive to enter the market. This entry will expand the number of firms, 
+ increase the quantity of the good supplied, and drive down prices and profits. 
+Conversely, if firms in the market are making losses, then some existing firms will 
+exit the market. Their exit will reduce the number of firms, decrease the quantity 
+of the good supplied, and drive up prices and profits. At the end of this process of 
+entry and exit, firms that remain in the market must be making zero economic profit.
+Recall that we can write a firm’s profit as
+This equation shows that an operating firm has zero profit if and only if the 
+price of the good equals the average total cost of producing that good. If price is 
+above average total cost, profit is positive, which encourages new firms to enter. 
+If price is less than average total cost, profit is negative, which encourages some 
+firms to exit. The process of entry and exit ends only when price and average total cost 
+--- PAGE 310 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+To understand the zero-profit condition more fully, recall that profit equals 
+total revenue minus total cost and that total cost includes all the opportunity costs 
+of the firm. In particular, total cost includes the time and money that the firm 
+owners devote to the business. In the zero-profit equilibrium, the firm’s revenue 
+must compensate the owners for these opportunity costs.
+Consider an example. Suppose that, to start his farm, a farmer had to invest 
+$1 million, which otherwise he could have deposited in a bank and earned $50,000 
+a year in interest. In addition, he had to give up another job that would have paid 
+him $30,000 a year. Then the farmer’s opportunity cost of farming includes both 
+the interest he could have earned and the forgone wages—a total of $80,000. Even 
+if his profit is driven to zero, his revenue from farming compensates him for these 
+Keep in mind that accountants and economists measure costs differently. As 
+we discussed in the previous chapter, accountants keep track of explicit costs but 
+not implicit costs. That is, they measure costs that require an outflow of money 
+from the firm, but they do not include the opportunity costs of production that do 
+not involve an outflow of money. As a result, in the zero-profit equilibrium, eco-
+nomic profit is zero, but accounting profit is positive. Our farmer’s
+--- PAGE 311 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Suppose the market for milk begins in a long-run equilibrium. Firms are earn-
+ing zero profit, so price equals the minimum of average total cost. Panel (a) of 
+ Figure 8 shows this situation. The long-run equilibrium is point A, the quantity 
+sold in the market is Q1, and the price is P1. 
+Now suppose scientists discover that milk has miraculous health benefits. 
+As a result, the quantity of milk demanded at every price increases, and the 
+demand curve for milk shifts outward from D1 to D2, as in panel (b). The short-
+run equilibrium moves from point A to point B; as a result, the quantity rises 
+from Q1 to Q2, and the price rises from P1 to P2. All of the existing firms respond 
+to the higher price by raising the amount they produce. Because each firm’s 
+supply curve reflects its marginal-cost curve, how much each firm increases 
+production is determined by the marginal-cost curve. In the new short-run 
+equilibrium, the price of milk exceeds average total cost, so the firms are mak-
+Over time, the profit generated in this market encourages new firms to enter. 
+Some farmers may switch to producing milk instead of other farm products, for 
+example. As the number of firms grows, the quantity supplied at every price in-
+creases, the short-run supply curve shifts to the right from S1 to S2, as in panel (c), 
+and this shift cau
+--- PAGE 312 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+The market starts in a long-run equilibrium, shown as point A in panel (a). In this equilibrium, 
+each firm makes zero profit, and the price equals the minimum average total cost. Panel (b) 
+shows what happens in the short run when demand rises from D1 to D2. The equilibrium goes 
+from point A to point B, price rises from P1 to P2, and the quantity sold in the market rises from 
+Q1 to Q2. Because price now exceeds average total cost, each firm now makes a profit, which over 
+time encourages new firms to enter the market. This entry shifts the short-run supply curve to the 
+right from S1 to S2, as shown in panel (c). In the new long-run equilibrium, point C, price has re-
+turned to P1 but the quantity sold has increased to Q3. Profits are again zero, and price is back to 
+the minimum of average total cost, but the market has more firms to satisfy the greater demand.
+entry, supply increases and 
+--- PAGE 313 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+1. A perfectly competitive firm
+a. chooses its price to maximize profits.
+b. sets its price to undercut other firms selling similar 
+c. takes its price as given by market conditions.
+d. picks the price that yields the largest market share.
+2. A competitive firm maximizes profit by choosing the 
+a. average total cost is at its minimum.
+b. marginal cost equals the price.
+c. average total cost equals the price.
+d. marginal cost equals average total cost. 
+the price must rise to make entry profitable for them. Thus, the long-run market 
+supply curve for painting services slopes upward even with free entry into the 
+Notice that if firms have different costs, some firms earn profit even in the 
+long run. In this case, the price in the market reflects the average total cost of the 
+marginal firm—the firm that would exit the market if the price were any lower. 
+This firm earns zero profit, but firms with lower costs earn positive profit. Entry 
+does not eliminate this profit because would-be entrants have higher costs than 
+firms already in the market. Higher-cost firms will enter only if the price rises, 
+making the market profitable for them.
+Thus, for these two reasons, a higher price may be necessary to induce a larger 
+quantity supplied, in which case the long-run supply curve is upward-sloping 
+rather than horizontal. Noneth
+--- PAGE 314 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+3. A competitive firm’s short-run supply curve is its 
+________ cost curve above its ________ cost curve.
+a. average total, marginal
+b. average variable, marginal
+c. marginal, average total
+d. marginal, average variable
+4. If a profit-maximizing, competitive firm is producing 
+a quantity at which marginal cost is between average 
+variable cost and average total cost, it will
+a. keep producing in the short run but exit the  market 
+b. shut down in the short run but return to production 
+c. shut down in the short run and exit the market in 
+d. keep producing both in the short run and in the 
+5. In the long-run equilibrium of a competitive  market 
+with identical firms, what are the relationships 
+among price P, marginal cost MC, and average total 
+6. Pretzel stands in New York City are a perfectly 
+ competitive industry in long-run equilibrium. One day, 
+the city starts imposing a $100 per month tax on 
+each stand. How does this policy affect the number of 
+pretzels consumed in the short run and the long run?
+a. down in the short run, no change in the long run
+b. up in the short run, no change in the long run
+c. no change in the short run, down in the long run
+d. no change in the short run, up in the long run
+• Because a competitive firm is a price taker, its revenue 
+is proportional to the amount of output it produces. 
+The price of the 
+--- PAGE 315 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+6. Does a competitive firm’s price equal its marginal cost 
+in the short run, in the long run, or both? Explain.
+7. Does a competitive firm’s price equal the minimum of 
+its average total cost in the short run, in the long run, 
+8. Are market supply curves typically more elastic in the 
+short run or in the long run? Explain.
+1. Many small boats are made of fiberglass and a resin 
+ derived from crude oil. Suppose that the price of 
+a. Using diagrams, show what happens to the cost 
+curves of an individual boat-making firm and to 
+b. What happens to the profits of boat makers in the 
+short run? What happens to the number of boat 
+2. Bob’s lawn-mowing service is a profit-maximizing, 
+competitive firm. Bob mows lawns for $27 each. His 
+total cost each day is $280, of which $30 is a fixed cost. 
+He mows 10 lawns a day. What can you say about 
+Bob’s short-run decision regarding shutdown and his 
+long-run decision regarding exit?
+3. Consider total cost and total revenue given in the fol-
+a. Calculate profit for each quantity. How much 
+should the firm produce to maximize profit?
+b. Calculate marginal revenue and marginal cost 
+for each quantity. Graph them. (Hint: Put the 
+points between whole numbers. For example, the 
+ marginal cost between 2 and 3 should be graphed 
+at 2½.) At what quantity do these curves cross? 
+How does this
+--- PAGE 316 ---
+CHAPTER 14   FIRMS IN COMPETITIVE MARKETS
+8. The market for fertilizer is perfectly competitive. 
+Firms in the market are producing output but are cur-
+rently incurring economic losses. 
+a. How does the price of fertilizer compare to the av-
+erage total cost, the average variable cost, and the 
+marginal cost of producing fertilizer? 
+b. Draw two graphs, side by side, illustrating the 
+present situation for the typical firm and for the 
+c. Assuming there is no change in either demand or 
+the firms’ cost curves, explain what will happen 
+in the long run to the price of fertilizer, marginal 
+cost, average total cost, the quantity supplied by 
+each firm, and the total quantity supplied to the 
+9. The market for apple pies in the city of Ectenia is com-
+petitive and has the following demand schedule:
+Each producer in the market has fixed costs of $9 and 
+the following marginal cost:
+a. Compute each producer’s total cost and average 
+total cost for 1 to 6 pies.
+b. The price of a pie is now $11. How many pies are 
+sold? How many pies does each producer make? 
+How many producers are there? How much profit 
+c. Is the situation described in part (b) a long-run 
+equilibrium? Why or why not?
+d. Suppose that in the long run there is free entry 
+and exit. How much profit does each producer 
+earn in the long-run equilibrium? What is the 
+market price? How many pies does each producer 
+make? H
+--- PAGE 317 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+ minimum?  What is marginal cost and average 
+total cost at that quantity?
+c. Give the equation for each firm’s supply curve.
+d. Give the equation for the market supply curve for 
+the short run in which the number of firms is fixed.
+e. What is the equilibrium price and quantity for this 
+f. In this equilibrium, how much does each firm 
+ produce? Calculate each firm’s profit or loss. Is 
+there incentive for firms to enter or exit?
+g. In the long run with free entry and exit, what is 
+the equilibrium price and quantity in this market?
+h. In this long-run equilibrium, how much does 
+each firm produce?  How many firms are in the 
+--- PAGE 318 ---
+f you own a personal computer, it probably uses some version of Windows, 
+the operating system sold by the Microsoft Corporation. When Microsoft first 
+ designed Windows many years ago, it applied for and received a copyright 
+from the government. The copyright gives Microsoft the exclusive right to make 
+and sell copies of the Windows operating system. If a person wants to buy a copy 
+of Windows, she has little choice but to give Microsoft the approximately $100 
+that the firm has decided to charge for its product. Microsoft is said to have a 
+ monopoly in the market for Windows.
+Microsoft’s business decisions are not well described by the model of firm 
+behavior we developed in the previous chapter. In that chapter, 
+--- PAGE 319 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+we analyzed competitive markets, in which many firms offer essentially identical 
+products, so each firm has little influence over the price it receives. By contrast, 
+a monopoly such as Microsoft has no close competitors and, therefore, has the 
+power to influence the market price of its product. Whereas a competitive firm is 
+a price taker, a monopoly firm is a price maker.
+In this chapter, we examine the implications of this market power. We will see 
+that market power alters the relationship between a firm’s costs and the price at 
+which it sells its product. A competitive firm takes the price of its output as given 
+by the market and then chooses the quantity it will supply so that price equals 
+marginal cost. By contrast, a monopoly charges a price that exceeds marginal cost. 
+Sure enough, we observe this practice in the case of Microsoft’s Windows. The 
+marginal cost of Windows—the extra cost that Microsoft incurs by downloading 
+one more copy of the program onto a CD—is only a few dollars. The market price 
+of Windows is many times its marginal cost.
+It is not surprising that monopolies charge high prices for their products. Cus-
+tomers of monopolies might seem to have little choice but to pay whatever the 
+monopoly charges. But if so, why does a copy of Windows not cost $1,000? Or 
+$10,000? The reason is that if M
+--- PAGE 320 ---
+• Monopoly resources: A key resource required for production is owned 
+• Government regulation: The government gives a single firm the 
+ exclusive right to produce some good or service.
+• The production process: A single firm can produce output at a lower 
+cost than can a larger number of firms.
+Let’s briefly discuss each of these.
+The simplest way for a monopoly to arise is for a single firm to own a key 
+resource. For example, consider the market for water in a small town. If 
+dozens of town residents have working wells, the model of competitive 
+markets discussed in the preceding chapter describes the behavior of sell-
+ers. Competition among suppliers drives the price of a gallon of water to 
+equal the marginal cost of pumping an extra gallon. But if there is only one 
+well in town and it is impossible to get water from anywhere else, then the 
+owner of the well has a monopoly on water. Not surprisingly, the monopolist has 
+much greater market power than any single firm in a competitive market. In the 
+case of a necessity like water, the monopolist can command quite a high price, 
+even if the marginal cost of pumping an extra gallon is low.
+A classic example of market power arising from the ownership of a key 
+ resource is DeBeers, the South African diamond company. Founded in 1888 by 
+Cecil Rhodes, an English businessman (and benefactor of the Rhodes scholar-
+ship), DeBeers
+--- PAGE 321 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+competition. But by allowing these monopoly producers to charge higher prices 
+and earn higher profits, the laws also encourage some desirable behavior. Drug 
+companies are allowed to be monopolists in the drugs they discover to encour-
+age research. Authors are allowed to be monopolists in the sale of their books to 
+ encourage them to write more and better books.
+Thus, the laws governing patents and copyrights have both benefits and costs. 
+The benefits of the patent and copyright laws are the increased incentives for cre-
+ative activity. These benefits are offset, to some extent, by the costs of monopoly 
+pricing, which we examine later in this chapter. 
+An industry is a natural monopoly when a single firm can supply a good or ser-
+vice to an entire market at a lower cost than could two or more firms. A natural 
+monopoly arises when there are economies of scale over the relevant range of out-
+put. Figure 1 shows the average total costs of a firm with economies of scale. In 
+this case, a single firm can produce any amount of output at the lowest cost. That 
+is, for any given amount of output, a larger number of firms leads to less output 
+per firm and higher average total cost.
+An example of a natural monopoly is the distribution of water. To provide 
+water to residents of a town, a firm must build a network of pipes thr
+--- PAGE 322 ---
+When a firm is a natural monopoly, it is less concerned about new entrants 
+eroding its monopoly power. Normally, a firm has trouble maintaining a monop-
+oly position without ownership of a key resource or protection from the govern-
+ment. The monopolist’s profit attracts entrants into the market, and these entrants 
+make the market more competitive. By contrast, entering a market in which 
+ another firm has a natural monopoly is unattractive. Would-be entrants know 
+that they cannot achieve the same low costs that the monopolist enjoys because, 
+after entry, each firm would have a smaller piece of the market. 
+In some cases, the size of the market is one determinant of whether an industry 
+is a natural monopoly. Again, consider a bridge across a river. When the popula-
+tion is small, the bridge may be a natural monopoly. A single bridge can satisfy 
+the entire demand for trips across the river at the lowest cost. Yet as the popula-
+tion grows and the bridge becomes congested, satisfying the entire demand may 
+require two or more bridges across the same river. Thus, as a market expands, a 
+natural monopoly can evolve into a more competitive market.
+What are the three reasons that a market might have a monopoly? • Give 
+two examples of monopolies and explain the reason for each.
+15-2  How Monopolies Make Production  
+Now that we know how monopolies arise, we can consider how a m
+--- PAGE 323 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+charge a high price and sell a large quantity at that high price. The market demand 
+curve makes that outcome impossible. In particular, the market demand curve 
+describes the combinations of price and quantity that are available to a monopoly 
+firm. By adjusting the quantity produced (or equivalently, the price charged), the 
+monopolist can choose any point on the demand curve, but it cannot choose a 
+point off the demand curve. 
+What price and quantity of output will the monopolist choose? As with com-
+petitive firms, we assume that the monopolist’s goal is to maximize profit. Because 
+the firm’s profit is total revenue minus total costs, our next task in  explaining 
+ monopoly behavior is to examine a monopolist’s revenue.
+15-2b A Monopoly’s Revenue
+Consider a town with a single producer of water. Table 1 shows how the mono-
+poly’s revenue might depend on the amount of water produced. 
+Columns (1) and (2) show the monopolist’s demand schedule. If the 
+monopolist produces 1 gallon of water, it can sell that gallon for $10. If it produces 
+2 gallons, it must lower the price to $9 to sell both gallons. If it produces 3 gallons, 
+it must lower the price to $8. And so on. If you graphed these two columns of 
+numbers, you would get a typical downward-sloping demand curve.
+Column (3) of the table presents the monopolist’s tota
+--- PAGE 324 ---
+Column (5) of Table 1 computes the firm’s marginal revenue, the amount of rev-
+enue that the firm receives for each additional unit of output. We compute mar-
+ginal revenue by taking the change in total revenue when output increases by 
+1 unit. For example, when the firm is producing 3 gallons of water, it receives  total 
+revenue of $24. Raising production to 4 gallons increases total revenue to $28. 
+Thus, marginal revenue from the sale of the fourth gallon is $28 minus $24, or $4.
+Table 1 shows a result that is important for understanding monopoly behavior: 
+A monopolist’s marginal revenue is less than the price of its good. For example, if the 
+firm raises production of water from 3 to 4 gallons, it increases total revenue by 
+only $4, even though it sells each gallon for $7. For a monopoly, marginal revenue 
+is lower than price because a monopoly faces a downward-sloping demand curve. 
+To increase the amount sold, a monopoly firm must lower the price it charges to 
+all customers. Hence, to sell the fourth gallon of water, the monopolist must earn 
+$1 less revenue for each of the first 3 gallons. This $3 loss accounts for the differ-
+ence between the price of the fourth gallon ($7) and the marginal revenue of that 
+Marginal revenue for monopolies is very different from marginal revenue for 
+competitive firms. When a monopoly increases the amount it sells, this action has 
+t
+--- PAGE 325 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Because a competitive firm can sell all it wants at the market price, there is no 
+price effect. When it increases production by 1 unit, it receives the market price for 
+that unit, and it does not receive any less for the units it was already selling. That 
+is, because the competitive firm is a price taker, its marginal revenue equals the 
+price of its good. By contrast, when a monopoly increases production by 1 unit, it 
+must reduce the price it charges for every unit it sells, and this cut in price reduces 
+revenue on the units it was already selling. As a result, a monopoly’s marginal 
+revenue is less than its price. 
+Figure 3 graphs the demand curve and the marginal-revenue curve for a 
+monopoly firm. (Because the firm’s price equals its average revenue, the demand 
+curve is also the average-revenue curve.) These two curves always start at the 
+same point on the vertical axis because the marginal revenue of the first unit sold 
+equals the price of the good. But for the reason we just discussed, the monopo-
+list’s marginal revenue on all units after the first is less than the price of the good. 
+Thus, a monopoly’s marginal-revenue curve lies below its demand curve. 
+You can see in Figure 3 (as well as in Table 1) that marginal revenue can even 
+become negative. Marginal revenue is negative when the price effect on reve
+--- PAGE 326 ---
+information we need to determine the level of output that a profit-maximizing 
+Suppose, first, that the firm is producing at a low level of output, such as Q1. 
+In this case, marginal cost is less than marginal revenue. If the firm increased pro-
+duction by 1 unit, the additional revenue would exceed the additional costs, and 
+profit would rise. Thus, when marginal cost is less than marginal revenue, the 
+firm can increase profit by producing more units.
+A similar argument applies at high levels of output, such as Q2. In this case, 
+marginal cost is greater than marginal revenue. If the firm reduced production 
+by 1 unit, the costs saved would exceed the revenue lost. Thus, if marginal cost is 
+greater than marginal revenue, the firm can raise profit by reducing production.
+In the end, the firm adjusts its level of production until the quantity reaches QMAX, at 
+which marginal revenue equals marginal cost. Thus, the monopolist’s  profit-maximizing 
+quantity of output is determined by the intersection of the marginal- revenue curve and the 
+marginal-cost curve. In Figure 4, this intersection occurs at point A.
+You might recall from the previous chapter that competitive firms also choose 
+the quantity of output at which marginal revenue equals marginal cost. In follow-
+ing this rule for profit maximization, competitive firms and monopolies are alike. 
+But there is also an importa
+--- PAGE 327 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+How does the monopoly find the profit-maximizing price for its product? 
+The demand curve answers this question because the demand curve relates the 
+amount that customers are willing to pay to the quantity sold. Thus, after the 
+monopoly firm chooses the quantity of output that equates marginal revenue and 
+marginal cost, it uses the demand curve to find the highest price it can charge for 
+that quantity. In Figure 4, the profit-maximizing price is found at point B.
+We can now see a key difference between markets with competitive firms and 
+markets with a monopoly firm: In competitive markets, price equals marginal cost. In 
+monopolized markets, price exceeds marginal cost. As we will see in a moment, this 
+finding is crucial to understanding the social cost of monopoly.
+How much profit does a monopoly make? To see a monopoly firm’s profit in a 
+graph, recall that profit equals total revenue (TR) minus total costs (TC):
+Profit 5 (TR/Q 2 TC/Q) 3 Q.
+TR/Q is average revenue, which equals the price, P, and TC/Q is average total 
+This equation for profit (which also holds for competitive firms) allows us to mea-
+sure the monopolist’s profit in our graph. 
+Consider the shaded box in Figure 5. The height of the box (the segment BC) 
+is price minus average total cost, P – ATC, which is the profit on the typical unit 
+sold. The wi
+--- PAGE 328 ---
+MONOPOLY DRUGS VERSUS GENERIC DRUGS
+According to our analysis, prices are determined differently in 
+monopolized markets and competitive markets. A natural place to 
+test this theory is the market for pharmaceutical drugs because this 
+market takes on both market structures. When a firm discovers a new drug, pat-
+ent laws give the firm a monopoly on the sale of that drug. But eventually, the 
+firm’s patent runs out, and any company can make and sell the drug. At that time, 
+the market switches from being monopolistic to being competitive.
+What should happen to the price of a drug when the patent runs out? Figure 6 
+shows the market for a typical drug. In this figure, the marginal cost of producing 
+the drug is constant. (This is approximately true for many drugs.) During the life 
+of the patent, the monopoly firm maximizes profit by producing the quantity at 
+which marginal revenue equals marginal cost and charging a price well above mar-
+ginal cost. But when the patent runs out, the profit from making the drug should 
+encourage new firms to enter the market. As the market becomes more competi-
+tive, the price should fall to equal marginal cost.
+Experience is, in fact, consistent with our theory. When the patent on a drug 
+ expires, other companies quickly enter and begin selling generic products that 
+are chemically identical to the former monopolist’s brand-name product. Just
+--- PAGE 329 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+brand name Prozac, and a generic version of the same medicine. Prozac sells for about 
+three times the price of generic fluoxetine. This price differential can persist because 
+some consumers are not convinced that the two pills are perfect substitutes. ●
+Explain how a monopolist chooses the quantity of output to produce and 
+When a patent gives a firm a monopoly 
+over the sale of a drug, the firm charges 
+the monopoly price, which is well above 
+the marginal cost of making the drug. 
+When the patent on a drug runs out, new 
+firms enter the market, making it more 
+competitive. As a result, the price falls 
+from the monopoly price to marginal cost.
+15-3 The Welfare Cost of Monopolies
+Is monopoly a good way to organize a market? We have seen that a monopoly, 
+in contrast to a competitive firm, charges a price above marginal cost. From the 
+standpoint of consumers, this high price makes monopoly undesirable. At the 
+same time, however, the monopoly is earning profit from charging this high price. 
+From the standpoint of the owners of the firm, the high price makes monopoly 
+very desirable. Is it possible that the benefits to the firm’s owners exceed the costs 
+imposed on consumers, making monopoly desirable from the standpoint of soci-
+We can answer this question using the tools of welfare economics. Recall from 
+Chapter 7 th
+--- PAGE 330 ---
+We begin by considering what the monopoly firm would do if it were run by a 
+benevolent social planner. The social planner cares not only about the profit 
+earned by the firm’s owners but also about the benefits received by the firm’s 
+consumers. The planner tries to maximize total surplus, which equals producer 
+surplus (profit) plus consumer surplus. Keep in mind that total surplus equals the 
+value of the good to consumers minus the costs of making the good incurred by 
+Figure 7 analyzes how a benevolent social planner would choose the monop-
+oly’s level of output. The demand curve reflects the value of the good to con-
+sumers, as measured by their willingness to pay for it. The marginal-cost curve 
+reflects the costs of the monopolist. Thus, the socially efficient quantity is found where 
+the demand curve and the marginal-cost curve intersect. Below this quantity, the value 
+of an extra unit to consumers exceeds the cost of providing it, so increasing out-
+put would raise total surplus. Above this quantity, the cost of producing an extra 
+unit exceeds the value of that unit to consumers, so decreasing output would raise 
+total surplus. At the optimal quantity, the value of an extra unit to consumers 
+exactly equals the marginal cost of production.
+If the social planner were running the monopoly, the firm could achieve this 
+efficient outcome by charging the price found at t
+--- PAGE 331 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+choose. As we have seen, the monopolist chooses to produce and sell the quantity 
+of output at which the marginal-revenue and marginal-cost curves intersect; the 
+social planner would choose the quantity at which the demand and marginal-cost 
+curves intersect. Figure 8 shows the comparison. The monopolist produces less than 
+the socially efficient quantity of output. 
+We can also view the inefficiency of monopoly in terms of the monopolist’s 
+price. Because the market demand curve describes a negative relationship 
+ between the price and quantity of the good, a quantity that is inefficiently low is 
+equivalent to a price that is inefficiently high. When a monopolist charges a price 
+above marginal cost, some potential consumers value the good at more than its 
+marginal cost but less than the monopolist’s price. These consumers do not buy 
+the good. Because the value these consumers place on the good is greater than the 
+cost of providing it to them, this result is inefficient. Thus, monopoly pricing pre-
+vents some mutually beneficial trades from taking place. 
+The inefficiency of monopoly can be measured with a deadweight loss tri-
+angle, as illustrated in Figure 8. Because the demand curve reflects the value to 
+consumers and the marginal-cost curve reflects the costs to the monopoly pro-
+ducer, the area of the deadweigh
+--- PAGE 332 ---
+15-3b The Monopoly’s Profit: A Social Cost?
+It is tempting to decry monopolies for “profiteering” at the expense of the public. 
+And indeed, a monopoly firm does earn a profit by virtue of its market power. 
+According to the economic analysis of monopoly, however, the firm’s profit is not 
+in itself necessarily a problem for society.
+Welfare in a monopolized market, as in all markets, includes the welfare of 
+both consumers and producers. Whenever a consumer pays an extra dollar to 
+a producer because of a monopoly price, the consumer is worse off by a dollar 
+and the producer is better off by the same amount. This transfer from the con-
+sumers of the good to the owners of the monopoly does not affect the market’s 
+total  surplus—the sum of consumer and producer surplus. In other words, the 
+monopoly profit itself represents not a reduction in the size of the economic pie 
+but merely a bigger slice for producers and a smaller slice for consumers.  Unless 
+consumers are for some reason more deserving than producers—a normative 
+judgment about equity that goes beyond the realm of economic efficiency—the 
+monopoly profit is not a social problem.
+The problem in a monopolized market arises because the firm produces and 
+sells a quantity of output below the level that maximizes total surplus. The 
+deadweight loss measures how much the economic pie shrinks as a result. This 
+inefficie
+--- PAGE 333 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+higher price to a customer, that customer would buy from another firm. For a firm 
+to price discriminate, it must have some market power.
+15-4a A Parable about Pricing
+To understand why a monopolist would price discriminate, let’s consider an 
+example. Imagine that you are the president of Readalot Publishing Company. 
+Readalot’s best-selling author has just written a new novel. To keep things 
+simple, let’s imagine that you pay the author a flat $2 million for the exclusive 
+rights to publish the book. Let’s also assume that the cost of printing the book is 
+zero (as it would be, for example, for an e-book). Readalot’s profit, therefore, 
+is the revenue from selling the book minus the $2 million it has paid to the 
+author. Given these assumptions, how would you, as Readalot’s president, 
+Your first step is to estimate the demand for the book. Readalot’s marketing 
+department tells you that the book will attract two types of readers. The book will 
+appeal to the author’s 100,000 die-hard fans who are willing to pay as much as 
+$30. In addition, it will appeal to about 400,000 less enthusiastic readers who will 
+If Readalot charges a single price to all customers, what price maximizes 
+profit? There are two natural prices to consider: $30 is the highest price Read-
+alot can charge and still get the 100,000 die-hard fans, an
+--- PAGE 334 ---
+15-4b The Moral of the Story
+Like any parable, the story of Readalot Publishing is stylized. Yet also like any 
+parable, it teaches some general lessons. In this case, three lessons can be learned 
+about price discrimination.
+The first and most obvious lesson is that price discrimination is a rational 
+strategy for a profit-maximizing monopolist. That is, by charging different prices 
+to different customers, a monopolist can increase its profit. In essence, a price- 
+discriminating monopolist charges each customer a price closer to her willingness 
+to pay than is possible with a single price.
+The second lesson is that price discrimination requires the ability to separate 
+customers according to their willingness to pay. In our example, customers were 
+separated geographically. But sometimes monopolists choose other differences, 
+such as age or income, to distinguish among customers.
+A corollary to this second lesson is that certain market forces can prevent firms 
+from price discriminating. In particular, one such force is arbitrage, the process 
+of buying a good in one market at a low price and selling it in another market 
+at a higher price to profit from the price difference. In our example, if Australian 
+bookstores could buy the book in the United States and resell it to Australian 
+readers, the arbitrage would prevent Readalot from price discriminating, because 
+no Austra
+--- PAGE 335 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+place, no deadweight loss occurs, and the entire surplus derived from the market 
+goes to the monopoly producer in the form of profit.
+In reality, of course, price discrimination is not perfect. Customers do not walk 
+into stores with signs displaying their willingness to pay. Instead, firms price dis-
+criminate by dividing customers into groups: young versus old, weekday versus 
+weekend shoppers, Americans versus Australians, and so on. Unlike those in our 
+parable of Readalot Publishing, customers within each group differ in their will-
+ingness to pay for the product, making perfect price discrimination impossible.
+How does this imperfect price discrimination affect welfare? The analysis of 
+these pricing schemes is complicated, and it turns out that there is no general 
+answer to this question. Compared with the single-price monopoly outcome, 
+imperfect price discrimination can raise, lower, or leave unchanged the total sur-
+plus in a market. The only certain conclusion is that price discrimination raises 
+the monopoly’s profit; otherwise, the firm would choose to charge all customers 
+15-4d Examples of Price Discrimination
+Firms in our economy use various business strategies aimed at charging different 
+prices to different customers. Now that we understand the economics of price dis-
+crimination, let’s consider some ex
+--- PAGE 336 ---
+of providing a seat for anyone else. Yet the differential pricing is easily 
+ explained if movie theaters have some local monopoly power and if chil-
+dren and senior citizens have a lower willingness to pay for a ticket. In this 
+case, movie theaters raise their profit by price discriminating.
+Airline Prices  Seats on airplanes are sold at many different prices. Most 
+airlines charge a lower price for a round-trip ticket between two cities if the 
+traveler stays over a Saturday night. At first, this seems odd. Why should it 
+matter to the airline whether a passenger stays over a Saturday night? The 
+reason is that this rule provides a way to separate business travelers and 
+leisure travelers. A passenger on a business trip has a high willingness to 
+pay and, most likely, does not want to stay over a Saturday night. By con-
+trast, a passenger traveling for personal reasons has a lower willingness to 
+pay and is more likely to be willing to stay over a Saturday night. Thus, the 
+airlines can successfully price discriminate by charging a lower price for 
+passengers who stay over a Saturday night.
+Discount Coupons  Many companies offer discount coupons to the public in 
+newspapers, magazines, or online. A buyer simply has to clip the coupon to get 
+$0.50 off her next purchase. Why do companies offer these coupons? Why don’t 
+they just cut the price of the product by $0.50?
+The answ
+--- PAGE 337 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Colleges and universities are  
+increasingly charging different prices 
+to different students, which makes 
+data on the cost of education harder 
+College Costs Aren’t Soaring
+onventional wisdom suggests that U.S. 
+colleges and universities have become 
+sharply more expensive in recent years.
+“When kids do graduate, the most daunt-
+ing challenge can be the cost of college,” 
+President Barack Obama said in his 2012 
+State of the Union address. “We can’t just 
+keep subsidizing skyrocketing tuition; we’ll 
+At first, the view that the cost of col-
+lege is rising appears to have data on its 
+side. Published tuition prices and fees at 
+colleges have risen three times faster than 
+the rate of Consumer Price Index inflation 
+since 1978, according to the Bureau of Labor 
+Real tuition and fees have increased, to 
+be sure, but hardly as significantly as the 
+ media often report or the data suggest at face 
+value. The inflation-adjusted net price of col-
+lege has risen only modestly over the last two 
+decades, according to data from the College 
+Board’s Annual Survey of Colleges.
+What has happened is a shift toward price 
+discrimination—offering multiple prices for 
+the same product. Universities have offset 
+the increase in sticker price for most families 
+through an expansion of grant-based financial 
+aid and scholarships. That has c
+--- PAGE 338 ---
+large soft-drink companies would make the U.S. soft-drink market substan-
+tially less competitive and, as a result, would reduce the economic well-being 
+of the country as a whole. If so, the Department of Justice would challenge the 
+merger in court, and if the judge agreed, the two companies would not be al-
+lowed to merge. It is precisely this kind of challenge that prevented  software 
+giant Microsoft from buying Intuit in 1994. Similarly, in 2011, the government 
+blocked the phone giant AT&T from buying its competitor T-Mobile.
+The government derives this power over private industry from the an-
+titrust laws, a collection of statutes aimed at curbing monopoly power. 
+The first and most important of these laws was the Sherman Antitrust Act, 
+which Congress passed in 1890 to reduce the market power of the large and 
+powerful “trusts” that were viewed as dominating the economy at the time. 
+The Clayton Antitrust Act, passed in 1914, strengthened the government’s 
+powers and authorized private lawsuits. As the U.S. Supreme Court once put 
+it, the antitrust laws are “a comprehensive charter of economic liberty aimed 
+at  preserving free and unfettered competition as the rule of trade.”
+The antitrust laws give the government various ways to promote compe-
+tition. They allow the government to prevent mergers, such as the merger 
+between AT&T and T-Mobile. At times, they allow the
+--- PAGE 339 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+declining average total cost. As we first discussed in Chapter 13, when average 
+total cost is declining, marginal cost is less than average total cost. This situation 
+is illustrated in Figure 10, which shows a firm with a large fixed cost and then 
+constant marginal cost thereafter. If regulators were to set price equal to marginal 
+cost, that price would be less than the firm’s average total cost and the firm would 
+lose money. Instead of charging such a low price, the monopoly firm would just 
+Regulators can respond to this problem in various ways, none of which is per-
+fect. One way is to subsidize the monopolist. In essence, the government picks up 
+the losses inherent in marginal-cost pricing. Yet to pay for the subsidy, the gov-
+ernment needs to raise money through taxation, which involves its own dead-
+weight losses. Alternatively, the regulators can allow the monopolist to charge a 
+price higher than marginal cost. If the regulated price equals average total cost, 
+the monopolist earns exactly zero economic profit. Yet average-cost pricing leads 
+to deadweight losses because the monopolist’s price no longer reflects the mar-
+ginal cost of producing the good. In essence, average-cost pricing is like a tax on 
+the good the monopolist is selling.
+The second problem with marginal-cost pricing as a regulatory system (
+--- PAGE 340 ---
+such as telephone, water, and electric companies. In the United States, the gov-
+ernment runs the Postal Service. The delivery of ordinary first-class mail is often 
+thought to be a natural monopoly. 
+Economists usually prefer private to public ownership of natural monopolies. 
+The key issue is how the ownership of the firm affects the costs of production. 
+Private owners have an incentive to minimize costs as long as they reap part of 
+the benefit in the form of higher profit. If the firm’s managers are doing a bad job 
+of keeping costs down, the firm’s owners will fire them. By contrast, if the govern-
+ment bureaucrats who run a monopoly do a bad job, the losers are the customers 
+and taxpayers, whose only recourse is the political system. The bureaucrats may 
+become a special-interest group and attempt to block cost-reducing reforms. Put 
+simply, as a way of ensuring that firms are well run, the voting booth is less reli-
+able than the profit motive.
+Each of the foregoing policies aimed at reducing the problem of monopoly has 
+drawbacks. As a result, some economists argue that it is often best for the gov-
+ernment not to try to remedy the inefficiencies of monopoly pricing. Here is the 
+assessment of economist George Stigler, who won the Nobel Prize for his work in 
+A famous theorem in economics states that a competitive enterprise economy 
+will produce the largest possible 
+--- PAGE 341 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+because their goods are not exactly the same as those offered by other firms. 
+A Ford Taurus is not the same as a Toyota Camry. Ben and Jerry’s ice cream is 
+not the same as Breyer’s. Each of these goods has a downward-sloping demand 
+curve, which gives each producer some degree of monopoly power.
+Yet firms with substantial monopoly power are rare. Few goods are truly 
+unique. Most have substitutes that, even if not exactly the same, are similar. Ben 
+and Jerry can raise the price of their ice cream a little without losing all their sales, 
+but if they raise it a lot, sales will fall substantially as their customers switch to 
+In the end, monopoly power is a matter of degree. It is true that many firms 
+have some monopoly power. It is also true that their monopoly power is usually 
+limited. In such a situation, we will not go far wrong assuming that firms operate 
+in competitive markets, even if that is not precisely the case.
+Competition versus Monopoly: 
+Can earn economic profits 
+Produces welfare-maximizing 
+Can earn economic profits 
+1. A firm is a natural monopoly if it exhibits the follow-
+ing as its output increases:
+a. decreasing marginal revenue.
+b. increasing marginal cost.
+c. decreasing average revenue.
+d. decreasing average total cost.
+2. For a profit-maximizing monopoly that charges the 
+same price to all cons
+--- PAGE 342 ---
+3. If a monopoly’s fixed costs increase, its price will 
+_____ and its profit will _____.
+c. increase, stay the same
+d. stay the same, decrease
+4. Compared to the social optimum, a monopoly firm 
+a. a quantity that is too low and a price that is  
+b. a quantity that is too high and a price that is  
+c. a quantity and a price that are both too high.
+d. a quantity and a price that are both too low. 
+5. The deadweight loss from monopoly arises because
+a. the monopoly firm makes higher profits than a 
+b. some potential consumers who forgo buying the 
+good value it more than its marginal cost.
+c. consumers who buy the good have to pay more 
+than marginal cost, reducing their consumer 
+d. the monopoly firm chooses a quantity that fails to 
+equate price and average revenue.
+6. When a monopolist switches from charging a single 
+price to practicing perfect price discrimination, it 
+• A monopoly is a firm that is the sole seller in its market. A 
+monopoly arises when a single firm owns a key resource, 
+when the government gives a firm the exclusive right to 
+produce a good, or when a single firm can supply the 
+ entire market at a lower cost than many firms could.
+• Because a monopoly is the sole producer in its mar-
+ket, it faces a downward-sloping demand curve for 
+its product. When a monopoly increases production 
+by 1 unit, it causes the price of its good to fall, which 
+reduces the 
+--- PAGE 343 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+1. A publisher faces the following demand schedule for 
+the next novel from one of its popular authors:
+The author is paid $2 million to write the book, and 
+the marginal cost of publishing the book is a constant 
+a. Compute total revenue, total cost, and profit  
+at each quantity. What quantity would a  
+profit-maximizing publisher choose? What  
+b. Compute marginal revenue. (Recall that  
+MR 5 ΔTR/ΔQ.) How does marginal revenue 
+compare to the price? Explain.
+c. Graph the marginal-revenue, marginal-cost, and 
+demand curves. At what quantity do the margin-
+al-revenue and marginal-cost curves cross? What 
+d. In your graph, shade in the deadweight loss.  
+Explain in words what this means.
+e. If the author were paid $3 million instead of  
+$2 million to write the book, how would this  
+affect the publisher’s decision regarding what 
+f. Suppose the publisher was not profit-maximizing 
+but was concerned with maximizing economic  
+efficiency. What price would it charge for the 
+book? How much profit would it make at this 
+kets, which have the same constant marginal cost. 
+a. Using a diagram of the market for groceries,  
+show the consumer surplus, producer surplus, 
+b. Now suppose that the independent supermarkets 
+combine into one chain. Using a new diagram, 
+show the new consumer surplus, producer  
+surplus, and total surplus
+--- PAGE 344 ---
+3. Johnny Rockabilly has just finished recording his latest 
+CD. His record company’s marketing department  
+determines that the demand for the CD is as follows:
+The company can produce the CD with no fixed cost 
+and a variable cost of $5 per CD.
+a. Find total revenue for quantity equal to 10,000, 
+20,000, and so on. What is the marginal revenue 
+for each 10,000 increase in the quantity sold?
+b. What quantity of CDs would maximize profit? 
+What would the price be? What would the  
+c. If you were Johnny’s agent, what recording  
+fee would you advise Johnny to demand from  
+4. A company is considering building a bridge across a 
+river. The bridge would cost $2 million to build and 
+nothing to maintain. The following table shows the 
+company’s anticipated demand over the lifetime  
+a. If the company were to build the bridge, what 
+would be its profit-maximizing price? Would that 
+be the efficient level of output? Why or why not?
+b. If the company is interested in maximizing profit, 
+should it build the bridge? What would be its 
+c. If the government were to build the bridge, what 
+d. Should the government build the bridge? Explain.
+5. Consider the relationship between monopoly pricing 
+and price elasticity of demand.
+a. Explain why a monopolist will never produce a 
+quantity at which the demand curve is inelastic. 
+(Hint: If demand is inelastic and the firm raises 
+its price, what
+--- PAGE 345 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+7. The residents of the town Ectenia all love economics, 
+and the mayor proposes building an economics  
+museum. The museum has a fixed cost of $2,400,000 
+and no variable costs. There are 100,000 town  
+residents, and each has the same demand for  
+museum visits: QD 5 10 2 P, where P is the price of 
+a. Graph the museum’s average-total-cost curve 
+and its marginal-cost curve. What kind of market 
+would describe the museum?
+b. The mayor proposes financing the museum with 
+a lump-sum tax of $24 and then opening the 
+museum to the public for free. How many times 
+would each person visit? Calculate the benefit 
+each person would get from the museum, mea-
+sured as consumer surplus minus the new tax.
+c. The mayor’s anti-tax opponent says the museum 
+should finance itself by charging an admission fee. 
+What is the lowest price the museum can charge 
+without incurring losses? (Hint: Find the number 
+of visits and museum profits for prices of $2, $3, 
+d. For the break-even price you found in part (c),  
+calculate each resident’s consumer surplus.  
+Compared with the mayor’s plan, who is better 
+off with this admission fee, and who is worse off? 
+e. What real-world considerations absent in the 
+problem above might provide reasons to favor an 
+8. Henry Potter owns the only well in town that pro-
+duces clean drinking water. He faces 
+--- PAGE 346 ---
+where Q indicates the number of copies sold and P is 
+the price in Ectenian dollars.
+a. Find the price and quantity that maximize the 
+b. Find the price and quantity that would maximize 
+c. Calculate the deadweight loss from monopoly.
+d. Suppose, in addition to the costs above, the  
+director of the film has to be paid. The company is 
+i. a flat fee of 2,000 Ectenian dollars. 
+ii. 50 percent of the profits.
+iii. 150 Ectenian dollars per unit sold. 
+iv. 50 percent of the revenue.
+For each option, calculate the profit-maximizing 
+price and quantity. Which, if any, of these compensa-
+tion schemes would alter the deadweight loss from 
+11. Larry, Curly, and Moe run the only saloon in town. 
+Larry wants to sell as many drinks as possible without 
+losing money. Curly wants the saloon to bring in as 
+much revenue as possible. Moe wants to make the 
+largest possible profits. Using a single diagram of  
+the saloon’s demand curve and its cost curves, show 
+the price and quantity combinations favored by each 
+of the three partners. Explain. (Hint: Only one of these 
+partners will want to set marginal revenue equal to 
+12. Many schemes for price discrimination involve some 
+cost. For example, discount coupons take up the time 
+and resources of both the buyer and the seller. This 
+question considers the implications of costly price 
+discrimination. To keep things simple, let’s assume 
+that o
+--- PAGE 347 ---
+
+--- PAGE 348 ---
+ou walk into a bookstore to buy a book to read during your next vacation. 
+On the store’s shelves you find a Patricia Cornwell mystery, a Stephen King 
+thriller, a Nathaniel Philbrick history, a Suzanne Collins dystopian survival 
+romance, and many other choices. When you pick out a book and buy it, what 
+kind of market are you participating in? 
+On the one hand, the market for books seems competitive. As you look over 
+the shelves at your bookstore, you find many authors and many publishers  vying 
+for your attention. A buyer in this market has thousands of competing products 
+from which to choose. And because anyone can enter the industry by writing 
+and  publishing a book, the book business is not very profitable. For every 
+highly paid novelist, there are hundreds of struggling ones.
+--- PAGE 349 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+On the other hand, the market for books seems monopolistic. Because each 
+book is unique, publishers have some latitude in choosing what price to charge. 
+The sellers in this market are price makers rather than price takers. And indeed, 
+the price of books greatly exceeds marginal cost. The price of a typical hardcover 
+novel, for instance, is about $25, whereas the cost of printing one additional copy 
+of the novel is less than $5.
+The market for novels fits neither the competitive nor the monopoly model. 
+ Instead, it is best described by the model of monopolistic competition, the subject 
+of this chapter. The term “monopolistic competition” might at first seem to be an 
+oxymoron, like “jumbo shrimp.” But as we will see, monopolistically competitive 
+industries are monopolistic in some ways and competitive in others. The model 
+describes not only the publishing industry but also the market for many other goods 
+16-1 Between Monopoly and Perfect Competition
+The previous two chapters analyzed markets with many competitive firms and 
+markets with a single monopoly firm. In Chapter 14, we saw that the price in a 
+perfectly competitive market always equals the marginal cost of production. We 
+also saw that, in the long run, entry and exit drive economic profit to zero, so the 
+price also equals average total cost. In Chapter 
+--- PAGE 350 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+A second type of imperfectly competitive market is called monopolistic 
+competition. This describes a market structure in which there are many firms 
+selling products that are similar but not identical. In a monopolistically competi-
+tive market, each firm has a monopoly over the product it makes, but many other 
+firms make similar products that compete for the same customers.
+To be more precise, monopolistic competition describes a market with the fol-
+• Many sellers: There are many firms competing for the same group of customers.
+• Product differentiation: Each firm produces a product that is at least slightly 
+different from those of other firms. Thus, rather than being a price taker, each 
+firm faces a downward-sloping demand curve.
+• Free entry and exit: Firms can enter or exit the market without restriction. 
+Thus, the number of firms in the market adjusts until economic profits are 
+A moment’s thought reveals a long list of markets with these attributes: books, 
+computer games, restaurants, piano lessons, cookies, clothing, and so on.
+Monopolistic competition, like oligopoly, is a market structure that lies 
+ between the extreme cases of perfect competition and monopoly. But oligopoly 
+and  monopolistic competition are quite different. Oligopoly departs from the per-
+fectly competitive ideal of Chapter 14 because there are only a few
+--- PAGE 351 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+market is a monopoly. If there are only a few firms, the market is an oligopoly. If 
+there are many firms, we need to ask another question: Do the firms sell identical 
+or differentiated products? If the many firms sell identical products, the market is 
+perfectly competitive. But if the many firms sell differentiated products, the mar-
+ket is monopolistically competitive. 
+Because reality is never as clear-cut as theory, at times you may find it 
+hard to decide what structure best describes a market. There is, for instance, 
+no magic number that separates “few” from “many” when counting the 
+ number of firms. (Do the approximately dozen companies that now sell cars 
+in the United States make this market an oligopoly, or is the market more 
+competitive? The answer is open to debate.) Similarly, there is no sure way 
+to  determine when products are differentiated and when they are identical. 
+(Are different brands of milk really the same? Again, the answer is debatable.) 
+When analyzing actual markets, economists have to keep in mind the lessons 
+learned from studying all types of market structure and then apply each les-
+son as it seems appropriate.
+Now that we understand how economists define the various types of market 
+structure, we can continue our analysis of each of them. In this chapter we exam-
+ine monopolistic com
+--- PAGE 352 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+All this should seem familiar. A monopolistically competitive firm chooses its 
+quantity and price just as a monopoly does. In the short run, these two types of 
+market structure are similar.
+16-2b The Long-Run Equilibrium
+The situations depicted in Figure 2 do not last long. When firms are making prof-
+its, as in panel (a), new firms have an incentive to enter the market. This entry 
+increases the number of products from which customers can choose and, there-
+fore, reduces the demand faced by each firm already in the market. In other 
+words, profit encourages entry, and entry shifts the demand curves faced by the 
+incumbent firms to the left. As the demand for incumbent firms’ products falls, 
+these firms experience declining profit. 
+Conversely, when firms are making losses, as in panel (b), firms in the mar-
+ket have an incentive to exit. As firms exit, customers have fewer products from 
+which to choose. This decrease in the number of firms expands the demand faced 
+by those firms that stay in the market. In other words, losses encourage exit, and 
+exit shifts the demand curves of the remaining firms to the right. As the demand 
+for the remaining firms’ products rises, these firms experience rising profits (that 
+This process of entry and exit continues until the firms in the market are mak-
+ing exactly zero economic profit. Figure 3 de
+--- PAGE 353 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+A Monopolistic Competitor  
+In a monopolistically competitive 
+market, if firms are making prof-
+its, new firms enter, causing the 
+demand curves for the incumbent 
+firms to shift to the left. Similarly, 
+if firms are making losses, some 
+of the firms in the market exit, 
+causing the demand curves of the 
+remaining firms to shift to the right. 
+Because of these shifts in demand, 
+monopolistically competitive firms 
+eventually find themselves in the 
+long-run equilibrium shown here. 
+In this long-run equilibrium, price 
+equals average total cost, and each 
+Notice that the demand curve in this figure just barely touches the 
+average- total-cost curve. Mathematically, we say the two curves are tangent to 
+each other. These two curves must be tangent once entry and exit have driven 
+profit to zero. Because profit per unit sold is the difference between price (found 
+on the demand curve) and average total cost, the maximum profit is zero only if 
+these two curves touch each other without crossing. Also note that this point of 
+tangency occurs at the same quantity where marginal revenue equals marginal 
+cost. That these two points line up is not a coincidence: It is required because this 
+particular quantity maximizes profit and the maximum profit is exactly zero in 
+To sum up, two characteristics describe the long-run equilibri
+--- PAGE 354 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+equilibrium with perfect competition.) There are two noteworthy differences 
+ between monopolistic and perfect competition: excess capacity and the markup. 
+Excess Capacity   As we have just seen, the process of entry and exit drives each 
+firm in a monopolistically competitive market to a point of tangency  between 
+its demand and average-total-cost curves. Panel (a) of Figure 4 shows that the 
+quantity of output at this point is smaller than the quantity that  minimizes 
+ average total cost. Thus, under monopolistic competition, firms produce on 
+the  downward-sloping portion of their average-total-cost curves. In this way, 
+ monopolistic competition contrasts starkly with perfect competition. As panel (b) 
+of Figure 4 shows, free entry in competitive markets drives firms to produce at the 
+minimum of average total cost. 
+The quantity that minimizes average total cost is called the efficient scale of the 
+firm. In the long run, perfectly competitive firms produce at the efficient scale, 
+whereas monopolistically competitive firms produce below this level. Firms are 
+said to have excess capacity under monopolistic competition. In other words, a 
+monopolistically competitive firm, unlike a perfectly competitive firm, could 
+ increase the quantity it produces and lower the average total cost of production. 
+The firm forgoes this opportunity 
+--- PAGE 355 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Markup over Marginal Cost   A second difference between perfect competition 
+and monopolistic competition is the relationship between price and marginal cost. 
+For a perfectly competitive firm, such as the one shown in panel (b) of  Figure 4, 
+price equals marginal cost. For a monopolistically competitive firm, such as the 
+one shown in panel (a), price exceeds marginal cost because the firm always has 
+How is this markup over marginal cost consistent with free entry and zero 
+profit? The zero-profit condition ensures only that price equals average total cost. 
+It does not ensure that price equals marginal cost. Indeed, in the long-run equilib-
+rium, monopolistically competitive firms operate on the declining portion of their 
+average-total-cost curves, so marginal cost is below average total cost. Thus, for 
+price to equal average total cost, price must be above marginal cost.
+In this relationship between price and marginal cost, we see a key behavioral 
+difference between perfect competitors and monopolistic competitors. Imagine 
+that you were to ask a firm the following question: “Would you like to see another 
+customer come through your door ready to buy from you at your current price?” 
+A perfectly competitive firm would answer that it didn’t care. Because price 
+exactly equals marginal cost, the profit from an extra 
+--- PAGE 356 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+According to an old quip, monopolistically competitive markets are those in 
+which sellers send Christmas cards to the buyers. Trying to attract more custom-
+ers makes sense only if price exceeds marginal cost.
+16-2d Monopolistic Competition and the Welfare of Society
+Is the outcome in a monopolistically competitive market desirable from the stand-
+point of society as a whole? Can policymakers improve on the market outcome? 
+In previous chapters we evaluated markets from the standpoint of efficiency 
+by asking whether society is getting the most it can out of its scarce resources. 
+We learned that competitive markets lead to efficient outcomes, unless there are 
+externalities, whereas monopoly markets lead to deadweight losses. Monopolis-
+tically competitive markets are more complex than either of these polar cases, so 
+evaluating welfare in these markets is a more subtle exercise.
+One source of inefficiency in monopolistically competitive markets is the 
+markup of price over marginal cost. Because of the markup, some consumers who 
+value the good at more than the marginal cost of production (but less than the 
+price) will be deterred from buying it. Thus, a monopolistically competitive mar-
+ket has the normal deadweight loss of monopoly pricing.
+This outcome is undesirable compared with the efficient quantity that arises 
+when price equals
+--- PAGE 357 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+always eager to sell additional units. Conversely, because perfectly competitive 
+firms produce identical goods and charge a price equal to marginal cost, neither 
+of these externalities exists under perfect competition.
+In the end, we can conclude only that monopolistically competitive markets do 
+not have all the desirable welfare properties of perfectly competitive markets. That 
+is, the invisible hand does not ensure that total surplus is maximized under monop-
+olistic competition. Yet because the inefficiencies are subtle, hard to measure, and 
+hard to fix, there is no easy way for public policy to improve the market outcome.
+List the three key attributes of monopolistic competition. • Draw and 
+explain a diagram to show the long-run equilibrium in a  monopolistically com-
+petitive market. How does this equilibrium differ from that in a perfectly competitive market?
+It is nearly impossible to go through a typical day in a modern economy without 
+being bombarded with advertising. Whether you are surfing the Internet, posting 
+on Facebook, reading a magazine, watching television, or driving down the high-
+way, some firm will try to convince you to buy its product. Such behavior is a nat-
+ural feature of monopolistic competition (as well as some oligopolistic industries). 
+When firms sell differentiated products and char
+--- PAGE 358 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+goods, thereby making the demand for a particular brand less elastic. When a 
+firm faces a less elastic demand curve, it can increase its profits by charging a 
+larger markup over marginal cost.
+The Defense of Advertising  Defenders of advertising argue that firms use adver-
+tising to provide information to customers. Advertising conveys the prices of the 
+goods offered for sale, the existence of new products, and the locations of retail 
+outlets. This information allows customers to make better choices about what to 
+buy and, thus, enhances the ability of markets to allocate resources efficiently.
+Defenders also argue that advertising fosters competition. Because advertising 
+allows customers to be more fully informed about all the firms in the market, cus-
+tomers can more easily take advantage of price differences. Thus, each firm has 
+less market power. In addition, advertising allows new firms to enter more easily 
+because it gives entrants a means to attract customers from existing firms.
+Over time, policymakers have come to accept the view that advertising can 
+make markets more competitive. One important example is the regulation of 
+ advertising for certain professions, such as lawyers, doctors, and pharmacists. In 
+the past, these groups succeeded in getting state governments to prohibit advertis-
+ing in their fields on the grounds
+--- PAGE 359 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+16-3b Advertising as a Signal of Quality
+Many types of advertising contain little apparent information about the product 
+being advertised. Consider a firm introducing a new breakfast cereal. The firm 
+might saturate the airwaves with advertisements showing some actor eating the 
+cereal and exclaiming how wonderful it tastes. How much information does the 
+advertisement really provide?
+The answer is more than you might think. Defenders of advertising argue that 
+even advertising that appears to contain little hard information may in fact tell 
+consumers something about product quality. The willingness of the firm to spend 
+a large amount of money on advertising can itself be a signal to consumers about 
+the quality of the product being offered.
+Consider the problem facing two firms—General Mills and Kellogg. Each com-
+pany has just come up with a recipe for a new cereal, which it would sell for $3 a 
+box. To keep things simple, let’s assume that the marginal cost of making cereal is 
+zero, so the $3 is all profit. Each company knows that if it spends $10 million on 
+advertising, it will get 1 million consumers to try its new cereal. And each company 
+knows that if consumers like the cereal, they will buy it not once but many times. 
+First consider General Mills’ decision. Based on market research, General Mills 
+knows that
+--- PAGE 360 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+This theory can explain why firms pay famous actors large amounts of money 
+to make advertisements that, on the surface, appear to convey no information at 
+all. The information is not in the advertisement’s content but simply in its exis-
+Advertising is closely related to the existence of brand names. In many markets, 
+there are two types of firms. Some firms sell products with widely recognized 
+brand names, while other firms sell generic substitutes. For example, in a typical 
+drugstore, you can find Bayer aspirin on the shelf next to generic aspirin. In a 
+typical grocery store, you can find Pepsi next to less familiar colas. Most often, the 
+firm with the brand name spends more on advertising and charges a higher price 
+Just as there is disagreement about the economics of advertising, there is dis-
+agreement about the economics of brand names. Let’s consider both sides of the 
+Critics argue that brand names cause consumers to perceive differences that do 
+not really exist. In many cases, the generic good is almost indistinguishable from the 
+brand-name good. Consumers’ willingness to pay more for the brand-name good, 
+these critics assert, is a form of irrationality fostered by advertising.  Economist 
+ Edward Chamberlin, one of the early developers of the theory of  monopolistic 
+ competition, concluded from this argument that brand n
+--- PAGE 361 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+The McDonald’s brand name also ensures that the company has an incentive to 
+maintain quality. For example, if some customers were to become ill from spoiled 
+food sold at a McDonald’s, the news would be disastrous for the company. 
+McDonald’s would lose much of the valuable reputation that it has built up with 
+years of expensive advertising. As a result, it would lose sales and profit not only 
+in the outlet that sold the bad food but also in many other McDonald’s outlets 
+throughout the country. By contrast, if some customers were to become ill from 
+bad food at a local restaurant, that restaurant might have to close down, but the 
+lost profits would be much smaller. Hence, McDonald’s has a greater incentive to 
+ensure that its food is safe.
+The debate over brand names thus centers on the question of whether consum-
+ers are rational in preferring brand names to generic substitutes. Critics argue 
+that brand names are the result of an irrational consumer response to advertising. 
+Defenders argue that consumers have good reason to pay more for brand-name 
+products because they can be more confident in the quality of these products. 
+How might advertising make markets less competitive? How might it make 
+markets more competitive? • Give the arguments for and against brand names.
+Rule for maximizing profit
+Features that mon
+--- PAGE 362 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+Because monopolistically competitive firms produce differentiated  products, 
+each firm advertises to attract customers to its own brand. To some extent, 
+ advertising manipulates consumers’ tastes, promotes irrational brand loyalty, and 
+impedes competition. To a larger extent, advertising provides information, estab-
+lishes brand names of reliable quality, and fosters competition. 
+The theory of monopolistic competition seems to describe many markets in the 
+economy. It is somewhat disappointing, therefore, that the theory does not yield 
+simple and compelling advice for public policy. From the standpoint of the eco-
+nomic theorist, the allocation of resources in monopolistically competitive mar-
+kets is not perfect. Yet from the standpoint of a practical policymaker, there may 
+be little that can be done to improve it.
+1. Which of the following conditions does NOT describe 
+a firm in a monopolistically competitive market?
+a. It sells a product different from its competitors.
+b. It takes its price as given by market conditions.
+c. It maximizes profit both in the short run and in the 
+d. It has the freedom to enter or exit in the long run.
+2. Which of the following markets best fits the definition 
+of monopolistic competition?
+3. A monopolistically competitive firm will increase its 
+a. marginal revenue is greater than marginal cost.
+b. ma
+--- PAGE 363 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+monopolistic competition, p. 321
+1. Describe the three attributes of monopolistic competi-
+tion. How is monopolistic competition like monopoly? 
+How is it like perfect competition?
+2. Draw a diagram depicting a firm that is making a 
+profit in a monopolistically competitive market. Now 
+show what happens to this firm as new firms enter the 
+3. Draw a diagram of the long-run equilibrium in a 
+monopolistically competitive market. How is price 
+related to average total cost? How is price related to 
+4. Does a monopolistic competitor produce too much or 
+too little output compared to the most efficient level? 
+What practical considerations make it difficult for  
+policymakers to solve this problem?
+5. How might advertising reduce economic well-being? 
+How might advertising increase economic well-being?
+6. How might advertising with no apparent infor-
+mational content in fact convey information to 
+7. Explain two benefits that might arise from the 
+ existence of brand names.
+1. Among monopoly, oligopoly, monopolistic competi-
+tion, and perfect competition, how would you classify 
+the markets for each of the following drinks?
+2. Classify the following markets as perfectly competi-
+tive, monopolistic, or monopolistically competitive, 
+c. local electricity service
+3. For each of the following characteristics, say whether 
+it descr
+--- PAGE 364 ---
+CHAPTER 16   MONOPOLISTIC COMPETITION
+6. Sparkle is one of the many firms in the market for 
+toothpaste, which is in long-run equilibrium.
+a. Draw a diagram showing Sparkle’s demand 
+curve, marginal-revenue curve, average-total-cost 
+curve, and marginal-cost curve. Label Sparkle’s 
+profit-maximizing output and price.
+b. What is Sparkle’s profit? Explain.
+c. On your diagram, show the consumer surplus 
+derived from the purchase of Sparkle toothpaste. 
+Also show the deadweight loss relative to the 
+ efficient level of output.
+d. If the government forced Sparkle to produce the 
+efficient level of output, what would happen 
+to the firm? What would happen to Sparkle’s 
+7. Consider a monopolistically competitive market with 
+N firms. Each firm’s business opportunities are  
+described by the following equations:
+Marginal Revenue: MR 5 100/N 2 2Q
+a. How does N, the number of firms in the market, 
+affect each firm’s demand curve? Why?
+b. How many units does each firm produce? 
+(The answers to this and the next two  
+c. What price does each firm charge?
+d. How much profit does each firm make?
+e. In the long run, how many firms will exist in this 
+8. The market for peanut butter in Nutville is monop-
+olistically competitive and in long-run equilibrium. 
+One day, consumer advocate Skippy Jif discovers that 
+all brands of peanut butter in Nutville are identical. 
+Thereafter, the market becom
+--- PAGE 365 ---
+
+--- PAGE 366 ---
+f you play tennis, you have probably used balls from one of four producers: 
+Penn, Wilson, Prince, or Dunlop Slazenger (two brands from the same com-
+pany). These four firms make almost all the tennis balls sold in the United 
+States. Together they determine the quantity of tennis balls produced and, given 
+the market demand curve, the price at which tennis balls are sold.
+The market for tennis balls is an example of an oligopoly. The essence of an 
+oligopolistic market is that there are only a few sellers. As a result, the actions of 
+any one seller in the market can have a large impact on the profits of all the other 
+sellers. Oligopolistic firms are interdependent in a way that competitive firms 
+are not. Our goal in this chapter is to see how this interdependence 
+shapes the firms’ behavior and what problems it raises 
+a market structure in which 
+only a few sellers offer similar 
+--- PAGE 367 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+The analysis of oligopoly offers an opportunity to introduce game theory, the 
+study of how people behave in strategic situations. By “strategic” we mean a situ-
+ation in which a person, when choosing among alternative courses of action, must 
+consider how others might respond to the action she takes. Strategic thinking is 
+crucial not only in checkers, chess, and tic-tac-toe but also in many business deci-
+sions. Because oligopolistic markets have only a small number of firms, each firm 
+must act strategically. Each firm knows that its profit depends on both how much 
+it produces and how much the other firms produce. In making its production de-
+cision, each firm in an oligopoly should consider how its decision might affect the 
+production decisions of the other firms in the market.
+Game theory is not necessary for understanding competitive or monopoly mar-
+kets. In a market that is either perfectly competitive or monopolistically competi-
+tive, each firm is so small compared to the market that strategic interactions with 
+other firms are not important. In a monopolized market, strategic interactions are 
+absent because the market has only one firm. But, as we will see, game theory is 
+useful for understanding oligopolies and many other situations in which a small 
+number of players interact with one another. Game theory 
+--- PAGE 368 ---
+17-1b Competition, Monopolies, and Cartels
+Before considering the price and quantity of water that results from the duopoly 
+of Jack and Jill, let’s discuss briefly what the outcome would be if the water mar-
+ket were either perfectly competitive or monopolistic. These two polar cases are 
+If the market for water were perfectly competitive, the production decisions 
+of each firm would drive price to equal marginal cost. Because we have assumed 
+that the marginal cost of pumping additional water is zero, the equilibrium price 
+of water under perfect competition would be zero as well. The equilibrium quan-
+tity would be 120 gallons. The price of water would reflect the cost of producing 
+it, and the efficient quantity of water would be produced and consumed.
+Now consider how a monopoly would behave. Table 1 shows that total profit 
+is maximized at a quantity of 60 gallons and a price of $60 a gallon. A profit-
+maximizing monopolist, therefore, would produce this quantity and charge this 
+price. As is standard for monopolies, price would exceed marginal cost. The  result 
+would be inefficient, because the quantity of water produced and consumed 
+would fall short of the socially efficient level of 120 gallons.
+What outcome should we expect from our duopolists? One possibility is that 
+Jack and Jill get together and agree on the quantity of water to produce and the 
+price to charge 
+--- PAGE 369 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+split the monopoly production of 60 gallons. Each member of the cartel will want 
+a larger share of the market because a larger market share means larger profit. If 
+Jack and Jill agree to split the market equally, each produces 30 gallons, the price 
+is $60 a gallon, and each earns a profit of $1,800.
+17-1c The Equilibrium for an Oligopoly
+Oligopolists would like to form cartels and earn monopoly profits, but that is 
+ often impossible. Squabbling among cartel members over how to divide the profit 
+in the market can make agreement among members difficult. In addition, anti-
+trust laws prohibit explicit agreements among oligopolists as a matter of public 
+policy. Even talking about pricing and production restrictions with competitors 
+can be a criminal offense. Let’s therefore consider what happens if Jack and Jill 
+decide separately how much water to produce.
+At first, one might expect Jack and Jill to reach the monopoly outcome on their 
+own, because this outcome maximizes their joint profit. In the absence of a bind-
+ing agreement, however, the monopoly outcome is unlikely. To see why, imagine 
+that Jack expects Jill to produce only 30 gallons (half of the monopoly quantity). 
+Jack would reason as follows:
+“I could produce 30 gallons as well. In this case, a total of 60 gallons of water 
+would be sold at a price of $60 
+--- PAGE 370 ---
+This example illustrates the tension between cooperation and 
+self-interest. Oligopolists would be better off cooperating and 
+reaching the monopoly outcome. Yet because they each pursue 
+their own self-interest, they do not end up reaching the monop-
+oly outcome and, thus, fail to maximize their joint profit. Each 
+oligopolist is tempted to raise production and capture a larger 
+share of the market. As each of them tries to do this, total pro-
+duction rises, and the price falls. 
+At the same time, self-interest does not drive the market all 
+the way to the competitive outcome. Like monopolists, oligopo-
+lists are aware that increasing the amount they produce reduces 
+the price of their product, which in turn affects profits. There-
+fore, they stop short of following the competitive firm’s rule of 
+producing up to the point where price equals marginal cost.
+In summary, when firms in an oligopoly individually choose pro-
+duction to maximize profit, they produce a quantity of output greater 
+than the level produced by monopoly and less than the level produced 
+by perfect competition. The oligopoly price is less than the monopoly 
+price but greater than the competitive price (which equals marginal 
+17-1d  How the Size of an Oligopoly Affects  
+We can use the insights from this analysis of duopoly to discuss 
+how the size of an oligopoly is likely to affect the outcome in 
+a market
+--- PAGE 371 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+If the output effect is larger than the price effect, the well owner will increase pro-
+duction. If the price effect is larger than the output effect, the owner will not raise 
+production. (In fact, in this case, it is profitable to reduce production.) Each oli-
+gopolist continues to increase production until these two marginal effects exactly 
+balance, taking the other firms’ production as given.
+Now consider how the number of firms in the industry affects the marginal 
+analysis of each oligopolist. The larger the number of sellers, the less each seller 
+is concerned about her own impact on the market price. That is, as the oligopoly 
+grows in size, the magnitude of the price effect falls. When the oligopoly grows 
+very large, the price effect disappears altogether. In this extreme case, the produc-
+tion decision of an individual firm no longer affects the market price. Each firm 
+takes the market price as given when deciding how much to produce and, there-
+fore increases production as long as price is above marginal cost. 
+We can now see that a large oligopoly is essentially a group of competitive 
+firms. A competitive firm considers only the output effect when deciding how 
+much to produce: Because a competitive firm is a price taker, the price effect is 
+ absent. Thus, as the number of sellers in an oligopoly grows lar
+--- PAGE 372 ---
+17-2a The Prisoners’ Dilemma 
+The prisoners’ dilemma is a story about two criminals who have been captured by 
+the police. Let’s call them Bonnie and Clyde. The police have enough evidence to 
+convict Bonnie and Clyde of the minor crime of carrying an unregistered gun, so 
+that each would spend a year in jail. The police also suspect that the two criminals 
+have committed a bank robbery together, but they lack hard evidence to convict 
+them of this major crime. The police question Bonnie and Clyde in separate rooms 
+and offer each of them the following deal:
+“Right now, we can lock you up for 1 year. If you confess to the bank robbery 
+and implicate your partner, however, we’ll give you immunity and you can go 
+free. Your partner will get 20 years in jail. But if you both confess to the crime, we 
+won’t need your testimony and we can avoid the cost of a trial, so you will each 
+get an intermediate sentence of 8 years.”
+If Bonnie and Clyde, heartless bank robbers that they are, care only about their 
+own individual sentences, what would you expect them to do? Figure 1 shows 
+their choices. Each prisoner has two strategies: confess or remain silent. The sen-
+tence each prisoner gets depends on the strategy he or she chooses and the strat-
+egy chosen by his or her partner in crime. 
+Consider first Bonnie’s decision. She reasons as follows: “I don’t know what 
+Clyde is going to do.
+--- PAGE 373 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+In the end, both Bonnie and Clyde confess, and both spend 8 years in jail. This 
+outcome is a Nash equilibrium: Each criminal is choosing the best strategy avail-
+able, given the strategy the other is following. Yet, from their standpoint, the out-
+come is terrible. If they had both remained silent, both of them would have been 
+better off, spending only 1 year in jail on the gun charge. Because each pursues his 
+or her own interests, the two prisoners together reach an outcome that is worse 
+You might have thought that Bonnie and Clyde would have foreseen this sit-
+run into problems. Imagine that, before the police captured Bonnie and Clyde, 
+the two criminals had made a pact not to confess. Clearly, this agreement would 
+make them both better off if they both lived up to it, because they would each 
+spend only 1 year in jail. But would the two criminals in fact remain silent, sim-
+ply because they had agreed to? Once they are being questioned separately, the 
+logic of self-interest takes over and leads them to confess. Cooperation between 
+the two prisoners is difficult to maintain, because cooperation is individually 
+17-2b Oligopolies as a Prisoners’ Dilemma
+What does the prisoners’ dilemma have to do with markets and imperfect compe-
+tition? It turns out that the game oligopolists play in trying to reach the monop-
+ol
+--- PAGE 374 ---
+a profit of $2,000 by selling 40 gallons and $1,800 by selling 30 gallons. In this 
+case, I am better off with the higher-level production. If Jill fails to live up to the 
+agreement and produces 40 gallons, then I earn $1,600 by selling 40 gallons and 
+$1,500 by selling 30 gallons. Once again, I am better off with higher production. 
+So, regardless of what Jill chooses to do, I am better off reneging on our agreement 
+and producing at the higher level.”
+Producing 40 gallons is a dominant strategy for Jack. Of course, Jill reasons in 
+exactly the same way, and so both produce at the higher level of 40 gallons. The 
+result is the inferior outcome (from Jack and Jill’s standpoint) with low profits for 
+each of the two producers.
+This example illustrates why oligopolies have trouble maintaining monop-
+oly profits. The monopoly outcome is jointly rational, but each oligopolist has 
+an  incentive to cheat. Just as self-interest drives the prisoners in the prisoners’ 
+ dilemma to confess, self-interest makes it difficult for the oligopolists to maintain 
+the cooperative outcome with low production, high prices, and monopoly profits.
+OPEC AND THE WORLD OIL MARKET
+Our story about the town’s market for water is fictional, but if we 
+change water to crude oil, and Jack and Jill to Iran and Iraq, the 
+story is close to being true. Much of the world’s oil is produced by 
+a few countries, m
+--- PAGE 375 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+17-2c Other Examples of the Prisoners’ Dilemma
+We have seen how the prisoners’ dilemma can be used to understand the problem 
+facing oligopolies. The same logic applies to many other situations as well. Here 
+we consider two examples in which self-interest prevents cooperation and leads 
+to an inferior outcome for the parties involved.
+Arms Races  In the decades after World War II, the world’s two superpowers—
+tion over military power. This topic motivated some of the early work on game 
+theory. The game theorists pointed out that an arms race is much like the prison-
+To see why, consider the decisions of the United States and the Soviet Union 
+about whether to build new weapons or to disarm. Each country prefers to have 
+more arms than the other because a larger arsenal would give it more influence in 
+world affairs. But each country also prefers to live in a world safe from the other 
+Figure 3 shows the deadly game. If the Soviet Union chooses to arm, the United 
+States is better off doing the same to prevent the loss of power. If the Soviet Union 
+chooses to disarm, the United States is better off arming because doing so would 
+make it more powerful. For each country, arming is a dominant strategy. Thus, 
+each country chooses to continue the arms race, resulting in the inferior outcome 
+with both countries at risk.
+Thro
+--- PAGE 376 ---
+Common Resources  In Chapter 11 we saw that people tend to overuse common 
+resources. One can view this problem as an example of the prisoners’ dilemma.
+Imagine that two oil companies—Exxon and Texaco—own adjacent oil fields. 
+Under the fields is a common pool of oil worth $12 million. Drilling a well to 
+ recover the oil costs $1 million. If each company drills one well, each will get half 
+of the oil and earn a $5 million profit ($6 million in revenue minus $1 million in 
+Because the pool of oil is a common resource, the companies will not use it 
+ efficiently. Suppose that either company could drill a second well. If one company 
+has two of the three wells, that company gets two-thirds of the oil, which yields 
+a profit of $6 million. The other company gets one-third of the oil, for a profit of 
+$3 million. Yet if each company drills a second well, the two companies again split 
+the oil. In this case, each bears the cost of a second well, so profit is only $4 million 
+Figure 4 shows the game. Drilling two wells is a dominant strategy for each 
+company. Once again, the self-interest of the two players leads them to an inferior 
+17-2d The Prisoners’ Dilemma and the Welfare of Society
+The prisoners’ dilemma describes many of life’s situations, and it shows that 
+cooperation can be difficult to maintain, even when cooperation would make 
+both players in the game better off. Clea
+--- PAGE 377 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+of the product. As we first saw in Chapter 7, the competitive outcome is best for 
+society because it maximizes total surplus. When oligopolists fail to cooperate, 
+the quantity they produce is closer to this optimal level. Put differently, the invis-
+ible hand guides markets to allocate resources efficiently only when markets are 
+competitive, and markets are competitive only when firms in the market fail to 
+cooperate with one another.
+Similarly, consider the case of the police questioning two suspects. Lack of 
+cooperation between the suspects is desirable, for it allows the police to convict 
+more criminals. The prisoners’ dilemma is a dilemma for the prisoners, but it can 
+be a boon to everyone else. 
+17-2e Why People Sometimes Cooperate
+The prisoners’ dilemma shows that cooperation is difficult. But is it impossible? 
+Not all prisoners, when questioned by the police, decide to turn in their partners 
+in crime. Cartels sometimes manage to maintain collusive arrangements, despite 
+the incentive for individual members to defect. Very often, players can solve the 
+prisoners’ dilemma because they play the game not once but many times.
+To see why cooperation is easier to enforce in repeated games, let’s return to 
+our duopolists, Jack and Jill, whose choices were given in Figure 2. Jack and Jill 
+would like to agree to mai
+--- PAGE 378 ---
+To see what strategies work best, political scientist Robert Axelrod held a tourna-
+ment. People entered by submitting computer programs designed to play repeated 
+prisoners’ dilemma. Each program then played the game against all the other pro-
+grams. The “winner” was the program that received the fewest total years in jail.
+The winning program turned out to be a simple strategy called tit-for-tat. 
+ According to tit-for-tat, a player should start by cooperating and then do whatever 
+the other player did last time. Thus, a tit-for-tat player cooperates until the other 
+player defects; then she defects until the other player cooperates again. In other 
+words, this strategy starts out friendly, penalizes unfriendly players, and forgives 
+them if warranted. To Axelrod’s surprise, this simple strategy did better than all the 
+more complicated strategies that people had sent in. 
+The tit-for-tat strategy has a long history. It is essentially the biblical strategy of 
+“an eye for an eye, a tooth for a tooth.” The prisoners’ dilemma tournament sug-
+gests that this may be a good rule of thumb for playing some of the games of life. ●
+Tell the story of the prisoners’ dilemma. Write down a table showing the 
+prisoners’ choices and explain which outcome is likely. • What does the 
+prisoners’ dilemma teach us about oligopolies?
+17-3 Public Policy toward Oligopolies
+One of the Ten Principles
+--- PAGE 379 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+The Sherman Act elevated agreements among oligopolists from unenforceable 
+contracts to criminal conspiracies. 
+The Clayton Act of 1914 further strengthened the antitrust laws. According to 
+this law, if a person could prove that she was damaged by an illegal arrangement 
+to restrain trade, that person could sue and recover three times the damages she 
+sustained. The purpose of this unusual rule of triple damages is to encourage pri-
+vate lawsuits against conspiring oligopolists. 
+Today, both the U.S. Justice Department and private parties have the authority 
+to bring legal suits to enforce the antitrust laws. As we discussed in  Chapter 15, 
+these laws are used to prevent mergers that would lead to excessive market power 
+in any single firm. In addition, these laws are used to prevent oligopolists from 
+acting together in ways that would make their markets less competitive.
+Firms in oligopolies have a strong incentive to collude in order to 
+reduce production, raise prices, and increase profits. The great 
+18th-century economist Adam Smith was well aware of this poten-
+tial market failure. In The Wealth of Nations he wrote, “People of the same trade sel-
+dom meet together, but the conversation ends in a conspiracy against the  public, 
+or in some diversion to raise prices.” 
+To see a modern example of Smith’s observation,
+--- PAGE 380 ---
+among competing firms should be illegal. Yet the antitrust laws have been used 
+to condemn some business practices whose effects are not obvious. Here we con-
+Resale Price Maintenance  One example of a controversial business practice is 
+At first, resale price maintenance might seem anticompetitive and, therefore, 
+detrimental to society. Like an agreement among members of a cartel, it prevents 
+the retailers from competing on price. For this reason, the courts have at times 
+viewed resale price maintenance as a violation of the antitrust laws.
+Yet some economists defend resale price maintenance on two grounds. First, 
+wanted to exert its market power, it would do so by raising the wholesale price 
+discourage competition among its retailers. Indeed, because a cartel of retailers 
+its retailers were a cartel.
+Second, economists believe that resale price maintenance has a legitimate goal. 
+a knowledgeable sales force. Yet, without resale price maintenance, some custom-
+ers would take advantage of one store’s service to learn about the Blu-ray player’s 
+special features and then buy the item at a discount retailer that does not provide 
+this service. Good customer service can be viewed as a public good among the 
+person provides a public good, others are able to enjoy it without paying for it. 
+In this case, discount retailers would free ride on the service provided by other 
+reta
+--- PAGE 381 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+if ever, a profitable business strategy. Why? For a price war to drive out a rival, 
+prices have to be driven below cost. Yet if Coyote starts selling cheap tickets at a 
+loss, it had better be ready to fly more planes, because low fares will attract more 
+customers. Roadrunner, meanwhile, can respond to Coyote’s predatory move by 
+cutting back on flights. As a result, Coyote ends up bearing more than 80 percent 
+of the losses, putting Roadrunner in a good position to survive the price war. As 
+in the old Roadrunner–Coyote cartoons, the predator suffers more than the prey.
+Economists continue to debate whether predatory pricing should be a concern 
+for antitrust policymakers. Various questions remain unresolved. Is predatory 
+pricing ever a profitable business strategy? If so, when? Are the courts capable of 
+telling which price cuts are competitive and thus good for consumers and which 
+are predatory? There are no simple answers.
+Tying  A third example of a controversial business practice is tying. Suppose 
+that Makemoney Movies produces two new films—The Avengers and Hamlet. If 
+Makemoney offers theaters the two films together at a single price, rather than 
+separately, the studio is said to be tying its two products. 
+it. The court reasoned as follows: Imagine that The Avengers is a blockbuster and 
+Hamlet is an unprofi
+--- PAGE 382 ---
+world’s richest men (Bill Gates) against one of the world’s most powerful regu-
+latory agencies (the U.S. Justice Department). Testifying for the government was 
+a prominent economist (MIT professor Franklin Fisher). Testifying for Microsoft 
+was another prominent economist (MIT professor Richard Schmalensee). At stake 
+was the future of one of the world’s most valuable companies (Microsoft) in one 
+of the economy’s fastest-growing industries (computer software). 
+A central issue in the Microsoft case involved tying—in particular, whether 
+Microsoft should be allowed to integrate its Internet browser into its Windows 
+operating system. The government claimed that Microsoft was bundling these two 
+products together to expand its market power in computer operating systems into 
+the unrelated market of Internet browsers. Allowing Microsoft to incorporate such 
+products into its operating system, the government argued, would deter other soft-
+ware companies from entering the market and offering new products.
+Microsoft responded by pointing out that putting new features into old prod-
+ucts is a natural part of technological progress. Cars today include CD players and 
+air conditioners, which were once sold separately, and cameras come with built-in 
+flashes. The same is true with operating systems. Over time, Microsoft has added 
+many features to Windows that were previously stand-a
+--- PAGE 383 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+Oligopolies would like to act like monopolies, but self-interest drives them 
+toward competition. Where oligopolies end up on this spectrum depends on the 
+number of firms in the oligopoly and how cooperative the firms are. The story of 
+the prisoners’ dilemma shows why oligopolies can fail to maintain cooperation, 
+even when cooperation is in their best interest.
+Policymakers regulate the behavior of oligopolists through the antitrust laws. 
+The proper scope of these laws is the subject of ongoing debate. Although price 
+fixing among competing firms clearly reduces economic welfare and should 
+be illegal, some business practices that appear to reduce competition may have 
+legitimate if subtle purposes. As a result, policymakers need to be careful when 
+they use the substantial powers of the antitrust laws to place limits on firm 
+Google may be the next big target for 
+EU Files Formal Antitrust Charges 
+he European Commission took direct aim 
+at  Google Inc. Wednesday, charging the 
+ Internet-search giant with skewing results to 
+favor its comparison-shopping service. But the 
+formal complaint may only be the opening salvo 
+in a broader assault that prompts big changes 
+European antitrust chief Margrethe 
+ Vestager said she continues to examine other 
+ domains, such as travel and local services, 
+where  Google is accused o
+--- PAGE 384 ---
+• Oligopolists maximize their total profits by forming a 
+cartel and acting like a monopolist. Yet, if oligopolists 
+make decisions about production levels individually, 
+the result is a greater quantity and a lower price than 
+under the monopoly outcome. The larger the number 
+of firms in the oligopoly, the closer the quantity and 
+price will be to the levels that would prevail under per-
+• The prisoners’ dilemma shows that self-interest can 
+prevent people from maintaining cooperation, even 
+when cooperation is in their mutual interest. The logic 
+of the prisoners’ dilemma applies in many situations, 
+including arms races, common-resource problems, and 
+• Policymakers use the antitrust laws to prevent oligop-
+tion. The application of these laws can be controversial, 
+because some behavior that can appear to reduce com-
+petition may in fact have legitimate business purposes.
+1. The key feature of an oligopolistic market is that
+a. each firm produces a different product from other 
+b. a single firm chooses a point on the market 
+c. each firm takes the market price as given.
+d. a small number of firms are acting strategically.
+2. If an oligopolistic industry organizes itself as a coop-
+erative cartel, it will produce a quantity of output that 
+is ________ the competitive level and ________ the 
+3. If an oligopoly does not cooperate and each firm 
+chooses its own quantity, the in
+--- PAGE 385 ---
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+1. If a group of sellers could form a cartel, what quantity 
+and price would they try to set?
+2. Compare the quantity and price of an oligopoly to 
+3. Compare the quantity and price of an oligopoly to 
+those of a competitive market.
+4. How does the number of firms in an oligopoly affect 
+the outcome in the market?
+5. What is the prisoners’ dilemma, and what does it have 
+6. Give two examples other than oligopoly that show 
+how the prisoners’ dilemma helps to explain behavior.
+7. What kinds of behavior do the antitrust laws prohibit?
+1. A large share of the world supply of diamonds comes 
+from Russia and South Africa. Suppose that the mar-
+ginal cost of mining diamonds is constant at $1,000 per 
+diamond and the demand for diamonds is described 
+by the following schedule:
+a. If there were many suppliers of diamonds, what 
+would be the price and quantity?
+b. If there were only one supplier of diamonds, what 
+would be the price and quantity?
+c. If Russia and South Africa formed a cartel, what 
+would be the price and quantity? If the countries 
+split the market evenly, what would be South 
+Africa’s production and profit? What would hap-
+pen to South Africa’s profit if it increased its pro-
+duction by 1,000 while Russia stuck to the cartel 
+d. Use your answers to part (c) to explain why cartel 
+agreements are often not successfu
+--- PAGE 386 ---
+4. Consider trade relations between the United States 
+and Mexico. Assume that the leaders of the two coun-
+tries believe the payoffs to alternative trade policies 
+a. What is the dominant strategy for the United 
+States? For Mexico? Explain.
+b. Define Nash equilibrium. What is the Nash equilib-
+c. In 1993, the U.S. Congress ratified the North 
+American Free Trade Agreement, in which the 
+United States and Mexico agreed to reduce trade 
+barriers simultaneously. Do the perceived payoffs 
+shown here justify this approach to trade policy? 
+d. Based on your understanding of the gains from 
+trade (discussed in Chapters 3 and 9), do you 
+think that these payoffs actually reflect a nation’s 
+welfare under the four possible outcomes?
+5. Synergy and Dynaco are the only two firms in a spe-
+cific high-tech industry. They face the following payoff 
+matrix as they decide upon the size of their research 
+a. Does Synergy have a dominant strategy? Explain.
+b. Does Dynaco have a dominant strategy? Explain.
+c. Is there a Nash equilibrium for this scenario?  
+Explain. (Hint: Look closely at the definition of 
+6. You and a classmate are assigned a project on which 
+you will receive one combined grade. You each want 
+to receive a good grade, but you also want to avoid 
+hard work. In particular, here is the situation:
+• If both of you work hard, you both get an A, which 
+gives each of you 40 units o
+--- PAGE 387 ---
+8. Two athletes of equal ability are competing for a prize 
+of $10,000. Each is deciding whether to take a danger-
+ous performance-enhancing drug. If one athlete takes 
+the drug and the other does not, the one who takes the 
+drug wins the prize. If both or neither take the drug, 
+they tie and split the prize. Taking the drug imposes 
+health risks that are equivalent to a loss of X dollars.
+a. Draw a 2 3 2 payoff matrix describing the 
+ decisions the athletes face.
+b. For what X is taking the drug the Nash 
+c. Does making the drug safer (that is, lowering X) 
+make the athletes better or worse off? Explain.
+9. Little Kona is a small coffee company that is consid-
+ering entering a market dominated by Big Brew. Each 
+company’s profit depends on whether Little Kona 
+enters and whether Big Brew sets a high price or a low 
+a. Does either player in this game have a dominant 
+b. Does your answer to part (a) help you figure out 
+what the other player should do?
+c. What is the Nash equilibrium? Is there only one?
+d. Big Brew threatens Little Kona by saying, “If you 
+enter, we’re going to set a low price, so you had 
+better stay out.” Do you think Little Kona should 
+believe the threat? Why or why not? 
+e. If the two firms could collude and agree on how 
+to split the total profits, what outcome would they 
+PART V   FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY
+--- PAGE 388 ---
+

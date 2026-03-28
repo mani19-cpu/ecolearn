@@ -1,0 +1,634 @@
+--- PAGE 544 ---
+hen you travel around the world, you see tremendous variation in the 
+standard of living. The average income in a rich country, such as the United 
+States, Japan, or Germany, is about ten times the average income in a poor 
+country, such as India, Nigeria, or Nicaragua. These large differences in income 
+are reflected in large differences in the quality of life. People in richer countries 
+have better nutrition, safer housing, better healthcare, and longer life expectancy 
+as well as more automobiles, more telephones, and more computers. 
+Even within a country, there are large changes in the standard of living over 
+time. In the United States over the past century, average income as measured 
+by real gross domestic product (GDP) per person has grown by 
+about 2 percent per year. Although 2 percent might 
+--- PAGE 545 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+seem small, this rate of growth implies that average income doubles every 35 
+years. Because of this growth, most Americans enjoy much greater economic 
+prosperity than did their parents, grandparents, and great-grandparents. 
+Growth rates vary substantially from country to country. From 2000 to 2014, 
+GDP per person in China grew at a rate of 11 percent per year, accumulating to 
+a 357 percent increase in average income. A country experiencing such rapid 
+growth can, in one generation, go from being among the poorest in the world to 
+being among the richest. By contrast, in the same time span, income per person in 
+Zimbabwe fell by a total of 13 percent, leaving the typical citizen mired in poverty.
+What explains these diverse experiences? How can rich countries maintain 
+their high standard of living? What policies can poor countries pursue to promote 
+more rapid growth and join the developed world? These are among the most 
+important questions in macroeconomics. As the Nobel-Prize-winning economist 
+Robert Lucas put it, “The consequences for human welfare in questions like these 
+are simply staggering: Once one starts to think about them, it is hard to think 
+In the previous two chapters, we discussed how economists measure mac-
+roeconomic quantities and prices. We can now begin to study the forces that 
+determine these variables. As we have seen, an economy’s GDP measures both 
+the total income earned in the economy and the total
+--- PAGE 546 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+The last column of the table shows each country’s growth rate. The growth 
+rate measures how rapidly real income per person grew in the typical year. In 
+the United States, for example, where real income per person was $4,264 in 1870 
+and $55,860 in 2014, the growth rate was 1.80 percent per year. This means that 
+if real income per person, beginning at $4,264, were to increase by 1.80 percent 
+for each of 144 years, it would end up at $55,860. Of course, income did not rise 
+exactly 1.80 percent every year: Some years it rose by more, other years it rose by 
+less, and in still other years it fell. The growth rate of 1.80 percent per year ignores 
+short-run fluctuations around the long-run trend and represents an average rate 
+of growth for real income per person over many years. 
+The countries in Table 1 are ordered by their growth rate from the most to the 
+least rapid. Here you can see the large variety in growth experiences. High on 
+the list are Brazil and China, which went from being among the poorest nations 
+in the world to being among middle-income nations. Also high on the list is 
+Japan, which went from being a middle-income nation to being among the richest 
+Near the bottom of the list you can find Pakistan and Bangladesh, which 
+were among the poorest nations at the end of the nineteenth century and remain 
+so today. At the bottom of the list is the United Kingdom. In 1870, the United 
+Kingdom was the richest country in the worl
+--- PAGE 547 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+These data show that the world’s richest countries have no guarantee they will 
+stay the richest and that the world’s poorest countries are not doomed to remain 
+forever in poverty. But what explains these changes over time? Why do some 
+countries zoom ahead while others lag behind? These are precisely the questions 
+What has been the approximate long-run growth rate of real GDP per person 
+in the United States? Name a country that has had faster growth and a 
+country that has had slower growth.
+Are You Richer Than the Richest American?
+merican Heritage magazine once published a list of the richest 
+Americans of all time. The number 1 spot went to John D. 
+Rockefeller, the oil entrepreneur who lived from 1839 to 1937. According 
+to the magazine’s calculations, his wealth would today be the equivalent 
+of about $200 billion, almost three times that of Bill Gates, the software 
+entrepreneur who is today’s richest American.
+Despite his great wealth, Rockefeller did not enjoy many of the 
+conveniences that we now take for granted. He couldn’t watch television, 
+play video games, surf the Internet, or send e-mail. During the heat of 
+summer, he couldn’t cool his home 
+with air-conditioning. For much of his 
+life, he couldn’t travel by car or plane, 
+and he couldn’t use a telephone to 
+call friends or family. If he became ill, 
+he couldn’t take advantage of many 
+medicines, such as antibiotics, that 
+doctors today routinely use to prolong 
+--- PAGE 548 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+catches his own fish, grows his own vegetables, and makes his own clothes. 
+We can think of Crusoe’s activities—his production and consumption of 
+fish, vegetables, and clothing—as a simple economy. By examining Crusoe’s 
+economy, we can learn some lessons that also apply to more complex and 
+What determines Crusoe’s standard of living? In a word, productivity, the 
+quantity of goods and services produced from each unit of labor input. If Crusoe 
+is good at catching fish, growing vegetables, and making clothes, he lives well. If 
+he is bad at doing these things, he lives poorly. Because Crusoe gets to consume 
+only what he produces, his living standard is tied to his productivity.
+In the case of Crusoe’s economy, it is easy to see that productivity is the key 
+determinant of living standards and that growth in productivity is the key 
+determinant of growth in living standards. The more fish Crusoe can catch per 
+hour, the more he eats at dinner. If Crusoe finds a better place to catch fish, his 
+productivity rises. This increase in productivity makes Crusoe better off: He 
+can eat the extra fish, or he can spend less time fishing and devote more time to 
+making other goods he enjoys.
+Productivity’s key role in determining living standards is as true for nations 
+as it is for stranded sailors. Recall that an economy’s GDP measures two things 
+at once: the total income earned by everyone in the economy and the total 
+expenditure on the economy
+--- PAGE 549 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+A Picture Is Worth a Thousand Statistics
+eorge Bernard Shaw once said, “It is the mark of a truly intelligent 
+person to be moved by statistics.” Most of us, however, have trouble 
+being moved by data on GDP—until we see with our own eyes what 
+these statistics represent. 
+The three photos on these pages show a typical family from each of 
+three countries—the United Kingdom, Mexico, and Mali. Each family was 
+photographed outside their home, together with all their material possessions. 
+These nations have very different standards of living, as judged by 
+these photos, GDP, or other statistics. 
+• The United Kingdom is an advanced economy. In 2014, its income per 
+person was $39,040. A baby born in the United Kingdom can expect 
+a relatively healthy childhood: Only 4 out of 1,000 children die before 
+reaching age 5. Almost the entire population has access to modern 
+sanitation facilities, such as a bathroom and sewer system, to safely 
+remove human waste. Educational attainment is high: Among indi-
+viduals of college age, 60 percent are enrolled in higher education. 
+before age 5. About 85 percent 
+have access to modern sanitation. Among those of college age, 30 
+• Mali is a poor country. In 2014, its income per person was only 
+$1,510. Life is often cut short: 115 out of 1,000 children die before 
+age 5. Only 25 percent of the population has access to modern san-
+itation. And educational attainment in Mali is low: Among those of 
+co
+--- PAGE 550 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+A Typical Family in Mexico
+PETER MENZEL/MENZELPHOTO.COM
+PETER MENZEL/MENZELPHOTO.COM
+--- PAGE 551 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+when woodworkers make furniture, they use saws, lathes, and drill presses. 
+More tools allow the woodworkers to produce their output more quickly and 
+more accurately: A worker with only basic hand tools can make less furniture 
+each week than a worker with sophisticated and specialized woodworking 
+As you may recall, the inputs used to produce goods and services—labor, 
+capital, and so on—are called the factors of production. An important feature of 
+capital is that it is a produced factor of production. That is, capital is an input 
+into the production process that in the past was an output from the production 
+process. The woodworker uses a lathe to make the leg of a table. Earlier, the lathe 
+itself was the output of a firm that manufactures lathes. The lathe manufacturer 
+in turn used other equipment to make its product. Thus, capital is a factor of 
+production used to produce all kinds of goods and services, including more 
+Human Capital per Worker  A second determinant of productivity is human 
+capital. Human capital is the economist’s term for the knowledge and skills that 
+workers acquire through education, training, and experience. Human capital 
+includes the skills accumulated in early childhood programs, grade school, high 
+school, college, and on-the-job training for adults in the labor force. 
+Education, training, and experience are less tangible than lathes, bulldozers, 
+and buildings, but human capital is similar to p
+--- PAGE 552 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+Technological Knowledge  A fourth determinant of productivity is technological 
+knowledge—the understanding of the best ways to produce goods and services. 
+A hundred years ago, most Americans worked on farms because farm technology 
+required a high input of labor to feed the entire population. Today, thanks to 
+advances in farming technology, a small fraction of the population can produce 
+enough food to feed the entire country. This technological change made labor 
+available to produce other goods and services.
+Technological knowledge takes many forms. Some technology is common 
+knowledge—after one person uses it, everyone becomes aware of it. For example, 
+once Henry Ford successfully introduced assembly-line production, other 
+carmakers quickly followed suit. Other technology is proprietary—it is known 
+only by the company that discovers it. Only the Coca-Cola Company, for instance, 
+knows the secret recipe for making its famous soft drink. Still other technology is 
+proprietary for a short time. When a pharmaceutical company discovers a new 
+drug, the patent system gives that company a temporary right to be its exclusive 
+manufacturer. When the patent expires, however, other companies are allowed to 
+make the drug. All these forms of technological knowledge are important for the 
+economy’s production of goods and services.
+It is worthwhile to distinguish between technological knowledge and human 
+capital. Although they are closely relat
+--- PAGE 553 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+Technological knowledge refers to society’s understanding about how the 
+world works. Human capital refers to the resources expended transmitting this 
+understanding to the labor force. To use a relevant metaphor, technological 
+knowledge is the quality of society’s textbooks, whereas human capital is the 
+amount of time that the population has devoted to reading them. Workers’ 
+productivity depends on both.
+ARE NATURAL RESOURCES A LIMIT TO GROWTH?
+Today, the world’s population is over 7 billion, more than four 
+times what it was a century ago. At the same time, many people 
+are enjoying a much higher standard of living than did their great-
+grandparents. A perennial debate concerns whether this growth in 
+population and living standards can continue in the future.
+Many commentators have argued that natural resources will eventually limit 
+how much the world’s economies can grow. At first, this argument might seem 
+hard to ignore. If the world has only a fixed supply of nonrenewable natural 
+resources, how can population, production, and living standards continue to grow 
+over time? Eventually, won’t supplies of oil and minerals start to run out? When 
+these shortages start to occur, won’t they stop economic growth and, perhaps, even 
+force living standards to fall? 
+Despite the apparent appeal of such arguments, most economists are less 
+concerned about such limits to growth than one might guess. They argue that 
+technological progr
+--- PAGE 554 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+25-3 Economic Growth and Public Policy
+So far, we have determined that a society’s standard of living depends on its 
+ability to produce goods and services and that its productivity in turn depends 
+on physical capital per worker, human capital per worker, natural resources 
+per worker, and technological knowledge. Let’s now turn to the question faced 
+by policymakers around the world: What can government policy do to raise 
+productivity and living standards?
+25-3a Saving and Investment
+Because capital is a produced factor of production, a society can change the 
+amount of capital it has. If today the economy produces a large quantity of new 
+capital goods, then tomorrow it will have a larger stock of capital and be able to 
+produce more goods and services. Thus, one way to raise future productivity is to 
+invest more current resources in the production of capital.
+One of the Ten Principles of Economics presented in Chapter 1 is that people 
+face trade-offs. This principle is especially important when considering the 
+accumulation of capital. Because resources are scarce, devoting more resources 
+to producing capital requires devoting fewer resources to producing goods and 
+services for current consumption. That is, for society to invest more in capital, it 
+must consume less and save more of its current income. The growth that arises 
+from capital accumulation is not a free lunch: It requires that society sacrifice 
+consumption of goods and
+--- PAGE 555 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+so growth slows down. In the long run, the higher saving rate leads to a higher level of 
+productivity and income but not to higher growth in these variables. Reaching this long 
+run, however, can take quite a while. According to studies of international data 
+on economic growth, increasing the saving rate can lead to substantially higher 
+growth for a period of several decades.
+The property of diminishing returns to capital has another important 
+implication: Other things being equal, it is easier for a country to grow fast if it 
+starts out relatively poor. This effect of initial conditions on subsequent growth 
+is sometimes called the catch-up effect. In poor countries, workers lack even 
+the most rudimentary tools and, as a result, have low productivity. Thus, small 
+amounts of capital investment can substantially raise these workers’ productivity. 
+By contrast, workers in rich countries have large amounts of capital with which 
+to work, and this partly explains their high productivity. Yet with the amount of 
+capital per worker already so high, additional capital investment has a relatively 
+small effect on productivity. Studies of international data on economic growth 
+confirm this catch-up effect: Controlling for other variables, such as the percentage 
+of GDP devoted to investment, poor countries tend to grow at faster rates than 
+This catch-up effect can help explain some otherwise puzzling facts. Here’s an 
+example: From 19
+--- PAGE 556 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+This catch-up effect shows up in other aspects of life. When a school gives an 
+end-of-year award to the “Most Improved” student, that student is usually one 
+who began the year with relatively poor performance. Students who began the 
+year not studying find improvement easier than students who always worked 
+hard. Note that it is good to be “Most Improved,” given the starting point, but it is 
+even better to be “Best Student.” Similarly, economic growth over the last several 
+decades has been much more rapid in South Korea than in the United States, but 
+GDP per person is still higher in the United States.
+25-3c Investment from Abroad
+So far, we have discussed how policies aimed at increasing a country’s saving rate 
+can increase investment and, thereby, long-term economic growth. Yet saving by 
+domestic residents is not the only way for a country to invest in new capital. The 
+other way is investment by foreigners. 
+Investment from abroad takes several forms. Ford Motor Company might 
+build a car factory in Mexico. A capital investment that is owned and operated by 
+a foreign entity is called foreign direct investment. Alternatively, an American might 
+buy stock in a Mexican corporation (that is, buy a share in the ownership of the 
+corporation), and the corporation can use the proceeds from the stock sale to build 
+a new factory. An investment that is financed with foreign money but operated by 
+domestic residents is called foreign portfo
+--- PAGE 557 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+the funds might best be used. The World Bank and its sister organization, the 
+International Monetary Fund, were set up after World War II. One lesson from 
+the war was that economic distress often leads to political turmoil, international 
+tensions, and military conflict. Thus, every country has an interest in promoting 
+economic prosperity around the world. The World Bank and the International 
+Monetary Fund were established to achieve that common goal.
+Education—investment in human capital—is at least as important as investment 
+in physical capital for a country’s long-run economic success. In the United States, 
+each year of schooling has historically raised a person’s wage by an average of 
+about 10 percent. In less developed countries, where human capital is especially 
+scarce, the gap between the wages of educated and uneducated workers is even 
+larger. Thus, one way government policy can enhance the standard of living is to 
+provide good schools and to encourage the population to take advantage of them.
+Investment in human capital, like investment in physical capital, has an 
+opportunity cost. When students are in school, they forgo the wages they could 
+have earned as members of the labor force. In less developed countries, children 
+often drop out of school at an early age, even though the benefit of additional 
+schooling is very high, simply because their labor is needed to help support the 
+Some economists have argued tha
+--- PAGE 558 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+work, insufficient caloric intake substantially reduced the work effort they could 
+put forth. As nutrition improved, so did workers’ productivity.
+Fogel studied these historical trends in part by looking at the height of 
+the population. Short stature can be an indicator of malnutrition, especially 
+during gestation and the early years of life. Fogel found that as nations develop 
+economically, people eat more and the population gets taller. From 1775 to 1975, 
+the average caloric intake in Great Britain rose by 26 percent and the height of the 
+average man rose by 3.6 inches. Similarly, during the spectacular economic growth 
+in South Korea from 1962 to 1995, caloric consumption rose by 44 percent and 
+average male height rose by 2 inches. Of course, a person’s height is determined 
+by a combination of genetics and environment. But because the genetic makeup 
+of a population is slow to change, such increases in average height are most likely 
+due to changes in the environment—nutrition being the obvious explanation.
+Moreover, studies have found that height is an indicator of productivity. 
+Looking at data on a large number of workers at a point in time, researchers have 
+found that taller workers tend to earn more. Because wages reflect a worker’s 
+productivity, this finding suggests that taller workers tend to be more productive. 
+The effect of height on wages is especially pronounced in poorer countries, where 
+malnutrition is a bigger r
+--- PAGE 559 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+through market prices. That is, market prices are the instrument with which the 
+invisible hand of the marketplace brings supply and demand into balance in each 
+of the many thousands of markets that make up the economy.
+An important prerequisite for the price system to work is an economy-wide 
+respect for property rights. Property rights refer to the ability of people to exercise 
+authority over the resources they own. A mining company will not make the 
+effort to mine iron ore if it expects the ore to be stolen. The company mines the 
+ore only if it is confident that it will benefit from the ore’s subsequent sale. For 
+this reason, courts serve an important role in a market economy: They enforce 
+property rights. Through the criminal justice system, the courts discourage theft. 
+In addition, through the civil justice system, the courts ensure that buyers and 
+sellers live up to their contracts.
+Those of us in developed countries tend to take property rights for granted, 
+but those living in less developed countries understand that a lack of property 
+rights can be a major problem. In many countries, the system of justice does not 
+work well. Contracts are hard to enforce, and fraud often goes unpunished. In 
+more extreme cases, the government not only fails to enforce property rights but 
+actually infringes upon them. To do business in some countries, firms are expected 
+to bribe government officials. Such corruption impedes the co
+--- PAGE 560 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+for instance, is about that of Houston, Texas. Imagine what would happen if the 
+Houston city council were to prohibit city residents from trading with people 
+living outside the city limits. Without being able to take advantage of the gains 
+from trade, Houston would need to produce all the goods it consumes. It would 
+also have to produce all its own capital goods, rather than importing state-of-
+the-art equipment from other cities. Living standards in Houston would fall 
+immediately, and the problem would likely only get worse over time. This is 
+precisely what happened when Argentina pursued inward-oriented policies 
+throughout much of the 20th century. In contrast, countries that pursued outward-
+oriented policies, such as South Korea, Singapore, and Taiwan, enjoyed high rates 
+The amount that a nation trades with others is determined not only by government 
+policy but also by geography. Countries with natural seaports find trade easier than 
+countries without this resource. It is not a coincidence that many of the world’s major 
+cities, such as New York, San Francisco, and Hong Kong, are located next to oceans. 
+Similarly, because landlocked countries find international trade more difficult, they 
+tend to have lower levels of income than countries with easy access to the world’s 
+waterways. For example, countries with more than 80 percent of their population 
+living within 100 kilometers of a coast have an average GDP per person about 
+--- PAGE 561 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+When economists look ahead to future tech-
+nological progress, their crystal ball is often 
+Has All the Important Stuff  
+obert Gordon, a curmudgeonly 73-year-old 
+economist, believes our best days are over. 
+After a century of life-changing innovations 
+that spurred growth, he says, human progress 
+Joel Mokyr, a cheerful 67-year-old 
+economist, imagines a coming age of new 
+inventions, including gene therapies to prolong 
+our life span and miracle seeds that can feed 
+the world without fertilizers.
+These big-name colleagues at 
+Northwestern University represent opposite 
+poles in the debate over the future of the 21st 
+century economy: rapid innovation driven 
+by robotic manufacturing, 3-D printing and 
+cloud computing, versus years of job losses, 
+stagnant wages and rising income inequality.
+The divergent views are more than 
+academic. For many Americans, the recession 
+left behind the scars of lost jobs, lower wages 
+and depressed home prices. The question is 
+whether tough times are here for good. The 
+answer depends on who you ask. 
+“I think the rate of innovation is just 
+getting faster and faster,” Mr. Mokyr said over 
+noodles and spicy chicken at a Thai restaurant 
+near the campus where he and Mr. Gordon have 
+“What’s the evidence of that?” snapped 
+Mr. Gordon. “There isn’t any.”
+The men get along fine when talk is limited 
+to, say, faculty gossip. About the future, 
+though, they bicker constantly. When Mr. Mokyr 
+described l
+--- PAGE 562 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+wisdom. His parents and a brother were Ph.D. 
+economists. His father, an expert on business 
+cycles, taught at the University of California, 
+If anything, his family should have made 
+him an optimist. Mr. Gordon’s father grew 
+up grindingly poor, at one point supporting 
+three younger brothers after his own father 
+died; his eventual success mirrored the larger 
+transformation of the U.S. into the world’s 
+“His generation saw the move from 
+crowded tenements in the 1920s to suburbia 
+in the 1950s—with everyone having a yard 
+and a car,” Mr. Gordon said, a leap showing 
+how much progress has since slowed. 
+Mr. Gordon sees a hobbled U.S. economy 
+ahead. Americans are getting older, leaving 
+too few workers to support the aging 
+population. The problem is even worse in 
+An aging citizenry is among a list of 
+troubles, including the declining share of 
+working-age men with jobs; stagnant rates 
+of Americans earning college degrees; jobs 
+lost abroad and high government debt. The 
+biggest obstacle, he said, is growing income 
+To compensate, Mr. Gordon said, 
+economies need technological advances. The 
+problem is that the biggest breakthroughs—
+like electrification or the discovery of 
+antibiotics—are behind us. Electricity 
+changed how people lived and worked, and 
+it spawned hundreds of new industries. 
+The technology that allowed people to 
+communicate instantly or travel quickly over 
+long distances were 19th- and 20th-century 
+More recent inv
+--- PAGE 563 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+the government awards the patent, which gives the inventor the exclusive right 
+to make the product for a specified number of years. In essence, the patent gives 
+the inventor a property right over her invention, turning her new idea from a 
+public good into a private good. By allowing inventors to profit from their 
+inventions—even if only temporarily—the patent system enhances the incentive 
+Economists and other social scientists have long debated how population affects 
+a society. The most direct effect is on the size of the labor force: A large population 
+means more workers to produce goods and services. The tremendous size of the 
+Chinese population is one reason China is such an important player in the world 
+At the same time, however, a large population means more people to consume 
+those goods and services. So while a large population means a larger total output 
+of goods and services, it need not mean a higher standard of living for the typical 
+citizen. Indeed, both large and small nations are found at all levels of economic 
+Beyond these obvious effects of population size, population growth interacts with 
+the other factors of production in ways that are more subtle and open to debate.
+Stretching Natural Resources  Thomas Robert Malthus (1766–1834), an English 
+minister and early economic thinker, is famous for his book called An Essay on 
+the Principle of Population as It Affects the Future Improvement of Society. In it,
+--- PAGE 564 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+growth emphasize its effects on capital accumulation. According to these theories, 
+high population growth reduces GDP per worker because rapid growth in the 
+number of workers forces the capital stock to be spread more thinly. In other 
+words, when population growth is rapid, each worker is equipped with less 
+capital. A smaller quantity of capital per worker leads to lower productivity and 
+This problem is most apparent in the case of human capital. Countries with 
+high population growth have large numbers of school-age children. This places 
+a larger burden on the educational system. It is not surprising, therefore, that 
+educational attainment tends to be low in countries with high population growth.
+The differences in population growth around the world are large. In developed 
+countries, such as the United States and those in Western Europe, the population 
+has risen only about 1 percent per year in recent decades and is expected to rise 
+even more slowly in the future. By contrast, in many poor African countries, 
+population grows at about 3 percent per year. At this rate, the population doubles 
+every 23 years. This rapid population growth makes it harder to provide workers 
+with the tools and skills they need to achieve high levels of productivity.
+Rapid population growth is not the main reason that less developed countries 
+are poor, but some analysts believe that reducing the rate of population growth 
+would help these countries ra
+--- PAGE 565 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+Kremer’s second piece of evidence comes from comparing regions of the 
+world. The melting of the polar icecaps at the end of the Ice Age around 10,000 b.c. 
+flooded the land bridges and separated the world into several distinct regions that 
+could not communicate with one another for thousands of years. If technological 
+progress is more rapid when there are more people to discover things, then larger 
+regions should have experienced more rapid growth.
+According to Kremer, that is exactly what happened. The most successful 
+region of the world in 1500 (when Columbus reestablished contact) comprised the 
+“Old World” civilizations of the large Eurasia-Africa region. Next in technological 
+development were the Aztec and Mayan civilizations in the Americas, followed 
+by the hunter-gatherers of Australia, and then the primitive people of Tasmania, 
+who lacked even fire-making and most stone and bone tools. 
+To figure out what policies work in 
+developing nations, economists are 
+increasingly turning to randomized 
+What It Takes to Lift Families 
+ighteen years ago, Dean Karlan was a fresh, 
+bright-eyed graduate student in economics 
+at the Massachusetts Institute of Technology. 
+He wanted to answer what seemed like a sim-
+“Does global aid work?” Karlan says.
+He was reading a bunch of studies on the 
+topic. But none of them actually answered the 
+question. “We were tearing our hair out reading 
+these papers because it was frustrating,” he 
+
+--- PAGE 566 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+The smallest isolated region was Flinders Island, a tiny island between 
+Tasmania and Australia. With the smallest population, Flinders Island had the 
+fewest opportunities for technological advance and, indeed, seemed to regress. 
+Around 3000 b.c., human society on Flinders Island died out completely. 
+A large population, Kremer concluded, is a prerequisite for technological 
+Describe three ways a government policymaker can try to raise the growth 
+in living standards in a society. Are there any drawbacks to these policies?
+They teamed up with a network of 
+researchers and nonprofits in six developing 
+countries. They went to thousands of 
+communities and found the poorest families.
+Then they divided the families into two 
+groups. They gave half the families nothing. 
+And the other half a whole smorgasbord of aid 
+for one to two years. They gave them:
+1.  Some livestock for making money, 
+such as goats for milk, bees for honey, 
+or guinea pigs for selling. “Depending 
+on the site, there were different things 
+specifically appropriate for that con-
+2.  Training about how to raise the 
+3.  Food or cash so they wouldn’t eat the 
+5.  Help with their health—both physical 
+Karlan and his colleagues reported the 
+results of the massive experiment in the 
+journal Science this week.
+So what did they find? Well, the strategy 
+worked pretty well in five of the six countries 
+they tried it in. Families who got the aid 
+started making a little more mone
+--- PAGE 567 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+25-4  Conclusion: The Importance of Long-Run Growth
+1. Over the past century, real GDP per person in the 
+United States has grown about _____ percent per 
+year, which means it doubles about every _____ years.
+2. The world’s rich countries, such as the United States 
+and Germany, have income per person that is about 
+_____ times the income per person in the world’s poor 
+countries, such as Pakistan and India.
+3. Most economists are ________ that natural resources 
+will eventually limit economic growth. As evidence, 
+they note that the prices of most natural resources, 
+adjusted for overall inflation, have tended to ________ 
+4. Because capital is subject to diminishing returns, 
+higher saving and investment do not lead to higher
+a. income in the long run.
+b. income in the short run.
+c. growth in the long run.
+d. growth in the short run.
+5. When the Japanese car maker Toyota expands one 
+of its car factories in the United States, what is the 
+likely impact of this event on the gross domestic prod-
+uct and gross national product of the United States?
+a. GDP rises and GNP falls.
+b. GNP rises and GDP falls.
+c. GDP shows a larger increase than GNP.
+d. GNP shows a larger increase than GDP.
+6. Thomas Robert Malthus believed that population 
+a. put stress on the economy’s ability to produce 
+food, dooming humans to remain in poverty.
+b. spread the capital stock too thinly across the labor 
+force, lowering each worker’s productivity.
+c. promot
+--- PAGE 568 ---
+CHAPTER 25   PRODUCTION AND GROWTH
+• Economic prosperity, as measured by GDP per person, 
+varies substantially around the world. The average 
+income in the world’s richest countries is more than 
+ten times that in the world’s poorest countries. Because 
+growth rates of real GDP also vary substantially, the 
+relative positions of countries can change dramatically 
+• The standard of living in an economy depends on 
+the economy’s ability to produce goods and services. 
+Productivity, in turn, depends on the physical capital, 
+human capital, natural resources, and technological 
+knowledge available to workers.
+• Government policies can try to influence the 
+economy’s growth rate in many ways: by encouraging 
+saving and investment, encouraging investment from 
+abroad, fostering education, promoting good health, 
+maintaining property rights and political stability, 
+allowing free trade, and promoting the research and 
+development of new technologies.
+• The accumulation of capital is subject to diminishing 
+returns: The more capital an economy has, the less 
+additional output the economy gets from an extra unit 
+of capital. As a result, although higher saving leads to 
+higher growth for a period of time, growth eventually 
+slows down as capital, productivity, and income rise. 
+Also because of diminishing returns, the return to 
+capital is especially high in poor countries. Other 
+things being equal, these countries can grow faster 
+because of the catch-up effect. 
+• Population growth
+--- PAGE 569 ---
+PART IX   THE REAL ECONOMY IN THE LONG RUN
+1. Most countries, including the United States, import 
+substantial amounts of goods and services from other 
+countries. Yet the chapter says that a nation can enjoy 
+a high standard of living only if it can produce a 
+large quantity of goods and services itself. Can you 
+reconcile these two facts?
+2. Suppose that society decided to reduce consumption 
+a. How would this change affect economic growth?
+b. What groups in society would benefit from this 
+change? What groups might be hurt?
+3. Societies choose what share of their resources to 
+devote to consumption and what share to devote to 
+investment. Some of these decisions involve private 
+spending; others involve government spending.
+a. Describe some forms of private spending that 
+represent consumption and some forms that 
+represent investment. The national income 
+accounts include tuition as a part of consumer 
+spending. In your opinion, are the resources you 
+devote to your education a form of consumption 
+b. Describe some forms of government spending 
+that represent consumption and some forms that 
+represent investment. In your opinion, should we 
+view government spending on health programs 
+as a form of consumption or investment? Would 
+you distinguish between health programs for the 
+young and health programs for the elderly?
+4. What is the opportunity cost of investing in capital? 
+Do you think a country can overinvest in capital? 
+What is the opportunity cost of investing in
+--- PAGE 570 ---
+Saving, Investment, and the 
+magine that you have just graduated from college (with a degree in economics, 
+of course) and you decide to start your own business—an economic forecasting 
+firm. Before you make any money selling your forecasts, you have to incur 
+substantial costs to set up your business. You have to buy computers with which 
+to make your forecasts, as well as desks, chairs, and filing cabinets to furnish 
+your new office. Each of these items is a type of capital that your firm will use to 
+produce and sell its services. 
+How do you obtain the funds to invest in these capital goods? Perhaps you 
+are able to pay for them out of your past savings. More likely, however, like 
+most entrepreneurs, you do not have enough money of your own 

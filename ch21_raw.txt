@@ -1,0 +1,619 @@
+--- PAGE 454 ---
+hen you walk into a store, you are confronted with thousands of goods that 
+you might buy. Because your financial resources are limited, however, you 
+cannot buy everything that you want. You therefore consider the prices of 
+the various goods offered for sale and buy a bundle of goods that, given your 
+ resources, best suits your needs and desires.
+In this chapter, we develop a theory that describes how consumers make deci-
+sions about what to buy. Thus far in this book, we have summarized consumers’ 
+decisions with the demand curve. As we have seen, the demand curve for a good 
+--- PAGE 455 ---
+PART VII   TOPICS FOR FURTHER STUDY
+reflects consumers’ willingness to pay for that good. When the price rises, con-
+sumers are willing to pay for fewer units, so the quantity demanded falls. We now 
+look more deeply at the decisions that lie behind the demand curve. The theory of 
+consumer choice presented in this chapter provides a more complete understand-
+ing of demand, just as the theory of the competitive firm in Chapter 14 provides a 
+more complete understanding of supply.
+One of the Ten Principles of Economics discussed in Chapter 1 is that people face 
+trade-offs. The theory of consumer choice examines the trade-offs that people face 
+as consumers. When a consumer buys more of one good, she can afford less of 
+other goods. When she spends more time enjoying leisure and less time work-
+ing, she has lower income and therefore lower consumption. When she spends 
+more of her income in the present and saves less of it, she reduces the amount she 
+will be able to consume in the future. The theory of consumer choice examines 
+how consumers facing these trade-offs make decisions and how they respond to 
+changes in their environment.
+After developing the basic theory of consumer choice, we apply it to three 
+questions about household decisions. In particular, we ask:
+• Do all demand curves slope downward?
+• How do wages affect labor supply?
+• How do interest rates affect household saving?
+At first, these questions might seem unrelated. But as we will see, we can use the 
+theory of consumer choice to address each of them. 
+21-1 The Budget Constraint: What the Consumer Can Af
+--- PAGE 456 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+figure. At point A, the consumer buys no Pepsi and consumes 100 pizzas. At point 
+B, the consumer buys no pizza and consumes 500 liters of Pepsi. At point C, the 
+consumer buys 50 pizzas and 250 liters of Pepsi. Point C, which is exactly at the 
+middle of the line from A to B, is the point at which the consumer spends an equal 
+amount ($500) on pizza and Pepsi. These are only three of the many combinations 
+of pizza and Pepsi that the consumer can choose. All the points on the line from A 
+to B are possible. This line, called the budget constraint, shows the consumption 
+bundles that the consumer can afford. In this case, it shows the trade-off between 
+pizza and Pepsi that the consumer faces.
+The slope of the budget constraint measures the rate at which the consumer can 
+trade one good for the other. Recall that the slope between two points is  calculated 
+as the change in the vertical distance divided by the change in the  horizontal dis-
+tance (“rise over run”). From point A to point B, the vertical distance is 500  liters, 
+and the horizontal distance is 100 pizzas. Thus, the slope is 5 liters per pizza. 
+ (Actually, because the budget constraint slopes downward, the slope is a negative 
+number. But for our purposes we can ignore the minus sign.)
+Notice that the slope of the budget constraint equals the relative price of the two 
+goods—the price of one good compared to the price of the other. A pizza costs five 
+times as much as a liter of Pepsi, so the opportunity cost of a pizza is 5 liters of 
+Pepsi. The budget constraint’s
+--- PAGE 457 ---
+PART VII   TOPICS FOR FURTHER STUDY
+Our goal in this chapter is to understand how consumers make choices. The bud-
+get constraint is one piece of the analysis: It shows the combinations of goods the 
+consumer can afford given her income and the prices of the goods. The consum-
+er’s choices, however, depend not only on her budget constraint but also on her 
+preferences regarding the two goods. Therefore, the consumer’s preferences are 
+the next piece of our analysis. 
+21-2a Representing Preferences with Indifference Curves
+The consumer’s preferences allow her to choose among different bundles of pizza 
+and Pepsi. If you offer the consumer two different bundles, she chooses the bun-
+dle that best suits her tastes. If the two bundles suit her tastes equally well, we say 
+that the consumer is indifferent between the two bundles. 
+Just as we have represented the consumer’s budget constraint graphically, 
+we can also represent her preferences graphically. We do this with indifference 
+curves. An indifference curve shows the various bundles of consumption that 
+make the consumer equally happy. In this case, the indifference curves show the 
+combinations of pizza and Pepsi with which the consumer is equally satisfied. 
+Figure 2 shows two of the consumer’s many indifference curves. The consumer 
+is indifferent among combinations A, B, and C because they are all on the same 
+curve. Not surprisingly, if the consumer’s consumption of pizza is reduced, say, 
+from point A to point B, consumption of Pepsi must increase to keep her equally 
+happy. If consumption of pizza is reduced again, 
+--- PAGE 458 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+for Pepsi depends on whether she is hungrier or thirstier, which in turn depends 
+on her current consumption of pizza and Pepsi.
+The consumer is equally happy at all points on any given indifference curve, 
+but she prefers some indifference curves to others. Because she prefers more 
+consumption to less, higher indifference curves are preferred to lower ones. In 
+Figure 2, any point on curve I2 is preferred to any point on curve I1.
+A consumer’s set of indifference curves gives a complete ranking of the consum-
+er’s preferences. That is, we can use the indifference curves to rank any two bundles 
+of goods. For example, the indifference curves tell us that point D is preferred to 
+point A because point D is on a higher indifference curve than point A. (That con-
+clusion may be obvious, however, because point D offers the consumer both more 
+pizza and more Pepsi.) The indifference curves also tell us that point D is preferred 
+to point C because point D is on a higher indifference curve. Even though point D 
+has less Pepsi than point C, it has more than enough extra pizza to make the con-
+sumer prefer it. By seeing which point is on the higher indifference curve, we can 
+use the set of indifference curves to rank any combination of pizza and Pepsi.
+21-2b Four Properties of Indifference Curves
+Because indifference curves represent a consumer’s preferences, they have certain 
+properties that reflect those preferences. Here we consider four properties that 
+describe most indifference curves:
+Property 1: Higher indifference curves are p
+--- PAGE 459 ---
+PART VII   TOPICS FOR FURTHER STUDY
+is on the same indifference curve as point B, the two points would make the 
+consumer equally happy. In addition, because point B is on the same indif-
+ference curve as point C, these two points would make the consumer equally 
+happy. But these conclusions imply that points A and C would also make the 
+consumer equally happy, even though point C has more of both goods. This 
+contradicts our assumption that the consumer always prefers more of both 
+goods to less. Thus, indifference curves cannot cross.
+Property 4: Indifference curves are bowed inward. The slope of an indifference 
+curve is the marginal rate of substitution—the rate at which the consumer 
+is willing to trade off one good for the other. The marginal rate of substitu-
+tion (MRS)  usually depends on the amount of each good the consumer is 
+currently consuming. In particular, because people are more willing to trade 
+away goods that they have in abundance and less willing to trade away 
+goods of which they have little, the indifference curves are bowed inward 
+toward the graph’s origin. As an example, consider Figure 4. At point A, 
+because the consumer has a lot of Pepsi and only a little pizza, she is very 
+hungry but not very thirsty. To induce the consumer to give up 1 pizza, she 
+has to be given 6 liters of Pepsi: The MRS is 6 liters per pizza. By contrast, at 
+point B, the consumer has little Pepsi and a lot of pizza, so she is very thirsty 
+but not very hungry. At this point, she would be willing to give up 1 pizza 
+to get 1 liter of Pepsi: The MRS is 1 liter per pizza. 
+--- PAGE 460 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+indifference curves are very bowed. To see why this is true, let’s consider the 
+Perfect Substitutes  Suppose that someone offered you bundles of nickels and 
+dimes. How would you rank the different bundles?
+Most likely, you would care only about the total monetary value of each bun-
+dle. If so, you would always be willing to trade 2 nickels for 1 dime. Your mar-
+ginal rate of substitution between nickels and dimes would be a fixed number: 
+MRS = 2, regardless of the number of nickels and dimes in the bundle. 
+We can represent your preferences for nickels and dimes with the indifference 
+curves in panel (a) of Figure 5. Because the marginal rate of substitution is con-
+stant, the indifference curves are straight lines. In this extreme case of straight 
+indifference curves, we say that the two goods are perfect substitutes.
+Perfect Complements  Suppose now that someone offered you bundles of shoes. 
+Some of the shoes fit your left foot, others your right foot. How would you rank 
+In this case, you might care only about the number of pairs of shoes. In other 
+words, you would judge a bundle based on the number of pairs you could 
+assemble from it. A bundle of 5 left shoes and 7 right shoes yields only 5 pairs. 
+Getting 1 more right shoe has no value if there is no left shoe to go with it. 
+We can represent your preferences for right and left shoes with the indifference 
+curves in panel (b) of Figure 5. In this case, a bundle with 5 left shoes and 5 right 
+shoes is just as good as a bundle with 5 left shoes and 7 right shoes. It is a
+--- PAGE 461 ---
+PART VII   TOPICS FOR FURTHER STUDY
+In the real world, of course, most goods are neither perfect substitutes (like 
+nickels and dimes) nor perfect complements (like right shoes and left shoes). 
+More typically, the indifference curves are bowed inward, but not so bowed that 
+Draw some indifference curves for pizza and Pepsi. Explain the four prop-
+erties of these indifference curves.
+21-3 Optimization: What the Consumer Chooses
+The goal of this chapter is to understand how a consumer makes choices. We have 
+the two pieces necessary for this analysis: the consumer’s budget constraint (how 
+much she can afford to spend) and the consumer’s preferences (what she wants to 
+spend it on). Now we put these two pieces together and consider the consumer’s 
+decision about what to buy. 
+21-3a The Consumer’s Optimal Choices
+Once again, consider our pizza and Pepsi example. The consumer would like to 
+end up with the best possible combination of pizza and Pepsi for her—that is, the 
+combination on her highest possible indifference curve. But the consumer must 
+also end up on or below her budget constraint, which measures the total resources 
+Figure 6 shows the consumer’s budget constraint and three of her many 
+indifference curves. The highest indifference curve that the consumer can reach 
+(I2 in the figure) is the one that just barely touches her budget constraint. The 
+point at which this indifference curve and the budget constraint touch is called 
+the optimum. The consumer would prefer point A, but she cannot afford that point 
+because it lies above her budget constraint. The consum
+--- PAGE 462 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+Notice that, at the optimum, the slope of the indifference curve equals the slope 
+of the budget constraint. We say that the indifference curve is tangent to the bud-
+get constraint. The slope of the indifference curve is the marginal rate of substitu-
+tion between pizza and Pepsi, and the slope of the budget constraint is the relative 
+price of pizza and Pepsi. Thus, the consumer chooses consumption of the two goods so 
+that the marginal rate of substitution equals the relative price.
+In Chapter 7, we saw how market prices reflect the marginal value that con-
+sumers place on goods. This analysis of consumer choice shows the same result in 
+another way. In making her consumption choices, the consumer takes the relative 
+price of the two goods as given and then chooses an optimum at which her mar-
+ginal rate of substitution equals this relative price. The relative price is the rate 
+at which the market is willing to trade one good for the other, whereas the mar-
+ginal rate of substitution is the rate at which the consumer is willing to trade one 
+good for the other. At the consumer’s optimum, the consumer’s valuation of the 
+Utility: An Alternative Way to Describe Preferences 
+e have used indifference curves to represent the consumer’s pref-
+erences. Another common way to represent preferences is with the 
+concept of utility. Utility is an abstract measure of the satisfaction or 
+happiness that a consumer receives from a bundle of goods. Economists 
+say that a consumer prefers one bundle of goods to another if one pro-
+vides more u
+--- PAGE 463 ---
+PART VII   TOPICS FOR FURTHER STUDY
+two goods (as measured by the marginal rate of substitution) equals the market’s 
+valuation (as measured by the relative price). As a result of this consumer optimi-
+zation, market prices of different goods reflect the value that consumers place on 
+21-3b How Changes in Income Affect the Consumer’s Choices
+Now that we have seen how the consumer makes a consumption decision, let’s 
+examine how this decision responds to changes in the consumer’s income. To be 
+specific, suppose that income increases. With higher income, the consumer can 
+afford more of both goods. The increase in income, therefore, shifts the budget 
+constraint outward, as in Figure 7. Because the relative price of the two goods has 
+not changed, the slope of the new budget constraint is the same as the slope of the 
+initial budget constraint. That is, an increase in income leads to a parallel shift in 
+The expanded budget constraint allows the consumer to choose a better 
+combination of pizza and Pepsi, one that is on a higher indifference curve. Given 
+the shift in the budget constraint and the consumer’s preferences as represented 
+by her indifference curves, the consumer’s optimum moves from the point labeled 
+“initial optimum” to the point labeled “new optimum.”
+Notice that, in Figure 7, the consumer chooses to consume more Pepsi and 
+more pizza. The logic of the model does not require increased consumption 
+of both goods in response to increased income, but this situation is the most 
+common. As you may recall from Chapter 4, if a consumer wants more of a 
+good when h
+--- PAGE 464 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+Figure 8 shows an example in which an increase in income induces the 
+consumer to buy more pizza but less Pepsi. If a consumer buys less of a good 
+when her income rises, economists call it an inferior good. Figure 8 is drawn 
+under the assumption that pizza is a normal good and Pepsi is an inferior good. 
+Although most goods in the world are normal goods, there are some inferior 
+goods as well. An example is bus rides. As income increases, consumers are more 
+likely to own cars or take taxis and less likely to ride the bus. Bus rides, therefore, 
+21-3c How Changes in Prices Affect the Consumer’s Choices
+Let’s now use this model of consumer choice to consider how a change in the 
+price of one of the goods alters the consumer’s choices. Suppose, in particular, 
+that the price of Pepsi falls from $2 to $1 per liter. It is no surprise that the lower 
+price expands the consumer’s set of buying opportunities. In other words, a fall in 
+the price of any good shifts the budget constraint outward.
+Figure 9 considers more specifically how the fall in price affects the budget 
+constraint. If the consumer spends her entire $1,000 income on pizza, then the 
+price of Pepsi is irrelevant. Thus, point A in the figure stays the same. Yet if the 
+consumer spends her entire income of $1,000 on Pepsi, she can now buy 1,000 
+liters rather than only 500. Thus, the endpoint of the budget constraint moves 
+Notice that in this case the outward shift in the budget constraint changes its 
+slope. (This differs from what happened previously when prices staye
+--- PAGE 465 ---
+PART VII   TOPICS FOR FURTHER STUDY
+How such a change in the budget constraint alters the consumption of both 
+goods depends on the consumer’s preferences. For the indifference curves drawn 
+in this figure, the consumer buys more Pepsi and less pizza.
+21-3d Income and Substitution Effects
+The impact of a change in the price of a good on consumption can be decomposed 
+into two effects: an income effect and a substitution effect. To see what these two 
+effects are, consider how our consumer might respond when she learns that the 
+price of Pepsi has fallen. She might reason in the following ways:
+• “Great news! Now that Pepsi is cheaper, my income has greater purchasing 
+power. I am, in effect, richer than I was. Because I am richer, I can buy both 
+more pizza and more Pepsi.” (This is the income effect.)
+• “Now that the price of Pepsi has fallen, I get more liters of Pepsi for every 
+pizza that I give up. Because pizza is now relatively more expensive, I should 
+buy less pizza and more Pepsi.” (This is the substitution effect.) 
+Which statement do you find more compelling?
+In fact, both of these statements make sense. The decrease in the price of Pepsi 
+makes the consumer better off. If pizza and Pepsi are both normal goods, the 
+consumer will want to spread this improvement in her purchasing power over 
+both goods. This income effect tends to make the consumer buy more pizza and 
+more Pepsi. Yet at the same time, consumption of Pepsi has become less expensive 
+relative to consumption of pizza. This substitution effect tends to make the 
+consumer choose less pizza and more Pe
+--- PAGE 466 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+or less pizza is not clear. The outcome could go either way, depending on the sizes 
+of the income and substitution effects. Table 1 summarizes these conclusions.
+We can interpret the income and substitution effects using indifference curves. 
+The income effect is the change in consumption that results from the movement to a new 
+indifference curve. The substitution effect is the change in consumption that results from 
+moving to a new point on the same indifference curve with a different marginal rate of 
+Figure 10 shows graphically how to decompose the change in the consumer’s 
+decision into the income effect and the substitution effect. When the price of Pepsi 
+falls, the consumer moves from the initial optimum, point A, to the new optimum, 
+point C. We can view this change as occurring in two steps. First, the consumer 
+moves along the initial indifference curve, I1, from point A to point B. The consumer 
+Income and Substitution Effects
+The effect of a change in price can be broken 
+down into an income effect and a substi-
+tution effect. The substitution effect—the 
+movement along an indifference curve to 
+a point with a different marginal rate of 
+substitution—is shown here as the change 
+from point A to point B along indifference 
+curve I1. The income effect—the shift to a 
+higher indifference curve—is shown here 
+as the change from point B on indifference 
+curve I1 to point C on indifference curve I2. 
+Effects When the Price of 
+--- PAGE 467 ---
+PART VII   TOPICS FOR FURTHER STUDY
+is equally happy at these two points, but at point B, the marginal rate of substitution 
+reflects the new relative price. (The dashed line through point B is parallel to the 
+new budget constraint and thus reflects the new relative price.) Next, the consumer 
+shifts to the higher indifference curve, I2, by moving from point B to point C. Even 
+though point B and point C are on different indifference curves, they have the same 
+marginal rate of substitution. That is, the slope of the indifference curve I1 at point B 
+equals the slope of the indifference curve I2 at point C.
+The consumer never actually chooses point B, but this hypothetical point is 
+useful to clarify the two effects that determine the consumer’s decision. Notice that 
+the change from point A to point B represents a pure change in the marginal rate of 
+substitution without any change in the consumer’s welfare. Similarly, the change 
+from point B to point C represents a pure change in welfare without any change 
+in the marginal rate of substitution. Thus, the movement from A to B shows the 
+substitution effect, and the movement from B to C shows the income effect. 
+21-3e Deriving the Demand Curve
+We have just seen how changes in the price of a good alter the consumer’s budget 
+constraint and, therefore, the quantities of the two goods that she chooses to buy. 
+The demand curve for any good reflects these consumption decisions. Recall that 
+a demand curve shows the quantity demanded of a good for any given price. We 
+can view a consumer’s demand curve as a summary of the opti
+--- PAGE 468 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+that results from this consumer’s decisions. In this way, the theory of consumer 
+choice provides the theoretical foundation for the consumer’s demand curve.
+It may be comforting to know that the demand curve arises naturally from the 
+theory of consumer choice, but this exercise by itself does not justify developing 
+the theory. There is no need for a rigorous, analytic framework just to establish 
+that people respond to changes in prices. The theory of consumer choice is, 
+however, useful in studying various decisions that people make as they go about 
+their lives, as we see in the next section.
+Draw a budget constraint and indifference curves for pizza and Pepsi. 
+Show what happens to the budget constraint and the consumer’s optimum 
+when the price of pizza rises. In your diagram, decompose the change into an income effect 
+and a substitution effect.
+Now that we have developed the basic theory of consumer choice, let’s use 
+it to shed light on three questions about how the economy works. These three 
+questions might at first seem unrelated. But because each question involves 
+household decision making, we can address it with the model of consumer 
+behavior we have just developed.
+21-4a Do All Demand Curves Slope Downward?
+Normally, when the price of a good rises, people buy less of it. This typical 
+behavior, called the law of demand, is reflected in the downward slope of the 
+As a matter of economic theory, however, demand curves can sometimes slope 
+upward. In other words, consumers can sometimes violate the law of demand 
+an
+--- PAGE 469 ---
+PART VII   TOPICS FOR FURTHER STUDY
+Initially, the consumer’s budget constraint is the line from point A to point B. The 
+optimum is point C. When the price of potatoes rises, the budget constraint shifts 
+inward and is now the line from point A to point D. The optimum is now point E. 
+Notice that a rise in the price of potatoes has led the consumer to buy a larger 
+Why is the consumer responding in this strange way? In this example, potatoes 
+are a strongly inferior good; that is, potatoes are a good that a person buys 
+a lot less of when her income rises and a lot more of when her income falls. In 
+Figure 12, the increase in the price of potatoes makes the consumer poorer; that 
+is, the higher price puts her on a lower indifference curve. Because she is poorer 
+and potatoes are an inferior good, the income effect makes her want to buy less 
+meat and more potatoes. At the same time, because the potatoes have become 
+more expensive relative to meat, the substitution effect makes the consumer want 
+to buy more meat and fewer potatoes. If the income effect is much larger than the 
+substitution effect, as it is in this example, the consumer responds to the higher 
+price of potatoes by buying less meat and more potatoes.
+Economists use the term Giffen good to describe a good that violates the law 
+of demand. (The term is named for economist Robert Giffen, who first noted this 
+possibility.) In this example, potatoes are a Giffen good. Giffen goods are inferior 
+goods for which the income effect dominates the substitution effect. Therefore, 
+they have demand curves that slope up
+--- PAGE 470 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+some of it working so they can afford to buy consumption goods. The essence of 
+the time-allocation problem is the trade-off between leisure and consumption.
+Consider the decision facing Kayla, a freelance software designer. Kayla is 
+awake for 100 hours per week. She spends some of this time enjoying leisure—
+playing Minecraft, watching The Bachelor on television, and reading this textbook. 
+She spends the rest of this time at her computer developing software. For 
+every hour she works developing software, she earns $50, which she spends on 
+consumption goods—food, clothing, and music downloads. Her hourly wage 
+of $50 reflects the trade-off Kayla faces between leisure and consumption. For 
+every hour of leisure she gives up, she works one more hour and gets $50 of 
+Figure 13 shows Kayla’s budget constraint. If she spends all 100 hours enjoying 
+leisure, she has no consumption. If she spends all 100 hours working, she earns a 
+weekly consumption of $5,000 but has no time for leisure. If she works a 40-hour 
+week, she enjoys 60 hours of leisure and has weekly consumption of $2,000.
+Figure 13 uses indifference curves to represent Kayla’s preferences for 
+consumption and leisure. Here consumption and leisure are the two “goods” 
+between which Kayla is choosing. Because Kayla always prefers more leisure 
+and more consumption, she prefers points on higher indifference curves to 
+points on lower ones. At a wage of $50 per hour, Kayla chooses a combination of 
+consumption and leisure represented by the point labeled “optimum.” This is t
+--- PAGE 471 ---
+PART VII   TOPICS FOR FURTHER STUDY
+wage is different in the two cases. In panel (a), Kayla responds to the higher wage 
+by enjoying less leisure. In panel (b), Kayla responds by enjoying more leisure.
+Kayla’s decision between leisure and consumption determines her supply of 
+labor because the more leisure she enjoys, the less time she has left to work. In 
+each panel of Figure 14, the right graph shows the labor-supply curve implied by 
+Kayla’s decision. In panel (a), a higher wage induces Kayla to enjoy less leisure 
+(a) For a person with these preferences . . .
+. . . the labor supply curve slopes upward.
+(b) For a person with these preferences . . .
+. . . the labor supply curve slopes backward.
+1. When the wage rises . . .
+2. . . . hours of leisure increase . . .
+3. . . . and hours of labor decrease.
+2. . . . hours of leisure decrease . . .
+3. . . . and hours of labor increase.
+1. When the wage rises . . .
+The two panels of this figure show how a person might respond to an increase in the wage. 
+The graphs on the left show the consumer’s initial budget constraint, BC1, and new budget 
+constraint, BC2, as well as the consumer’s optimal choices over consumption and leisure. The 
+graphs on the right show the resulting labor-supply curve. Because hours worked equal total 
+hours available minus hours of leisure, any change in leisure implies an opposite change in the 
+quantity of labor supplied. In panel (a), when the wage rises, consumption rises and leisure 
+falls, resulting in a labor-supply curve that slopes upward. In panel (b), when the wage rises, 
+both consumption and
+--- PAGE 472 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+and work more, so the labor-supply curve slopes upward. In panel (b), a higher 
+wage induces Kayla to enjoy more leisure and work less, so the labor-supply 
+At first, the backward-sloping labor-supply curve is puzzling. Why would 
+a person respond to a higher wage by working less? The answer comes from 
+considering the income and substitution effects of a higher wage.
+Consider first the substitution effect. When Kayla’s wage rises, leisure becomes 
+more expensive relative to consumption, and this encourages Kayla to substitute 
+away from leisure and toward consumption. In other words, the substitution 
+effect induces Kayla to work more in response to higher wages, which tends to 
+make the labor-supply curve slope upward.
+Now consider the income effect. When Kayla’s wage rises, she moves to 
+a higher indifference curve. She is now better off than she was. As long as 
+consumption and leisure are both normal goods, she tends to want to use this 
+increase in well-being to enjoy both higher consumption and greater leisure. In 
+other words, the income effect induces her to work less, which tends to make the 
+labor-supply curve slope backward. 
+In the end, economic theory does not give a clear prediction about whether an 
+increase in the wage induces Kayla to work more or less. If the substitution effect 
+is greater than the income effect, she works more. If the income effect is greater 
+than the substitution effect, she works less. The labor-supply curve, therefore, 
+could be either upward- or backward-sloping.
+ IN COME EFFECTS ON LABOR
+--- PAGE 473 ---
+PART VII   TOPICS FOR FURTHER STUDY
+Similar results were found in a 1993 study, published in the Quarterly Journal of 
+Economics, of how receiving a bequest affects a person’s labor supply. The study 
+found that a single person who inherits more than $150,000 is four times as likely 
+to stop working as a single person who inherits less than $25,000. This finding 
+would not have surprised the 19th-century industrialist Andrew Carnegie. 
+Carnegie warned that “the parent who leaves his son enormous wealth generally 
+deadens the talents and energies of the son, and tempts him to lead a less 
+useful and less worthy life than he otherwise would.” That is, Carnegie viewed 
+the income effect on labor supply to be substantial and, from his paternalistic 
+perspective, regrettable. During his life and at his death, Carnegie gave much of 
+his vast fortune to charity. ●
+21-4c How Do Interest Rates Affect Household Saving?
+An important decision that every person faces is how much income to consume 
+today and how much to save for the future. We can use the theory of consumer 
+choice to analyze how people make this decision and how the amount they save 
+depends on the interest rate their savings will earn.
+Consider the decision facing Saul, a worker planning for retirement. To keep 
+things simple, let’s divide Saul’s life into two periods. In the first period, Saul is 
+young and working. In the second period, he is old and retired. When young, Saul 
+earns $100,000. He divides this income between current consumption and saving. 
+When he is old, Saul will consume what he has saved, including
+--- PAGE 474 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+Figure 15 uses indifference curves to represent Saul’s preferences for 
+consumption in the two periods. Because Saul prefers more consumption in both 
+periods, he prefers points on higher indifference curves to points on lower ones. 
+Given his preferences, Saul chooses the optimal combination of consumption in 
+both periods of life, which is the point on the budget constraint that is on the 
+highest possible indifference curve. At this optimum, Saul consumes $50,000 
+when young and $55,000 when old.
+Now consider what happens when the interest rate increases from 10 to 
+20 percent. Figure 16 shows two possible outcomes. In both cases, the budget 
+constraint shifts outward and becomes steeper. At the new, higher interest rate, 
+Saul gets more consumption when old for every dollar of consumption that he 
+The two panels show the results given different preferences by Saul. In both 
+cases, consumption when old rises. Yet the response of consumption when young 
+to the change in the interest rate is different in the two cases. In panel (a), Saul 
+responds to the higher interest rate by consuming less when young. In panel (b), 
+Saul responds by consuming more when young. 
+Saul’s saving is his income when young minus the amount he consumes when 
+young. In panel (a), an increase in the interest rate reduces consumption when 
+young, so saving must rise. In panel (b), an increase in the interest rate induces 
+Saul to consume more when young, so saving must fall. 
+The case shown in panel (b) might at first seem odd: Saul responds to an 
+increa
+--- PAGE 475 ---
+PART VII   TOPICS FOR FURTHER STUDY
+Consider first the substitution effect. When the interest rate rises, consumption 
+when old becomes less costly relative to consumption when young. Therefore, the 
+substitution effect induces Saul to consume more when old and less when young. 
+In other words, the substitution effect induces Saul to save more. 
+Now consider the income effect. When the interest rate rises, Saul moves 
+to a higher indifference curve. He is now better off than he was. As long as 
+consumption in both periods consists of normal goods, he tends to want to use 
+this increase in well-being to enjoy higher consumption in both periods. In other 
+words, the income effect induces him to save less. 
+The result depends on both the income and substitution effects. If the 
+substitution effect of a higher interest rate is greater than the income effect, Saul 
+saves more. If the income effect is greater than the substitution effect, Saul saves 
+less. Thus, the theory of consumer choice says that an increase in the interest rate 
+could either encourage or discourage saving.
+This ambiguous result is interesting from the standpoint of economic theory, 
+but it is disappointing from the standpoint of economic policy. It turns out that an 
+important issue in tax policy hinges in part on how saving responds to interest rates. 
+Some economists have advocated reducing the taxation of interest and other capital 
+income, arguing that such a policy change would raise the after-tax interest rate 
+that savers can earn and thereby encourage people to save more. Other economists 
+have argu
+--- PAGE 476 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+Just as the proof of the pudding is in the eating, the test of a theory is in its 
+applications. In the last section of this chapter, we applied the theory of consumer 
+choice to three practical issues about the economy. If you take more advanced 
+courses in economics, you will see that this theory provides the framework for 
+1. Emilio buys pizza for $10 and soda for $2. He 
+has income of $100. His budget constraint will 
+experience a parallel outward shift if which of the 
+a. The price of pizza falls to $5, the price of soda 
+falls to $1, and his income falls to $50.
+b. The price of pizza rises to $20, the price of soda 
+rises to $4, and his income remains the same.
+c. The price of pizza falls to $8, the price of soda 
+falls to $1, and his income rises to $120.
+d. The price of pizza rises to $20, the price of soda 
+rises to $4, and his income rises to $400.
+2. At any point on an indifference curve, the slope of the 
+curve measures the consumer’s
+b. willingness to trade one good for the other.
+c. perception of the two goods as substitutes or 
+3. Matthew and Susan are both optimizing consumers in 
+the markets for shirts and hats, where they pay $100 
+for a shirt and $50 for a hat. Matthew buys 4 shirts 
+and 16 hats, while Susan buys 6 shirts and 12 hats. 
+From this information, we can infer that Matthew’s 
+marginal rate of substitution is _____ hats per shirt, 
+4. Darius buys only lobster and chicken. Lobster is a 
+normal good, while chicken is an inferior good. When 
+the price of lobster rises, Darius buys
+b. more lobster and less
+--- PAGE 477 ---
+PART VII   TOPICS FOR FURTHER STUDY
+• When the price of a good falls, the impact on the 
+consumer’s choices can be broken down into an income 
+effect and a substitution effect. The income effect is the 
+change in consumption that arises because a lower 
+price makes the consumer better off. The substitution 
+effect is the change in consumption that arises because 
+a price change encourages greater consumption of the 
+good that has become relatively cheaper. The income 
+effect is reflected in the movement from a lower to a 
+higher indifference curve, whereas the substitution 
+effect is reflected by a movement along an indifference 
+curve to a point with a different slope.
+• The theory of consumer choice can be applied in 
+many situations. It explains why demand curves can 
+potentially slope upward, why higher wages could 
+either increase or decrease the quantity of labor 
+supplied, and why higher interest rates could either 
+increase or decrease saving.
+indifference curve, p. 428
+marginal rate of substitution, p. 428
+perfect substitutes, p. 431
+perfect complements, p. 431
+substitution effect, p. 436
+1. A consumer has income of $3,000. Wine costs  
+$3 per glass, and cheese costs $6 per pound. Draw the 
+consumer’s budget constraint with wine on the vertical 
+axis. What is the slope of this budget constraint?
+2. Draw a consumer’s indifference curves for wine and 
+cheese. Describe and explain four properties of these 
+3. Pick a point on an indifference curve for wine and 
+cheese, and show the marginal rate of substitution. 
+What does the marginal rate of substitution tell us?
+4. 
+--- PAGE 478 ---
+CHAPTER 21   THE THEORY OF CONSUMER CHOICE 
+3. You consume only soda and pizza. One day, the price 
+of soda goes up, the price of pizza goes down, and 
+you are just as happy as you were before the price 
+a. Illustrate this situation on a graph.
+b. How does your consumption of the two goods 
+change? How does your response depend on 
+income and substitution effects?
+c. Can you afford the bundle of soda and pizza you 
+consumed before the price changes?
+4. Carlos consumes only cheese and crackers.
+a. Could cheese and crackers both be inferior goods 
+b. Suppose that cheese is a normal good for Carlos 
+while crackers are an inferior good. If the 
+price of cheese falls, what happens to Carlos’s 
+consumption of crackers? What happens to his 
+consumption of cheese? Explain.
+5. Jacob buys only milk and cookies.
+a. In year 1, Jacob earns $100, milk costs $2 per 
+quart, and cookies cost $4 per dozen. Draw 
+Jacob’s budget constraint.
+b. Now suppose that all prices increase by 
+10 percent in year 2 and that Jacob’s salary 
+increases by 10 percent as well. Draw Jacob’s 
+new budget constraint. How would Jacob’s 
+optimal combination of milk and cookies in year 2 
+compare to his optimal combination in year 1?
+6. State whether each of the following statements is true 
+or false. Explain your answers. 
+a. “All Giffen goods are inferior goods.”
+b. “All inferior goods are Giffen goods.”
+7. A college student has two options for meals: eating at 
+the dining hall for $6 per meal, or eating a Cup O’ Soup 
+for $1.50 per meal. Her weekly food budget is $60.
+a. Draw the budget constraint showing the 
+tr
+--- PAGE 479 ---
+
+--- PAGE 480 ---
+conomics is a study of the choices that people make and the resulting interac-
+tions they have with one another. As the preceding chapters demonstrate, the 
+field has many facets. Yet it would be a mistake to think that all the facets we 
+have seen make up a finished jewel, perfect and unchanging. Like all scientists, 
+economists are always looking for new areas to study and new phenomena to 
+explain. This final chapter on microeconomics offers an assortment of three top-
+ics at the discipline’s frontier to show how economists are trying to expand their 
+ understanding of human behavior and society. 
+The first topic is the economics of asymmetric information. In many  different 
+situations, some people are better informed than others, and 
+the imbalance in information affects the choices they 
+make and how they deal with one another. 
+Frontiers of Microeconomics
