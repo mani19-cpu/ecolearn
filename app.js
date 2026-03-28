@@ -532,7 +532,7 @@ function buildVideoSection(name) {
   let cards = vids.map(v =>
     `<a class="video-card" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener"><div class="video-thumb"><img src="https://img.youtube.com/vi/${v.id}/mqdefault.jpg" alt="${v.t}" loading="lazy"><div class="play-icon"></div></div><div class="video-info"><div class="video-title">${v.t}</div><div class="video-channel">${v.c}</div></div></a>`
   ).join('');
-  return `<div class="video-section"><h3>🎬 Watch & Learn</h3><div class="video-grid">${cards}</div></div>`;
+  return `<div class="video-section"><h3><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px;margin-right:6px"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>Watch & Learn</h3><div class="video-grid">${cards}</div></div>`;
 }
 
 // ═══════════════════════════════════════════
