@@ -551,12 +551,28 @@
   /* READING PROGRESS */
   .reading-progress { position:fixed;top:0;left:0;height:3px;background:linear-gradient(90deg,var(--primary),#f0b060);z-index:150;transition:width 0.1s; }
 
-  /* KEYWORD POPUP */
-  .kw-popup-wrap { position:relative;display:inline; }
-  .kw-popup { position:absolute;bottom:calc(100% + 8px);left:50%;transform:translateX(-50%);background:var(--card);border:1.5px solid var(--primary);border-radius:12px;padding:12px 16px;width:280px;z-index:100;box-shadow:0 8px 24px rgba(0,0,0,0.3); }
-  .kw-popup::after { content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:8px solid transparent;border-top-color:var(--primary); }
-  .kw-popup-term { font-weight:800;color:var(--primary);font-size:0.85rem;margin-bottom:4px; }
-  .kw-popup-def { font-size:0.82rem;color:var(--muted);line-height:1.5; }
+  /* KEYWORD POPUP — fixed position modal on mobile */
+  .kw-popup-overlay {
+    position:fixed;top:0;left:0;right:0;bottom:0;
+    background:rgba(0,0,0,0.5);z-index:999;
+    display:flex;align-items:flex-end;justify-content:center;
+    animation:fadeIn 0.15s ease-out;
+  }
+  .kw-popup {
+    background:var(--card);border:1.5px solid var(--primary);border-radius:16px 16px 0 0;
+    padding:20px 20px 28px;width:100%;max-width:480px;z-index:1000;
+    box-shadow:0 -8px 32px rgba(0,0,0,0.4);animation:slideUp 0.2s ease-out;
+    max-height:60vh;overflow-y:auto;
+  }
+  .kw-popup-handle { width:40px;height:4px;background:var(--border);border-radius:4px;margin:0 auto 14px; }
+  .kw-popup-term { font-weight:800;color:var(--primary);font-size:1rem;margin-bottom:6px; }
+  .kw-popup-def { font-size:0.92rem;color:var(--muted);line-height:1.6; }
+  @keyframes slideUp { from { transform:translateY(100%); } to { transform:translateY(0); } }
+  @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+  @media (min-width: 601px) {
+    .kw-popup-overlay { align-items:center; }
+    .kw-popup { border-radius:16px;max-width:400px; }
+  }
 
   /* FLASHCARD TAB */
   .fc-toolbar { display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;align-items:center; }

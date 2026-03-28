@@ -79,16 +79,19 @@ function openLesson(u, name, sub) {
 
   content = content.replace(/<span class="vocab-pill">([^<]+)<\/span>/g, (match, term) => {
     const tl = term.toLowerCase().trim();
-    let def = glossMap[tl] || glossMap[tl.replace(/s$/, '')] || glossMap[tl.replace(/ing$/, '')] || '';
+    let def = glossMap[tl] || glossMap[tl.replace(/s$/, '')] || glossMap[tl.replace(/ing$/, '')] || glossMap[tl.replace(/ies$/, 'y')] || glossMap[tl.replace(/es$/, '')] || '';
     if (!def) {
-      const words = tl.split(/[\s()]+/);
-      for (const w of words) { if (w.length > 4 && glossMap[w]) { def = glossMap[w]; break; } }
+      const words = tl.split(/[\s(),\/]+/);
+      for (const w of words) { if (w.length > 3 && glossMap[w]) { def = glossMap[w]; break; } }
     }
     if (!def) {
-      const found = glossaryData.find(g => g.term.toLowerCase().includes(tl) || tl.includes(g.term.toLowerCase()));
+      const found = glossaryData.find(g => {
+        const gl = g.term.toLowerCase();
+        return gl.includes(tl) || tl.includes(gl) || gl.split(/\s+/).some(w => w.length > 4 && tl.includes(w));
+      });
       if (found) def = found.def;
     }
-    if (!def) return match;
+    if (!def) def = 'A key economics term. Check the Glossary tab for the full definition.';
     const eDef = def.replace(/\\/g, '').replace(/'/g, "&#39;").replace(/"/g, "&quot;").replace(/\n/g, ' ');
     const eTerm = term.replace(/'/g, "&#39;");
     return `<span class="vocab-pill kw-clickable" data-term="${eTerm}" data-def="${eDef}">${term}</span>`;
@@ -109,19 +112,18 @@ function openLesson(u, name, sub) {
 }
 
 function toggleKwPopup(el, term, def) {
-  const existing = document.querySelector('.kw-popup');
-  if (existing) { existing.remove(); if (existing.parentElement === el) return; }
+  const existing = document.querySelector('.kw-popup-overlay');
+  if (existing) { existing.remove(); return; }
+  const overlay = document.createElement('div');
+  overlay.className = 'kw-popup-overlay';
   const popup = document.createElement('div');
   popup.className = 'kw-popup';
-  popup.innerHTML = '<div class="kw-popup-term">' + term + '</div><div class="kw-popup-def">' + def + '</div>';
-  el.style.position = 'relative';
-  el.style.display = 'inline-block';
-  el.appendChild(popup);
-  setTimeout(function() {
-    document.addEventListener('click', function handler(e) {
-      if (!popup.contains(e.target)) { popup.remove(); document.removeEventListener('click', handler); }
-    });
-  }, 50);
+  popup.innerHTML = '<div class="kw-popup-handle"></div><div class="kw-popup-term">' + term + '</div><div class="kw-popup-def">' + def + '</div>';
+  overlay.appendChild(popup);
+  document.body.appendChild(overlay);
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) overlay.remove();
+  });
 }
 
 // ═══════════════════════════════════════════
