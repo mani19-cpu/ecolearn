@@ -49,7 +49,9 @@ function buildList() {
     h += `<div class="duo-unit"><div class="duo-unit-header" style="background:${u.gradient};box-shadow:0 4px 0 ${u.shadow}" onclick="toggleUnit(${u.unitNum})"><div class="unit-label">Unit ${u.unitNum} · ${doneCount}/${u.nodes.length} <span class="unit-toggle">${isCollapsed ? '▶' : '▼'}</span></div><div class="unit-name">${u.label}</div>${allDone ? '<div style="font-size:0.7rem;margin-top:4px;opacity:0.8">✓ Complete</div>' : ''}</div><div class="duo-nodes${isCollapsed ? ' collapsed' : ''}">`;
     u.nodes.forEach(n => {
       const id = u.unitNum + '-' + n.name, d = done.has(id), c = d ? 'done' : 'next';
-      h += `<div class="duo-node ${c}" onclick="openLesson(${u.unitNum},'${n.name.replace(/'/g, "\\'")}','${n.sub.replace(/'/g, "\\'")}')"><button class="duo-btn ${c}">${d ? '✓' : n.icon}${d ? '<div class="duo-checkmark">✓</div>' : ''}</button><div class="duo-node-label"><div class="node-name">${n.name}</div><div class="node-sub">${n.sub}</div></div></div>`;
+      const checkSvg = `<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`;
+      const checkBadge = `<div class="duo-checkmark"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div>`;
+      h += `<div class="duo-node ${c}" onclick="openLesson(${u.unitNum},'${n.name.replace(/'/g, "\\'")}','${n.sub.replace(/'/g, "\\'")}')"><button class="duo-btn ${c}">${d ? checkSvg : n.icon}${d ? checkBadge : ''}</button><div class="duo-node-label"><div class="node-name">${n.name}</div><div class="node-sub">${n.sub}</div></div></div>`;
     });
     h += '</div></div>';
   });
@@ -93,7 +95,7 @@ function openLesson(u, name, sub) {
   });
 
   const videoHTML = buildVideoSection(name);
-  document.getElementById('lesson-content').innerHTML = `<div class="lesson-header"><h1>${name}</h1><p>Unit ${u} — ${sub}</p></div>${content}<button class="deep-dive-btn" id="dd-btn" onclick="toggleDeepDive('${safeName}','${sub.replace(/'/g, "\\'")}')">🔬 Deep Dive — Go Deeper</button><div id="deep-dive-area"></div>${videoHTML}<button class="done-btn" onclick="markDone(${u},'${safeName}')">✓ Mark as Complete</button>`;
+  document.getElementById('lesson-content').innerHTML = `<div class="lesson-header"><h1>${name}</h1><p>Unit ${u} — ${sub}</p></div>${content}<button class="deep-dive-btn" id="dd-btn" onclick="toggleDeepDive('${safeName}','${sub.replace(/'/g, "\\'")}')"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/></svg> Deep Dive — Go Deeper</button><div id="deep-dive-area"></div>${videoHTML}<button class="done-btn" onclick="markDone(${u},'${safeName}')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px;margin-right:4px"><polyline points="20 6 9 17 4 12"/></svg> Mark as Complete</button>`;
 
   // Attach click handlers to vocab pills
   document.querySelectorAll('.kw-clickable').forEach(el => {
@@ -262,7 +264,7 @@ function doSearch(q) {
     }
   });
 
-  if (results.length === 0) { r.innerHTML = '<p style="color:var(--muted);padding:20px;text-align:center">No results found.</p>'; return; }
+  if (results.length === 0) { r.innerHTML = '<div style="padding:30px;text-align:center"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--muted)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:8px;opacity:0.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="11" x2="14" y2="11"/></svg><p style="color:var(--muted);font-size:0.88rem">No results found.</p></div>'; return; }
   r.innerHTML = results.slice(0, 15).map(x => `<div class="search-result" onclick="${x.action};closeSearch()"><div class="search-result-type">${x.type}</div><div class="search-result-title">${x.title}</div><div class="search-result-snippet">${x.sub}</div></div>`).join('');
 }
 
@@ -322,7 +324,8 @@ function startQuiz() {
 function renderQ() {
   if (qIdx >= shuffled.length) {
     const pct = shuffled.length > 0 ? Math.round(qScore / shuffled.length * 100) : 0;
-    document.getElementById('quiz-container').innerHTML = `<div class="quiz-score-display"><div class="score-big">${qScore}/${shuffled.length}</div><div class="score-label">questions correct (${pct}%)</div><p style="margin-top:16px;color:var(--muted);font-size:0.9rem">${pct >= 90 ? '🎉 Outstanding!' : pct >= 70 ? '🌟 Great work!' : pct >= 50 ? '👍 Good effort!' : '📖 Keep studying!'}</p><button class="next-q-btn show" style="margin-top:20px" onclick="startQuiz()">Try Again</button></div>`;
+    const svgTrophy = `<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="${pct >= 70 ? '#4ade80' : '#e8893c'}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:12px"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>`;
+    document.getElementById('quiz-container').innerHTML = `<div class="quiz-score-display">${svgTrophy}<div class="score-big">${qScore}/${shuffled.length}</div><div class="score-label">questions correct (${pct}%)</div><p style="margin-top:16px;color:var(--muted);font-size:0.9rem">${pct >= 90 ? 'Outstanding!' : pct >= 70 ? 'Great work!' : pct >= 50 ? 'Good effort!' : 'Keep studying!'}</p><button class="next-q-btn show" style="margin-top:20px" onclick="startQuiz()">Try Again</button></div>`;
     return;
   }
   const q = shuffled[qIdx]; qAns = false;
@@ -335,8 +338,8 @@ function ansQ(i) {
   btns.forEach(b => b.disabled = true);
   btns[q.correct].classList.add('correct');
   const fb = document.getElementById('qfb');
-  if (i === q.correct) { qScore++; fb.className = 'quiz-feedback show correct'; fb.textContent = '✅ ' + q.explain; }
-  else { btns[i].classList.add('wrong'); fb.className = 'quiz-feedback show wrong'; fb.textContent = '❌ ' + q.explain; }
+  if (i === q.correct) { qScore++; fb.className = 'quiz-feedback show correct'; fb.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#4ade80" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><polyline points="20 6 9 17 4 12"/></svg> ' + q.explain; }
+  else { btns[i].classList.add('wrong'); fb.className = 'quiz-feedback show wrong'; fb.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e05a5a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;margin-right:4px"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg> ' + q.explain; }
   document.getElementById('nqb').classList.add('show');
 }
 

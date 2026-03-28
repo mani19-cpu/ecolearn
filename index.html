@@ -204,7 +204,15 @@
     align-items: center;
     gap: 6px;
   }
-  .lesson-header { margin-bottom: 20px; }
+  .lesson-header {
+    margin-bottom: 20px;
+    position: relative;
+    padding-right: 100px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='90' viewBox='0 0 90 90'%3E%3C!-- Supply curve --%3E%3Cpath d='M15 75 Q45 45 75 15' fill='none' stroke='%23e8893c' stroke-width='2' opacity='0.15'/%3E%3C!-- Demand curve --%3E%3Cpath d='M15 15 Q45 45 75 75' fill='none' stroke='%234ade80' stroke-width='2' opacity='0.15'/%3E%3C!-- Equilibrium dot --%3E%3Ccircle cx='45' cy='45' r='4' fill='%23e8893c' opacity='0.2'/%3E%3C!-- S label --%3E%3Ctext x='78' y='18' fill='%23e8893c' font-size='12' font-weight='700' opacity='0.15' font-family='Arial'%3ES%3C/text%3E%3C!-- D label --%3E%3Ctext x='78' y='80' fill='%234ade80' font-size='12' font-weight='700' opacity='0.15' font-family='Arial'%3ED%3C/text%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 90px 90px;
+  }
   .lesson-header h1 { font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.7rem; font-weight: 600; line-height: 1.3; margin-bottom: 6px; background: linear-gradient(90deg, var(--primary), #f0b060); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
   .lesson-header p { color: var(--muted); font-size: 0.88rem; }
 
@@ -230,10 +238,15 @@
     background: var(--yellow-light);
     border-left: 4px solid var(--yellow);
     border-radius: 0 10px 10px 0;
-    padding: 16px 18px;
+    padding: 16px 18px 16px 50px;
     margin: 24px 0;
     font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
+    position: relative;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23f5c842' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.5'%3E%3Ccircle cx='12' cy='12' r='5'/%3E%3Cline x1='12' y1='1' x2='12' y2='3'/%3E%3Cline x1='12' y1='21' x2='12' y2='23'/%3E%3Cline x1='4.22' y1='4.22' x2='5.64' y2='5.64'/%3E%3Cline x1='18.36' y1='18.36' x2='19.78' y2='19.78'/%3E%3Cline x1='1' y1='12' x2='3' y2='12'/%3E%3Cline x1='21' y1='12' x2='23' y2='12'/%3E%3Cline x1='4.22' y1='19.78' x2='5.64' y2='18.36'/%3E%3Cline x1='18.36' y1='5.64' x2='19.78' y2='4.22'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 14px 16px;
+    background-size: 26px 26px;
   }
   .analogy-box strong { color: #e8c84a; display: block; margin-bottom: 4px; }
 
@@ -241,34 +254,46 @@
     background: var(--green-light);
     border-left: 4px solid var(--green);
     border-radius: 0 10px 10px 0;
-    padding: 16px 18px;
+    padding: 16px 18px 16px 50px;
     margin: 24px 0;
     font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
+    position: relative;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234ade80' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.5'%3E%3Cpath d='M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71'/%3E%3Cpath d='M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 14px 16px;
+    background-size: 26px 26px;
   }
   .example-box strong { color: #4ade80; display: block; margin-bottom: 4px; }
 
   .key-point {
     background: var(--primary-light);
     border-radius: 10px;
-    padding: 16px 18px;
+    padding: 16px 18px 16px 50px;
     margin: 24px 0;
     font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
-    display: flex;
-    gap: 10px;
-    align-items: flex-start;
+    position: relative;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23e8893c' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.6'%3E%3Cpath d='M9 18h6'/%3E%3Cpath d='M10 22h4'/%3E%3Cpath d='M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 14px 16px;
+    background-size: 26px 26px;
   }
-  .key-point .kp-icon { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
+  .key-point .kp-icon { display: none; }
 
   .warning-box {
     background: var(--red-light);
     border-left: 4px solid var(--red);
     border-radius: 0 10px 10px 0;
-    padding: 16px 18px;
+    padding: 16px 18px 16px 50px;
     margin: 24px 0;
     font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
+    position: relative;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23e05a5a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' opacity='0.5'%3E%3Cpath d='M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z'/%3E%3Cline x1='12' y1='9' x2='12' y2='13'/%3E%3Cline x1='12' y1='17' x2='12.01' y2='17'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 14px 16px;
+    background-size: 26px 26px;
   }
   .warning-box strong { color: var(--red); display: block; margin-bottom: 4px; }
 
@@ -287,7 +312,12 @@
   }
   .vocab-pill:hover { background: var(--teal); color: #1a1610; box-shadow: 0 2px 8px rgba(224,168,106,0.3); }
 
-  .section-divider { border: none; border-top: 2px dashed var(--border); margin: 40px 0; }
+  .section-divider {
+    border: none;
+    height: 40px;
+    margin: 40px 0;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='40' viewBox='0 0 200 40'%3E%3Cline x1='0' y1='20' x2='80' y2='20' stroke='%233d3428' stroke-width='2' stroke-dasharray='6 4'/%3E%3Ccircle cx='100' cy='20' r='6' fill='none' stroke='%23e8893c' stroke-width='1.5' opacity='0.4'/%3E%3Ccircle cx='100' cy='20' r='2' fill='%23e8893c' opacity='0.4'/%3E%3Cline x1='120' y1='20' x2='200' y2='20' stroke='%233d3428' stroke-width='2' stroke-dasharray='6 4'/%3E%3C/svg%3E") no-repeat center/200px 40px;
+  }
 
   .done-btn {
     background: var(--primary);
@@ -587,7 +617,7 @@
 <body>
 
 <header>
-  <div class="logo"><span>📈</span> EconLearn</div>
+  <div class="logo"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--primary)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg> EconLearn</div>
   <div class="progress-bar-wrap">
     <div class="progress-label" id="progress-label">Course progress</div>
     <div class="progress-bar"><div class="progress-fill" id="course-progress"></div></div>
@@ -595,12 +625,12 @@
 </header>
 
 <nav>
-  <button class="tab-btn active" onclick="showTab('lessons',this)">📖 Lessons</button>
-  <button class="tab-btn" onclick="showTab('flashcards',this)">🃏 Flashcards</button>
-  <button class="tab-btn" onclick="showTab('quiz',this)">🧪 Quiz</button>
-  <button class="tab-btn" onclick="showTab('chat',this)">💬 Ask AI</button>
-  <button class="tab-btn" onclick="showTab('glossary',this)">📚 Glossary</button>
-  <button class="tab-btn" onclick="openSearch()" style="margin-left:auto">🔍</button>
+  <button class="tab-btn active" onclick="showTab('lessons',this)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg> Lessons</button>
+  <button class="tab-btn" onclick="showTab('flashcards',this)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M12 4v16"/><path d="M2 12h20"/></svg> Flashcards</button>
+  <button class="tab-btn" onclick="showTab('quiz',this)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Quiz</button>
+  <button class="tab-btn" onclick="showTab('chat',this)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Ask AI</button>
+  <button class="tab-btn" onclick="showTab('glossary',this)"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><line x1="8" y1="7" x2="16" y2="7"/><line x1="8" y1="11" x2="14" y2="11"/></svg> Glossary</button>
+  <button class="tab-btn" onclick="openSearch()" style="margin-left:auto"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></button>
 </nav>
 
 <div class="reading-progress" id="reading-progress" style="width:0"></div>
@@ -615,14 +645,14 @@
   <div class="tab-panel active" id="tab-lessons">
     <div id="lesson-list"></div>
     <div id="lesson-reader">
-      <button class="back-btn" onclick="closeLesson()">← Back to lessons</button>
+      <button class="back-btn" onclick="closeLesson()"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-right:4px"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>Back to lessons</button>
       <div id="lesson-content"></div>
     </div>
   </div>
 
   <div class="tab-panel" id="tab-flashcards">
     <div class="card">
-      <div class="card-title">🃏 Flashcards</div>
+      <div class="card-title"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M12 4v16"/><path d="M2 12h20"/></svg> Flashcards</div>
       <p style="color:var(--muted);font-size:0.88rem;margin-bottom:14px;">All your flashcards in one place. Click to flip, edit, or add your own.</p>
       <div class="fc-toolbar" id="fc-toolbar"></div>
       <div class="fc-stats" id="fc-stats"></div>
@@ -632,7 +662,7 @@
 
   <div class="tab-panel" id="tab-quiz">
     <div class="card">
-      <div class="card-title">🧪 Quick Quiz</div>
+      <div class="card-title"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Quick Quiz</div>
       <p style="color:var(--muted);font-size:0.88rem;margin-bottom:12px;">Filter by unit or quiz all topics.</p>
       <div class="quiz-filter" id="quiz-filter"></div>
       <div id="quiz-container"></div>
@@ -641,7 +671,7 @@
 
   <div class="tab-panel" id="tab-chat">
     <div class="card">
-      <div class="card-title">💬 Ask the Economics Tutor</div>
+      <div class="card-title"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Ask the Economics Tutor</div>
       <p style="color:var(--muted);font-size:0.88rem;margin-bottom:14px;">Ask anything — plain language, real examples, and analogies.</p>
       <div class="chat-suggestions">
         <span class="suggestion-chip" onclick="sendSuggestion(this)">What is supply and demand?</span>
@@ -652,11 +682,11 @@
       </div>
       <div class="chat-wrap">
         <div class="chat-messages" id="chat-messages">
-          <div class="msg bot">👋 Hi! I'm your economics tutor. Ask me anything about markets, money, trade, or policy!</div>
+          <div class="msg bot"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px;margin-right:4px"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg> Hi! I'm your economics tutor. Ask me anything about markets, money, trade, or policy!</div>
         </div>
         <div class="chat-input-row">
           <input class="chat-input" id="chat-input" placeholder="Ask an economics question..." onkeydown="if(event.key==='Enter')sendChat()">
-          <button class="chat-send" id="chat-send-btn" onclick="sendChat()">Send</button>
+          <button class="chat-send" id="chat-send-btn" onclick="sendChat()"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg></button>
         </div>
       </div>
     </div>
