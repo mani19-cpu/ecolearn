@@ -1,4 +1,4 @@
-const CACHE_NAME = 'econlearn-v1';
+const CACHE_NAME = 'econlearn-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -12,7 +12,8 @@ const ASSETS = [
   './manifest.json',
   './icon.svg',
   './icon-192.png',
-  './icon-512.png'
+  './icon-512.png',
+  './apple-touch-icon.png'
 ];
 
 self.addEventListener('install', e => {
