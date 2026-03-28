@@ -246,6 +246,8 @@ Imagine a world where you had to be completely self-sufficient — growing your 
 <span><strong>The puzzle:</strong> Ruby is better at producing <em>both</em> goods. So how can Frank possibly have anything to offer her? If Ruby's better at everything, why would she bother trading with Frank at all? The answer lies in the distinction between absolute advantage and comparative advantage.</span>
 </div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="250" x2="370" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="13" text-anchor="middle">Potatoes (oz)</text><text x="18" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,18,140)">Meat (oz)</text><text x="60" y="268" fill="#b5a48a" font-size="10" text-anchor="middle">0</text><text x="370" y="268" fill="#b5a48a" font-size="10" text-anchor="middle">32</text><text x="50" y="35" fill="#b5a48a" font-size="10" text-anchor="end">24</text><path d="M 60 30 Q 120 38, 180 80 Q 240 130, 290 190 Q 330 230, 360 250" stroke="#e8893c" stroke-width="3" fill="none"/><circle cx="220" cy="120" r="6" fill="#4ade80"/><text x="235" y="115" fill="#4ade80" font-size="11" font-weight="bold">A (Efficient)</text><circle cx="160" cy="180" r="6" fill="#f5c842"/><text x="175" y="175" fill="#f5c842" font-size="11" font-weight="bold">B (Inefficient)</text><circle cx="300" cy="60" r="6" fill="#e05a5a"/><text x="260" y="52" fill="#e05a5a" font-size="11" font-weight="bold">C (Unattainable)</text><text x="340" y="210" fill="#e8893c" font-size="12" font-weight="bold">PPF</text></svg><div class="diagram-label">Production Possibilities Frontier: Points on the curve (A) are efficient, inside (B) are inefficient, and outside (C) are unattainable with current resources.</div></div>
+
 <hr class="section-divider">
 
 <h3>Absolute Advantage</h3>
@@ -371,6 +373,8 @@ Usually, yes — it reflects the benefit buyers themselves perceive. But not alw
 
 <p>When the price <strong>rises</strong>, producer surplus increases for two reasons, mirroring consumer surplus: (1) existing sellers earn more on each unit they were already selling, and (2) new sellers enter the market because the higher price now exceeds their costs. Both effects expand the area above the supply curve and below the price.</p>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="80" y1="220" x2="330" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="335" y="55" fill="#e8893c" font-size="13" font-weight="bold">D</text><line x1="80" y1="50" x2="330" y2="220" stroke="#4ade80" stroke-width="2.5"/><text x="335" y="225" fill="#4ade80" font-size="13" font-weight="bold">S</text><polygon points="80,118 205,135 80,220" fill="#e8893c" fill-opacity="0.25"/><text x="110" y="165" fill="#e8893c" font-size="11" font-weight="bold">CS</text><polygon points="80,220 205,135 80,50" fill="#4ade80" fill-opacity="0.25"/><text x="110" y="115" fill="#4ade80" font-size="11" font-weight="bold">PS</text><line x1="60" y1="135" x2="205" y2="135" stroke="#f5c842" stroke-width="1.5" stroke-dasharray="6,4"/><text x="48" y="139" fill="#f5c842" font-size="12" text-anchor="end">P*</text><circle cx="205" cy="135" r="4" fill="#f5c842"/></svg><div class="diagram-label">Consumer Surplus (orange, below D above P*) and Producer Surplus (green, above S below P*)</div></div>
+
 <hr class="section-divider">
 
 <h3>Market Efficiency</h3>
@@ -466,6 +470,8 @@ Imagine a tax of $1 on every pizza. Before the tax, Mario's Pizzeria sells a piz
 <p><strong>On a supply-and-demand diagram</strong>, the deadweight loss is the <strong>triangle</strong> between the supply and demand curves, from Q_2 to Q_1. The area of this triangle represents the total gains from trade that are lost because the tax discourages mutually beneficial transactions. The government collects revenue on the Q_2 units that <em>are</em> still traded (the rectangular area), but it gets nothing from the killed trades.</p>
 
 <p>Notice that the tax causes deadweight loss because it <strong>changes behaviour</strong>. Buyers consume less. Sellers produce less. It is this reduction in market activity — not the transfer of money from private parties to the government — that causes the inefficiency. If people's behaviour didn't change at all, there would be no deadweight loss (the tax would be purely a transfer).</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="80" y1="220" x2="340" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="55" fill="#e8893c" font-size="13" font-weight="bold">D</text><line x1="80" y1="50" x2="340" y2="220" stroke="#4ade80" stroke-width="2.5"/><text x="345" y="225" fill="#4ade80" font-size="13" font-weight="bold">S</text><line x1="60" y1="105" x2="175" y2="105" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/><line x1="60" y1="165" x2="175" y2="165" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/><text x="48" y="109" fill="#f5c842" font-size="11" text-anchor="end">P_B</text><text x="48" y="169" fill="#f5c842" font-size="11" text-anchor="end">P_S</text><line x1="175" y1="105" x2="175" y2="165" stroke="#f5c842" stroke-width="2"/><text x="183" y="140" fill="#f5c842" font-size="11">Tax</text><rect x="60" y="105" width="115" height="60" fill="#f5c842" fill-opacity="0.12"/><text x="118" y="140" fill="#f5c842" font-size="10" text-anchor="middle">Revenue</text><polygon points="175,105 210,135 175,165" fill="#e05a5a" fill-opacity="0.35"/><text x="195" y="140" fill="#e05a5a" font-size="11" font-weight="bold">DWL</text><line x1="175" y1="105" x2="175" y2="250" stroke="#5a4a38" stroke-width="1" stroke-dasharray="4,4"/><line x1="210" y1="135" x2="210" y2="250" stroke="#5a4a38" stroke-width="1" stroke-dasharray="4,4"/><text x="175" y="266" fill="#b5a48a" font-size="11" text-anchor="middle">Q₂</text><text x="210" y="266" fill="#b5a48a" font-size="11" text-anchor="middle">Q₁</text><circle cx="210" cy="135" r="3.5" fill="#b5a48a"/></svg><div class="diagram-label">Deadweight Loss from a Tax: The red triangle shows surplus lost from trades killed by the tax wedge</div></div>
 
 <hr class="section-divider">
 
@@ -600,6 +606,8 @@ In practice, compensation for the losers from trade is rare. When cheap textile 
 
 <p><strong>2. Underconsumption by domestic buyers.</strong> Some consumers who would buy textiles at the world price are priced out by the tariff. They value the textiles more than they cost to produce (at the world price), but the artificially high domestic price prevents the trade. These are gains from trade that are destroyed by the tariff.</p>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="370" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity of Textiles</text><text x="18" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,18,140)">Price</text><line x1="80" y1="240" x2="340" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="50" fill="#e8893c" font-size="11" font-weight="bold">S</text><line x1="80" y1="50" x2="340" y2="240" stroke="#4ade80" stroke-width="2.5"/><text x="345" y="240" fill="#4ade80" font-size="11" font-weight="bold">D</text><line x1="60" y1="185" x2="370" y2="185" stroke="#f5c842" stroke-width="2" stroke-dasharray="6,3"/><text x="372" y="182" fill="#f5c842" font-size="10" text-anchor="start">P world</text><line x1="60" y1="150" x2="370" y2="150" stroke="#e05a5a" stroke-width="2" stroke-dasharray="6,3"/><text x="372" y="147" fill="#e05a5a" font-size="10" text-anchor="start">P tariff</text><line x1="130" y1="185" x2="130" y2="260" stroke="#5a4a38" stroke-width="1" stroke-dasharray="3,3"/><line x1="157" y1="150" x2="157" y2="260" stroke="#5a4a38" stroke-width="1" stroke-dasharray="3,3"/><line x1="260" y1="150" x2="260" y2="260" stroke="#5a4a38" stroke-width="1" stroke-dasharray="3,3"/><line x1="287" y1="185" x2="287" y2="260" stroke="#5a4a38" stroke-width="1" stroke-dasharray="3,3"/><text x="130" y="273" fill="#b5a48a" font-size="9" text-anchor="middle">Qs</text><text x="157" y="273" fill="#b5a48a" font-size="9" text-anchor="middle">Qs'</text><text x="260" y="273" fill="#b5a48a" font-size="9" text-anchor="middle">Qd'</text><text x="287" y="273" fill="#b5a48a" font-size="9" text-anchor="middle">Qd</text><polygon points="130,185 157,185 157,150" fill="#e05a5a" fill-opacity="0.3" stroke="#e05a5a" stroke-width="1"/><polygon points="260,150 287,150 287,185" fill="#e05a5a" fill-opacity="0.3" stroke="#e05a5a" stroke-width="1"/><text x="140" y="172" fill="#e05a5a" font-size="9">DWL</text><text x="267" y="172" fill="#e05a5a" font-size="9">DWL</text><line x1="157" y1="150" x2="260" y2="150" stroke="#f5c842" stroke-width="3" opacity="0.4"/><text x="208" y="142" fill="#f5c842" font-size="9" text-anchor="middle">Imports after tariff</text><line x1="130" y1="185" x2="287" y2="185" stroke="#4ade80" stroke-width="3" opacity="0.3"/><text x="208" y="200" fill="#4ade80" font-size="9" text-anchor="middle">Imports before tariff</text></svg><div class="diagram-label">Effect of a Tariff: The tariff raises the domestic price from P world to P tariff. Domestic supply rises (Qs to Qs'), domestic demand falls (Qd to Qd'), imports shrink, and two deadweight-loss triangles appear.</div></div>
+
 <div class="example-box">
 <strong>🔗 Real-life example: U.S. sugar quotas</strong>
 The United States limits sugar imports through a combination of quotas and tariffs, keeping the domestic sugar price roughly <strong>twice the world price</strong>. American sugar producers — concentrated in a few states like Florida and Louisiana — benefit enormously. But American consumers pay <em>billions</em> more per year for sugar — hidden in the price of candy, soft drinks, cereal, and baked goods. Worse, industries that use sugar as a major input (like candy manufacturing) have an incentive to move production to countries with cheaper sugar. Life Savers, once made in Michigan, moved its factory to Canada partly because of the sugar price difference. The concentrated gains to sugar producers give them enormous political clout. The diffuse costs to consumers — a few extra dollars per person per year — are barely noticed by individuals, but they sum to far more than the producers' gains.
@@ -724,6 +732,8 @@ Students constantly confuse a <strong>shift of the demand curve</strong> (caused
 <span><strong>Equilibrium is not imposed — it emerges.</strong> No one decrees that ice cream should cost $3. Instead, millions of buyers and sellers, each acting in their own interest, push the price toward the one level at which the market clears. This is the "invisible hand" from Chapter 1 in action.</span>
 </div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="80" y1="220" x2="340" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="55" fill="#e8893c" font-size="13" font-weight="bold">D</text><line x1="80" y1="50" x2="340" y2="220" stroke="#4ade80" stroke-width="2.5"/><text x="345" y="225" fill="#4ade80" font-size="13" font-weight="bold">S</text><circle cx="210" cy="135" r="5" fill="#f5c842"/><text x="222" y="128" fill="#f5c842" font-size="13" font-weight="bold">E</text><line x1="60" y1="135" x2="210" y2="135" stroke="#5a4a38" stroke-width="1" stroke-dasharray="6,4"/><line x1="210" y1="135" x2="210" y2="250" stroke="#5a4a38" stroke-width="1" stroke-dasharray="6,4"/><text x="48" y="139" fill="#f5c842" font-size="12" text-anchor="end">P*</text><text x="210" y="266" fill="#f5c842" font-size="12" text-anchor="middle">Q*</text></svg><div class="diagram-label">Supply and Demand: Equilibrium occurs where S and D intersect at price P* and quantity Q*</div></div>
+
 <hr class="section-divider">
 
 <h3>Three Steps for Analysing Changes in Equilibrium</h3>
@@ -778,6 +788,8 @@ L["Elasticity and Its Application"] = `<div class="lesson-body">
 <strong>🔭 Think of it like this:</strong>
 Elasticity measures how "stubborn" buyers are. If demand is inelastic, buyers keep buying even when prices rise — they're stubborn, perhaps because they <em>need</em> the good (think insulin for diabetics — they'll pay almost anything). If demand is elastic, buyers quickly walk away when prices rise — they're flexible, perhaps because they have plenty of alternatives (think restaurant meals — if prices jump, it's easy to cook at home instead). The more options you have, the more elastic your demand.
 </div>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="160" y1="40" x2="210" y2="230" stroke="#e8893c" stroke-width="2.5"/><text x="215" y="240" fill="#e8893c" font-size="12" font-weight="bold">D (inelastic)</text><line x1="80" y1="100" x2="350" y2="180" stroke="#f5c842" stroke-width="2.5"/><text x="310" y="198" fill="#f5c842" font-size="12" font-weight="bold">D (elastic)</text><line x1="60" y1="120" x2="350" y2="120" stroke="#5a4a38" stroke-width="1" stroke-dasharray="5,4"/><line x1="60" y1="160" x2="350" y2="160" stroke="#5a4a38" stroke-width="1" stroke-dasharray="5,4"/><text x="48" y="124" fill="#b5a48a" font-size="11" text-anchor="end">P₂</text><text x="48" y="164" fill="#b5a48a" font-size="11" text-anchor="end">P₁</text><line x1="178" y1="120" x2="178" y2="250" stroke="#e8893c" stroke-width="1" stroke-dasharray="4,3"/><line x1="193" y1="160" x2="193" y2="250" stroke="#e8893c" stroke-width="1" stroke-dasharray="4,3"/><text x="186" y="266" fill="#e8893c" font-size="10" text-anchor="middle">ΔQ small</text><line x1="145" y1="120" x2="145" y2="250" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/><line x1="255" y1="160" x2="255" y2="250" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/><text x="200" y="246" fill="#f5c842" font-size="10" text-anchor="middle">ΔQ large</text></svg><div class="diagram-label">Elastic vs Inelastic Demand: A steep curve (inelastic) shows small quantity change; a flat curve (elastic) shows large quantity change for the same price change</div></div>
 
 <hr class="section-divider">
 
@@ -892,6 +904,8 @@ L["Supply, Demand, and Government Policies"] = `<div class="lesson-body">
 <p>Why does a shortage occur? At the artificially low price, consumers want to buy more than producers are willing to sell. Quantity demanded exceeds quantity supplied. The result: some buyers who want the good at the legal price simply cannot get it.</p>
 
 <p>Because prices can no longer ration the good, <strong>other rationing mechanisms</strong> develop — and they're rarely desirable. Long queues waste buyers' time. Sellers may discriminate, selling only to friends, family, or preferred customers. Black markets emerge where the good is sold illegally at prices above the ceiling.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="80" y1="220" x2="340" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="55" fill="#e8893c" font-size="13" font-weight="bold">D</text><line x1="80" y1="50" x2="340" y2="220" stroke="#4ade80" stroke-width="2.5"/><text x="345" y="225" fill="#4ade80" font-size="13" font-weight="bold">S</text><circle cx="210" cy="135" r="4" fill="#b5a48a"/><text x="218" y="128" fill="#b5a48a" font-size="11">E</text><line x1="60" y1="135" x2="210" y2="135" stroke="#3d3428" stroke-width="1" stroke-dasharray="4,4"/><text x="48" y="139" fill="#b5a48a" font-size="11" text-anchor="end">P*</text><line x1="60" y1="170" x2="360" y2="170" stroke="#e05a5a" stroke-width="2.5" stroke-dasharray="8,4"/><text x="365" y="174" fill="#e05a5a" font-size="12" font-weight="bold">Ceiling</text><text x="48" y="174" fill="#e05a5a" font-size="11" text-anchor="end">Pc</text><line x1="148" y1="170" x2="148" y2="250" stroke="#4ade80" stroke-width="1" stroke-dasharray="4,3"/><line x1="272" y1="170" x2="272" y2="250" stroke="#e8893c" stroke-width="1" stroke-dasharray="4,3"/><text x="148" y="266" fill="#4ade80" font-size="11" text-anchor="middle">Qs</text><text x="272" y="266" fill="#e8893c" font-size="11" text-anchor="middle">Qd</text><line x1="148" y1="240" x2="272" y2="240" stroke="#e05a5a" stroke-width="2"/><path d="M155,237 L148,240 L155,243" fill="#e05a5a"/><path d="M265,237 L272,240 L265,243" fill="#e05a5a"/><text x="210" y="237" fill="#e05a5a" font-size="11" text-anchor="middle">Shortage</text></svg><div class="diagram-label">Price Ceiling: When the ceiling is set below equilibrium, quantity supplied (Qs) falls short of quantity demanded (Qd), creating a shortage</div></div>
 
 <div class="example-box">
 <strong>🔗 Case study: Rent control</strong>
@@ -1016,6 +1030,8 @@ You encounter externalities daily. Car exhaust pollutes the air others breathe (
 <p>What's the right quantity of aluminium for society? A benevolent social planner would choose the quantity where the demand curve (reflecting value to consumers) intersects the social-cost curve (reflecting the true cost to society, including pollution). This <strong>socially optimal quantity</strong>, Q_OPTIMUM, is <em>less</em> than the market equilibrium quantity, Q_MARKET.</p>
 
 <p>The market overproduces aluminium because producers don't pay for the pollution they create. At the market equilibrium, the last units produced cost society (including health costs) more than they're worth to consumers. These units shouldn't be produced — but the market produces them anyway because the firms don't bear the full cost.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="370" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity of Aluminium</text><text x="18" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,18,140)">Price</text><line x1="80" y1="230" x2="340" y2="60" stroke="#4ade80" stroke-width="2.5"/><text x="345" y="55" fill="#4ade80" font-size="11" font-weight="bold">D</text><line x1="80" y1="220" x2="320" y2="50" stroke="#e8893c" stroke-width="2.5"/><text x="325" y="45" fill="#e8893c" font-size="11" font-weight="bold">Social Cost</text><line x1="80" y1="240" x2="340" y2="80" stroke="#b5a48a" stroke-width="2" stroke-dasharray="6,3"/><text x="345" y="80" fill="#b5a48a" font-size="11">S (Private)</text><circle cx="228" cy="145" r="4" fill="#f5c842"/><line x1="228" y1="145" x2="228" y2="260" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/><text x="220" y="275" fill="#f5c842" font-size="10" text-anchor="middle">Q opt</text><circle cx="262" cy="155" r="4" fill="#e05a5a"/><line x1="262" y1="155" x2="262" y2="260" stroke="#e05a5a" stroke-width="1" stroke-dasharray="4,3"/><text x="262" y="275" fill="#e05a5a" font-size="10" text-anchor="middle">Q mkt</text><polygon points="228,145 262,135 262,155" fill="#e05a5a" fill-opacity="0.35" stroke="#e05a5a" stroke-width="1"/><text x="260" y="120" fill="#e05a5a" font-size="10" font-weight="bold">DWL</text></svg><div class="diagram-label">Negative Externality: The social cost curve lies above private supply. The market overproduces (Q mkt) relative to the social optimum (Q opt). The shaded triangle is deadweight loss.</div></div>
 
 <hr class="section-divider">
 
@@ -1376,6 +1392,8 @@ Imagine a kitchen with one oven, one mixer, and one counter. The first cook has 
 Think of your cumulative GPA as "average total cost" and the grade on your next exam as "marginal cost." If your next exam grade (say, an A) is higher than your current GPA (say, a B+), your GPA rises — the marginal pulls the average up. If your next exam grade (a C) is lower than your GPA, your GPA falls — the marginal pulls the average down. The marginal <em>always</em> pulls the average toward itself. The only time the average doesn't change is when the marginal equals the average. This is exactly the relationship between MC and ATC.
 </div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Cost</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><path d="M90,60 Q150,220 200,160 Q240,120 300,40" fill="none" stroke="#4ade80" stroke-width="2.5"/><text x="305" y="38" fill="#4ade80" font-size="12" font-weight="bold">MC</text><path d="M100,200 Q170,110 230,105 Q300,105 350,130" fill="none" stroke="#e8893c" stroke-width="2.5"/><text x="355" y="134" fill="#e8893c" font-size="12" font-weight="bold">ATC</text><path d="M100,220 Q170,130 230,130 Q300,140 350,170" fill="none" stroke="#f5c842" stroke-width="2.5"/><text x="355" y="174" fill="#f5c842" font-size="12" font-weight="bold">AVC</text><circle cx="228" cy="105" r="5" fill="#e8893c"/><text x="238" y="98" fill="#e8893c" font-size="11">min ATC</text><line x1="228" y1="105" x2="228" y2="250" stroke="#3d3428" stroke-width="1" stroke-dasharray="4,4"/><text x="228" y="266" fill="#b5a48a" font-size="10" text-anchor="middle">Efficient scale</text></svg><div class="diagram-label">Production Costs: U-shaped ATC and AVC curves, with MC crossing ATC at its minimum (efficient scale)</div></div>
+
 <hr class="section-divider">
 
 <h3>Short Run vs Long Run</h3>
@@ -1443,6 +1461,8 @@ So the Vaca farm produces exactly <strong>5 gallons</strong> — the quantity at
 <p>Because the competitive firm produces the quantity where P = MC, and it makes this calculation at every possible market price, we can trace out the firm's response to different prices. When the price is high, MC = P at a high quantity — the firm produces a lot. When the price is low, MC = P at a low quantity — the firm produces little. The resulting relationship between price and quantity is the firm's <strong>supply curve</strong>.</p>
 
 <p>This gives us an important insight: <strong>a competitive firm's supply curve is its marginal cost curve</strong> (above a certain minimum, which we'll discuss next). The upward-sloping MC curve from Chapter 13 is simultaneously the firm's supply curve. This is the microeconomic foundation behind the supply curves we've been drawing since Chapter 4.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="370" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><text x="18" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,18,140)">Price / Cost</text><path d="M 90 200 Q 130 250, 170 230 Q 200 215, 230 160 Q 260 100, 310 40" stroke="#e8893c" stroke-width="2.5" fill="none"/><text x="315" y="35" fill="#e8893c" font-size="11" font-weight="bold">MC</text><path d="M 100 210 Q 160 180, 200 175 Q 240 173, 280 180 Q 320 195, 350 230" stroke="#b5a48a" stroke-width="2" fill="none" stroke-dasharray="6,3"/><text x="355" y="228" fill="#b5a48a" font-size="10">ATC</text><line x1="60" y1="120" x2="370" y2="120" stroke="#4ade80" stroke-width="2.5"/><text x="372" y="117" fill="#4ade80" font-size="11" font-weight="bold" text-anchor="start">P = MR</text><circle cx="250" cy="120" r="5" fill="#f5c842"/><line x1="250" y1="120" x2="250" y2="260" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/><text x="250" y="273" fill="#f5c842" font-size="10" text-anchor="middle">Q*</text><rect x="148" y="120" width="102" height="55" fill="#4ade80" fill-opacity="0.15" stroke="#4ade80" stroke-width="1"/><text x="199" y="150" fill="#4ade80" font-size="10" text-anchor="middle">Profit</text><line x1="148" y1="175" x2="250" y2="175" stroke="#b5a48a" stroke-width="1" stroke-dasharray="3,3"/><text x="62" y="175" fill="#b5a48a" font-size="9" text-anchor="start">ATC</text><text x="62" y="118" fill="#4ade80" font-size="9" text-anchor="start">P</text></svg><div class="diagram-label">Competitive Firm's Profit Maximisation: The firm produces Q* where P = MC. Profit (green rectangle) is the area between price and ATC over the quantity produced.</div></div>
 
 <hr class="section-divider">
 
@@ -1561,6 +1581,8 @@ A common misconception is that monopolists can set any price they please. They c
 <p>Because the monopolist charges a price above marginal cost, some consumers who value the good at more than its marginal cost — but less than the monopoly price — are <strong>priced out</strong> of the market. These are people who would happily buy and whose purchase would cost society less to produce than the value they'd receive. But the transaction doesn't happen because the monopolist keeps the price artificially high to protect its profit margin.</p>
 
 <p>These unrealised transactions represent a <span class="vocab-pill">deadweight loss</span> — a reduction in total surplus that goes to nobody. The monopolist doesn't capture this lost surplus (it never made the sale), and the consumer doesn't get it either. It simply vanishes. Graphically, the deadweight loss is the triangle between the demand curve and the MC curve, from the monopoly quantity to the competitive quantity.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="20" x2="60" y2="250" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="250" x2="380" y2="250" stroke="#5a4a38" stroke-width="2"/><text x="30" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,30,140)">Price</text><text x="220" y="280" fill="#b5a48a" font-size="13" text-anchor="middle">Quantity</text><line x1="80" y1="220" x2="340" y2="40" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="45" fill="#e8893c" font-size="13" font-weight="bold">D</text><line x1="80" y1="220" x2="340" y2="-30" stroke="#b5a48a" stroke-width="2" stroke-dasharray="6,4"/><text x="310" y="22" fill="#b5a48a" font-size="12">MR</text><line x1="100" y1="220" x2="320" y2="60" stroke="#4ade80" stroke-width="2.5"/><text x="325" y="65" fill="#4ade80" font-size="13" font-weight="bold">MC</text><line x1="170" y1="165" x2="170" y2="250" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/><line x1="60" y1="100" x2="170" y2="100" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/><text x="170" y="266" fill="#f5c842" font-size="11" text-anchor="middle">Qm</text><text x="48" y="104" fill="#f5c842" font-size="11" text-anchor="end">Pm</text><circle cx="170" cy="100" r="4" fill="#f5c842"/><circle cx="170" cy="165" r="3" fill="#b5a48a"/><text x="178" y="160" fill="#b5a48a" font-size="10">MR=MC</text><line x1="240" y1="120" x2="240" y2="250" stroke="#5a4a38" stroke-width="1" stroke-dasharray="4,4"/><text x="240" y="266" fill="#b5a48a" font-size="11" text-anchor="middle">Qc</text><polygon points="170,100 240,72 240,120 170,165" fill="#e05a5a" fill-opacity="0.3"/><text x="210" y="130" fill="#e05a5a" font-size="12" font-weight="bold">DWL</text></svg><div class="diagram-label">Monopoly: The firm produces at Qm (where MR = MC) and charges Pm on the demand curve. The red triangle is the deadweight loss from restricted output.</div></div>
 
 <p>In addition to the deadweight loss, monopoly transfers surplus from consumers to the monopolist. Consumers pay a higher price, so consumer surplus shrinks. The monopolist captures some of this as higher profit (producer surplus rises). But the deadweight loss means the total pie shrinks — the monopolist's gain is less than the consumers' loss. Society as a whole is worse off.</p>
 
@@ -2012,6 +2034,8 @@ L["Income Inequality and Poverty"] = `<div class="lesson-body">
 While inequality has been <em>rising</em> within most individual nations, inequality for the <em>world as a whole</em> has been <strong>falling</strong> for the past 20 years. The economic surges of China, India, and other developing countries have lifted hundreds of millions out of poverty, narrowing the gap between rich and poor nations. This is perhaps the most egalitarian development in human history — even as inequality within countries has grown, the vast gaps between countries have shrunk. International trade, often blamed for domestic inequality, has been one of the most powerful forces for reducing global poverty.
 </div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="360" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="12" text-anchor="middle">Cumulative % of Population</text><text x="18" y="140" fill="#b5a48a" font-size="12" text-anchor="middle" transform="rotate(-90,18,140)">Cumulative % of Income</text><text x="60" y="275" fill="#b5a48a" font-size="10" text-anchor="middle">0</text><text x="360" y="275" fill="#b5a48a" font-size="10" text-anchor="middle">100</text><text x="50" y="265" fill="#b5a48a" font-size="10" text-anchor="end">0</text><text x="50" y="28" fill="#b5a48a" font-size="10" text-anchor="end">100</text><line x1="60" y1="260" x2="360" y2="20" stroke="#4ade80" stroke-width="2" stroke-dasharray="6,3"/><text x="220" y="120" fill="#4ade80" font-size="11" transform="rotate(-38,220,120)">Perfect Equality</text><path d="M 60 260 Q 150 258, 210 240 Q 270 215, 310 160 Q 340 100, 360 20" stroke="#e8893c" stroke-width="2.5" fill="none"/><text x="290" y="220" fill="#e8893c" font-size="11" font-weight="bold">Lorenz Curve</text><path d="M 60 260 Q 150 255, 210 235 Q 270 208, 310 155 Q 340 98, 360 20 L 360 20 L 330 52 L 270 116 L 210 164 L 150 204 L 90 236 L 60 260 Z" fill="#f5c842" fill-opacity="0.15"/><text x="175" y="205" fill="#f5c842" font-size="12" font-weight="bold">Gini Area (A)</text><path d="M 60 260 Q 150 258, 210 240 Q 270 215, 310 160 Q 340 100, 360 20 L 360 260 Z" fill="#3d3428" fill-opacity="0.3"/><text x="320" y="245" fill="#b5a48a" font-size="10">(B)</text></svg><div class="diagram-label">Lorenz Curve and Gini Coefficient: The 45-degree line represents perfect equality. The bowed Lorenz curve shows actual income distribution. Gini coefficient = Area A / (Area A + B). A larger gap means greater inequality.</div></div>
+
 <hr class="section-divider">
 
 <h3>Problems in Measuring Inequality</h3>
@@ -2146,6 +2170,8 @@ Most real goods fall between these extremes — some substitutability, but with 
 <span class="kp-icon">💡</span>
 <span><strong>This is the deeper logic behind market prices and consumer welfare.</strong> In Chapter 7, we saw that market prices reflect the marginal value consumers place on goods. Now we see <em>why</em>: at the optimum, each consumer adjusts consumption until their personal MRS matches the market price ratio. This means that prices encode the trade-offs consumers are willing to make — which is exactly the information the invisible hand needs to allocate resources efficiently.</span>
 </div>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="370" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="13" text-anchor="middle">Pepsi (litres)</text><text x="18" y="140" fill="#b5a48a" font-size="13" text-anchor="middle" transform="rotate(-90,18,140)">Pizza (qty)</text><line x1="60" y1="50" x2="340" y2="260" stroke="#e8893c" stroke-width="2.5"/><text x="345" y="255" fill="#e8893c" font-size="11" font-weight="bold">Budget</text><text x="52" y="48" fill="#e8893c" font-size="10" text-anchor="end">A</text><text x="345" y="270" fill="#e8893c" font-size="10">B</text><path d="M 80 95 Q 130 110, 175 140 Q 220 175, 300 230" stroke="#b5a48a" stroke-width="1.5" fill="none" stroke-dasharray="5,3"/><text x="305" y="225" fill="#b5a48a" font-size="10">IC1 (lower)</text><path d="M 75 60 Q 120 85, 185 125 Q 240 160, 330 200" stroke="#4ade80" stroke-width="2.5" fill="none"/><text x="335" y="195" fill="#4ade80" font-size="10" font-weight="bold">IC2 (optimal)</text><circle cx="185" cy="125" r="6" fill="#f5c842"/><text x="195" y="118" fill="#f5c842" font-size="11" font-weight="bold">Optimum</text><line x1="185" y1="125" x2="185" y2="260" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/><line x1="60" y1="125" x2="185" y2="125" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/></svg><div class="diagram-label">Consumer Choice: The optimal bundle is where the highest indifference curve (IC2) is tangent to the budget constraint. At this point, MRS equals the relative price ratio.</div></div>
 
 <hr class="section-divider">
 
@@ -2314,6 +2340,32 @@ L["Measuring a Nation's Income"] = `<div class="lesson-body">
 <p>GDP can be measured in two equivalent ways — as <strong>total income</strong> or as <strong>total expenditure</strong>. Why are these the same? Because every transaction has two sides: a buyer and a seller. When you buy a $100 pair of shoes, the shoe store receives $100 in revenue, which becomes income for the store's workers, landlord, and owners. Your <em>expenditure</em> is someone else's <em>income</em>. Because every dollar of spending by some buyer becomes a dollar of income for some seller, total expenditure in the economy must equal total income. GDP measures both simultaneously.</p>
 
 <p>This equality is illustrated by the <strong>circular-flow diagram</strong> from Chapter 2. Money flows continuously from households to firms (as spending on goods and services) and back from firms to households (as wages, rent, and profit). GDP measures the total flow of this money, whether you count it as it leaves households (expenditure) or as it arrives back at households (income).</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<rect x="130" y="10" width="140" height="45" rx="6" fill="none" stroke="#e8893c" stroke-width="2"/>
+<text x="200" y="38" text-anchor="middle" fill="#e8893c" font-size="14" font-weight="bold">HOUSEHOLDS</text>
+<rect x="130" y="245" width="140" height="45" rx="6" fill="none" stroke="#4ade80" stroke-width="2"/>
+<text x="200" y="273" text-anchor="middle" fill="#4ade80" font-size="14" font-weight="bold">FIRMS</text>
+<defs>
+<marker id="arwY1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#f5c842"/></marker>
+<marker id="arwG1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#4ade80"/></marker>
+<marker id="arwO1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e8893c"/></marker>
+<marker id="arwR1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e05a5a"/></marker>
+</defs>
+<path d="M 90 55 Q 50 150 90 245" fill="none" stroke="#f5c842" stroke-width="2" marker-end="url(#arwY1)"/>
+<path d="M 60 245 Q 20 150 60 55" fill="none" stroke="#4ade80" stroke-width="2" marker-end="url(#arwG1)"/>
+<path d="M 310 55 Q 350 150 310 245" fill="none" stroke="#e8893c" stroke-width="2" marker-end="url(#arwO1)"/>
+<path d="M 340 245 Q 380 150 340 55" fill="none" stroke="#e05a5a" stroke-width="2" marker-end="url(#arwR1)"/>
+<text x="18" y="130" fill="#f5c842" font-size="10" transform="rotate(-90,18,150)">Factors of production</text>
+<text x="38" y="140" fill="#4ade80" font-size="10" transform="rotate(90,38,150)">Income (wages, rent, profit)</text>
+<text x="332" y="130" fill="#e8893c" font-size="10" transform="rotate(-90,332,150)">Spending ($)</text>
+<text x="362" y="128" fill="#e05a5a" font-size="10" transform="rotate(90,362,150)">Goods &amp; services</text>
+<rect x="120" y="120" width="160" height="24" rx="4" fill="#3d3428" opacity="0.7"/>
+<text x="200" y="137" text-anchor="middle" fill="#b5a48a" font-size="11">Markets for Goods &amp; Services</text>
+<rect x="120" y="156" width="160" height="24" rx="4" fill="#3d3428" opacity="0.7"/>
+<text x="200" y="173" text-anchor="middle" fill="#b5a48a" font-size="11">Markets for Factors of Production</text>
+</svg><div class="diagram-label">The Circular Flow: Income and expenditure flow continuously between households and firms</div></div>
 
 <hr class="section-divider">
 
@@ -2669,6 +2721,24 @@ In everyday English, "I invested in some stocks" is common. In macroeconomics, b
 
 <p>The <strong>equilibrium real interest rate</strong> balances the supply of saving with the demand for investment. If the interest rate is too low, demand for loans exceeds supply — lenders raise rates. If too high, supply exceeds demand — competition among lenders drives rates down. In equilibrium, the amount people want to save exactly equals the amount people want to invest.</p>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="70" y1="30" x2="70" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<line x1="70" y1="250" x2="370" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<text x="35" y="145" text-anchor="middle" fill="#b5a48a" font-size="12" transform="rotate(-90,35,145)">Real Interest Rate</text>
+<text x="220" y="280" text-anchor="middle" fill="#b5a48a" font-size="12">Loanable Funds ($ billions)</text>
+<line x1="100" y1="220" x2="330" y2="60" stroke="#4ade80" stroke-width="2.5"/>
+<text x="340" y="55" fill="#4ade80" font-size="13" font-weight="bold">S</text>
+<line x1="100" y1="60" x2="330" y2="220" stroke="#e8893c" stroke-width="2.5"/>
+<text x="340" y="225" fill="#e8893c" font-size="13" font-weight="bold">D</text>
+<circle cx="215" cy="140" r="5" fill="#f5c842"/>
+<line x1="70" y1="140" x2="215" y2="140" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<line x1="215" y1="140" x2="215" y2="250" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="56" y="144" text-anchor="end" fill="#f5c842" font-size="11">r*</text>
+<text x="215" y="265" text-anchor="middle" fill="#f5c842" font-size="11">Q*</text>
+<text x="230" y="132" fill="#f5c842" font-size="11">Equilibrium</text>
+</svg><div class="diagram-label">The Market for Loanable Funds: Supply (saving) and Demand (investment) determine the equilibrium real interest rate</div></div>
+
 <hr class="section-divider">
 
 <h3>Three Policy Applications</h3>
@@ -3001,6 +3071,8 @@ L["Money Growth and Inflation"] = `<div class="lesson-body">
 The quantity theory's strongest evidence comes from hyperinflations. During Germany's hyperinflation of 1921-23, the government printed money to pay war reparations. The money supply increased by a factor of billions, and prices rose by exactly the same factor. Similar patterns occurred in Bolivia (38,000% annual inflation in the mid-1980s), Zimbabwe (millions of percent in 2008), and Hungary after WWII (the worst ever — prices doubled every 15 hours). In every case, the explosion in money supply perfectly tracks the explosion in prices. The quantity theory isn't just a theory — it's documented history.
 </div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300" fill="#1e1a12"/><line x1="60" y1="260" x2="370" y2="260" stroke="#5a4a38" stroke-width="2"/><line x1="60" y1="260" x2="60" y2="20" stroke="#5a4a38" stroke-width="2"/><text x="210" y="290" fill="#b5a48a" font-size="12" text-anchor="middle">Money Supply Growth (%)</text><text x="18" y="140" fill="#b5a48a" font-size="12" text-anchor="middle" transform="rotate(-90,18,140)">Inflation Rate (%)</text><text x="60" y="275" fill="#b5a48a" font-size="10" text-anchor="middle">0</text><text x="370" y="275" fill="#b5a48a" font-size="10" text-anchor="middle">100</text><text x="50" y="265" fill="#b5a48a" font-size="10" text-anchor="end">0</text><text x="50" y="28" fill="#b5a48a" font-size="10" text-anchor="end">100</text><line x1="60" y1="255" x2="365" y2="25" stroke="#e8893c" stroke-width="2" stroke-dasharray="8,4" opacity="0.6"/><circle cx="100" cy="235" r="5" fill="#4ade80"/><text x="108" y="230" fill="#4ade80" font-size="9">Switzerland</text><circle cx="130" cy="215" r="5" fill="#4ade80"/><text x="138" y="210" fill="#4ade80" font-size="9">U.S.</text><circle cx="155" cy="195" r="5" fill="#f5c842"/><text x="163" y="190" fill="#f5c842" font-size="9">U.K.</text><circle cx="195" cy="165" r="5" fill="#f5c842"/><text x="203" y="160" fill="#f5c842" font-size="9">Italy</text><circle cx="245" cy="120" r="5" fill="#e8893c"/><text x="253" y="115" fill="#e8893c" font-size="9">Turkey</text><circle cx="300" cy="75" r="5" fill="#e05a5a"/><text x="308" y="70" fill="#e05a5a" font-size="9">Argentina</text><circle cx="345" cy="40" r="5" fill="#e05a5a"/><text x="320" y="33" fill="#e05a5a" font-size="9">Bolivia</text><text x="280" y="55" fill="#e8893c" font-size="10" font-style="italic">Trend line</text></svg><div class="diagram-label">Money Growth and Inflation: Countries with higher money supply growth experience higher inflation rates. The strong positive correlation supports the quantity theory of money.</div></div>
+
 <hr class="section-divider">
 
 <h3>The Classical Dichotomy and Monetary Neutrality</h3>
@@ -3100,6 +3172,22 @@ Think of the economy as a large ship sailing through occasionally rough waters. 
 
 <p>The <span class="vocab-pill">money supply</span> is set by the Federal Reserve and is represented as a vertical line on our diagram — it does not depend on the interest rate (the Fed chooses a quantity). Where this vertical money-supply curve intersects the downward-sloping money-demand curve, we find the <span class="vocab-pill">equilibrium interest rate</span>. If the interest rate is above equilibrium, people want to hold less money than the Fed has supplied; they try to convert excess money into bonds, driving bond prices up and the interest rate down. If the interest rate is below equilibrium, people want to hold more money than is available; they sell bonds to get cash, driving bond prices down and the interest rate up. The adjustment continues until the interest rate reaches the equilibrium level where money demand equals money supply.</p>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="70" y1="30" x2="70" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<line x1="70" y1="250" x2="370" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<text x="35" y="145" text-anchor="middle" fill="#b5a48a" font-size="12" transform="rotate(-90,35,145)">Interest Rate</text>
+<text x="220" y="280" text-anchor="middle" fill="#b5a48a" font-size="12">Quantity of Money</text>
+<line x1="210" y1="40" x2="210" y2="240" stroke="#4ade80" stroke-width="2.5"/>
+<text x="222" y="38" fill="#4ade80" font-size="13" font-weight="bold">MS</text>
+<line x1="100" y1="60" x2="330" y2="220" stroke="#e8893c" stroke-width="2.5"/>
+<text x="340" y="225" fill="#e8893c" font-size="13" font-weight="bold">MD</text>
+<circle cx="210" cy="136" r="5" fill="#f5c842"/>
+<line x1="70" y1="136" x2="210" y2="136" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="56" y="140" text-anchor="end" fill="#f5c842" font-size="11">r*</text>
+<text x="225" y="128" fill="#f5c842" font-size="11">Equilibrium</text>
+</svg><div class="diagram-label">The Money Market: Vertical money supply (set by the Fed) and downward-sloping money demand determine the equilibrium interest rate</div></div>
+
 <div class="analogy-box">
 <strong>🔭 Think of it like this:</strong>
 Imagine a thermostat in your home. The money supply is the temperature you set on the dial — the Fed chooses it. The money demand is like the tendency of the house to lose or retain heat based on the weather. The interest rate is the actual temperature the house settles at. If you turn the dial up (increase money supply), the equilibrium "temperature" (interest rate) falls. If you turn it down, the interest rate rises. The thermostat automatically adjusts, just as the bond market automatically pushes the interest rate toward equilibrium.
@@ -3125,6 +3213,31 @@ A change in the price level causes a movement <em>along</em> the aggregate-deman
 <p>The Federal Reserve can shift the entire aggregate-demand curve by changing the money supply. This is the essence of <span class="vocab-pill">monetary policy</span>. Let us trace through the two directions.</p>
 
 <p><strong>Expansionary monetary policy:</strong> Suppose the economy is in recession — output is below its natural level and unemployment is high. The Fed decides to stimulate the economy. It increases the money supply, typically by conducting <span class="vocab-pill">open-market operations</span> — buying government bonds from the public. When the Fed buys bonds, it pays with newly created money, which flows into the banking system and expands the money supply. With more money in circulation and money demand unchanged, the equilibrium interest rate falls. Lower interest rates encourage firms to invest in new factories, equipment, and technology. Lower rates also encourage households to buy homes, cars, and other durable goods. Both investment and consumption rise, which increases the quantity of goods and services demanded at every price level. The aggregate-demand curve shifts to the right. Output rises, unemployment falls, and the economy moves toward recovery.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="70" y1="30" x2="70" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<line x1="70" y1="250" x2="370" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<text x="35" y="145" text-anchor="middle" fill="#b5a48a" font-size="12" transform="rotate(-90,35,145)">Interest Rate</text>
+<text x="220" y="280" text-anchor="middle" fill="#b5a48a" font-size="12">Quantity of Money</text>
+<line x1="180" y1="40" x2="180" y2="240" stroke="#4ade80" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="168" y="38" fill="#4ade80" font-size="12" text-anchor="end">MS1</text>
+<line x1="240" y1="40" x2="240" y2="240" stroke="#4ade80" stroke-width="2.5"/>
+<text x="252" y="38" fill="#4ade80" font-size="12">MS2</text>
+<defs><marker id="arwGLP" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#4ade80"/></marker>
+<marker id="arwRLP" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e05a5a"/></marker></defs>
+<line x1="192" y1="50" x2="228" y2="50" stroke="#4ade80" stroke-width="1.5" marker-end="url(#arwGLP)"/>
+<line x1="100" y1="55" x2="340" y2="225" stroke="#e8893c" stroke-width="2.5"/>
+<text x="348" y="230" fill="#e8893c" font-size="13" font-weight="bold">MD</text>
+<circle cx="180" cy="126" r="4" fill="#b5a48a"/>
+<line x1="70" y1="126" x2="180" y2="126" stroke="#b5a48a" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="56" y="130" text-anchor="end" fill="#b5a48a" font-size="10">r1</text>
+<circle cx="240" cy="160" r="5" fill="#f5c842"/>
+<line x1="70" y1="160" x2="240" y2="160" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="56" y="164" text-anchor="end" fill="#f5c842" font-size="11">r2</text>
+<line x1="64" y1="132" x2="64" y2="154" stroke="#e05a5a" stroke-width="1.5" marker-end="url(#arwRLP)"/>
+<text x="255" y="153" fill="#f5c842" font-size="11">New eq.</text>
+</svg><div class="diagram-label">Liquidity Preference: An increase in money supply (MS1 to MS2) lowers the equilibrium interest rate</div></div>
 
 <p><strong>Contractionary monetary policy:</strong> Now suppose the economy is overheating — output exceeds its natural level, labour markets are extremely tight, and inflation is accelerating. The Fed wants to cool things down. It decreases the money supply by selling government bonds. When the public buys these bonds, money flows out of the banking system, reducing the money supply. With less money available, the equilibrium interest rate rises. Higher interest rates discourage investment and consumption. Aggregate demand shifts to the left. Output slows, the labour market loosens, and inflationary pressures ease.</p>
 
@@ -3365,6 +3478,22 @@ Imagine a coffee shop that secretly reduces the size of its cups by 10% while ke
 <p>The Friedman-Phelps argument led directly to the <span class="vocab-pill">natural-rate hypothesis</span>: the claim that unemployment eventually returns to its normal, or "natural," rate regardless of the rate of inflation. The <span class="vocab-pill">natural rate of unemployment</span> is determined by structural features of the labour market — minimum wage laws, the power of unions, the efficiency of job search, the generosity of unemployment insurance — not by the rate of money creation or the level of aggregate demand.</p>
 
 <p>This hypothesis has a devastating implication for the original Phillips curve. If unemployment always returns to the natural rate in the long run, then there is <strong>no permanent trade-off between inflation and unemployment</strong>. The <span class="vocab-pill">long-run Phillips curve</span> is <strong>vertical</strong> at the natural rate of unemployment. In the long run, policymakers cannot buy lower unemployment by accepting higher inflation. They can only choose the rate of inflation — the unemployment rate is determined by structural forces beyond the reach of monetary policy.</p>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="70" y1="30" x2="70" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<line x1="70" y1="250" x2="370" y2="250" stroke="#5a4a38" stroke-width="2"/>
+<text x="35" y="145" text-anchor="middle" fill="#b5a48a" font-size="12" transform="rotate(-90,35,145)">Inflation Rate</text>
+<text x="220" y="280" text-anchor="middle" fill="#b5a48a" font-size="12">Unemployment Rate</text>
+<line x1="200" y1="40" x2="200" y2="240" stroke="#f5c842" stroke-width="2.5" stroke-dasharray="8,5"/>
+<text x="212" y="38" fill="#f5c842" font-size="12" font-weight="bold">LRPC</text>
+<path d="M 110 70 Q 180 130 340 210" fill="none" stroke="#e8893c" stroke-width="2.5"/>
+<text x="348" y="215" fill="#e8893c" font-size="12" font-weight="bold">SRPC</text>
+<text x="200" y="265" text-anchor="middle" fill="#f5c842" font-size="11">Natural rate</text>
+<circle cx="200" cy="140" r="5" fill="#f5c842"/>
+<line x1="70" y1="140" x2="200" y2="140" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="56" y="144" text-anchor="end" fill="#b5a48a" font-size="10">pi*</text>
+</svg><div class="diagram-label">The Phillips Curve: Short-run trade-off (SRPC) vs. vertical long-run Phillips curve (LRPC) at the natural rate of unemployment</div></div>
 
 <div class="key-point">
 <span class="kp-icon">💡</span>
@@ -3753,6 +3882,36 @@ L["A Macroeconomic Theory of the Open Economy"] = `<div class="lesson-body">
 
 <div class="key-point"><span class="kp-icon">💡</span><span>In the foreign-currency exchange market, the supply of dollars comes from NCO (vertical line, determined in the loanable funds market) and the demand for dollars comes from NX (downward-sloping with the real exchange rate). Their intersection determines the equilibrium real exchange rate.</span></div>
 
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="200" y1="15" x2="200" y2="285" stroke="#3d3428" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="100" y="20" text-anchor="middle" fill="#b5a48a" font-size="11" font-weight="bold">Loanable Funds Market</text>
+<line x1="40" y1="35" x2="40" y2="235" stroke="#5a4a38" stroke-width="1.5"/>
+<line x1="40" y1="235" x2="190" y2="235" stroke="#5a4a38" stroke-width="1.5"/>
+<text x="18" y="138" text-anchor="middle" fill="#b5a48a" font-size="9" transform="rotate(-90,18,138)">Real Interest Rate</text>
+<text x="115" y="255" text-anchor="middle" fill="#b5a48a" font-size="9">Loanable Funds</text>
+<line x1="55" y1="210" x2="175" y2="55" stroke="#4ade80" stroke-width="2"/>
+<text x="180" y="50" fill="#4ade80" font-size="11" font-weight="bold">S</text>
+<line x1="55" y1="55" x2="175" y2="210" stroke="#e8893c" stroke-width="2"/>
+<text x="178" y="218" fill="#e8893c" font-size="10">I+NCO</text>
+<circle cx="115" cy="133" r="4" fill="#f5c842"/>
+<line x1="40" y1="133" x2="115" y2="133" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="32" y="136" text-anchor="end" fill="#f5c842" font-size="9">r*</text>
+<text x="305" y="20" text-anchor="middle" fill="#b5a48a" font-size="11" font-weight="bold">Foreign Exchange Market</text>
+<line x1="230" y1="35" x2="230" y2="235" stroke="#5a4a38" stroke-width="1.5"/>
+<line x1="230" y1="235" x2="385" y2="235" stroke="#5a4a38" stroke-width="1.5"/>
+<text x="216" y="138" text-anchor="middle" fill="#b5a48a" font-size="9" transform="rotate(-90,216,138)">Real Exchange Rate</text>
+<text x="308" y="255" text-anchor="middle" fill="#b5a48a" font-size="9">Quantity of Dollars</text>
+<line x1="310" y1="45" x2="310" y2="225" stroke="#4ade80" stroke-width="2"/>
+<text x="318" y="42" fill="#4ade80" font-size="11" font-weight="bold">NCO</text>
+<line x1="245" y1="55" x2="375" y2="210" stroke="#e8893c" stroke-width="2"/>
+<text x="378" y="218" fill="#e8893c" font-size="11" font-weight="bold">NX</text>
+<circle cx="310" cy="133" r="4" fill="#f5c842"/>
+<line x1="230" y1="133" x2="310" y2="133" stroke="#f5c842" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="222" y="136" text-anchor="end" fill="#f5c842" font-size="9">e*</text>
+<text x="200" y="275" text-anchor="middle" fill="#b5a48a" font-size="9">NCO links both markets</text>
+</svg><div class="diagram-label">Twin Markets of the Open Economy: Loanable funds (left) determines r*, which sets NCO supply in the foreign exchange market (right)</div></div>
+
 <div class="warning-box"><strong>⚠️ Common Confusion:</strong> Students often wonder why the supply curve in the foreign exchange market is vertical. The reason is that NCO depends on the real interest rate, which is already determined in the loanable funds market. By the time we analyze the exchange market, NCO is a fixed number. The exchange rate adjusts to make NX equal to that fixed NCO, not the other way around.</div>
 
 <hr class="section-divider">
@@ -3964,6 +4123,27 @@ L["Aggregate Demand and Aggregate Supply"] = `<div class="lesson-body">
 <p>All three theories share a common mathematical expression: output deviates from the natural rate when the actual price level deviates from the expected price level. When prices are higher than expected, output exceeds the natural rate. When prices are lower than expected, output falls below it. As expectations adjust over time, the economy returns to the natural rate—the short run becomes the long run.</p>
 
 <div class="key-point"><span class="kp-icon">💡</span><span>The SRAS curve slopes upward because of sticky wages, sticky prices, or misperceptions. In all three theories, the key mechanism is the same: when the actual price level exceeds what was expected, output rises above the natural rate. When the actual price level falls below expectations, output drops below the natural rate.</span></div>
+
+<div class="diagram-wrap"><svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1e1a12"/>
+<line x1="70" y1="30" x2="70" y2="260" stroke="#5a4a38" stroke-width="2"/>
+<line x1="70" y1="260" x2="380" y2="260" stroke="#5a4a38" stroke-width="2"/>
+<text x="35" y="150" text-anchor="middle" fill="#b5a48a" font-size="12" transform="rotate(-90,35,150)">Price Level</text>
+<text x="225" y="290" text-anchor="middle" fill="#b5a48a" font-size="12">Real GDP</text>
+<line x1="230" y1="35" x2="230" y2="250" stroke="#f5c842" stroke-width="2.5" stroke-dasharray="8,5"/>
+<text x="242" y="33" fill="#f5c842" font-size="13" font-weight="bold">LRAS</text>
+<path d="M 100 220 Q 200 160 340 60" fill="none" stroke="#4ade80" stroke-width="2.5"/>
+<text x="348" y="55" fill="#4ade80" font-size="13" font-weight="bold">SRAS</text>
+<path d="M 100 60 Q 200 160 340 220" fill="none" stroke="#e8893c" stroke-width="2.5"/>
+<text x="348" y="225" fill="#e8893c" font-size="13" font-weight="bold">AD</text>
+<circle cx="230" cy="140" r="6" fill="#f5c842"/>
+<line x1="70" y1="140" x2="230" y2="140" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<line x1="230" y1="140" x2="230" y2="260" stroke="#f5c842" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="56" y="144" text-anchor="end" fill="#f5c842" font-size="11">P*</text>
+<text x="230" y="275" text-anchor="middle" fill="#f5c842" font-size="11">Y*</text>
+<text x="252" y="133" fill="#f5c842" font-size="11">Long-run eq.</text>
+<text x="230" y="25" text-anchor="middle" fill="#b5a48a" font-size="9">Natural rate of output</text>
+</svg><div class="diagram-label">The AD-AS Model: Aggregate Demand (AD), Short-Run Aggregate Supply (SRAS), and Long-Run Aggregate Supply (LRAS) in equilibrium</div></div>
 
 <h3>What Shifts the Short-Run Aggregate-Supply Curve</h3>
 
